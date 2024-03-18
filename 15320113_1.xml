@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                    <teiHeader>
+                                        <fileDesc>
+                                                  <titleStmt>
+                                                  <title type="num">205</title>
+                                                  <title key="body" n="205" type="main">Miklós Oláh
+                                                  to Paulus Brabantius (Brussels, 13 January
+                                                  1532)</title>
+                                                  </titleStmt>
+                                                  <editionStmt>
+                                                  <edition>Digital critical edition</edition>
+                                                  <respStmt>
+                                                  <resp>editor</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  <idno type="ORCID">0000-0001-9504-5188</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>editor in chief</resp>
+                                                  <persName>
+                                                  <surname>Palkó</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q245084</idno>
+                                                  <idno type="ORCID">0000-0002-4394-8577</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>arranged for publication</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  <idno type="ORCID">0000-0001-9504-5188</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>TEI-specification</resp>
+                                                  <persName>
+                                                  <surname>Fellegi</surname>
+                                                  <forename>Zsófia</forename>
+                                                  <idno type="ITIdata">Q349971</idno>
+                                                  <idno type="ORCID">0000-0001-9199-1759</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>creator</resp>
+                                                  <orgName>DigiPhil <ref type="url"
+                                                  >http://digiphil.hu</ref></orgName>
+                                                  </respStmt>
+                                                  </editionStmt>
+                                                  <publicationStmt>
+                                                  <publisher>
+                                                  <orgName>HUN-REN Bölcsészettudományi
+                                                  Kutatóközpont, Irodalomtudományi Intézet <idno
+                                                  type="ITIdata">Q2256</idno></orgName>
+                                                  <ref type="url">https://iti.abtk.hu</ref>
+                                                  </publisher>
+                                                  <pubPlace>Budapest<idno type="ITIdata"
+                                                  >Q93</idno></pubPlace>
+                                                  <date when="2024">2024</date>
+                                                  <availability>
+                                                  <p>CC BY-NC-ND 4.0 DEED:
+                                                  Attribution-NonCommercial-NoDerivs 4.0
+                                                  International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                                  </availability>
+                                                  <idno type="PID">olahus.tei.15320113_1</idno>
+                                                  <idno type="ITIdata">Q472777</idno>
+                                                  <ref
+                                                  target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320113_1.xml"
+                                                  >The TEI XML transcript of the letter in the
+                                                  DigiPhil GitHub repository.</ref>
+                                                  </publicationStmt>
+                                                  <seriesStmt>
+                                                  <title level="s">Bibliotheca Scriptorum Medii
+                                                  Recentisque Aevorum: Series nova</title>
+                                                  <respStmt>
+                                                  <resp>series editor</resp>
+                                                  <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Szörényi</surname>
+                                                  <forename>László</forename>
+                                                  <idno type="ITIdata">Q49630</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <biblScope unit="volume">XIX/I.</biblScope>
+                                                  <idno type="ISSN">0133-6711</idno>
+                                                  <idno type="ITIdata">Q469925</idno>
+                                                  </seriesStmt>
+                                                  <notesStmt>
+                                                  <note type="critIntro">
+                                                  <p><hi rend="italic">Notes:</hi> Copy.</p>
+                                                  </note>
+                                                  <note type="publication"><hi rend="smallcap"
+                                                  >Ipolyi</hi> 1875, 190–191.</note>
+                                                  <note type="translation">
+                                                  <p><hi rend="italic">In Romanian:</hi><hi
+                                                  rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                                                  1160–1163.</p>
+                                                  </note>
+                                                  </notesStmt>
+                                                  <sourceDesc>
+                                                  <msDesc>
+                                                  <msIdentifier>
+                                                  <country>Hungary</country>
+                                                  <settlement>Budapest</settlement>
+                                                  <institution>MNL OL</institution>
+                                                  <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                  <idno/>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <msPart style="letter">
+                                                  <msIdentifier/>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >171–172.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                  </physDesc>
+                                                  </msPart>
+                                                  </msDesc>
+                                                  <bibl>
+                                                  <title level="m">Nicolaus Olahus: Epistulae. Pars
+                                                  I. 1523–1533</title>
+                                                  <idno type="ISBN">978-615-5478-62-8</idno>
+                                                  <idno type="url"
+                                                  >https://www.reciti.hu/2019/4989</idno>
+                                                  <publisher>
+                                                  <orgName>reciti</orgName>
+                                                  <ref type="url">https://www.reciti.hu/</ref>
+                                                  </publisher>
+                                                  <pubPlace>Budapest<idno type="ITIdata"
+                                                  >Q93</idno></pubPlace>
+                                                  <respStmt>
+                                                  <resp>editor</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>lector</resp>
+                                                  <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>lector of the english translation</resp>
+                                                  <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <date when="2018">2018</date>
+                                                  <biblScope unit="entry">205</biblScope>
+                                                  <biblScope unit="page">278–279.</biblScope>
+                                                  <ref
+                                                  target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                  type="url">The TEI XML trancripts of the edition
+                                                  in the DigiPhil GitHub repository.</ref>
+                                                  <idno type="DOI"
+                                                  >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                  type="ITIdata">Q469927</idno>
+                                                  </bibl>
+                                                  </sourceDesc>
+                                        </fileDesc>
+                                        <profileDesc>
+                                                  <langUsage>
+                                                  <language ident="la">latin</language>
+                                                  </langUsage>
+                                                  <textClass>
+                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                                  <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                                  </keywords>
+                                                  </textClass>
+                                                  <creation>
+                                                  <placeName>Brussels<idno type="ITIdata"
+                                                  >Q361</idno></placeName>
+                                                  <date when="1532-01-13">13 January 1532</date>
+                                                  </creation>
+                                                  <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName>Miklós Oláh<idno type="ITIdata"
+                                                  >Q244878</idno></persName>
+                                                  </correspAction>
+                                                  <correspAction type="recieved">
+                                                  <persName>Paulus Brabantius</persName>
+                                                  </correspAction>
+                                                  </correspDesc>
+                                        </profileDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                  <div xml:id="d.1">
+                                                  <head type="title">Miklós Oláh to Paulus
+                                                  Brabantius (Brussels, 13 January 1532)</head>
+                                                  <floatingText type="regesta">
+                                                  <body>
+                                                  <p xml:id="reg.p.1"> 1. Oláh has always known what
+                                                  benevolence Paulus has had towards him. Oláh can
+                                                  hardly talk about the situation in Hungary, it is
+                                                  so miserable. The main cause of the confusion is
+                                                  that they do not have a leader who will make sure
+                                                  to protect them; it would have been enough to
+                                                  elect one king instead of two, which has only led
+                                                  to dissent. Discord will bring down even a great
+                                                  state, agreement will make even a small state
+                                                  great. 2. He does not know what to write, whom to
+                                                  trust, where to flee. God must have sent this
+                                                  punishment because of their sins, but it looks to
+                                                  him as though they are not only not being cleansed
+                                                  through them, they are even becoming worse.</p>
+                                                  </body>
+                                                  </floatingText>
+                                                  <pb facs="15320113_1_1.jpg"/>
+                                                  <p xml:id="p.1">Ad Paulum Brabantium.<note
+                                                  type="critic" xml:id="note.1">We do not know him
+                                                  more closely.</note></p>
+                                                  <p xml:id="p.2">[1.] Acceptis litteris tuis, licet
+                                                  neque antea quicquam de tuo in me animo benevolo
+                                                  dubitabam, quippe mihi multos iam annos satis
+                                                  perspecto; tamen visus sum rursus in eam incidere
+                                                  cogitationem, ut te mei etiam absentis esse
+                                                  memorem certo intelligerem, et dum usus mihi esset
+                                                  te me eodem, quo prius semper prosecuturum amore
+                                                  et benivolentia. Res nostra communis Hungarica,
+                                                  patriae periculum et direptio rerum, bonorumque
+                                                  eorum, qui partem regis sequuntur, quam mihi
+                                                  acerba sit, vix explicare possum. Nam quantum ea
+                                                  res afferat rei publicae nostrae damni et
+                                                  incommodi, neminem esse puto, qui nesciat. Omnis
+                                                  rerum turbatio ex eo pendere videtur, quod
+                                                  principem nobis deesse video, cui nostra salus et
+                                                  defensio curae esset, propterea devenimus in
+                                                  praesentem hanc calamitatem, quia defuit nostrae
+                                                  salutis propugnator. Nostra iustitia coargui ex
+                                                  hoc potuit, quod in initio rerum nostrarum non
+                                                  satis consulte rebus nostris providimus, satius
+                                                  erat nos unum regem delegisse, et illius paruisse
+                                                  voluntati, quam divisos fuisse, ut in hanc
+                                                  deveniremus calamitatem, verificataque est in
+                                                  malis ea sententia, qua scivimus rempublicam
+                                                  discordia dilabi magnam, concordia vero parvam
+                                                  augeri et locupletari. </p>
+                                                  <p xml:id="p.3">[2.] Quid tibi scripturus sim,
+                                                  nescio, vereor, ne magnum aliquod, ni Deus rebus
+                                                  nostris mature providerit, passuri simus
+                                                  detrimentum. Nam statu nostro praesenti durante
+                                                  vix nos et regnum nostrum diutius stare posse
+                                                  spero, ita sunt omnia non modo plena periculis,
+                                                  sed et labefactata et immutata. Quam igitur </p>
+                                                  <pb facs="15320113_1_2.jpg"/>
+                                                  <p xml:id="p.4">simus spem habituri rebus hoc modo
+                                                  durantibus, nescio, quandoquidem non est, quo nos
+                                                  vertamus, cuiusque praesidium his rebus nostris
+                                                  adversis imploremus, nec qui nos defendat et cuius
+                                                  authoritate salvi esse possemus. Deus hanc
+                                                  punitionem merito propter scelera nostra immisit,
+                                                  ut acceptis aliquibus peccatorum nostrorum poenis
+                                                  meliores reddamur, sed video nihil nobis profuisse
+                                                  neque meliores nos divina factos austeritate, sed
+                                                  potius in interitum nostrum indies deteriores
+                                                  sumus, ob quam rem divina nobis imploranda est
+                                                  clementia, ut gratia sua nos illustret, quo
+                                                  poenitentiam reatuum nostrorum agentes vitam
+                                                  nostram perversam renovemus, et ipsius afflati
+                                                  gratia in meliorem frugem transmutemus. Ita fiet,
+                                                  ut vitam nostram emendantes res nostrae meliores
+                                                  sint futurae, regnique nostramque pacem simus
+                                                  habituri. Si quid esset novi, facerem te de eo
+                                                  certiorem, sed scribendo longior esse non possum.
+                                                  Bene vale et me, ut soles, ama. </p>
+                                                  <p xml:id="p.5"><placeName>Bruxellae</placeName>
+                                                  XIII. Ianuarii MDXXXII. </p>
+                                                  </div>
+                                        </body>
+                    </text>
+</TEI>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">157</title>
+                                <title key="body" n="157" type="main">Miklós Oláh to King Ferdinand
+                                        I (Brussels, 2 July 1531)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15310702_1</idno>
+                                <idno type="ITIdata">Q472729</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15310702_1.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy with Oláh’s
+                                                emendations.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        136–139.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >146–149.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">157</biblScope>
+                                        <biblScope unit="page">219–222.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                                <date when="1531-07-02">2 July 1531</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>King Ferdinand I<idno type="ITIdata"
+                                                  >Q254221</idno></persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Miklós Oláh to King Ferdinand I (Brussels, 2 July
+                                        1531)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1"> 1. Even if it seems as though
+                                                  he has done something recklessly, it is not the
+                                                  case. Who is not aware of King Ferdinand I’s
+                                                  merits, virtues, and sense of justice? 2. His
+                                                  brother, the Emperor would not be able to organize
+                                                  the fight against the Turks without his help: he
+                                                  has taken the task assigned to him seriously, and
+                                                  he is doing everything to protect Christianity.
+                                                  The Emperor has gathered the Prince-electors and
+                                                  made Ferdinand King of Italy, so that he can take
+                                                  even stronger action against the enemy with this
+                                                  name. 3. It is rumored that everything happened
+                                                  differently than they had thought. I.e. Hieronymus
+                                                  Łaski, whether at King John I’s request or on his
+                                                  own, has succeeded in arranging that they pay an
+                                                  annual tax to the Turks. Then it seemed that all
+                                                  chance was gone for them to be able to do
+                                                  something for Christianity. But this is all the
+                                                  more reason for them not to give up hope, and
+                                                  during times of peace he should figure what to do
+                                                  in times of war. 4. There is nothing else he
+                                                  should warn Ferdinand of, only that he should not
+                                                  consider some affairs back home as important as he
+                                                  did the other day. Among his subjects, the
+                                                  Hungarians, the Czech and the Austrians,
+                                                  unfairness is so great that if anything goes
+                                                  wrong, they blame each other. Thus, he should stay
+                                                  strong, and everything will come to his aid.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15310702_1_1.jpg"/>
+                                <p xml:id="p.1">Ad Ferdinandum regem Romanorum, Hungariae etc.</p>
+                                <p xml:id="p.2">[1.] Non sum nescius, quantum is conatus meus, Rex
+                                        Inclitissime, a multis reprehendi possit, et quod ex officio
+                                        me facere oportuit, id ex temeritate susceptum esse multi
+                                                <del corresp="Olahus">reprehendant</del><add
+                                                corresp="Olahus" type="corr">dicant</add>. Tamen
+                                        temeritatis notam qualemcumque malui <del corresp="Olahus"
+                                                >sentire</del><add corresp="Olahus" type="corr"
+                                                >subire</add>, quam non officio meo, quod tibi a
+                                        multis iam annis debeo, aliqua ex parte satisfacere,
+                                        praesertim cum non dubitem eam </p>
+                                <pb facs="15310702_1_2.jpg"/>
+                                <p xml:id="p.3">esse Serenitatis Tuae in me clementiam, ut quicquid
+                                        pro mea in eam observantia his meis litteris sim mandaturus,
+                                        boni aequique consulas. Tuas animi dotes, virtutes,
+                                        aequitatem, magnitudinem principi excellenti dignam quis
+                                        ignorat? Aut quae esse potest in orbe natio, ad <choice>
+                                                <orig>quas</orig>
+                                                <supplied>quam</supplied>
+                                        </choice> virtutis, gloriae ac nominis tui fama non
+                                        pervernerit? <del corresp="Olahus">Neminem</del><add
+                                                corresp="Olahus" type="corr">Nullum</add> certe
+                                        arbitror non modo propinquum nobis populum, sed etiam
+                                        remotissimum, qui non audierit, qua virtute, animi
+                                        constantia, fortitudine et alacritate contra hostes fidei
+                                        semper decertaveris, et dum etiam certandi tempus non fuit,
+                                        quibus curis et cogitationibus semper molitus sis, ut
+                                        occasione sese offerente possis hostibus fidei et maxime
+                                        tuis, qui provinciae tuae fines dies et noctes incursant,
+                                        quam praeclarissime et strenuissime resistere. Ad hoc, Rex
+                                        Serenissime, tuas animi vires semper tetendisti, ne quid
+                                        temporis praetermitteres ad rem bene gerendam apti et
+                                        convenientis, sed ut aliquis ad luctam strenuissimam natus,
+                                        continuo quantum in te est, tuis hostibus tete opponeres.
+                                        Maxime autem his temporibus superioribus id ex animo
+                                        tentasti.</p>
+                                <p xml:id="p.4">[2.] Nam cum <persName>caesar Carolus</persName>
+                                        inclitus frater tuus germanus in Germania superiore aestatem
+                                        praeteritam exegisset, et rebus fidei aliquorum malignitate
+                                        infectis, id saltem in imperio post multas curas et labores
+                                                <del corresp="Olahus">effecisset</del><add
+                                                corresp="Olahus" type="corr">perfecisset</add>, ut
+                                        quisque contra Turcas animo forti et constanti conflueret,
+                                        viresque ac facultates suas impartiretur. Ac nonnihil
+                                        imperii ac authoritatis tibi uni caesar tribueret ad bellum
+                                        hoc Turcicum peragendum. Tu paratissimo animo hoc negotii
+                                        quantumcumque gravis et propter hostis potentiam
+                                        difficillimi acceptasti, et iam tunc primum decreveras omnia
+                                        tua, quaecumque haberes, pro religione Christiana tuenda ad
+                                        hanc insumere expeditionem Turcicam. Et non modo tuas omnes
+                                        facultates, sed etiam si ita casus ferret, vitam tuam esses
+                                        in ea expositurus. Cum igitur hoc animo esses, caesar ut te
+                                        magis sufficientem et idoneum faceret ad id tantumque
+                                        negotii obeundum, non putavit esse indecorum liberis suis,
+                                        quos ex se genuerat imperii sui non minimam partem adimere,
+                                                <del corresp="Olahus">et</del><add corresp="Olahus"
+                                                type="corr">ut</add> te ea dignitate ornaret.
+                                        Convocatis itaque electoribus principibus te in regem
+                                        Romanorum creavit, ut eo esses contra hostes firmior,
+                                        auctior et instructior, </p>
+                                <pb facs="15310702_1_3.jpg"/>
+                                <p xml:id="p.5">quo maiore imperio fulcireris et maior tibi
+                                        dignitas, authoritas et nomen accessisset. Cum ergo in ea
+                                        omnes boni essent spe, ut inter omnes alios Christianos
+                                        principes tu esses unicus, qui hostibus obviare, vires <add
+                                                corresp="Olahus" type="insert">eorum</add> obtundere
+                                        et fugare et auderes et posses.</p>
+                                <p xml:id="p.6">[3.] Venit huc ad nos fama rem aliter, ut omnes
+                                        opinabamur, cecidisse. Ita res humanae sunt inconstantes,
+                                        leves et mutabiles. Nam allatum est <persName>Hieronimum a
+                                                Lasko</persName><note type="critic" xml:id="note.1"
+                                                >Hieronymus Łaski.</note>, qui nuntium
+                                                <persName>Ioannis regis</persName><note
+                                                type="critic" xml:id="note.2">It is very unusual
+                                                that Oláh calles Szapolyai king.</note> rebus inter
+                                        vos tumultuantibus aliquoties apud Turcarum imperatorem
+                                        egit, sive commissione ipsius Ioannis, sive sponte sua apud
+                                        Turcam effecisse, ut liceret inter vos annuas esse inducias,
+                                        ea lege, ut intra annum hoc tempus posset etiam de pace
+                                        futura eaque perpetua inter vos tractari, huic autem rei te
+                                                <del corresp="Olahus">confecisse</del><add
+                                                corresp="Olahus" type="corr"
+                                        >consensisse</add><!--O(?)-->. Id cum certo acceperimus,
+                                        visa est omnis tua voluntas, omnis conatus rei adversus
+                                        Turcas hoc anno gerendae nunc interclusus esse, et haec quae
+                                        nunc est occasio pro religione Christiana aliquid agendi,
+                                        omnino sublata. Quae licet tibi nunc erepta sit factis
+                                        annuis induciis, non tamen hac re credendum est te omnino
+                                        animum abiecisse ab aliqua expeditione in posterum contra
+                                        Turcas praeclare facienda. Erit adhuc ex Dei benignitate
+                                        tempus, quo tuum pristinum tam sanctissimum propositum
+                                        perficere aliquando possis. Quis sit, an Deus optimus
+                                        maximus, cui curae sunt res populi sui, hanc ipsam
+                                        expeditionem ad tempus magis conveniens et opportunum
+                                        prorogare voluerit, ut interea maioribus viribus Christiani
+                                        sese munire, et hostibus obviam ire te duce possent. Non est
+                                        igitur, cur te huius tui facti, vel ex necessitate, vel
+                                        quamcumque aliam ob rem suscepti maxime poeniteat. Quod nunc
+                                        prorogatum est, tempore adveniente maiore cum laude confici
+                                        poterit. Id unum tamen in animo tuo res Christianas curae
+                                        habenti diligentius semper revolvito pacis tempore
+                                        cogitandum esse, quid postea bello interveniente praestare
+                                        possis. Ea si cogitatio animum tuum insederit, et iacula
+                                        venientia praevideris, minus tibi verendum erit, quin tibi
+                                        ea obfutura sint, et adversa quaeque tempora tibi rebusque
+                                        tuis nocitura. </p>
+                                <p xml:id="p.7">[4.] Non est autem, Princeps Serenissime, cur ego te
+                                        huius rei admoneam, satis dies noctesque cogitantem de his,
+                                        quae contra hostem nostrum communem repellendum pertineant,
+                                        tuapte natura, ingenio, industria et cogitatione tua facis,
+                                        quantum ego a secretis tuis hactenus tuos mores cognovi,
+                                        quae ad reipublicae Christianae defensionem, nominis tui
+                                        gloriam pertinere videntur, hoc unum saltem me ex ea, quam
+                                        tibi debeo, integritate ac fide monente, admitte rogo, ne
+                                        tantum tuis tribuas nonnullis </p>
+                                <pb facs="15310702_1_4.jpg"/>
+                                <p xml:id="p.8">domesticis, quantum hactenus tribuisti. Hi enim
+                                        occasionem, mihi crede, praestitere, ut subditi tui, quibus
+                                        praees et Bohemi et Hungari tuae voluntati tam saepe non
+                                        accederent et facerent, quod ab eis contenderes. Tanta est
+                                        illorum apud eos indignitas, ut omnia quaecumque in hanc
+                                        horam sunt in tuo imperio sive Hungarico, sive Bohemico,
+                                        sive Austriaco malefacta, illis tribuant, illos in omnibus
+                                        reprehendant, tuaque omnia, quae hactenus tibi contingerunt
+                                        adversa, illorum malis consiliis adscribant et dicant aperte
+                                        omnibus audientibus tuam licet naturam, Rex Inclite,
+                                        prudentiam, iustitiam et alias animi virtutes omnibus
+                                        regibus, qui nostrae sunt tempestate, nunc <choice>
+                                                <orig>perferendas</orig>
+                                                <supplied>praeferendas</supplied>
+                                        </choice> esse, tamen pace tua dictum sit, Rex Optime, ita
+                                        te illaqueatum esse et constrictum illorum persuasionibus,
+                                        ut non sit liberum te ea, quae velis quaeque honesta sunt,
+                                        et quae ad utilitatem tuam et regnorum tuorum ac reipublicae
+                                        Christianae pertineant, sequi, praestare et facere. </p>
+                                <p xml:id="p.9">Quare, Princeps Potentissime, si consideraris, quam
+                                        necessarium et in rempublicam Christianam sit contra hostes
+                                        fidei, Christo iuvante aliquid praeclari agere, quamque nunc
+                                        huic rei agendae sit bona occasio, hancque materiam querendi
+                                        tuis subditis ademeris, et eorum verbis, persuasionibus,
+                                        adulationique, qui bonis omnibus sunt exosi, posthac aures
+                                        occluseris, proculdubio rebus tuis non parum commodabis, et
+                                        facies, ut quique boni te ad caelum usque efferant, ac rebus
+                                        tuis, quas habiturus es contra Turcas hostes fidei, non modo
+                                        faveant, sed etiam et facultates tuas omnes, et quod maius
+                                        est, vitam denique suam paratissimo animo praestent
+                                        praebeantque. Vale et mea obsequia fidelia habe commendata. </p>
+                                <p xml:id="p.10">Ex <placeName>Bruxellis</placeName> II. Iulii 1531.
+                                </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

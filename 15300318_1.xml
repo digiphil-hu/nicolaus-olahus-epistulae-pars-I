@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">65</title>
+                <title key="body" n="65" type="main">Miklós Oláh to László Macedóniai (Linz, 18
+                    March 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15300318_1</idno>
+                <idno type="ITIdata">Q472637</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15300318_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 59–60.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">51–52.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">65</biblScope>
+                    <biblScope unit="page">128–129.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Linz<idno type="ITIdata">Q22537</idno></placeName>
+                <date when="1530-03-18">18 March 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>László Macedóniai<idno type="ITIdata">Q156127</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to László Macedóniai (Linz, 18 March 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> At last he has learned that Macedóniai went to the King
+                            to deal with his own and László Ország’s affairs; before he had not even
+                            known where he was and was surprised that he had forgotten about his
+                            friends. Now he can repair things if he will write what is happening in
+                            Prague.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15300318_1_1.jpg"/>
+                <p xml:id="p.1">Ad eundem.</p>
+                <p xml:id="p.2">Dum meas proximas ad te misissem, nuntiatum mihi est te ad
+                        regem<note type="critic" xml:id="note.1">Because King Ferdinand I was in
+                        Prague, see below.</note> esse profectum, tum in tuis, tum in
+                        <persName>Ladislai Orzagh</persName><note type="critic" xml:id="note.2"
+                        >László Országh of Gúth (†1544), later Master Seneschal <hi rend="italic"
+                            >(magister dapiferorum)</hi> between 1534–1542, and <hi rend="italic"
+                            >ispán</hi> of Heves county between 1536–1544.</note> negotiis. Placuit
+                    mihi tua profectio, qui iamdudum sine utilitate et tua et amicorum nescio quibus
+                    in latebris delitueris. Miror tamen te adeo factum esse <del corresp="Olahus"
+                        >taciturum</del><add corresp="Olahus" type="corr">taciturnum</add>, ut
+                    amicos tuos <add corresp="Olahus" type="insert">litteris</add> non modo non
+                    invisere, sed ne consolari plenus iam tu in aula rerum novarum digneris. </p>
+                <pb facs="15300318_1_2.jpg"/>
+                <p xml:id="p.3">Arbitrabar te veteris tuae naturae esse oblitum, qua saepius <del
+                        corresp="Olahus">amicis videbaris negligenter</del><add corresp="Olahus"
+                        type="corr">in amicos videbaris negligens</add> esse, sed nunc video te non
+                    modo illius non esse immemorem, sed <quote xml:id="quote.1">eam in te radices
+                        fixisse, quam nisi violenter, exstirpare minime possis</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Iohannes Tröster <hi rend="italic"
+                            >Dialogus de remedio amoris:</hi> „an ut accusabile malum ita etiam
+                        evitabile eradicabileque sit, si et fixum sedet, vel optabile, honestum,
+                        bonum amorem dicam”, see <hi rend="smallcap">Rupprich</hi> 1938,
+                    182.</note>.</p>
+                <p xml:id="p.4">Sed fac, vim quandam tibi adhibe, <quote xml:id="quote.2">invita
+                        etiam Minerva</quote><note type="quote" xml:id="note.quote.2">Cic. <hi
+                            rend="italic">Off.</hi> I,31,110; Hor. <hi rend="italic">Ars p.</hi>
+                        385. Eras. <hi rend="italic">Adag.</hi> I,I,42: “invita Miverva”, see <hi
+                            rend="smallcap">Mynors</hi> 1982, 91.</note> tuis amicis cura
+                    satisfacere et scribe aliquando, ne te negligentiae omnes quotquot summus
+                    arguere possimus. Nunc occasionem habes scribendi, de rebus praesertim his, quae
+                        <placeName>Pragae</placeName> vel tractantur, vel iam actae sunt. Ex quibus
+                    omnis nostra spes pendet, et liberationis nostrae ab exilio constans fiducia.
+                    Quare sis amicorum tuorum non immemor, et praebe te talem, qualem amici te
+                    existimant. Vale et commenda me et fidelia mea servitia regi.</p>
+                <p xml:id="p.5">Ex <placeName>Lincio</placeName> 18. Martii 1530.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

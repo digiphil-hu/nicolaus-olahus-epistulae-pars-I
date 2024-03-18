@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">173</title>
+                <title key="body" n="173" type="main">Caspar Ursinus Velius to Miklós Oláh
+                    (Stuttgart, 10 September 1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15310910_1</idno>
+                <idno type="ITIdata">Q472745</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15310910_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy, probably with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 152.</note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15311226_2" type="url">194</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">180.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">173</biblScope>
+                    <biblScope unit="page">235.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Stuttgart<idno type="ITIdata">Q11778</idno></placeName>
+                <date when="1531-09-10">10 September 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Caspar Ursinus Velius<idno type="ITIdata">Q470227</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Caspar Ursinus Velius to Miklós Oláh (Stuttgart, 10 September
+                    1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">He believes his portrait is with Oláh, he would thank
+                            him, if he could send it to Speyer. He has spent six months in Vienna,
+                            where he finished the fourth book of his historical work, as well as
+                            another piece about the death of King Louis II. He has also composed two
+                            poems: one about Hungary’s lament, and one travel poem. He is on good
+                            terms with Újlaki, they sometimes gossip with each other, even about
+                            Oláh, and about books as well.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15310910_1_1.jpg"/>
+                <p xml:id="p.1">Caspar Ursinus Velius Nicolao Olao thesaurario Albensi secretario
+                    reginae Mariae.</p>
+                <p xml:id="p.2">Εἰκόνα<note type="critic" xml:id="note.1">Effigy or portrait.</note>
+                    sive effigiem meam adhuc apud te esse arbitror. Proinde mihi pergratum feceris,
+                    si primo quoque tempore miseris <placeName>Spiram</placeName><note type="critic"
+                        xml:id="note.2">Speyer.</note>. Nos fruimur induciis annuis, quas tamen
+                    adversarii non admodum sancte observant. Ego <placeName>Viennae</placeName>
+                    totos sex menses fui, illic et quartum historiae librum<note type="critic"
+                        xml:id="note.3"><hi rend="italic">De bello Pannonico libri decem.</hi>
+                        Edition and Hungarian translation: <hi rend="smallcap">Kollar</hi> 1762, and
+                            <hi rend="smallcap">Szebelédi</hi> 2013. According to Szebelédi, Ursinus
+                        wrote this book between 1531–1537, see <hi rend="smallcap">Szebelédi</hi>
+                        2015, 197.</note> absolvi, et libellum confeci de interitu Ludovici regis et
+                    clade Hungariae.<note type="critic" xml:id="note.4"><hi rend="italic">De
+                            interitu Ludovici regis et clade Hungariae</hi> was dormant until Spring
+                        2018, when Péter Kasza discovered its manuscript. See <hi rend="smallcap"
+                            >Kasza</hi> 2018.</note> Praeterea versu elegiaco composui <hi
+                        rend="italic">Querelam <del corresp="Olahus?">Austriam</del><add
+                            corresp="Olahus?" type="corr">Austriae</add> ad reliquam
+                        Germaniam</hi>,<note type="critic" xml:id="note.5"><hi rend="italic">Querela
+                            Austriae sive epistola ad reliquam Germaniam</hi> C. Vrsino Velio R. H.
+                        Authore, Augsburg, MDXXXI.</note> in qua utriusque
+                        <placeName>Pannoniae</placeName> laus in primis enitescit. Simulatque
+                        <placeName>Spiram</placeName> ventum fuerit, typographis excudendam mature
+                    tradam una cum <hi rend="italic">Epistola itineraria</hi>,<note type="critic"
+                        xml:id="note.6">Velius addressed his Hodoeporicon to Dantyszek, see <hi
+                            rend="smallcap">Bauch</hi> 1886, 65.</note> in qua descriptum est iter
+                    in <placeName>Ubiis</placeName><note type="critic" xml:id="note.7">Udine.</note>
+                    usque in <placeName>Austriam</placeName>. Die VII. Augusti suscepi ex uxore
+                    filiam satis scitam viro puellulam. Etiam atque etiam Tuam Dominationem rogo et
+                    oro, ut illustrissimae atque excellentissimae feminae ac reginae clarissimae de
+                    optima nota me subinde commendet. Ego amori tuo ac fidei me penitus trado et
+                    committo.</p>
+                <p xml:id="p.3"><placeName>Stutgardiae</placeName> die X. Septembris anno 1531.</p>
+                <p xml:id="p.4">Utor suavissima consuetudine <persName>Francisci Posoniensis
+                        praepositi</persName>,<note type="critic" xml:id="note.8">Ferenc
+                        Újlaki.</note> ac quoties per assignatores licet, eodem cum eo diversorio
+                    accipior, garrimus invicem, interdum etiam de te, et nonnunquam libris, sed
+                    frequentius libero operam damus.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

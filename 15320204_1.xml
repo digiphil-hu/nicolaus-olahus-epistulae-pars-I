@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">207</title>
+                <title key="body" n="207" type="main">Jan van Campen to Miklós Oláh (Leuven, 4
+                    February 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320204_1</idno>
+                <idno type="ITIdata">Q472779</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320204_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 192–193.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 50–51; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1192–1197.</p>
+                </note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15320210_1" type="url">208</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >363–365.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">207</biblScope>
+                    <biblScope unit="page">281–282.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
+                <date when="1532-02-04">4 February 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Jan van Campen<idno type="ITIdata">Q470294</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Jan van Campen to Miklós Oláh (Leuven, 4 February 1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He lacks the erudition Oláh ascribes to him, but he
+                            usually talks too much and often about vanities – Oláh should forgive
+                            him for this. He had spent many hours studying the holy languages when
+                            Luther and Melanchthon appeared, whose books the Emperor allowed him to
+                            read in order to engage in a debate with them. 2. He will start with the
+                            Book of Daniel because both he and others have requested it, and for
+                            this he will consult Jews in Germany, especially one who is currently
+                            with the Patriarch of Aquileia, with whom he will spend a few months
+                            now.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15320204_1_1.jpg"/>
+                <p xml:id="p.1">Ioannis Campensis<note type="critic" xml:id="note.1">Jan van Campen
+                        of Kampen (1491–1538) studied at the University of Leuven, then became
+                        Professor of Hebrew at the Collegium Trilingue. In November 1531 he resigned
+                        his academic chair and entered the service of Jan Dantyszek. For more see
+                            <hi rend="smallcap">Bietenholz</hi> 1985a.</note> ad Nicolaum Olaum
+                    secretarium et consiliarium serenissimae reginae responsio.</p>
+                <pb facs="15320204_1_2.jpg"/>
+                <p xml:id="p.2">[1.] Ingenii felicitatem, Vir modis omnibus Ornatissime, et summam
+                    eruditionem, quam tribuis, adeo in me non agnosco, ut sciam illam a me abesse
+                    quam longissime. Quod de meis laboribus tam multum effutiverim, praeter morem
+                    meum in causa dominus ille <persName>Hispanus</persName>,<note type="critic"
+                        xml:id="note.2">We do not know him more closely.</note> qui audierat, nescio
+                    a quo, mihi nonnihil fuisse contentionis cum theologis Lovaniensibus, quod quia
+                    falsum erat, volui sinistram illam suspicionem ex animo illius delere penitus,
+                    quare multa dixi, quae quamvis vera erant, nonnihil tamen et inter dicendum et
+                    finito colloquio multo me magis futilitatis meae poenituit. Tuum ergo erit
+                    dominum mi ignoscere, si quid amplius quam oportuit mihi imprudenter tum
+                    exciderit. Nunquam potui iurare in verbis hominis alicuius, sacrarum litterarum
+                    scriptores semper excipio, quare cum conflictationibus illis theologicis, quas
+                    scholasticas vocant, multis annis paene detritus essem; vidi in illis multa
+                    quidem esse non penitus contemnenda, sed quae ad intelligentiam <choice>
+                        <orig>geminam</orig>
+                        <supplied>genuinam</supplied>
+                    </choice> sacrarum litterarum facerent, admodum pauca, quare animum adieci ad
+                    linguas illas descendas, quibus sacratissimorum bibliorum authores in
+                    conscribendis illis usi essent. Haec cum tentarem, subito extitit
+                        <persName>Lutherus</persName> et illo doctior <persName>Philippus
+                        Melanchton</persName>, quorum libros quatenus licuit per imperatorem, non
+                    alia de causa legi, et cum doctioribus me de dogmatis illorum disserui, quam ut
+                    rem intelligerem, et si quando usu veniret cum ratione utrique parti respondere <choice>
+                        <orig>posse</orig>
+                        <supplied>possem</supplied>
+                    </choice> eisdem illis scripturis, quibus sua asserere conaretur, cuius rei me
+                    adeo nondum poenituit, ut optarim illos, qui sedandis huius temporis tumultibus
+                    adhibentur, eandem libertatem in iudicando servare, et non potius affectibus
+                    propriis indulgere, verum haec hactenus.</p>
+                <p xml:id="p.3">[2.] In <persName>Daniele</persName><note type="critic"
+                        xml:id="note.3">The Book of Daniel in the Old Testament.</note> et aliis
+                    multis, quia et tu et alii multi me orant, praestabo, quod potero, nec ullam
+                    praetermittam occasionem, quo id possum certius; consulam Iudaeos, qui in
+                        <placeName>Germania</placeName> sunt plurimi, sed unus est omnium, qui his
+                    proximis annis mille vixerunt doctissimus <persName>Elias</persName><note
+                        type="critic" xml:id="note.4">We do not know him more closely.</note>
+                    natione Germanus, sed qui </p>
+                <pb facs="15320204_1_3.jpg"/>
+                <p xml:id="p.4">tota fere vita sua versatus in Italia, nunc autem est in familia
+                    reverendissimi patriarchae <persName>Aquilegiaensis</persName><note
+                        type="critic" xml:id="note.5">Marco II Grimani (†1544) was Patriarch of
+                        Aquileia between 1529–1533.</note> apud Venetos. Apud illum, si mihi
+                    contingere potuerit, mensibus aliquot versari beatissimum me iudicabo. Vale,
+                    Domine mi, si non ingratum fore <add corresp="Olahus" type="insert">tibi</add>
+                    iudicavero, scribam saepe, quocumque <choice>
+                        <orig>pervero</orig>
+                        <supplied>pervenero</supplied>
+                    </choice>, candorem enim tuum amo vehementer. Dominus <persName>Iacobus
+                        Danus</persName><note type="critic" xml:id="note.6">Jakob Jespersen.</note>
+                    offert operam suam in conscribendo carmine, quo opusculum hoc psalmorum
+                    laudetur; habeo profecto gratias illi, sunt alii, qui et scripserunt et scribere
+                    iterum cupiunt, verum ego si efficere potuero, ne
+                        <persName>Dantisci</persName><note type="critic" xml:id="note.7">Jan
+                        Dantyszek.</note> quidem carmen libello adscribi patiar. Iterum vale.</p>
+                <p xml:id="p.5"><placeName>Lovanii</placeName> 4. Februarii 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

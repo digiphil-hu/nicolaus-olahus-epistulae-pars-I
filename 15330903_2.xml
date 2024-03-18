@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">403</title>
+                <title key="body" n="403" type="main">Miklós Oláh to János Czeglédi (Ghent, 3
+                    September 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330903_2</idno>
+                <idno type="ITIdata">Q472975</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330903_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 403–405.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >424–426.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">403</biblScope>
+                    <biblScope unit="page">527–529.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Ghent<idno type="ITIdata">Q11613</idno></placeName>
+                <date when="1533-09-03">3 September 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>János Czeglédi<idno type="ITIdata">Q470296</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to János Czeglédi (Ghent, 3 September 1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He has received Czeglédi’s four letters, but he
+                            should only respond to the last one, in which Czeglédi is complaining
+                            about him. He is asking what this change is due to? But it is not only
+                            them who are suffering, they have many fellow sufferers. Does Czeglédi
+                            believe that Oláh is in the garden of the Hesperides? He is gravely
+                            mistaken. Everything is confusing, and he does not even know whose fault
+                            it is. And did he not help him when they caught him? 2. Now Czeglédi
+                            wants to leave Oláh’s service, but how could he let him go from 200
+                            miles away? He has no money to return home, so he is asking him to look
+                            after Oláh’s affairs until he can return home. Oláh believes his
+                            difficulties will end when Schepper returns home. 3. Czeglédi also wrote
+                            that he spoke with Török in Gerendi’s presence, then he described Bodó’s
+                            haughty reply, from which it is clear that for him King John I is the
+                            real king.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330903_2_1.jpg"/>
+                <p xml:id="p.1">Nicolai Olai ad Ioannem Cegledinum provisorem.</p>
+                <p xml:id="p.2">[1.] Quaternas tuas litteras,<note type="critic" xml:id="note.1"
+                        >These letters are not extant.</note> quas XVII., XV., XVIII. die Iunii ex
+                        <placeName>Vienna</placeName> et ex <placeName>Posonio</placeName> XXIII.
+                    eiusdem mensis ad me dedisti, XXVI. huius mensis Augusti simul accepi. Postremas
+                    vero, quas <placeName>Posonio</placeName> XII. Iunii praeteriti scripsisti,
+                    ultima Augusti recepi. Causa, cur antea respondere non petuerim, est, quod ex
+                    stomacho laborabam, quod malum iam Deo dante depuli. Ad priores ternas non
+                    videtur esse opus responsione, quia res, de quibus scripsisti, iamdiu
+                    praeterierunt, aliumque habent statum. In illis, quae datae sunt XXIII. Iulii,
+                    acerbissimis mecum uteris querelis, quibus facile carere potuisses. Nam causa
+                    non fuit aliqua iusta, ut iis utereris, nisi velis teipsum his et similibus
+                    tormentis non ex iusta causa, neque tempore convenienti profectis conficere. Nam
+                    nihil ad te unquam scripsi, si bene recordor, quod te maxime movere debuisset.
+                    Si ursi te currentem, quid erratum est, si admonui te tui officii et diligentiae
+                    debitae, ne in fine iam <del corresp="Olahus">verum</del><add corresp="Olahus"
+                        type="corr">rerum</add> et mearum et tuarum refrigisceres, quid est, quod
+                    magnopere displicere tibi potest? Omnia a me profecta sunt non alieno animo, non
+                    in tui molestiam, sed ut ex diligente facerem te diligentiorem. Quid ergo opus
+                    erat tanta exprobatione? Ubi in hunc diem expertus es me in tui amore et mea in
+                    te benevolentia refrixisse? Si occasio defuit et temporis <choice>
+                        <orig>iniquitatis restituit</orig>
+                        <supplied>iniquitas restitit</supplied>
+                    </choice>, quo minus tibi magnopere prodesse potuissem, quid mihi adscribere
+                    potes? Non ego aut tu solum patimur nunc miseriam, egestatem et exilium durius
+                    quodammodo morte, sed multos habemus horum malorum socios, quos tu ipse mihi
+                    saepius in tuis litteris commemorasti, videlicet
+                        <persName>Strigoniensem</persName>,<note type="critic" xml:id="note.2">Pál
+                        Várday.</note><persName>Agriensem</persName>,<note type="critic"
+                        xml:id="note.3">Tamás
+                        Szalaházy.</note><persName>Transsylvaniensem</persName>,<note type="critic"
+                        xml:id="note.4">Miklós Gerendi.</note> comites, barones, nobiles. An putas
+                    me in hortum Hesperidum decidisse, dum hic sum? An mihi nihil deesse? Erras
+                    certe, si hoc putas. Esto, nihil desit, deest tamen multum, cum absum a meis,
+                    cum patriam in horas et ex tuis litteris et ex aliorum audiam non modo perviam
+                    esse latronibus spurcissimis, sed etiam expositam illorum direptioni. </p>
+                <pb facs="15330903_2_2.jpg"/>
+                <p xml:id="p.3">Et praeterea cum non sine magnis hic laboribus et equitationibus
+                    meae conditioni non satis convenientibus vitam meam transigam. Ubi fuit occasio
+                    his temporibus turbidis te promovendi? Quin non modo non promoveri nos sinunt
+                    haec tempora adversa, sed adimunt nobis ea quoque, in quibus prius fuimus
+                    promoti. Si tam essent magni alii domini, qui magnam patiuntur, ut scribis,
+                    egestatem, mecum una queruli erga regem et principes, ut tu facere soles, quid
+                    non facerent? At patientiam habere debent pro tempore, scis me te potuisse
+                    providere aliquo beneficio. Ubi est beneficium, quod nunc vere possideam? Omnia
+                    fuerunt hactenus turbata. Si quaerimus, cuius culpa, nescio, voluntati ipsius
+                    divinae tribuenda sint omnia, qui hac poenitentia et, ut uno verbo dicam, τῆ
+                        ἀνεξικακίᾳ<note type="critic" xml:id="note.5">‘with patience’.</note>
+                    nostros reatus diluere voluerit, deinde hominum facinorosorum nostrae aetatis τῆ
+                        πανουργίᾳ<note type="critic" xml:id="note.6">‘[it has to be ascribed to] his
+                        wickedness’.</note> et improbitati, qui carnificem Dei in aliorum
+                    cruciatibus et direptionibus agunt. At pro te non egi, dum captus eras? Quomodo
+                    potui pro <choice>
+                        <orig>tu agerem</orig>
+                        <supplied>te agere</supplied>
+                    </choice>, si ante emissus eras, quam te audivissem cum magno dolore meo captum,
+                    si non tantum tribuisses illis sceleratis fidei, quantum tribuisti et cautius te
+                    custodisses, illorum perfidiam, astutiam facile vitare potuisses, sed haec
+                    transeant. Quae nunc, cum non sit tempus vindictae ab illis summendae, non sine
+                    dolore commemoro.</p>
+                <p xml:id="p.4">[2.] Petis nunc, ut absolvaris a servitio meo. Cogita tu ipse, si id
+                    te petere aut honestum sit, aut conveniat, et an id in absentia facere ego
+                    possim, nisi cuperes res meas perditas perditiores facere et in extremum
+                    periculum ponere. Quomodo a ducentis miliaribus id facere possum? Si praesens
+                    essem, et tibi id commodius fore arbitrarer, non gravarer facere, quod mihi et
+                    tibi esset utilius. At vocasne, ut exeam? Si <persName>Croesus</persName> essem,
+                    facerem id libenter, ut possim, commode exire et reverti. Ego tamen cogito, quid
+                    necessarium sit ad me hinc cum meis movendum. Si semel Deo dante exivero, non me
+                    volentem huc reversurum videbis. Quare usque dum exire commode potero, habe
+                    curam, quam poteris, diligentem rerum mearum et cura, ut ego in te confido et tu
+                    quoque ipse et verbis saepe et litteris pollicitus es, ne quantum in te est
+                    damnum patiar. Damnum tuum ego non cupio, multo minus periculum, quod meo quoque
+                    aliquali detrimento vitarem. Omnia, quae ad rem meam pertinuerunt, hinc quantum
+                    potui procurari, regem et mihi rebusque meis et tibi feci faventem
+                        <persName>Tridentinum</persName>,<note type="critic" xml:id="note.7"
+                        >Bernhard von Cles.</note><persName>Lundensem</persName>,<note type="critic"
+                        xml:id="note.8">Johan Weze.</note><persName>Agriensem</persName> et alios,
+                    quos tu nosti patronos. Cura, ut sicuti in te confido, nihil in te deesse
+                    videatur, fac extreme non, quod non potes, sed quod potes. Spero, non
+                    frustraberis labore, tot patronis propitiis, modo non refrigescas in incoepta
+                    diligentia et in omnimoda </p>
+                <pb facs="15330903_2_3.jpg"/>
+                <p xml:id="p.5">cura, ut bona mea, ex quibus et mihi et tibi benefacere possim,
+                    recuperes. Credo iam <persName>Cornelium</persName><note type="critic"
+                        xml:id="note.9">Cornelis de Schepper.</note> rediisse et finem rerum mearum
+                    retulisse, ut opinor et ut ex <placeName>Constantinopoli</placeName> nuper ad me
+                    scripsit, bonum et optatum. Erit, ut existimo, in eius reditu iam finis
+                    aliqualis laborum et miseriarum nostrorum omnium. Non cessa igitur praedictorum
+                    opera, consilio et auxilio rem nostram in optatum deducere finem; quod puto
+                    futurum ex Dei clementia. Nam <persName>Cornelius</persName> scripsit mihi,
+                    omnia mea esse tuta, nihilque me dubitare debere. Quam rem ab eo ipso intelliges
+                    clarius, si reversus est.</p>
+                <p xml:id="p.6">[3.] In aliis litteris, quas XXII. Iulii scripsisti, significas te
+                    personaliter apud <persName>Valentinum Theuvrek</persName><note type="critic"
+                        xml:id="note.10">Bálint Török.</note> egisse in restitutione bonorum
+                    praesente <persName>Gherendi</persName>, et quid tibi tam ipse, quam postea
+                        <persName>Ioannes Bodo</persName> responderit, mihi describis. Probo tuam
+                    diligentiam. Melius est te solum expertum esse illorum animum. Arbitror has
+                    cavillosas illorum responsiones eo tendere, ut ipsi hoc anno vindemient.
+                    Nihilominus tu cura, quantum potes, ne voti sui compotes fiant. Et poteris regi
+                    insinuare responsum illorum vel per te vel medio <persName>Cornelii</persName>
+                    aut <persName>Lundensis</persName>, praesertim illius <persName>Bodo</persName>
+                    superbum et insolens, quod verus rex coronatus bona ei contulisset, et in illis
+                    mori vellet. Ergo <persName>Ioannes</persName> est <persName>rex</persName>
+                    illius verus! Quod petis, ut tibi procuratorium mitterem, etsi nescio, an
+                    aliquid proficiat nunc contra illum iure agere, qui nec regem curat, nec τὸν
+                        κακοδαίμονα.<note type="critic" xml:id="note.11">‘the goddamn’.</note> Tamen
+                    mittam ad te brevi manum meam procuratores constituentem eos, quos optasti. Si
+                        <persName>Cornelius</persName> bonum responsum retulerit, sine processu
+                    iuris res transigi poterit, attamen ne id quoque tibi deesset, satisfeci
+                    voluntati tuae. Tenta rem in omnes partes. In primis autem si contigerit, ut
+                    bona remittantur, provideas vindemiae futurae, ut habeamus victualia, quia non
+                    puta me hic haesurum, modo habeam, quo exire possum. Vale.</p>
+                <p xml:id="p.7"><placeName>Gandavi</placeName> tertia Septembris 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">304</title>
+                <title key="body" n="304" type="main">Miklós Oláh to Joannes comes (Mons, 15
+                    December 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15321215_1</idno>
+                <idno type="ITIdata">Q472876</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15321215_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 266–267.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >289–290.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">304</biblScope>
+                    <biblScope unit="page">378–379.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Mons<idno type="ITIdata">Q15970</idno></placeName>
+                <date when="1532-12-15">15 December 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Joannes comes</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Joannes comes (Mons, 15 December 1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He was surprised his friend did not know about their
+                            journey, but now he will tell him about its date and means: they set out
+                            to Valenciennes on 29 November because they wanted to see it. The cold
+                            was unbearable, they arrived by the evening, and the locals came to meet
+                            them with torches and other signs of pleasure. They spent five days
+                            there, barely tolerating the cold and draught, and no matter how much
+                            they were heating, they were still cold. 2. Then they went to a city
+                            called Canay, where they spent two days, and they were expecting them
+                            with attractions. Then the Queen went hunting, and they returned to
+                            Mons, where it seems they will be staying till 1January.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15321215_1_1.jpg"/>
+                <p xml:id="p.1">Ad Ioannem comitem.<note type="critic" xml:id="note.1">We do not
+                        know him more closely.</note></p>
+                <p xml:id="p.2">[1.] Arbitratus sum te scivisse nostram ad
+                        <placeName>Valencenas</placeName><note type="critic" xml:id="note.2"
+                        >Valenciennes is next to Mons.</note> profectionem, sed cum tuas proximas
+                    accepissem, intellexi te non solum ne scivisse nostrum illuc aditum, sed nedum
+                    audivisse. Quare ut alios omnes nostros casus et itinera, sic etiam diem et
+                    modum huius nostrae profectionis volo tibi significare. Ad vigesimum nonum
+                    Novembris praeteriti, cum <placeName>Valencenas</placeName> oppidum
+                        <placeName>Hannoniae</placeName> munitissimum videre maxime cuperemus, iter
+                    hinc illuc coepimus. Erat sane tempus rigidum et valido frigore molestum, sed
+                    nostra visendi illius oppidi cupiditas vicit </p>
+                <pb facs="15321215_1_2.jpg"/>
+                <p xml:id="p.3">omnem temporis intemperiem. Ad vesperam igitur eo non gravatim
+                    pervenimus oppidum huc distans ad septem leucas Gallicas.<note type="critic"
+                        xml:id="note.3">One Gallic or Roman mile was between 2 and 5
+                        kilometers.</note> Oppidani cum taedis et facibus, ut moris est huius
+                    patriae, reginae occurrerunt, et omnia iucunditatis signa, quae fieri potuere,
+                    ostenderunt in reginae ingressu. Illic commorati ad quintum sumus diem, frigus
+                    patientes ultra omnia alia loca intollerabilius. Gens enim Gallea, vaporariis
+                    carens, caminis in cubiculis nonnumquam rimosis utitur ita, ut si focum in eis <choice>
+                        <orig>exstingeris</orig>
+                        <supplied>exstingueris</supplied>
+                    </choice>, et te calore reficere volueris, ex una quidem parte calesces, sed ex
+                    alia frigeas. Quare factum est, ut tribus diebus coactus sum ligna <choice>
+                        <orig>una</orig>
+                        <supplied>uno</supplied>
+                    </choice> aureo Philippeo<note type="critic" xml:id="note.4">A kind of coin with
+                        high-karat gold content.</note><del corresp="Olahus?">absummere</del><add
+                        corresp="Olahus?" type="corr">absumere</add>, et nihilominus non parvam pati
+                    frigoris molestiam. Cives eius loci praesentarunt reginae dono hiatum argenteum
+                    mediocrem quingentis Carolis impletum, quod in aliis oppidis nullibus factum
+                    esse vidi; hi soli humaniores aliis hoc facto sunt visi.</p>
+                <p xml:id="p.4">[2.] Posteaquam autem nos sacietas cepisset eius oppidi, venimus ad
+                    oppidum quoddam <placeName>Canay</placeName><note type="critic" xml:id="note.5"
+                        >Probably Cambrai.</note> nomine, quod <persName>Sempy</persName><note
+                        type="critic" xml:id="note.6">Antoine de Croÿ, Lord of Sempy (Sampy).</note>
+                    antiquior ab <persName>imperatore</persName> habet in officium. Excepti istic ab
+                    eodem sumus humanissime biduum, tractatique honorifice, nam ultra hospitalitatem
+                    nobis factam, praebita sunt etiam spectacula non inamoena.
+                        <persName>Regina</persName> profecta illic fuerat ad vivarium ferarium, in
+                    quo et equi silvestres dicuntur esse. His omnibus permotis reversi sumus huc
+                        <placeName>Bergas</placeName> eo primum animo, ne diutius hic tarderemus.
+                    Sed mutatus est postea ex consiliis rerum <persName>reginae</persName> animus,
+                    credoque nos ad primum Ianuarii hic mansuros. Haec te scire volui, ut scires a
+                    me nostram itinerationem. Si qua deinceps consequentur, faciam earum quoque te
+                    rerum participem. Vale.</p>
+                <p xml:id="p.5"><placeName>Bergis</placeName> 15. Decembris anno 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

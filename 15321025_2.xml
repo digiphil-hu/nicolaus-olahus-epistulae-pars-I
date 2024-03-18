@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">290</title>
+                <title key="body" n="290" type="main">Miklós Oláh to Giovanni Antonio da Burgio
+                    (Binche, 25 October 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15321025_2</idno>
+                <idno type="ITIdata">Q472862</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15321025_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 258.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">281.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">290</biblScope>
+                    <biblScope unit="page">366–367.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Binche<idno type="ITIdata">Q470202</idno></placeName>
+                <date when="1532-10-25">25 October 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Giovanni Antonio da Burgio<idno type="ITIdata"
+                        >Q470275</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Giovanni Antonio da Burgio (Binche, 25 October
+                    1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">They were deeply disappointed when they learned that
+                            King Ferdinand I chose to travel after Emperor Charles V to Italy and
+                            sent Hans Katzianer in his place to bring Hungary under the King’s
+                            power. Although he is certain that Katzianer will do everything he can,
+                            but he knows the nature of the Hungarians, who can only tolerate the
+                            King’s authority. Katzianer may be able to recover the castles, but it
+                            is impossible for him to convert the Hungarians to the king’s side.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p xml:id="p.1">Ad Ioannem baronem.</p>
+                <p xml:id="p.2">Nulla res magis homines cruciare posse videtur, quam si spes, quam
+                    de re aliqua certam conceperis, te fallere videbitur. Hac spe certissima
+                    fovebamur, quod reverso <persName>Turcarum caesare</persName> ad regnum suum rex
+                    noster <persName>Ferdinandus</persName> cum exercitibus undequaque contra illum
+                    collectis solus ad recuperandam <placeName>Hungariam</placeName>
+                    proficisceretur, et illam iam redderet pacatam, nobisque omnibus diuturno malo
+                    afflictis quietem pareret. Ecce autem nunc venerunt litterae, quae declarant
+                        <persName>regem</persName> comitatum esse imperatorem nostrum
+                        <persName>Carolum</persName> ad <placeName>Italiam</placeName>
+                    proficiscentem et ad <placeName>Hungariam</placeName> misisse <persName>Ioannem
+                        Kachyaner</persName><note type="critic" xml:id="note.1">Hans Katzianer
+                        (1490–1538) was a mercenary commander and diplomat. He entered the service
+                        of the Habsburgs and took part in King Ferdinand I’s Hungarian campaign of
+                        1527–1528 against King John I. In 1529, he defended Vienna against the
+                        Turks, who were led by Suleiman I. Between 1527–1529, and also between
+                        1532–1537, he was King Ferdinand’s Commander in Chief. After he sustained a
+                        defeat from the Turks at Osijek in 1537, King Ferdinand I incarcerated him.
+                        In 1538, he was killed by the Zrínyi brothers, at King Ferdinand I’s order,
+                        see <hi rend="smallcap">Apfelauer</hi> 1939.</note> cum exercitu, ut ille ea
+                    ageret, quae rex noster facere deberet: <placeName>Hungariam</placeName>que in
+                    potestatem regis subigeret. Is licet profectus sit, et, ut opinor, nihil
+                    praetermittat rerum sibi a rege demandatarum, tamen eam scio esse Hungarorum
+                    naturam, ut difficulter se <persName>rege</persName> a capitaneo quopiam
+                    patiantur, malintque omnia perpeti extrema, quam <choice>
+                        <orig>alicius</orig>
+                        <supplied>alicuius</supplied>
+                    </choice> praeter regem perferant imperium. Potest quidem <persName>Ioannes
+                        Kachyaner</persName> aliquas arces amissas recuperare, sed Hungaros sibi
+                    absente rege oboedientes reddere videtur esse et difficillimum et impossibile.
+                    Haec scribo tibi, ut meum animum, quem de rebus habeo Hungaricis, intelligas, et
+                    spem, quam de illius recuperatione habebam maximam, me iam totam amisisse. Tu si
+                    qua in re me consolari potes, fac, ut sciam. Gratissimum id mihi erit. Vale.</p>
+                <p xml:id="p.3"><placeName>Binsii</placeName> 25. Octobris 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

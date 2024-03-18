@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">219</title>
+                <title key="body" n="219" type="main">Miklós Oláh to Caspar Ursinus Velius
+                    (Brussels, 10 March 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320310_1</idno>
+                <idno type="ITIdata">Q472791</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320310_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 205–209.</note>
+                <note type="translation"><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                        >Albu–Firu</hi> 1963, 219–222. <hi rend="italic">In Slovakian:</hi><hi
+                        rend="smallcap">Nagy</hi> 2022, 126–131.</note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15320223_1" type="url">214</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >336–340.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">219</biblScope>
+                    <biblScope unit="page">298–302.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1532-03-10">10 March 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Caspar Ursinus Velius<idno type="ITIdata">Q470227</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Caspar Ursinus Velius (Brussels, 10 March
+                    1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">The other day the Queen went on a four-day hunt to ease
+                            her spiritual troubles. On the other hand, he had the Queen’s permission
+                            to go to the Collegium Trilingue in Leuven, which is only four miles
+                            away, so as Queen Mary is hunting for boar, he will be hunting for Greek
+                            pronunciation and attend readings again. He has missed Hieronymus
+                            Gradeus, but next time he will try to please him. Ursinus says he has
+                            almost become a Belgian, he wishes the Belgian rivers were like Lethe
+                            because then he could forget about the past, and he would not anguish
+                            himself about those at home. Maybe he thinks he is not affected by the
+                            demise of his loved ones? 2. Two days ago news arrived that the Turkish
+                            Sultan wants to make peace with King Ferdinand I. He does not even know
+                            if it is Ursinus or the princes he should congratulate for their luck?
+                            He was happy to hear the news that he has become the children’s tutor,
+                            as was the Queen, whom he has also told that Ursinus would soon send
+                            them his work on King Louis II. He should have received his portrait by
+                            now, and he has also repaid the loan. 3. Since he said he did not know
+                            the list of those who had died and participated in the battle of Mohács
+                            in 1526, he is sending it to him now. 4. As far as he is concerned, the
+                            Queen sent him to the King before the battle, who sent him back with the
+                            assignment of accompanying the Queen to Bratislava because it was safer
+                            there. When the news arrived that the battle had been lost, the queen
+                            pretended to go hunting but went to Bratislava.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15320310_1_1.jpg"/>
+                <p xml:id="p.1">Nicolai Olai ad Gasparem Ursinum Velium historicum et praeceptorem
+                    filiorum <add corresp="Olahus?" type="insert">regis Ferdinandi</add>. </p>
+                <p xml:id="p.2">[1.] Cum his diebus <persName>regina</persName> animi gratia, quem
+                    plerumque magnis curarum molibus, ut negotia harum ferunt provinciarum, obrutam
+                    habet, ad quatriduum fuisset venatum profecta. Ego vero accepta illius venia
+                        <placeName>Lovanium</placeName> insignem Trium Linguarum Academiam<note
+                        type="critic" xml:id="note.1">Collegium Trilingue Lovaniense.</note>
+                    distantem hinc quattuor exiguis milliaribus refocillandi animi causa
+                    divertissem, ut sicut regina in nemoribus apros ferasque ita ego
+                        <placeName>Lovanii</placeName> venarer τὴν ἑλληνικὴν ἐκφώνησιν<note
+                        type="critic" xml:id="note.2">‘Greek pronunciation’.</note> et lectorum
+                    publicorum, quibuscum iampridem non vulgarem contraxi notitiam, renovarem
+                    familiaritatem.</p>
+                <p xml:id="p.3"><persName>Hyeronimus Gradeus Rhagusius</persName>, quem mihi
+                    commendas, interea cum litteris tuis huc advenerat me frustra quaerens. Ante
+                    meum hinc <placeName>Lovanio</placeName> reditum regina uno aut altero die
+                    redierat. Nam non poteram ab amicorum meorum docta familiarique consuetudine
+                    subito divelli. Interea ille redditis litteris commendaticis, quas a
+                    reverendissimo <persName>domino Tridentino</persName><note type="critic"
+                        xml:id="note.3">Bernhard von Cles.</note> ad <persName>reginam</persName>
+                    attulerat, hinc <placeName>Antverpiam</placeName> se contulit; cui non potui
+                    meum, ut amice me admonuisti, officium in rerum suarum initio praestare. Tunc
+                    cum, ut spero, huc redierit, quod nunc a me fieri debuit, resartiam cumulate.
+                    Scribis ad me ex Pannonio me iam </p>
+                <pb facs="15320310_1_2.jpg"/>
+                <p xml:id="p.4">plane factum Belgicum aut Flandrum, et non iam curare
+                        <placeName>Syrmium</placeName> ac delicias nostras veteres,
+                        <placeName>Budam</placeName> aliaque loca, fecisseque sapienter, qui procul
+                    ab armis et vitam degerem quietam et inservirem tempori.<note type="critic"
+                        xml:id="note.4">See Ep. 214. Cap. 1.<ref>olahus.tei.15320223_1</ref></note>
+                    Utinam, mi Ursine, Belgica haec flumina tantam haberent <del corresp="Olahus"
+                        >vini</del><add corresp="Olahus" type="corr">vim</add>, quantam περὶ τῆς <choice>
+                        <orig>λήτης</orig>
+                        <supplied>λήθης</supplied>
+                    </choice> ποτάμου τοῦ ῞Αιδου <note type="critic" xml:id="note.5">‘about the
+                        river Lethe’, which was generally known as the river of oblivion.</note>
+                    nostri fabulantur, ut praeteritorum et earum, quae audio, rerum obliviscerer,
+                    minus laborarem. Hic quidem licet ex Pannonio factus fere Belga τῷ <choice>
+                        <orig>θέω</orig>
+                        <supplied>θεῷ</supplied>
+                    </choice> χάρις<note type="critic" xml:id="note.6">‘thank God’.</note> ex
+                    principis mei in me favore hactenus non valde incommode, sed ex animi mei
+                    sententia vixerim. Putas tamen, mi Ursine, me tam profunda uti posse
+                    philosophia, ut patriae meae, quae me genuit et aluit, calamitate non movear,
+                    non fratrum et propinquorum, non amicorum periculis? De quibus fere quotidie
+                    etiam huc ex meorum litteris fio certior, postremo meis etiam privatis, quas in
+                    patria habui, commodis ac facultatibus! Haec me movent amantem patriae salutis,
+                    amicorum felicitatis, tandem etiam meorum emolumentorum. Quantumvis tamen me
+                    haec moveant, non tamen ἡ <choice>
+                        <orig>μέριμνα</orig>
+                        <supplied>μέριμνά</supplied>
+                    </choice> τε καὶ <choice>
+                        <orig>ἀθιμία</orig>
+                        <supplied>ἀθυμία</supplied>
+                    </choice> διὰ τὸν τῆς πατρίδος κίνδυνον<note type="critic" xml:id="note.7"
+                        >‘concern and anxiety due to the danger threatening his homeland’.</note>
+                    tam deiectum in me animum fecit, quo minus omnem fortunam, quaecumque me et meos
+                        <del corresp="Olahus">maneret</del><add corresp="Olahus" type="corr"
+                        >manet</add>, constanti fortique <del corresp="Olahus">ferrem</del><add
+                        corresp="Olahus" type="corr">feram</add> animo <del corresp="Olahus"
+                        >Tam</del> animo <choice>
+                        <orig>ἐμοι συμβεβηκυΐαν</orig>
+                        <supplied>ἐμοὶ συμβεβηκυῖαν</supplied>
+                    </choice>.<note type="critic" xml:id="note.8">‘what fell to my lot’.</note></p>
+                <p xml:id="p.5">[2.] Hoc biduo laeta ex meorum litteris accepi nova, quibus animum
+                    constantem <add corresp="Olahus" type="insert">constantiorem</add> reddidi.
+                        <persName>Caesarem</persName> scilicet Turcarum misisse nuntium ad
+                    serenissimum <persName>regem</persName> nostrum et petere pacem, ad quam cum
+                    sciam regis animum inclinatum esse, arbitror fore propediem, ut illa confecta,
+                    in <placeName>Hungaria</placeName> si non tota, at in maiori illius parte
+                    quietam agere vitam, ac veteres illas nostras delicias revocare possimus, de
+                    cuius condicionibus, <add corresp="Olahus" type="insert">si</add><del
+                        corresp="Olahus">certis</del><add corresp="Olahus" type="corr">certi</add>
+                    aliquid acceperis, fac me rogo certiorem. Antequam tuas accepissem litteras,
+                    arbitrabar te vel <placeName>Viennae</placeName> esse vel aulam ipsam regiam
+                    terere. Nunc primum intelligo, quid tibi demandatum sit officii, quidve agas et
+                    cures. Nescio, mi Ursine, an tibi primum vel ipsis pincipibus gratuler, his,
+                    quod nacti sint insigni eruditione, virtute et moribus honestissimis τὸν
+                        διδάσκαλον,<note type="critic" xml:id="note.9">‘teacher’ in Sing.
+                        Acc.</note> cuius institutis si imbuti fuerint, nihil dubitandum, quin
+                    innatam ingenii nobilitatem sint illustraturi, tibi vero quod habeas principes
+                    bonae </p>
+                <pb facs="15320310_1_3.jpg"/>
+                <p xml:id="p.6">indolis, ac ab optimis rarae virtutis parentibus progenitos, in
+                    quibus eruditionem, mores tuos honestos, virtutem praeclaram effingere,
+                    testatosque relinquere possis.</p>
+                <p xml:id="p.7">Quos quantum tua opera brevi iam tempore profecerint, declaravi
+                    serenissimae <persName>reginae</persName> meae, quae et mirum in modum gavisa
+                    fuit et tuam hanc curam in suos ex <persName>fratre</persName> nepotes collatam
+                    grato clementique a te<del corresp="Olahus"> accipit</del><add corresp="Olahus"
+                        type="corr">accepit</add> animo; feci eidem etiam de libello<note
+                        type="critic" xml:id="note.10">See Ep. 173. Note
+                            4.<ref>olahus.tei.15310910_1</ref></note> a te super rebus gestis
+                        <persName>Ludovici regis</persName> conscripto mentionem et, ut ad me
+                    scripseras te illum, postquam absolveris ad me missurum; respondit se illum, dum
+                    missus fuerit, perlibenter visuram. Praeter haec, ut optasti, tua servitia ei
+                    commendavi, quae commendatio ei fuit gratissima. Non permittam etiam <add
+                        corresp="Olahus" type="insert">posthac</add>, quin tui apud illam faciam
+                    sedulo mentionem, dum occasio se obtulerit.</p>
+                <p xml:id="p.8">Τὸν εἰκόνα σοῦ<note type="critic" xml:id="note.11">‘your
+                        effigy’.</note> nescio, an iam acceperis. Ego ut antea ad te scripseram,
+                    pecuniam a te acceptam Coloniensi <add corresp="Olahus?" type="insert"
+                        >civi</add> illi, mox cum eo appulissem, integram reddideram. Si nondum eam
+                    habes, mitte litteras tuas mihi ad illum. Eas ego eo perferendas hinc curabo,
+                    illumque admonebo, ut te diutius tua non frustretur imagine. Omnibus fere diebus
+                    ex <placeName>Oeniponte</placeName>, si voles tibique otium erit, ad me per
+                    magistrum veredariorum litteras dare poteris.</p>
+                <p xml:id="p.9">[3.] Scribis libelli de rebus gestis <persName>Ludovici
+                        regis</persName> nondum a te absoluti causam fuisse, quod interfectorum et
+                    captivorum nomina ignoraveris. Ego si recte memini, pro parte maiori eos tibi
+                    connumerare possum:<note type="critic" xml:id="note.12">The list below mirrors
+                        the hierarchy, and it is very similiar to the list provided by Brodarics in
+                        his <hi rend="italic">Historia verissima</hi>... written in 1528, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 176–183. Other similiar lists (written
+                        in 1526) were found, for example, among the documents of Piotr Tomicki,
+                        among Brodarics’ letters, and among the documents of Burgio, see <hi
+                            rend="smallcap">B. Szabó</hi> 2006, 108–110; <hi rend="smallcap"
+                            >Kasza</hi> 2012, 143–145, 149–150, 150–154; <hi rend="smallcap"
+                            >Kalous</hi> 2007, 611–613; <hi rend="smallcap">Péterfi</hi> 2015,
+                        132–138.</note> ex praelatis <persName>Ladislaus Zalkanus
+                        Strigoniensis</persName>, <persName>Paulus Thomoreus</persName> Franciscanus
+                    Colocensis archiepiscopi, qui et capitaneus belli post regem fuerat;
+                        <persName>Franciscus a Peren</persName> Waradiensis, <persName>Philippus
+                        More</persName> Quinqueecclesiensis, <persName>Blasius a Pakos</persName>
+                    Iaurinesis, <persName>Ioannes</persName><note type="critic" xml:id="note.13"
+                        >Oláh got this name wrong because the Bishop of Csanád was Ferenc
+                        Csaholy.</note> Benedictinus Chanadiensis, <persName>Georgius
+                        doctor</persName> Bosnensis episcopi sunt in conflictu caesi;<note
+                        type="critic" xml:id="note.14">The prelates who died in the battle: László
+                        Szalkai, Pál Tomori, Ferenc Perényi, Fülöp Móré, Balázs Paksy, Ferenc
+                        Csaholy, György Palinai.</note><persName>Simon</persName> Zagrabiensis,
+                        <persName>Stephanus Podnamicius</persName> Nittriensis, <persName>Stephanus
+                        Brodericus</persName><add corresp="Olahus" type="insert">Sirmiensis</add>,
+                    qui regis erat cancellarius, evaserunt.<note type="critic" xml:id="note.15">The
+                        prelates who survived the battle: Simon Erdődy, István Podmaniczky, István
+                        Brodarics.</note> Ex comitibus et baronibus <persName>Georgius a
+                        Zapolya</persName> frater germanus minor natu <persName>Ioannis
+                        regis</persName>, comes Scepusiensis, qui collega erat in capitaneatu
+                        <persName>Pauli</persName> Colocensis, <persName>Ambrosius Sarkan</persName>
+                    iudex curiae regiae, <persName>Petrus a Corlathkew</persName> supremus
+                    praefectus curiae, <persName>Ioannes Dragffy</persName> magister tavernicorum et
+                    vexillifer regis, <persName>Antonius Paloczy</persName>, <persName>Franciscus
+                        Orzag</persName>, <persName>Gabriel Pereneus</persName>, <persName>Nicolaus
+                        Tarczay</persName> cubiculariorum, <persName>Michael Podnamicius</persName>
+                    aulicorum </p>
+                <pb facs="15320310_1_4.jpg"/>
+                <p xml:id="p.10">capitaneus, <del corresp="Olahus">N.</del><persName><add
+                            corresp="Olahus" type="corr">Andreas</add> Trepka</persName>,
+                        S<persName>tephanus Aczeel</persName>.<note type="critic" xml:id="note.16"
+                        >The secular people who died in the battle: György Szapolyai, Ambrus
+                        Sárkány, Péter Korlátkövi, János Drágffy, Antal Pálóczy, Ferenc Országh,
+                        Gábor Perényi, Miklós Tarczay, Mihály Podmaniczky, András Trepka, István
+                        Aczél.</note> Ex nobilibus primoribus maior fere pars <del corresp="Olahus"
+                        >sunt trucidati</del><add corresp="Olahus" type="corr">est trucidata</add>;
+                        <persName>Stephanus Bathoreus</persName> comes palatinus Hungariae,
+                        <persName>Petrus Pereneus</persName>, <persName>Franciscus
+                        Bathyany</persName> banus Dalmatiae, Sclavoniae, Croatiae,
+                        <persName>Emericus Orsag</persName> magister cubiculariorum,
+                        <persName>Franciscus a Homona</persName>, <persName>Ladislaus
+                        More</persName>, <persName>Petrus ab Erdewd</persName>, <persName>Andreas
+                        Bathoreus</persName>, hi omnes partim comites, partim barones
+                        evaserunt.<note type="critic" xml:id="note.17">These secular people who
+                        survived the battle: István Báthori, Péter Perényi, Ferenc Batthyány, Imre
+                        Országh, Ferenc Drugeth of Homonna, László Móré, Péter Erdődy, András
+                        Báthori.</note> Capti erant pauci, et hi quoque fere omnes tandem in loco
+                    conflictus sine discrimine trucidati. Ex captis fuit <persName>Michael
+                        Emreffy</persName><note type="critic" xml:id="note.18">Mihály Imreffy,
+                        sometimes called Mihály Fekete (‘Black’) was Royal Master of Stables, later
+                            <hi rend="italic">ispán</hi> of Fejér county and Castellan of Buda, see
+                            <hi rend="smallcap">Závodszky</hi> 1922, 479.</note> equorum regis
+                    praefectus postea redemptus, <persName>Nicolaus Herczegh</persName><note
+                        type="critic" xml:id="note.19">Miklós Herczeg was Royal Chamberlain of Louis
+                        II, see <hi rend="smallcap">Hegedűs–Papp </hi>1991, 181.</note> per <del
+                        corresp="Olahus">Seraleimam</del><persName><add corresp="Olahus" type="corr"
+                            >Ibraimum</add> bassa</persName>,<note type="critic" xml:id="note.20"
+                        >Ibrahim Pargalı Pasha or Ibrahim, Pasha of Parga (ca.1495–1536) was the
+                        first Grand Vizier of the Ottoman Empire, appointed by Sultan Suleiman I,
+                        see <hi rend="smallcap">Turan</hi> 2009.</note> ut nuntius cum duobus aliis
+                    Polonis aulicis regiis remissus, per quem <persName>caesar</persName><del
+                        corresp="Olahus">Turcae</del><add corresp="Olahus" type="corr"
+                        >Turcarum</add> reginae nuntiarat, ne tristaretur mariti clade, quem si
+                    viveret (tunc enim nemini satis constabat regem occubuisse), vellet in regno
+                        <placeName>Hungariae</placeName> et relinquere et contra suos omnes hostes
+                    tutari ob excelsum illius animum, quod non formidaverit parva manu cum eo tantis
+                    copiis et viribus instructo congredi; si mortuus esset, aequo animo regina
+                    illius casum ferret. <persName>Paulus</persName> tunc Agriensis,<note
+                        type="critic" xml:id="note.21">Pál Várday.</note> nunc Strigoniensis non
+                    interfuit praelio. <persName>Thomas</persName> Vesprimiensis<note type="critic"
+                        xml:id="note.22">Tamás Szalaházy.</note> nunc vero Agriensis ac
+                        <persName>Alexius Turzo</persName> thesaurarius relicti erant apud
+                        <persName>reginam</persName>.</p>
+                <p xml:id="p.11">[4.] Ego vero ante diem conflictus missus eram a regina ad regem,
+                    cuius eram pariter et secretarius et consiliarius, ut percontarer a rege, an cum
+                    Turcarum copiis, quae numerum <del corresp="Olahus">quater</del><add
+                        corresp="Olahus" type="corr">ter</add> hominum <del corresp="Olahus"
+                        >excedebant pugnam</del><add corresp="Olahus" type="corr">excedere
+                        dicebantur pugnam</add>, pugnam inire vellet etiam eo exiguo exercitu, quem
+                    tunc viginti quinque aut circiter millium hominum habebat, aut in locis
+                    aliquibus exspectaturus esset munitioribus auxilia externa, quae ex
+                        <placeName>Germania</placeName>, <placeName>Austria</placeName> et
+                        <placeName>Bohemia</placeName> erant <del corresp="Olahus"
+                        >pollicita</del><add corresp="Olahus" type="corr">promissa</add>, et quae ex
+                        <placeName>Transsylvania</placeName><add corresp="Olahus" type="insert"
+                        >quoque</add> duce <persName>Ioanne</persName> vaivoda<note type="critic"
+                        xml:id="note.23">King John I.</note><del corresp="Olahus">quoque</del>
+                    exspectabantur. Ille me nuntio <del corresp="Olahus">significat</del><add
+                        corresp="Olahus" type="corr">signifacavit</add> reginae se fortunam
+                    experturum, et non subiturum infamiae hanc notam apud posteritatem, ut hosti iam
+                    iam instanti terga dedisset; <del corresp="Olahus">se</del> confisurum <add
+                        corresp="Olahus" type="insert">in</add> Dei auxilio, cuius clementia parva
+                    olim Hungarorum manus magnum fudisset hostium numerum, in se et
+                        <placeName>Hungariam</placeName> pro delictis punire vellet, ut superior
+                    evaderet. Proinde cum belli alea incerta esset, </p>
+                <pb facs="15320310_1_5.jpg"/>
+                <p xml:id="p.12">rogare <persName>reginam</persName> uti amantissimam coniugem, ut
+                        <placeName>Posonium</placeName> veluti locum ei tutiorem profisisceretur.
+                    Ego reversus a <persName>rege</persName> ad <persName>reginam</persName>
+                        triduo<note type="critic" xml:id="note.24">27 August.</note> ante conflictum
+                    secutum, haec illi retuli omnia. Quae tanto partim amore coniugali in
+                        <persName>regem</persName>, partim tam magnanima constansque fuit, ut
+                    maluerit omnia perpeti, <del corresp="Olahus">quam</del><add corresp="Olahus"
+                        type="corr">antequam</add> ipsa fugae signum prima praeberet, et quam certum
+                    haberet post me nuntium de pugnae eventu. Sic quarto post meum reditum die
+                    supervenit nuntius, quem ad id ordinaramus, qui retulit pugnam amissam,
+                    hostesque esse superiores. Quo accepto regina se ex <placeName>Buda</placeName>
+                    non tam praebens fugae, quam <add corresp="Olahus" type="insert">venationis
+                        speciem lento itinire <placeName>Posonium</placeName> venit, unde quando huc
+                        et quibus ex rationibus venerimus, non est tibi incognitum. Vale et me
+                        ama.</add></p>
+                <p xml:id="p.13">
+                    <add corresp="Olahus" type="insert"><placeName>Bruxellae</placeName> decima
+                        Martii 1532.</add>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

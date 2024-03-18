@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">143</title>
+                                <title key="body" n="143" type="main">Miklós Oláh to Jan Dantyszek
+                                        (Linz, 15 February 1531)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15310215_1</idno>
+                                <idno type="ITIdata">Q472715</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15310215_1.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        125–126; <hi rend="smallcap">Skolimowska</hi>–<hi
+                                                rend="smallcap">Turska</hi> 2010, IDL 1718.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >142–143.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">143</biblScope>
+                                        <biblScope unit="page">205–206.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Linz<idno type="ITIdata">Q22537</idno></placeName>
+                                <date when="1531-02-15">15 February 1531</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>Jan Dantyszek<idno type="ITIdata"
+                                                >Q470292</idno></persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Miklós Oláh to Jan Dantyszek (Linz, 15 February
+                                        1531)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1"> 1. He knows well how benevolent
+                                                  Dantyszek is towards everyone and cannot resist
+                                                  anyone’s pleas, thus he has accomplished that
+                                                  everyone loves and respects him. Therefore, he
+                                                  should not let anyone accuse him of having
+                                                  changed. 2. Iodocus, who used to be so nice, has
+                                                  offended him several times, but now he is saying
+                                                  that it was not for ill will, but due to
+                                                  misunderstanding; it will be of great credit to
+                                                  Dantyszek if he can forgive this.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15310215_1_1.jpg"/>
+                                <p xml:id="p.1">Nicolai Olai ad Ioannem episcopum.<note
+                                                type="critic" xml:id="note.1">Jan Dantyszek,
+                                                according to the critical edition of his
+                                                correspondence, see <hi rend="smallcap"
+                                                  >Skolimowska–Turska</hi> 2010.</note></p>
+                                <p xml:id="p.2">[1.] Non sum nescius, quibus semper beneficiis ac
+                                        ornamentis affeceris eos, qui tui nominis fuerunt
+                                        observantes, et non eos <choice>
+                                                <orig>nos</orig>
+                                                <supplied>modo</supplied>
+                                        </choice>, sed etiam qui te saltem nosse cupierunt. Huius
+                                        rei causa scio eam stare nunc quoque naturam tuam et
+                                        consuetudinem, ut omnibus sis ad benefaciendum propensus, et
+                                        neminem patiaris tuum patrocinium implorantem, quem non
+                                        admittas, quem non subleves, cui non adsis omni quo possis
+                                        auxilio. His igitur tuis moribus, Praesul Amplissime, <choice>
+                                                <orig>haec</orig>
+                                                <supplied>hac</supplied>
+                                        </choice> tua natura et aliis, quibus imprimis auctus
+                                        ornatusque es, virtutibus, promeritus es, ut ab omnibus
+                                        ameris, orneris et summis extollaris laudibus. Non patiare
+                                        igitur, ut unicus reperiatur, qui praedicare possit, te tui
+                                        factum esse dissimilem, et </p>
+                                <pb facs="15310215_1_2.jpg"/>
+                                <p xml:id="p.3">te consuetudinis humanae esse oblitum.</p>
+                                <p xml:id="p.4">[2.] <persName>Iodocus</persName><note type="critic"
+                                                xml:id="note.2">Probably Justus Ludwik Decjusz or
+                                                Jakob Ludwig Dietz (ca. 1485–1545), royal envoy to
+                                                Italy, merchant, historian, reformer of the Polish
+                                                monetary system. He was Royal Secretary between
+                                                1520–1524, later in 1528 Cracow town Councillor, in
+                                                1528 alderman in Piotrków, between 1526–1535
+                                                Administrator of the Royal Mint in Kaliningrad, see
+                                                  <hi rend="smallcap">Skolimowska–Turska</hi> 2010,
+                                                Person #70.</note> tuus olim necessarius tibique
+                                        maxime carus, etsi non leviter contra te deliquerit et tuam
+                                        consuetudinem plurimum offenderit, tamen cum nunc poeniteat
+                                        se sui delicti, et errore quodam non malitia se quod fecit
+                                        commisisse confiteatur. Non exiguae certe laudis et gloriae
+                                        tibi accesserit, Pater Inclyte, si id factum qualecumque
+                                        sit, sive errore, sive imperitia commissum ei condonaris.
+                                        Fac igitur, ut unius culpa ab insigni tua aliis semper
+                                        benefaciendi natura, ab optimis tuis, quibus semper omnibus
+                                        placuisti, moribus te non abducat. Et si multos tibi
+                                        adversantes et aemulos tua virtute, pietate et industria
+                                        vicisti, te ipsum quoque unice plusque tribuas aliorum
+                                        iudiciis de te olim fiendis, quam tuis affectibus, ex aliqua
+                                        nunc praesenti contractis animi commotione. Id si feceris
+                                        nimirum, amplitudini et gloriae tuae non parum consules.
+                                        Vale et me ama.</p>
+                                <p xml:id="p.5">Ex <placeName>Lincio</placeName> XV. Februarii
+                                        MDXXXI.</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

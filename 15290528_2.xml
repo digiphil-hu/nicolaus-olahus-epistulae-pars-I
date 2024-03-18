@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">10</title>
+                <title key="body" n="10" type="main">Miklós Oláh to Johann Ludwig Brassicanus
+                    (Znojmo, 28 May 1529)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15290528_2</idno>
+                <idno type="ITIdata">Q472582</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15290528_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 9.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        600. </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1963,
+                        194; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1166–1167.</p>
+                    <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap">Nagy</hi> 2022,
+                        42–43.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">6.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">10</biblScope>
+                    <biblScope unit="page">62–63.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Znojmo<idno type="ITIdata">Q16940</idno></placeName>
+                <date when="1529-05-28">28 May 1529</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Johann Ludwig Brassicanus<idno type="ITIdata"
+                        >Q470335</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Johann Ludwig Brassicanus (Znojmo, 28 May
+                    1529)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">Brassicanus recommended Polyphemus as the servant of
+                            Erasmus: for him the name Erasmus is ample recommendation, whose virtues
+                            he cannot but admire and praise, and at Brassicanus’ behest he will
+                            indeed write him a letter. He hopes that the brothers will write good
+                            things about him to Erasmus.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15290528_2_1.jpg"/>
+                <p xml:id="p.1">Ad <persName>Iohannem Brassicanum</persName><note type="critic"
+                        xml:id="note.1">Johann Ludwig Brassicanus (1509–1549) was a philologist,
+                        jurist, an advisor to the Habsburg Monarchy and the younger brother of
+                        Johann Alexander Brassicanus, the famous professor of the University of
+                        Tübingen. Both of them were in Vienna at this time.</note> responsio. </p>
+                <p xml:id="p.2">Quod tu Erasmi famulum, mi Brassicane, mihi tantopere commendas,
+                    facis tu quidem amici officium, qui soleas facere amicos apud me commendatos, et
+                    tua igitur commendatione, et <persName>Erasmi</persName> nomine fuit
+                        <persName>Poliphemus</persName><note type="critic" xml:id="note.2">Felix Rex
+                        (†1549) worked at the Froben printing house in Ghent. Erasmus gave him the
+                        nickname Polyphemus and prepared his <hi rend="italic">Cyclops</hi> at Rex’
+                        request. Rex often delivered Erasmus’ letters, e.g. he handed over the <hi
+                            rend="italic">Vidua Christiana</hi> to Queen Mary of Habsburg, see <hi
+                            rend="smallcap">Allen</hi> 1934, 99. Although he had good
+                        recommendations, such as from Luther and Melanchthon, he did not find a
+                        proper patron until 1534. That year he went to Prussia with Dantyszek and
+                        attended on Duke Albert of Prussia. He became the first librarian of the
+                        University of Kaliningrad, see <hi rend="smallcap">Allen</hi> 1934, 99, and
+                            <hi rend="smallcap">Roersch</hi> 1910, 83–99. Felix Rex arrived to
+                        Znojmo around 28 May, 1529, after he had met Brassicanus in Vienna. He spent
+                        the whole winter in Bohemia. For more, see Erasmus Ep. 2130. Felix Rex to
+                        Erasmus, <hi rend="smallcap">Allen</hi> 1934, 99.</note> satis apud me
+                    commendatus, saneque cognovit nec tuam commendationem, nec domini sui amorem,
+                    quo illi iampridem ob <del corresp="Olahus">suas divinas</del><add
+                        corresp="Olahus" type="corr">eius magnas</add> virtutes, ut tu te scis,
+                    mirifice sum devinctus, apud me fuisse vulgarem, quibus in rebus indiguit meae
+                    operae, liberaliter eam est expertus, quod ab eo, dum ad te venerit, intelliges.
+                    Erasmi virtutes non in hemicyclo, ut tu scribis, solum, sed in aliis <add
+                        corresp="Olahus" type="insert">quoque</add> omnibus locis, dum fuit usus,
+                    mirifice celebravi. Est enim dignum, ut ab omnibus rara ipsius virtus, et
+                    divinum ingenium praedicetur. At cur ego illius virtutes, doctrinam et miram
+                    eruditionem non suspicerem? Qui a tot illustribus viris et celebratus iam olim
+                    est, et nunc quoque in ore bonorum omnium versatur? Viderer, ni id facerem,
+                    omnium esse incivilior, daturus sum ad eum meas, ut tu cupis, litteras. </p>
+                <p xml:id="p.3"> Tu et <persName>frater tuus</persName><note type="critic"
+                        xml:id="note.3">Johann Alexander Brassicanus (ca. 1500–1539) German humanist
+                        author and a famous professor of the University of Tübingen. For more see
+                            <hi rend="smallcap">Guenther</hi> 1985c.</note> scient, quid de me <del
+                        corresp="Olahus">illi</del><add corresp="Olahus" type="corr">ad illum</add>
+                    scribant. Credo ambos, quae vera erunt scripturos, non est opus, cur vos
+                    scriptionis admoneam, satis superque mei nominis observantissimos et mihi
+                    amicissimos. Vale. </p>
+                <p xml:id="p.4"><placeName>Znoymae</placeName> 28. Maii 1529. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

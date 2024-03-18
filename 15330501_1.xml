@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">358</title>
+                <title key="body" n="358" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    1 May 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330501_1</idno>
+                <idno type="ITIdata">Q472930</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330501_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic"> Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 355–357.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu
+                        </hi>1974, 275–279; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1676–1685.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330412_2" type="url">352</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >475–477.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">358</biblScope>
+                    <biblScope unit="page">473–475.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1533-05-01">1 May 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 1 May 1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. The Queen has been unwell for a month now, she has
+                            heart problems and fever as well. About the news: they already knew
+                            about Hieronymus of Zara’s letter, the dissolution of the assembly, etc.
+                            The situation of the border castles in the South is doubtful. They have
+                            heard that Count of Salm has returned. 2. He has received Brodarics’
+                            letter. The majority of his possessions are in the hands of robbers who
+                            pretend to be King Ferdinand I’s men. It will be better if he does not
+                            tell the Queen that Oláh is planning to return home, he does not want to
+                            prematurely scare her with it. 3. King Henry VIII, having sent Catherine
+                            of Aragon away, has married Anne Boleyn.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330501_1_1.jpg"/>
+                <p xml:id="p.1">Nicolai Olai ad Cornelium Scepperum responsio.</p>
+                <p xml:id="p.2">[1.] Maximo gaudio affectus fui, mi Corneli, cum tuas litteras his
+                    diebus accepissem, quas iam a multo tempore summo desiderio exspectabam. Hae nos
+                    de omnibus rebus, quae istic actae sunt et publice et privatim, tam diligenter
+                    et aperte edocuerunt, ut nihil ulterius desiderare potuerimus, habeo tibi
+                    gratias cumulatas, qui tam officiosum praestare te sis solitus in rebus et
+                    publicis perscribendis et meis privatis procurandis. <persName>Maiestas
+                        reginalis</persName> a mense iam fere uno aegrotare coeperat, et nescio, qua
+                    cordiana passione et febre statis temporibus <choice>
+                        <orig>vigebatur</orig>
+                        <supplied>urgebatur</supplied>
+                    </choice>. Quae tamen convaluerat diebus aliquot, sed rursus postea
+                    recidivaverat, et hoc triduo meliuscule se habere coepit, ut eam speremus Deo
+                    volente pristinam propediem recuperaturam sanitatem. Ego ei licet imbecilli
+                    adhuc tamen communicavi omnia tua scripta, quae illis et etiam litteris
+                        <persName>Ferdinandi regis</persName> domini mei clementissimi, quae per
+                    idem fere tempus advenerant, mirum in modum fuit recreata. Nihil magis
+                    desiderans, quam fratris commodum, regni </p>
+                <pb facs="15330501_1_2.jpg"/>
+                <p xml:id="p.3">Hungariae quietem ac firmam pacem.</p>
+                <p xml:id="p.4">De litteris <persName>Hieronimi a Zara</persName>,<note
+                        type="critic" xml:id="note.1">Hieronymus of Zara.</note> de conventu
+                    Posoniensi dissoluto, de nuntii Turcarum adventu iam antea eramus certiores
+                    facti. Quae tibi <persName>Brodericus</persName> et alii
+                        <persName>Ioannis</persName> commissarii de mente domini sui explicuerint,
+                    videntur esse verisimilia. Nam credo illum per eos, quos scribis omnes, si eos
+                    bene noverim amantes pacis salutisque <placeName>Hungariae</placeName> inductum
+                    fuisse, ut publici potius boni, quam privati sui habeat rationem. Quare etiam
+                    nunc videretur esse non inconsultum, si cum eo aliquid tractari et finiri
+                    posset, ut habita aliqua honoris sui ratione <placeName>Hungariam</placeName>
+                    regi relinqueret. Et cum Turca per occasionem restituendae
+                        <placeName>Coronis</placeName>,<note type="critic" xml:id="note.2"
+                        >Koroni.</note> de remissione <placeName>Nandor Albae</placeName>,
+                        <placeName>Sabacz</placeName>, <placeName>Titulii</placeName>,
+                        <placeName>Varadini Petri</placeName><note type="critic" xml:id="note.3"
+                        >Belgrade, Šabac, Titel, and Petrovaradin, see Ep.
+                            343.<ref>olahus.tei.15330327_1</ref></note> ac aliarum arcium a nobis
+                    occupatarum ageretur, inireturque his recuperatis foedus inter
+                        <persName>caesarem</persName> et <persName>pontificem</persName> et
+                        <persName>regem</persName> eo ordine, ut tu scribis, et ut oblatae sunt
+                    conditiones pacis. Quod si futurum esset, quid melius regi ad imperium
+                    Hungaricum stabiliendum contingere posset, sed fortasse inquies Turcam non posse
+                    induci, ut <placeName>Nandoralbae</placeName> cedat, fateor illum eam arcem
+                    magni aestimare, credoque eum omnia prius tentaturum, quam ad id consentiat, sed
+                    certe in <placeName>Peloponeso</placeName> non parvo fieri poterit ei quoque
+                    nocumento <placeName>Coronis</placeName> amissio, quae utpote nostris praebet
+                    portam libere semper invadendi illius dominia. Si igitur videret regem
+                    concordasse cum <persName>Ioanne</persName>, et se non habere occasionem, qua
+                    repetere posset <placeName>Coronem</placeName>, fortasse leniorem se praebiturus
+                    esset ad <placeName>Albae</placeName> remissionem. <persName>Comitem de
+                        Salm</persName><note type="critic" xml:id="note.4">Niklas II, Count of
+                        Salm.</note> et a <persName>pontifice</persName> et
+                        <persName>caesare</persName><del corresp="Olahus">ad vos rediisse
+                        optata</del><add corresp="Olahus" type="corr">optata</add> relatione <del
+                        corresp="Olahus">ad vos rediisse</del> audivimus; utinam res cito
+                    transigatur, et ex animi nostri sententia.</p>
+                <p xml:id="p.5">[2.] Litteras<note type="critic" xml:id="note.5">Ep.
+                            334.<ref>olahus.tei.15330308_1</ref></note><persName>Broderici</persName>
+                    accepi inter alias litteras mei <persName>sacellani</persName>,<note
+                        type="critic" xml:id="note.6">János Czeglédi.</note> ad quas tam subito
+                    rescribere non potui, cum nuntius repentinam abitionem pararet. Meas res tuae
+                    iamdudum commendavi, mi Frater, fidei et patrocinio et nunc quoque singulariter
+                    commendo, quas scio tua sollicitatio bonum finem habituras, si rex uti imperio
+                    voluerit, praedonesque <note type="critic" xml:id="note.7">Namely, Bálint Török
+                        and János Bodó.</note> illos, qui sub nomine suae maiestatis aliorum bona
+                    detinent, et tam divina, quam humana vexant, facile a maleficiis prohibere
+                    poterit, ego quoque mea rehabebo. Nam maior meorum bonorum pars, ut credo te iam
+                    intellexisse, est in manibus eorum, qui sub umbra et nomine regis sunt hactenus
+                    latrocinati, et <del corresp="Olahus">dotari</del><add corresp="Olahus"
+                        type="corr">ditari</add> per omne scelus quaesiverunt. Agendum igitur erit,
+                    ut e faucibus eorum illa extrahantur. Quod fiet, si rex litteras suas, quibus me
+                        <del corresp="Olahus">consecravit huc</del></p>
+                <pb facs="15330501_1_3.jpg"/>
+                <p xml:id="p.6"><add corresp="Olahus" type="insert">assecuravit huc</add> huc
+                    venientem, uti in hoc non dubito, observaverit, quarum exemplum te habere puto.
+                    Aut si res agenda erit apud Ioannitas, ut tempus postulaverit, tu me, qui sum
+                    longius, commodius et melius statues, quid cum illorum commissariis maxime cum
+                        <persName>Broderico</persName> et <persName>Nadasdy</persName> sit agendum.
+                    A me hic nemo meum et tuum negotium intelliget. Nam uti tu, <add
+                        corresp="Olahus" type="insert">ita</add> et ego <del corresp="Olahus"
+                        >ita</del> cupio rem adhuc esse secretam. Nollem enim ante tempus reginam
+                    intelligere me ab ea parare abitionem, fac igitur de litteris commendaticiis,
+                    quod e mea et tua re esse videbitur. Mihi tamen, si meum vis habere consilium,
+                    videtur, quod non esset bonum, si <del corresp="Olahus">in specie</del><add
+                        corresp="Olahus" type="corr">singulare</add> de me aliquid explicares,
+                    propter eam, quam praedixi causam. Nam nec regem nec
+                        <persName>reginam</persName> vellem aliquid tale de me ante tempus <del
+                        corresp="Olahus">scire</del><add corresp="Olahus" type="corr"
+                        >suspicari</add>, praesertim cum <del corresp="Olahus">non temore
+                        suspicer</del><add corresp="Olahus" type="corr"
+                        >sciam</add><persName>reginam</persName> non valde abhorrere ab
+                        <placeName>Hungaria</placeName>, cuius est nunc quoque cupidissima ad breve
+                    tempus solatii gratia adhuc revisenda, si pax futura esset. Haec tibi mihi
+                    amicissimo soli scribo. Nollem aliis esse nota. Tu tamen videris, quid melius in
+                    his sit facto. Et <del corresp="Olahus">quid</del><add corresp="Olahus"
+                        type="corr">quicquid</add> absque meo et tuo incommodo fieri poterit, fac.
+                    Quicquid iam aut <del corresp="Olahus">est</del> cum Ioanne <del
+                        corresp="Olahus">sive</del><add corresp="Olahus" type="corr">aut</add> cum
+                    Turca <del corresp="Olahus">aut</del><add corresp="Olahus" type="corr">actum est
+                        vel</add> adhuc agatur, fac rogo nos certiores. Heri allatae sunt ad me
+                    litterae <del corresp="Olahus">ex Brugis a coniuge tua amantissima</del><add
+                        corresp="Olahus" type="corr">coniugis tuae amantissimae</add>; eas ad te cum
+                    praesentibus mitto. Scripsi ad eam secundo statim die, cum tuas accepissem te
+                    sanum esse et felicem. Quaesivi etiam <persName>Iohannem
+                        Langhium</persName>,<note type="critic" xml:id="note.8">John de
+                        Lange.</note> an litteras tuas ad eam misisset, dixit se illas misisse. Nunc
+                    rursus Flandrenses tui huc venerunt, curant negotia illa Danica, Australia,
+                    nonnullaque eorum gravamina.</p>
+                <p xml:id="p.7">[3.] <persName>Regem Angliae</persName><note type="critic"
+                        xml:id="note.9">King Henry VIII (1491–1547) was King of England from 1509
+                        until his death.</note> repudiata <persName>Catharina</persName><note
+                        type="critic" xml:id="note.10">Catherine of Aragon (1485–1536).</note>
+                    regina nuptias iam suas solemniter peregisse cum matrona
+                        <persName>Anna</persName>,<note type="critic" xml:id="note.11">Anne Boleyn
+                        (1501–1536).</note> quam tenerrime multos annos deperibat scio te audivisse,
+                    quae, ut dicitur, ad festum Georgii<note type="critic" xml:id="note.12">In
+                        Hungary, we celebrate this feast on 24 instead of 23 April.</note> coronari
+                    debuit. Titulus reginae <persName>Catharinae</persName><del corresp="Olahus"
+                        >abolitus est</del><add corresp="Olahus" type="corr">verus mutatus
+                    est</add>, nominatur per totam <placeName>Angliam</placeName> vidua principis
+                    illius, cui prius erat, ut scis, despondata. Vale et scribe frequenter.</p>
+                <p xml:id="p.8"><placeName>Bruxellis</placeName> prima Maii 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

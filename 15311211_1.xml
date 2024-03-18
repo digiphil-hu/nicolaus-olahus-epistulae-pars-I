@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">190</title>
+                <title key="body" n="190" type="main">Erasmus of Rotterdam to Miklós Oláh (Freiburg
+                    im Breisgau, 11 December 1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15311211_1</idno>
+                <idno type="ITIdata">Q472762</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15311211_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 174–175; <hi
+                        rend="smallcap">Allen</hi> 1938, 399–403.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In English:</hi><hi rend="smallcap">Estes–Fantazzi</hi>
+                        2017, 251–252.</p>
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        636–637.</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1963,
+                        159–160; <hi rend="smallcap">Albu–Capoianu</hi> 1974, 101–103; <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1292–1297. </p>
+                    <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap">Škoviera</hi> 2008,
+                        84–85.</p>
+                </note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15320212_1" type="url">210</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >228–229.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">190</biblScope>
+                    <biblScope unit="page">261–262.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Freiburg im Breisgau<idno type="ITIdata">Q23176</idno></placeName>
+                <date when="1531-12-11">11 December 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Erasmus of Rotterdam to Miklós Oláh (Freiburg im Breisgau, 11
+                    December 1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He never doubted Oláh’s goodwill, and if he is not
+                            receiving any letters from such good friends, he still trusts them.
+                            Felix Rex has left Augsburg, and he said that Oláh would be writing, but
+                            he has not received anything since then, something must have come up. 2.
+                            He has recommended Lieven Algoet to the Queen’s attention, Lieven would
+                            like to serve her, even though he is better suited for secretarial
+                            tasks. 3. Erasmus’ foot does not hurt any more, now his stomach hurts
+                            instead. He often thinks that he should return to Brabantia, and he was
+                            much relieved that Zwingli and Oecolampadius are dead.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15311211_1_1.jpg"/>
+                <p xml:id="p.1">Erasmus Roterodamus Nicolao Olao thesaurario Albensi.</p>
+                <p xml:id="p.2">[1.] Ego vero de Olai mei in me singulari benevolentia nunquam
+                    dubitavi, nec mei moris est officio litterarum metiri amicitiam. Scribunt et,
+                    qui parum benevolunt, Erasmo. A tui similibus amicis, ut gratissimum est venire
+                    litteras, ita facile patior non venire, videlicet de animo illorum securus.
+                        <persName>Polyphemus</persName><note type="critic" xml:id="note.1">Felix
+                        Rex.</note><placeName>Augustam</placeName><note type="critic"
+                        xml:id="note.2">Augsburg.</note> relicturus perscripsit ad me, quo in statu
+                    esset; quo locorum se contulerit, nescio. Pollicitus est se significaturum, sed
+                    hactenus non fecit. Extorserat litteras ab amicis quasi recta ad me profecturus,
+                    nec venit. Litteras commiserat cuidam <persName>Dominicano</persName><note
+                        type="critic" xml:id="note.3">Allen could not identify him, conceivably he
+                        is Dominicus de Mussis, see <hi rend="smallcap">Allen</hi> 1938,
+                        399.</note><placeName>Ulmae</placeName>, quae tamen bona quapiam fortuna,
+                    per Dominicum mihi redditae sunt. <persName>Polyphemus</persName> significarat
+                    te quoque scripturum, sed nihil est redditum ab Olao. Suspicor te pollicitum
+                    scribere, sed aliquid incidisse, quo minus factum sit, quod erat in animo.</p>
+                <p xml:id="p.3">[2.] Verum hic, mi Nicolae, nihil est, quod excuses, persuasissimum
+                    habeto istud tam candidum ingenium nusquam caesare in officio, quoties usus est.
+                    Dum mea in te officia verbis exaggeras, non recedis a candore tuo genuino. Quod
+                    si quid egregium de te meritus essem, in praesentia nihil aliud ab te possim
+                    petere, nisi ut pergas Olaus esse. Hoc enim nomen omnia amicitiae officia semel
+                    complectitur, quemadmodum ille uno adverbio regaliter putabat omnia contineri.
+                        <persName>Levinum</persName><note type="critic" xml:id="note.4">Lieven
+                        Algoet of Ghent or Livinus Panagathus (†1547) entered the service of Erasmus
+                        at Leuven in 1519. “From 1531 Erasmus spared no effort to secure him a place
+                        in the entourage of Mary of Habsburg, recommending him to (...) Nicolaus
+                        Olahus, who did in fact appoint him his secretary.” Erasmus’ letter to Queen
+                        Mary of Habsburg, see <hi rend="smallcap">Allen</hi> 1938, 400–401. For more
+                        on his life, see <hi rend="smallcap">Bierlaire</hi> 1985.</note> meum
+                        <persName>reginae Mariae </persName>commendavi, in cuius familiam ille miro
+                    quodam affectu cupit adscribi, nec satis video, quam ob rem. Ei quaeso, ut non
+                    desis, si modo videbitur idoneus loco, quem ambit, mihi ob ingenium ac litteras
+                    videtur ad secretarium munus appositior.</p>
+                <p xml:id="p.4">[3.] Pedis cruciatus me intra triduum reliquit, sed successit
+                    stomachi proluvium, quod tamen Deus bene cessit. Ceterum dum per salutatores non
+                    licet servire corpusculo, recidi in aliud malum, quod et ipsum me statim
+                    reliquit, postea stomachus meliuscule coepit habere, quam habuerat antea. Spero
+                    has aedes posthac mihi futuras aliquanto prosperiores.</p>
+                <p xml:id="p.5">Ad te non scripsi saepius, quod incertus essem an etiam num in
+                    reginae famulitio viveras, nam <choice>
+                        <orig>Levinae</orig>
+                        <supplied><persName>Levini</persName></supplied>
+                    </choice> litterae mihi sero redditae sunt. Non semel cogitavi de
+                        <placeName>Brabantia</placeName> repetenda, sed amici quidam fuerunt
+                    authores, ut hic tantisper haererem, donec istic res per caesarem essent
+                    compositae. </p>
+                <pb facs="15311211_1_2.jpg"/>
+                <p xml:id="p.6">Hic magno metu liberati sumus, extinctis duobus ecclesiastis,
+                        <persName>Zvinglio</persName> et <persName>Oecolampadio</persName>,<note
+                        type="critic" xml:id="note.5">Ulrich Zwingli (1484–1531) and Johannes
+                        Oecolampadius (1482–1531) were Helvetic reformers.</note> quorum interitus
+                    incredibilem plerisque attulit animorum mutationem. Haec est nimirum Dei manus
+                    excelsa, quae utinam quod coepit, perficiat ad sui nominis gloriam. Bene
+                    vale.</p>
+                <p xml:id="p.7">Datum <placeName>Friburgi</placeName> XI. die Decembris anno
+                    1531.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

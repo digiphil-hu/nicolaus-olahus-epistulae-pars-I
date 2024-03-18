@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">99</title>
+                <title key="body" n="99" type="main">Miklós Oláh to Joannes Venceslaus (Augsburg, 14
+                    October 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301014_1</idno>
+                <idno type="ITIdata">Q472671</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301014_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 92.</note>
+                <note type="translation"><hi rend="italic">In Slovakian:</hi><hi rend="smallcap"
+                        >Nagy</hi> 2022, 110–111.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">94–95.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">99</biblScope>
+                    <biblScope unit="page">161.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
+                <date when="1530-10-14">14 October 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Joannes Venceslaus</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Joannes Venceslaus (Augsburg, 14 October
+                    1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> He will retreat for a few months to concentrate on the
+                            holy letters. He therefore requests that Venceslaus send him the works
+                            of St. Ambrose, Augustine, Origen, and Chrysostom that they wrote as
+                            commentaries to St. Paul’s letters.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301014_1_1.jpg"/>
+                <p xml:id="p.1">Ad Ioannem Venceslaum<note type="critic" xml:id="note.1">We do not
+                        know him more closely.</note> amicum.</p>
+                <p xml:id="p.2">Aliquot mensibus daturus sum operam sacris litteris et hanc ob rem
+                    his temporibus hibernis concessi in villam optimi principis nostri. Utinam me id
+                    facere licuisset te comite, mi Ioannes, et duce Paulo<note type="critic"
+                        xml:id="note.2">St. Paul.</note> utemur tamen ut in aliis, ita in hac re
+                    vulgato illo proverbio: <quote xml:id="quote.1">quando non possis, quod velis,
+                        id facias, quod possis.</quote><note type="quote" xml:id="note.quote.1">Cf.
+                        Erasm. <hi rend="italic">Adag.</hi> III,VI,4: “Quando id fieri non potest”
+                        and after this sequence Erasmus cites Ter. <hi rend="italic">And.</hi>
+                        304–305: “quoniam non potest id fieri quod vis, / id velis quod possit.” and
+                        according to the editors of Erasmus’ works, he translates it into Greek, see
+                            <hi rend="smallcap">Mynors</hi> 1992, 126.</note> Tui est in me amoris
+                        <persName>Petrum Iacobum</persName><note type="critic" xml:id="note.3"
+                        >Probably <hi rend="italic">De cognominibus deorum</hi> of Pietro Giacomo
+                        (Eritrei) da Montefalco, 1525.</note> urgere, ut me libris aliquot <del
+                        corresp="Olahus">illustram</del><add corresp="Olahus" type="corr"
+                        >illustret</add>. Ambrosium<note type="critic" xml:id="note.4">Aurelius
+                        Ambrosius, better known as St. Ambrose (ca. 340–397), was one of the most
+                        influential ecclesiastical persons of the late antiquity. We do not know
+                        which of his works Oláh needed, but it could have been the so-called <hi
+                            rend="italic">Ambrosiaster</hi>, a brief commentary on Paul's Epistles,
+                        which had long been attributed to Ambrose.</note>, Augustinum<note
+                        type="critic" xml:id="note.5">Augustinus, St. Augustine of Hippo (354–430)
+                        was an early Christian theologian and philosopher. Oláh needed his works <hi
+                            rend="italic">Commentarius in epistulam Pauli ad Romanos</hi> and <hi
+                            rend="italic">Commentarius in epistulam Pauli ad Galatos.</hi></note>
+                    mittat rogo in Paulum, petat a Paulo Originem<note type="critic" xml:id="note.6"
+                        >Origenes, or Origen Adamantius (184/185–253/254) was a Greek scholar and
+                        early Christian theologian. Olahus needed his <hi rend="italic">Commentarius
+                            in Epistolam Pauli ad Romanos,</hi> probably in the translation of
+                        Rufinus.</note> in Paulum, et pro me fide iubeat, non decipietur. Si fieri
+                    poterit, mittantur Origenis <hi rend="italic">Homiliae</hi>, una quas habet
+                        <persName>Andreas Faber</persName>.<note type="critic" xml:id="note.7">We do
+                        not know him more closely.</note> Chrisostomum<note type="critic"
+                        xml:id="note.8">Chrysostomus, St. John Chrysostom (c. 349–407) was an early
+                        Church Father.</note> vel alium, qui in Paulum scripsit, mittite </p>
+                <pb facs="15301014_1_2.jpg"/>
+                <p xml:id="p.3">pariter ad me. Triduo post missurus sum vehiculum, quo hi libri
+                    vehantur. Interim cures, ut in eum diem libri sint parati, si Andreas Ioannesque
+                    vel alii me inviserint, cupidissime eos videbimus. Vale.</p>
+                <p xml:id="p.4">Ex <placeName>Augusta</placeName> XIIII. Octobris XXX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">238</title>
+                <title key="body" n="238" type="main">Giovanni Antonio da Burgio to Miklós Oláh
+                    (London, 10 July 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320710_1</idno>
+                <idno type="ITIdata">Q472810</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320710_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 220–221.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1102–1107.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >365–366.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">238</biblScope>
+                    <biblScope unit="page">317–318.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>London<idno type="ITIdata">Q291</idno></placeName>
+                <date when="1532-07-10">10 July 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Giovanni Antonio da Burgio<idno type="ITIdata"
+                        >Q470275</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Giovanni Antonio da Burgio to Miklós Oláh (London, 10 July
+                    1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. Although they are living in times when they do not
+                            have good news for each other, he was very happy to receive Oláh’s
+                            letter, from which he learned that Oláh is well and that the Emperor is
+                            preparing against the Turks. 2. He has received a letter from which he
+                            has learned that the Pope is sending his barely 23-year-old nephew as an
+                            envoy on the Emperor’s side to spy on the Turks, and he is taking 20,000
+                            infantrymen with him. Andrea Doria has acquired many good galleys, with
+                            which he can not only defend himself, but he can attack as well. He
+                            hears that the Sicilians have also collected money enough for 10,000
+                            men. 3. He does not have any news from Hungary, but he is expecting a
+                            letter from Mario one of these days, whom he made head of the Esztergom
+                            archdeaconry, but it is possible that he has returned to Italy due to
+                            the danger to his homeland, and that is why he has not heard from
+                            him.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15320710_1_1.jpg"/>
+                <p xml:id="p.1">Ioannes Anthonius Pulleon baro Burgii <add corresp="Olahus"
+                        type="insert">orator Apostolicus in Anglia</add> domino Nicolao Olaho
+                    secretario reginae Mariae.</p>
+                <p xml:id="p.2">[1.] Quamvis ea sint tempora, ut vix aliquid, quod delectet,
+                    nuntiare alter alterutri possimus, tamen maxima laetitia me affecere litterae
+                        tuae.<note type="critic" xml:id="note.1">This letter is not extant.</note>
+                    Cognovi enim ex eis prosperam valetudinem tuam et quonam praesidio praeparet
+                        <persName>caesar</persName> noster contra <persName>Turcarum
+                        tyrannum</persName> se defendere, quae etsi ex aliis intellexeram.
+                    Gratissimum tamen fuit ex te etiam intellexisse, tum quia ex te certiora et
+                    veriora omnia intelligi posse <choice>
+                        <orig>arbitrer</orig>
+                        <supplied>arbitror</supplied>
+                    </choice>, cum serenissimae <persName>reginae</persName> sis a secretis, tum
+                    quia iucundiora solent esse ea, quae ab iis, quos diligas, nuntiantur, quam si
+                    eadem ex vulgaribus amicis audias. Est ergo, quod tibi gratias agam. Quae hinc
+                    scribenda habeam, haec sunt.</p>
+                <p xml:id="p.3">[2.] Redditae mihi sunt litterae ex <placeName>Urbe</placeName> XXVI
+                    die mensis praeteriti datae, ex quibus cognovi s<persName>anctissimum dominum
+                        nostrum</persName><note type="critic" xml:id="note.2">Pope Clement
+                        VII.</note> destinavisse legatum de latere ad caesarem in illam expeditionem
+                    Turcicam reverendissimum <persName>cardinalem de Medicis</persName> suae
+                    sanctitatis nepotem,<note type="critic" xml:id="note.3">Giovanni Angelo Medici
+                        (1499–1565), the later Pope Pius IV (1559–1565).</note> iuvenem strenuum et
+                    industrium ac prudentem supra aetatem; attigit enim vix tertium et vigesium. Is
+                    secum adducet peditum Italorum et Hispanorum non contemnendam manum, quam
+                    dominus <persName>marchio de Quasto</persName> cogit undique per
+                        <placeName>Italiam</placeName>, dicunt ad XX millia peditum. Dominum
+                        <persName>Andream Doriam</persName><note type="critic" xml:id="note.4"
+                        >Andrea Doria (1466–1560) was an Italian condottiero and admiral of the
+                        Republic of Genua.</note> scribunt etiam coegisse bonum numerum triremum ac
+                    navium onerariarum, quarum praesidio putat non solum se </p>
+                <pb facs="15320710_1_2.jpg"/>
+                <p xml:id="p.4">posse facillime a Turcica classe defendere, sed si res poposcerit,
+                    ultro eam aggredi; audio et Siculos propria pecunia paravisse ad X millia
+                    peditum pro custodia et praesidio regni, ad quae omnia si accedent apparatus
+                    illi, quos tu scribis <persName>caesarem</persName> cogere, certe nobis
+                    sperandum est, quod hoc uno conflictu a <persName>tyrannide</persName> nobis
+                    imminente liberabimur, modo Deus dignetur preces nostras supplicantium admittere
+                    remque suam adiuvare, posthabitis sceleribus et impietatibus nostris, ob quae
+                    iure puniremur.</p>
+                <p xml:id="p.5">[3.] De <placeName>Hungaria</placeName> nihil certi habeo, quod ad
+                    te scribam, exspecto propediem litteras ex meo <persName>Mario</persName>,<note
+                        type="critic" xml:id="note.5">We do not know him more closely.</note> qui
+                    fuerat M. a secretis, quem te nosse arbitror. Is mea intercessione et opera
+                    obtinuerat archidiaconatum Strigoniensem, et ab eo tempore fuit
+                        <placeName>Strigonii</placeName><note type="critic" xml:id="note.6"
+                        >Esztergom.</note> vacans divinis, suo beneficio inserviens prius, ut par
+                    erat, eum nunc audio ob pericula imminentia illi patriae inde recessisse et
+                        <placeName>Italiam</placeName> pervenisse, a quo exspecto propemodum
+                    litteras copiosiores, si ex eius litteris aliquid intellexero, quod putem tibi
+                    non fore ingratum audire, curabo diligentissime tibi perferendum. Interea et
+                    cupio et opto assidue, me meaque servitia serenissimae
+                        <persName>reginae</persName> commendari, simul et accuratissime rogo, quod
+                    si cognoveris me <persName>maiestati suae</persName> inservire posse, ut id mihi
+                    significes, perficiam id sedulo, quantum in me erit.
+                        <persName>Lucretiae</persName> Italae nostrae meo nomine salutes impartias,
+                    et tu, ut soles, fraterno amore nos prosequaris, quia nos te mirum in modum
+                    amamus.</p>
+                <p xml:id="p.6">Ex <placeName>Londino</placeName> X. Iulii 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

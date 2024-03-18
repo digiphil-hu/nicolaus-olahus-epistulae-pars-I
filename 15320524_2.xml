@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">231</title>
+                                <title key="body" n="231" type="main">Miklós Oláh to Paulus comes
+                                        (Bruges, 24 May 1532)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15320524_2</idno>
+                                <idno type="ITIdata">Q472803</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320524_2.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy with Oláh’s
+                                                emendations.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        215.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >240–241.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">231</biblScope>
+                                        <biblScope unit="page">311.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Bruges<idno type="ITIdata">Q470203</idno></placeName>
+                                <date when="1532-05-24">24 May 1532</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>Paulus comes</persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Miklós Oláh to Paulus comes (Bruges, 24 May
+                                        1532)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1">He is constantly thinking about
+                                                  what he should do about his affairs, but it is not
+                                                  only that there is nothing he can do, but he does
+                                                  not even have hope, either. He is thinking about
+                                                  the misfortune of the homeland and those who
+                                                  should have looked after his affairs. He would
+                                                  gladly return home if he did not see the current
+                                                  troubles, and it is even possible that it would
+                                                  not be safe for him to return to King John I’s
+                                                  jurisdiction, since he had followed Queen Mary. If
+                                                  they had gracious princes, he would not have to be
+                                                  in such a situation; his only hope now is in
+                                                  God.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15320524_2_1.jog"/>
+                                <p xml:id="p.1">Ad Paulum comitem.<note type="critic"
+                                                xml:id="note.1">We do not know him more
+                                                closely.</note></p>
+                                <p xml:id="p.2">Cogitanti mihi in horas, quid mihi in rebus meis
+                                        esset faciendum, non modo nihil est, quod facere possim, sed
+                                        nec quicquam venit mihi in mentem, adeo rem meam omnem
+                                        turbatam esse video, ut nihil plus non modo agere, sed ne
+                                        sperare quidem in posterum possim. Una ex parte periculum
+                                        patriae obversatur mihi ante oculos, ex alia video me ab
+                                        his, a quibus deberem, et in quibus propter praeclaras
+                                        pollicitationes omnis spes mea posita erat, non ita curari,
+                                        ut aequum esset, meaque exigerent merita. Reverterer
+                                        perlibenter ad patriam, ni viderem illius praesentaneam
+                                        calamitatem vel potius ruinam. Accedit, quod nec tutum est
+                                        me illius <persName>Ioannis</persName> regis subdere
+                                        potestati secutus hactenus reginae meae et suorum imperium.
+                                        Quam ob rem si grati, ut deberent, principes essent, et
+                                        meorum <choice>
+                                                <orig>illius</orig>
+                                                <supplied>illis</supplied>
+                                        </choice> et diligenter et fideliter praestitorum
+                                        servitiorum meminissent, non proculdubio paterentur me hanc
+                                        pati conditionem, iam satis antea quoque continuis
+                                        cursitationibus extenuatum. Verum Deo optimo maximo, quod
+                                        unum extremumque miseris videtur spe refugium, ago habeoque
+                                        gratias maximas, qui pro meis erratibus me hoc modo emendare
+                                        voluerit. Spero illius <del corresp="Olahus"
+                                                >ruinam</del><add corresp="Olahus" type="corr"
+                                                >divinam</add> clementiam aliquando mihi propitiam
+                                        futuram, nonque me perpetuo </p>
+                                <pb facs="15320524_2_2.jpg"/>
+                                <p xml:id="p.3">in his sordibus rebus relicturam. Haec tibi
+                                        significare volui, ut, quo animo essem, intelligeres.
+                                        Vale.</p>
+                                <p xml:id="p.4"><placeName>Brugis</placeName> 24. Maii 1532.</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

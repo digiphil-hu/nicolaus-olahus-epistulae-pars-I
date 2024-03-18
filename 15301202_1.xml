@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">124</title>
+                <title key="body" n="124" type="main">Miklós Oláh to John Fisher (Grein, 2 December
+                    1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301202_1</idno>
+                <idno type="ITIdata">Q472696</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301202_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 112.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >119–120.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">124</biblScope>
+                    <biblScope unit="page">187.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Grein<idno type="ITIdata">Q470209</idno></placeName>
+                <date when="1530-12-02">2 December 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>John Fisher<idno type="ITIdata">Q470338</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to John Fisher (Grein, 2 December 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. In his previous letter he informed him about their
+                            journey and the inconveniences at the court. Many would have dissuaded
+                            him and would want him to stay at the court, but they will be
+                            disappointed. 2. Today they have reached Grein, and they could have
+                            pressed on, but sailing is both dangerous and shipwrecks are also
+                            common, and so he is rather going to ride on with the queen while the
+                            others are crossing the Danube.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301202_1_1.jpg"/>
+                <p xml:id="p.1">Ad eundem.</p>
+                <p xml:id="p.2">[1.] Scio te esse valde sollicitum pro nostra iam vetere amicitia,
+                    quid rerum agamus et ubi simus gentium. Nudiustertius tibi perscripseram,<note
+                        type="critic" xml:id="note.1">See Ep.
+                        123.<ref>olahus.tei15301130_1.</ref></note> qua navigatione pervenerimus ad
+                        <placeName>Lincium</placeName> magna certe et laboriosa. Ex quibus meis
+                    litteris te sane cognovisse arbitror, qua curiales teneantur anxietate </p>
+                <pb facs="15301202_1_2.jpg"/>
+                <p xml:id="p.3">et sollicitudine, dum aliorum nutus et voluntates observare
+                    cogantur; cuius rei causa bene tuis rebus est consultum, qui molestias curialium
+                    in omnibus rerum tuarum progressibus vitare curaveris, ut te domi continere
+                    volueris, hoc sane meum quoque esset propositum, si quem mihi fata statum
+                    quietum concederent. Non sum nescius multos me ab hac cogitatione avertere velle
+                    et optare, ut eorum rebus in curia inservire deberem, sed multum profecto eos
+                    sua voluntas fallet. Faciam enim, quod e re mea fore cognovero, et quid
+                    deliberaturus sim, faciam te postea certiorem.</p>
+                <p xml:id="p.4">[2.] Ultima Novembris, ut tibi antea scripsi, pervenimus ad Lincium,
+                    prima die Decembris toto istic die quievimus. Hoc primum die commisimus nos
+                    rursus navigationi, venimusque ad horam secundam postmeridianam ad
+                        <placeName>Grayn</placeName>, <persName>Ιulii comitis de
+                        Hardeck</persName><note type="critic" xml:id="note.2">Julius von Hardegg
+                        (1500–1559).</note> oppidum, navigare ulterius poteramus, sed ex composito
+                    hic residere voluimus. Nam rupes est utrimque ex Danubio non longe infra oppidum
+                    ita enata, ut inter duos veluti scopulos via quadam per angusta aqua non sine
+                    magno murmure defluat, qua via unica navis deferri potest. Quae si illam non
+                    teneat, nautaque sit ignarus navigationis, navis facile impingi scopulis
+                    poterit, navigantesque naufragium plerumque patiuntur. Noluit igitur regina loco
+                    hinc periculoso ad noctem non tantum se, quae animosior est ceteris et
+                    cordatior, quantum ceteras suas virgines et familiam committere, neque crastino
+                    die se committet. Praemissis enim navibus ipsa nobiscum una in ripa Danubii, dum
+                    alii pertranseant Danubii, hunc locum periculosum praeter­equitabit. Vale.</p>
+                <p xml:id="p.5">Ex <placeName>Grayn</placeName> secunda Decembris MDXXX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

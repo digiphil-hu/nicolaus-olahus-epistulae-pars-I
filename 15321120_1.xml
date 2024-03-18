@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">300</title>
+                                <title key="body" n="300" type="main">Miklós Oláh to Albert Peregi
+                                        (Binche, 20 November 1532)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15321120_1</idno>
+                                <idno type="ITIdata">Q472872</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15321120_1.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        263–264.</note>
+                                <note type="translation"><hi rend="italic">In Romanian:</hi><hi
+                                                rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                                        986–989.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >286–287.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">300</biblScope>
+                                        <biblScope unit="page">374–375.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Binche<idno type="ITIdata">Q470202</idno></placeName>
+                                <date when="1532-11-20">20 November 1532</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>Albert Peregi<idno type="ITIdata"
+                                                >Q470221</idno></persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Miklós Oláh to Albert Peregi (Binche, 20 November
+                                        1532)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1">He would write to Peregi more
+                                                  frequently if he had happier cause to. He
+                                                  remembers the old times, the predecessors with
+                                                  whom they served in Hungary. They used to live in
+                                                  happier times, when they were wanting for nothing
+                                                  that is necessary for happiness. They conducted
+                                                  public affairs with little effort and trouble, to
+                                                  everyone’s satisfaction. If he writes him less
+                                                  frequently, he should attribute it to the cruel
+                                                  times and the lack of good news. Indeed, what
+                                                  would have been dearer to him than writing to his
+                                                  old friend? Although Peregi also has a lot to do,
+                                                  there is nobody who is a lazier writer of letters,
+                                                  to clear himself of this stain he should write to
+                                                  him, as well as to others.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15321120_1_1.jpg"/>
+                                <p xml:id="p.1">Ad Albertum praepositum.</p>
+                                <p xml:id="p.2">Scriberem ad te, Amice Carissime, frequentius, si
+                                        laetius haberem argumentum, sed quid tibi nunc laeti
+                                        scribere possum, rebus omnibus ita turbatis, ut nihil supra
+                                        dici queat. </p>
+                                <pb facs="15321120_1_2.jpg"/>
+                                <p xml:id="p.3">Non possum non dolere nostras vices, qui in <choice>
+                                                <orig>hac</orig>
+                                                <supplied>haec</supplied>
+                                        </choice> tempora sordida, plenaque tumultibus incidimus.
+                                        Meminimus exactorum temporum, recordamur superiorum
+                                        nostrorum, quibus in Hungaria servivimus. Hi tam felicibus
+                                        usi sunt temporibus, ut nihil eis visum sit defuisse, quod
+                                        ad felicitatem pertinuerit. Parvo labore, <choice>
+                                                <orig>minina</orig>
+                                                <supplied>minima</supplied>
+                                        </choice> cura et opera res publicas, quibus praefecti
+                                        erant, tam laudabiliter ex omniumque sententia gesserunt, ut
+                                        eorum tempestate πράγματα κοινά<note type="critic"
+                                                xml:id="note.1">‘public affairs’.</note> maximum
+                                        laudis apud omnes sint consecuta. Mirari te fortasse ais, id
+                                        unde acciderit. Ex <choice>
+                                                <orig>temporibus</orig>
+                                                <supplied>temporum</supplied>
+                                        </choice> felicitate illorumque prudentia, qui sua prae his,
+                                        quae ad rempublicam spectarunt, neglectui habuerunt.</p>
+                                <p xml:id="p.4">Quare, mi Frater, si rarius ad te scribo, tum
+                                        iniquitati id temporum, tum inopiae rerum <choice>
+                                                <orig>bonorum</orig>
+                                                <supplied>bonarum</supplied>
+                                        </choice>, de quibus scribere deberem, si sapis, tribuito.
+                                        Quid enim mihi homini ab ineunte aetate scriptioni assueto
+                                        posset esse aut suavius aut delectabilius, quam ad te
+                                        scribere, hominem mihi amicum et a primis annis mihi magna
+                                        coniunctum benevolentia? Ut tamen tu <choice>
+                                                <orig>ab</orig>
+                                                <supplied>ob</supplied>
+                                        </choice> raritatem mearum litterarum de me queri potes, ita
+                                        ego nonnihil te <choice>
+                                                <orig>accusa</orig>
+                                                <supplied>accuso</supplied>
+                                        </choice>, ut cum plus et otii et rerum novarum habeas, quam
+                                        ego, utpote in Hungaria constitutus, ubi quotidie multa
+                                        emergant <choice>
+                                                <orig>situ</orig>
+                                                <supplied>scitu</supplied>
+                                        </choice> digna. Tamen neminem ex nostratibus video, qui ad
+                                        scribendum te sit negligentior. Quam notam abstergere
+                                        poteris, si et ad me et ad alios tuos frequentius, quam
+                                        solitus es, scripseris. Vale.</p>
+                                <p xml:id="p.5"><placeName>Binsii</placeName> 20. Novembris
+                                        1532.</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

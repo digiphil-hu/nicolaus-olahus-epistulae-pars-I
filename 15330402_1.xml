@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">347</title>
+                <title key="body" n="347" type="main">Cornelis de Schepper to Miklós Oláh (Vienna, 2
+                    April 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330402_1</idno>
+                <idno type="ITIdata">Q472919</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330402_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                    <p><hi rend="italic">Published:</hi><hi rend="smallcap">Ipolyi</hi> 1875,
+                        330–346.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330307_1" type="url">333</ref>
+                        <ref target="15330309_1" type="url">337</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >461–475.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">347</biblScope>
+                    <biblScope unit="page">449–463.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
+                <date when="1533-04-02">2 April 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Vienna, 2 April 1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He was very happy to receive Oláh’s letter, and he
+                            did not respond before only because he only wanted to write what is
+                            certain. Many people are spreading different rumors. As far as the
+                            length of his letter is concerned, he rather writes at length about
+                            empty things than briefly, this is how it befits friends. 2. As far as
+                            the Queen’s affairs are concerned, he has not been able to make
+                            arrangements yet. When they arrived to Vienna, many excellent people
+                            flocked to them, including Ulrich Eyczinger and others, and the same
+                            thing happened in Bratislava. While they were there, Hieronymus of Zara
+                            wrote from Constantinople to say he has the conditions of peace from the
+                            Turkish Sultan. He sent this letter to Katzianer, they also read it this
+                            way. Then they had a big debate whether they should believe the letter,
+                            since it is not even signed properly, but then it turned out that it was
+                            true. Łaski, who had been sent to the King John I with four envoys,
+                            wrote the same. 3. Around this time the Sultan wrote to King John I to
+                            send Gritti over to him. King John I’s men got scared at this because
+                            they realized that they were mistaken in the most important issue.
+                            Namely they had firmly believed that the sultan would only make peace
+                            with King Ferdinand I if he yielded the whole territory of the country
+                            to King John I. This is what the lords in Bratislava were also
+                            complaining about, that while they are here, King Ferdinand I is making
+                            a deal with the Turks, and not in a very Christian way. 4. In the end,
+                            only Brodarics stayed from the delegation, the rest returned to Buda. He
+                            has talked to Brodarics a lot, and he understands that King John I would
+                            have been willing to resign in favor of King Ferdinand I with fair
+                            conditions, and that Brodarics, Nádasdy, and Ferenc Frangepán had
+                            persuaded him to do so, who are all absolutely in favor of peace,
+                            although they ardently oppose division. Brodarics has told him about
+                            Gritti, Nádasdy, and Oláh’s family. They talked for eight days, when
+                            King John I called for Brodarics, and King Fedinand I called him to
+                            Vienna. Brodarics has written from Buda what he has learned. 5. The day
+                            after their arrival to Vienna, 19 March, the Turkish Sultan’s envoy
+                            arrived, and they all, church and secular dignitaries, lined up on 20
+                            March, and there was a brief conversation. On the following day, after
+                            he had received the envoy, King Ferdinand I announced the conditions in
+                            German, which was interpreted into Hungarian and Czech. 6. The Count of
+                            Salm was sent to present it to the Pope and the Emperor. For Hoffmann to
+                            present the conditions of peace in German took two hours. In the
+                            meantime Bernhard von Cles arrived, who presented the response to the
+                            Turkish envoy on 29 March: King Ferdinand I would take the Sultan as his
+                            father, but for his answer they have to wait for the answer of the Pope
+                            and the Emperor, but the Turkish officer did not wait for that. 7. In
+                            the meantime Gritti wrote to Katzianer to ask if there was a ceasefire
+                            now after all. Then they received two letters from King John I’s three
+                            men that they should not turn to the Emperor but move forward while they
+                            can. 8. Based on these, he thinks that King Ferdinand I would also
+                            rather reach an agreement with King John I than wait for the Sultan’s
+                            response. In the meantime, they are waiting for Count of Salm to return
+                            with the Emperor’s and the Pope’s answer, about which they believe that
+                            they will prefer to keep Koroni. 9. If the Hungarians elect a third
+                            person, he cannot be a youth, so the Polish prince is out. Brodarics
+                            believes it is an important sign that the Turks have not occupied any
+                            place since Mohács, they only punished those who attacked them, but they
+                            did not come further north than Osijek. 10. Besides, King Francis I was
+                            disappointed in his hopes, as he had believed that Emperor Charles V was
+                            leading his troops to Italy, as several German princes had done, who did
+                            not believe that Emperor Charles V would participate in the 1532
+                            campaign, and that others would not provide help either, even though the
+                            Bavarians were among the first, and they were the ones to defeat the
+                            Turks pillaging beyond the river Enns. There is no need for the help of
+                            the Romanians, either, they really cannot be trusted. 11. He has talked
+                            with the King in Weze’s presence about the Queen’s and Oláh’s affairs,
+                            they are all doing everything for Oláh, but it seems that they are stuck
+                            until things stay this way. 12. He understands what he writes about
+                            homesickness, we all are born to feel at home in our homeland. He also
+                            wishes for some quiet, and he does not wish to follow the emperor to
+                            Spain, his services have not been rewarded very well anyway. He sends
+                            his regards to the ladies of the court.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330402_1_1.jpg"/>
+                <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo salutem.</p>
+                <p xml:id="p.2">[1.] Amicissimas tuas litteras, Reverende Domine et Amice, plus quam
+                    Frater Carissime, partim septima, partim nona huius datas accepi
+                        <placeName>Viennae</placeName> XXV-a, fuereque mihi longe omnium
+                    gratissimae, sed quod hactenus non scripserim, neque ex
+                        <placeName>Posonio</placeName>, neque ex hoc loco, in causa </p>
+                <pb facs="15330402_1_2.jpg"/>
+                <p xml:id="p.3">fuit, quod ego exitum istarum rerum omnino volui exspectare, quo
+                    certum aliquid et solidum scriberem; quandoquidem scribendis rebus, quae nondum
+                    sunt determinatae, non perinde delector. Sciebam praeterea non deesse
+                    quamplurimos, qui vulgaria ista nuntiarent, puta dissolutionem conventus
+                    Posoniensis, adventum nuntii a <persName>caesare Turcarum</persName>,
+                    revocationem nostram a
+                        <placeName>Posonio</placeName><placeName>Viennam</placeName> et cetera id
+                    genus. Accedit, quod in hoc celeberrimo conventu omnium vestratium, Bohemorum et
+                    ceterorum regnorum procerum et primatium virorum et exhibenda erant ista
+                    vulgaria officia et vicissim ab illis ferenda. Quae res et tempus adimit et
+                    subinde hominem ineptum facit ad scribendum. Volui igitur finem harum rerum
+                    exspectare, et certum quid ad te scribere. Veni igitur principio ad epistolam
+                    tuam, deinde vagabor longius in explicatione omnium, quae transacta quaeque
+                    transigi posse videntur.</p>
+                <p xml:id="p.4">Quod ad longitudinem mearum litterarum et prolixitatem attinet,
+                    gaudeo illam tibi gratam, semper enim ego malui longas, tametsi inanes, quam
+                    breves dare, quod alterum mihi videatur magis decere amicum. Cum enim absentes
+                    non nisi hoc modo fabulari possumus, aequum est, ut ad ea praesidia refugiamus,
+                    quae nobis Deus reliqui fecit, hoc est ad scriptionem; vicissim autem omnino
+                    tibi persuade multis nominibus tuas fuisse mihi gratissimas. Sed hoc etiam magis
+                    quam copiose fuere. De informatione <persName>reginali maiestati</persName>
+                    facta et antea et nunc quoque <choice>
+                        <orig>de nos</orig>
+                        <supplied>denuo</supplied>
+                    </choice> iterum habeo tibi gratiam. Innotescere enim iis, quibus subesse
+                    debemus, existimavi semper conandum esse homini probo et virtutis amanti,
+                    vicissim et principibus aliquando prodest eos nosse, quibus imperare debent, ut
+                    tanto confidentius illorum opera servitioque uti queant, neque decepti illis
+                    confidant, per quos nihil exsequi possint. Atque ut summatim dicam, nunquam ea
+                    res utrique incommoda esse potest, proinde rursum habeo tibi gratiam. Pauca
+                    sunt, quae de me dici merentur. Probitatem tamen et fidem nunquam mutavi, neque
+                    amicitiis bonorum virorum, quas sum assecutus, nihil unquam permisi decedere.
+                    Quod si et exercitatio et animus honestus, non avarus, non sordidus, aetas apta
+                    ferendis laboribus, aliquantula experientia laudem aliquam merentur, patiar sane
+                    eam ipsam, et non invitus eam agnoscam.</p>
+                <p xml:id="p.5">[2.] Quod ad <persName>maiestatis ipsius reginalis</persName>
+                    negotia attinet, tametsi uti prius scripsi et serenissimo
+                        <persName>regi</persName> sunt curae, et <persName>maiestas</persName>
+                    ipsius consiliarios </p>
+                <pb facs="15330402_1_3.jpg"/>
+                <p xml:id="p.6">habet bonos profecto viros et diligentes; tamen eo tempore, quo ea
+                    ego scripsi, visum erat ea expedire; neque tunc quisquam ex iisdem consiliariis
+                    me convenerat. Postea autem cum <placeName>Viennam</placeName> advenissemus,
+                    reverendissimus dominus <persName>archiepiscopus Lundensis</persName><note
+                        type="critic" xml:id="note.1">Johan Weze.</note> collega meus et ego
+                    confluxere ad nos aliquot nobiles et egregii viri, inter quos dominus
+                        <persName>Ulricus de Eyntzigk</persName><note type="critic" xml:id="note.2"
+                        >Ulrich Eyringer.</note> et dominus <persName>Bernhardus Bohemus</persName>
+                    comes Zoliensis.<note type="critic" xml:id="note.3">Bernhard Beheim was also <hi
+                            rend="italic">ispán</hi> of Zólyom county, see Ep. 331. Note
+                            1.<ref>olahus.tei.15330228_1</ref></note> Novissime autem et
+                        <placeName>Posonii</placeName><persName>dominus de
+                        Schreiberstorff</persName><note type="critic" xml:id="note.4">Leopold von
+                        Schreiberstorff was Seneschal in Queen Mary’s court in the Netherlands, see
+                            <hi rend="smallcap">Kerkhoff</hi> 2008, 61.</note> et demum
+                        <placeName>Viennae</placeName><persName>dominus de
+                        Selthingen</persName>.<note type="critic" xml:id="note.5">Wilhelm von
+                        Zelking was a Representative of King Ferdinand I at the court of Queen Mary
+                        from October 1526, and her Lord Steward between 1529–1530, see <hi
+                            rend="smallcap">Gorter-van Royen</hi> 2009, 19; <hi rend="smallcap"
+                            >Kerkhoff</hi> 2008, 61; <hi rend="smallcap">Heiss</hi> 1974, 175, and
+                            <hi rend="smallcap">Heiss</hi> 1971, 127 et passim.</note> Primi illi
+                    negotiorum maiestatis reginalis curam nobis commendarunt, quam uterque nostrum,
+                    uti decuit, habuit inter maxime commendata; secutum est tempus cum
+                        <placeName>Posonii</placeName> ageremus, in quo nihil effici potuit nec
+                    determinari. Propterea quod dum illic ageremus, <persName>Hieronimus de
+                        Zara</persName><note type="critic" xml:id="note.6">Hieronymus of
+                        Zara.</note> natione Dalmata, qui secrete paucis consciis missus fuerat a
+                        <persName>Ferdinando rege</persName> ad <persName>Turcarum
+                        caesarem</persName> non sine consensu <persName>cesareae
+                        maiestatis</persName> nostrae eo tempore, quo soluta obsidione
+                        <placeName>Ghyncii</placeName><note type="critic" xml:id="note.7">On the
+                        siege of Kőszeg see Ep. 275.<ref>olahus.tei.15320922_1</ref></note> alter
+                        <placeName>Constantinopolim</placeName>, alter in
+                        <placeName>Italiam</placeName> properabat, rescripserat se pacem obtinuisse
+                    a <persName>Turcarum caesare</persName> longam et diuturnam, et ut ipsius verbis
+                    utar, gloriosam. Mandabat vigore commissionis suae
+                        <persName>capitaneo</persName> Strigoniensis arcis,<note type="critic"
+                        xml:id="note.8">The Castellan of Esztergom was Tommaso Lascano and the
+                        Captain of Esztergom was a certain Stanislaus, see ÖStA HHStA UA AA Fasc.
+                        20. Konv. A. fol. 84–85.</note> ut desisteret a molestandis vaivodanis, immo
+                    scriberet Budensibus se pacem cum Turcis compositam servare velle. Eas litteras
+                    idem <persName>praefectus Strigoniensis</persName><note type="critic"
+                        xml:id="note.9">Tommaso Lascano (†1539) was Commander of Esztergom in the
+                        early 1530s with his brother, Martin. Later he became Deputy
+                        Commander-in-chief in Upper Hungary between 1538–1539, see <hi
+                            rend="smallcap">Jankovics–Pálffy </hi>2000, 202, and <hi rend="smallcap"
+                            >Kasza</hi> 2012, 409.</note> ad dominum <persName>Ioannem
+                        Catzianer</persName>, ut supremum capitaneum <placeName>inferioris
+                        Austriae</placeName> transmisit, quibus lectis admirati sumus. Nam
+                        <placeName>Posonii</placeName> eramus et simul coenaturi cum adferrentur,
+                    demum post multa, cum nos rogaremus, ut sententias nostras exprimeremus, visum
+                    est nobis praefatis litteris praefati <persName>Hyeronimi</persName> nullam
+                    fidem adhibendam esse, propterea quod illius subscriptione non essent munitae,
+                    et viderentur maiorem authoritatem prae se ferre, quam existimabamus illi
+                    concessam a <persName>rege Ferdinando</persName>. Eventus tamen docuit verum
+                    illum scripsisse. Nam et a <persName>Hyeronimo Lasky</persName>, qui cum unus
+                    esset ex quattuor oratoribus a <persName>vaivoda</persName> missis, in eam fere
+                    sententiam scripserat ad collegas suas, et ad regimen Viennense ab eodem
+                        <persName>Hyeronimo a Zara</persName> manu ipsius subscriptae litterae
+                    allatae sunt, quae omnia dubitationem protinus excussere.</p>
+                <p xml:id="p.7">[3.] Scriptum est eodem tempore a <persName>caesare
+                        Turcarum</persName> ad <persName>Ioannem vaivodam</persName>, iussumque ut
+                    protinus Ludovicum </p>
+                <pb facs="15330402_1_4.jpg"/>
+                <p xml:id="p.8"><persName>Gritti</persName> gubernatorem regni sui transmitteret
+                        <placeName>Constantinopolim</placeName>. Quae res vehementer perterruit
+                    vaivodanos, iam aperte cognoscentes se decipi in praecipuo, quod semper
+                    obiecerant, puta: <persName>Turcarum caesarem</persName> nunquam daturum pacem
+                    regno <placeName>Hungariae</placeName>, nisi <persName>Ferdinandus
+                        rex</persName> suam partem cederet <persName>Ioanni vaivodae</persName>.
+                    Quare in conventu nostro ipsi sunt miserabiliter conquesti de praefato
+                    serenissimo <persName>rege</persName>, propterea quod dum ipsi essent
+                        <placeName>Posonii</placeName>, convenissentque ad bonum Hungarici regni,
+                    ipse serenissimus <persName>rex</persName> non apud Christianos, sed apud
+                        <persName>Turcarum caesarem</persName> mallet pacem eam tractari. Hinc
+                    perspicuum esse posse, uter Christianius ageret. Et haec protestati sunt, eodem
+                    etiam tempore perlatae sunt ad nos litterae <persName>Ioannis
+                        vaivodae</persName>, quarum superscriptio erat ad omnes omnium principum
+                    oratores <placeName>Posonii</placeName> pro pace componenda congregatos, per
+                    quas scripsit se revocare oratores suos, quia non esset possibile, ut uno et
+                    eodem tempore pax ista in duobus locis tractaretur.<note type="critic"
+                        xml:id="note.10">See <hi rend="smallcap">Gévay</hi> 1838, 85–88.</note> Haec
+                    acta sunt quinta et sexta Martii. Nos <persName>caesarei</persName> obtestati
+                    sumus utramque partem, ne paterentur hunc conventum dissolvi, propterea quod
+                    nesciremus adhuc certo, an litterae a praefato <persName>Hieronimo de
+                        Zara</persName> scriptae essent verae vel adulteratae. Proinde prius ad
+                    serenissimum <persName>regem Romanorum</persName> scribendum esse et rescienda
+                    veritas. Interim manerent et procederent in tractatibus, ut prius, caesaream
+                    maiestatem non grato animo auditurum hanc solutionem conventus. Nobis quoque
+                    dolere tot pericula in cassum et frustra obivisse, ut tam cito disiungeremur.
+                    Haec, inquam, et iis similia cum plurima in medium adferremus. Nondum enim
+                    resciveramus mentem aut animum serenissimi <persName>regis
+                    Romanorum</persName>.</p>
+                <p xml:id="p.9">[4.] Tandem obtinuimus, ut duobus recedentibus supermaneret unus,
+                    reverendissimus scilicet <persName>Stephanus Brodericus</persName> episcopus
+                    Sirmiensis per octo dies. Ipse vero <persName>Colocinesis</persName><note
+                        type="critic" xml:id="note.11">Ferenc Frangepán.</note> scilicet et
+                        <persName>Werwevcz</persName><note type="critic" xml:id="note.12">István
+                        Werbőczy.</note> ad <persName>dominum</persName> suum proficiscerentur
+                        <placeName>Budam</placeName>, libenter redituri
+                        <placeName>Posonium</placeName>, si aliquid boni existimarent conclusum iri
+                    posse. Neque obscure dicebant se eam habuisse commissionem, ut per eam honori
+                    serenisimi regis <persName>Ferdinandi</persName> longe melius consuleretur, quam
+                    per pacem, quae fieri posset <placeName>Constantinopoli</placeName>. Ibi enim
+                    non defuturos, qui res <persName>Ioannis</persName> melius procurarent, quam
+                    procurarentur Ferdinandinae. Atque ut verum dicam, non semel dederunt
+                    intelligere se habuisse potestatem transferendi totum regnum in
+                        <persName>Ferdinandum</persName> regem, modo aliquanta ratio honoris domini
+                    sui haberetur. Dicebant enim se nunquam consensuros, nisi invite in divisionem
+                    regni Hungarici, quae divisio haud dubie futura erat et exspectanda a Turcis.
+                    Eam enim divisionem fore exitium regni <placeName>Hungariae</placeName>. Quia in
+                    re ego profecto vehementer </p>
+                <pb facs="15330402_1_5.jpg"/>
+                <p xml:id="p.10">illis assentior. Neque alia via est ad destruendum inclytum illud
+                    regnum praeter eam solam. Tandem post multa hinc inde dicta et tractata de
+                    induciis et similibus rebus et de solvenda obsidione, quae erat et adhuc, ut
+                    puto, est ad arcem, in qua degit insignis latro <persName>Ladislaus
+                        More</persName>, qui se <persName>Ferdinandi</persName> regis dixerat
+                    servitorem, sed praedas egerat tempore induciarum ab utraque parte, et ob id a
+                    praefectis induciarum iudicialiter fuerat condemnatus, et ad exsecutionem
+                    sententiae vaivodani eum obsederant permissione facta, ut ipse rex bona ipsius
+                        <persName>Ladislai</persName>, quae ab hac parte sunt, occupare posset. Quia
+                    vero reverendissimus dominus <persName>Agriensis</persName><note type="critic"
+                        xml:id="note.13">Tamás Szalaházy.</note> ipsum tuetur, tunc promissa est
+                    solvi post talia, inquam, multa recesserunt duo illi et mansit solus
+                        <persName>Brodericus</persName>, cum quo singularem contraximus
+                    familiaritatem, multaque cum eo aliquot diebus locuti, intelleximus vere fuisse
+                    hunc animum <persName>Ioanni</persName> cedere de toto regno et ad id inductum
+                    fuisse a <persName>Collociensi</persName> et se et a <persName>Thoma
+                        Nadasdy</persName>. Nihil enim prius esse apud eos salute regni
+                        <placeName>Hungariae</placeName>, quam videbant consistere, si unicum
+                    maneret, sese ne aliquando putarentur res novas moliri velle, libenter
+                    migraturos extra regnum. Esse enim <persName>Collociensi</persName> et sibi
+                    conditionem apud <persName>pontificem</persName> maximum paratam, aut
+                        apud<persName> Francorum regem</persName> ipsum <persName>Ioannem</persName>
+                    pro conservatione regni libenter iturum ad hospitale. Id se dicere posse. De
+                    aliis non ita. Nam esse, qui nihil aliud cupiant, quam bellum et dissidium in
+                    regno. De <persName>Gryti</persName> loquebatur, quem dicebat satagere, ut
+                    regnum illud maneret divisum. Adiunxit <persName>Thomam Nadasdy</persName> esse
+                    virum integrum et amantem boni publici, qui si voluisset adulari, aut fovere
+                    partes <persName>Ludovici Gryti</persName>, poterat adhuc fieri rex in
+                        <placeName>Hungaria</placeName>, sed aliud inesse illi ingenium. Nunc autem
+                    gratiosissimum illum aiebat esse apud vaivodam. Multa et his similia nobis
+                    dicere solebat. De te vero amantissime et honestissime locutus est, dixitque te
+                    gratum esse principi suo <persName>Ioanni</persName> ob virtutes tuas,
+                    praetereaque quod pater tuus solitus est hospes esse ipsius Ioannis, et quod
+                    nuper divertisset, cum esset in Transsilvania ad domum olim patris tui, quae
+                    nunc est, ut puto, <persName>fratris</persName>;<note type="critic"
+                        xml:id="note.14">Máté Oláh, and see Ep. 333. Cap.
+                            4.<ref>olahus.tei.15330307_1</ref></note> proinde non esse opus
+                    commendatione ab ea parte. Bona tua maxima ex parte occupari per latrones, qui
+                    se dicunt Ferdinandinos. Omnino curandum <del corresp="editor">eam</del> ei, qui
+                    esset permansurus rex <placeName>Hungariae</placeName>, ut latrones illi
+                    redigerentur in ordinem. Id nunc partibus divisis fieri non posse. Quando in
+                    discordiis principum solet esse omnium consulendum esse, quo modo latronibus
+                    imponatur frenum et arceantur ab invadendis iis, quae sua non sunt et ab illis
+                    iniuste possidendis. Ea, quae in manibus sint <persName>Ioannis</persName>
+                    principis sui, <choice>
+                        <orig>servata</orig>
+                        <supplied>servatum</supplied>
+                    </choice></p>
+                <pb facs="15330402_1_6.jpg"/>
+                <p xml:id="p.11">iri incolumiter pro te. Multaque similia de te sumus locuti. Tandem
+                    autem cum per octo dies exspectassemus, a recessu dico priorum oratorum,
+                    litteraeque revocatoriae a <persName>Ioanne</persName> missae essent ad
+                    praefatum <persName>Brodericum</persName>; simul etiam ad nos eodem fere tempore
+                    venissent regiae, quibus accersebamur <placeName>Viennam</placeName>,
+                    pararentque abitionem <persName>Ferdinandi</persName> omnes, immo longe plurimi
+                    iam recessissent valedicto <persName>Broderico</persName>, qui eo, quo nos, die
+                    sese <placeName>Danubio</placeName> credidit, venimus
+                        <placeName>Viennam</placeName>. Hoc tamen cum praefato
+                        <persName>Broderico</persName> conclusimus, ut si opus <choice>
+                        <orig>eset</orig>
+                        <supplied>esset</supplied>
+                    </choice>, rursum conveniremus; ipseque sese obtulit ad nos scripturum ex
+                        <placeName>Buda</placeName> de iis, quae viderentur agenda, scilicet an
+                    bonum esset nos exspectare, an vero nulla ulteriore spe tractatus boni suorum ex
+                    parte praestaret nos quoque rebus nostris consulere, et ad dominum nostrum
+                    caesarem quanto citius reverti. Quod idem <persName>Brodericus</persName>
+                    fideliter observavit, scripsitque ipse et collegae sui
+                        <persName>Collocensis</persName> et <persName>Werwevcz</persName>
+                    nudiustertius ad nos sibi videri bonum, ut subsistamus. Quod iudicium est illos
+                    omnino velle rebus istis finem imponere, sed de hoc posterius plura.</p>
+                <p xml:id="p.12">[5.] Venimus itaque <placeName>Viennam</placeName>, quo unum atque
+                    alterum post diem advenit orator <persName>caesaris Turcarum</persName>, nomine
+                        <persName>Mehemeth tzaus</persName>.<note type="critic" xml:id="note.15">We
+                        do not know him more closely.</note> Erat autem dies decimus nonus Martii.
+                    Huic data est audientia, ut vulgo loquuntur, die vicesima. Oratio ipsius fuit
+                    brevis et in haec verba: <persName>caesar</persName> et <persName>Imbraym
+                        bassa</persName><note type="critic" xml:id="note.16">Ibrahim Pargalı
+                        Pasha.</note> salutant maiestatem tuam. Respondit <persName>rex</persName>:
+                    “valent bene!” Respondit: “Valent et dicunt tibi ita, tu misisti ad nos bis aut
+                    ter nuntios tuos, iste postremus est gratus. Vis tenere ea, quae ipse nomine tuo
+                    nobis proposuit?” <persName>Rex</persName> respondit se daturum illi responsum
+                    in tempore. Ita recessit ad hospitium suum. Admirati sunt circumstantes Hungari
+                    et Bohemi, quorum proceres omnes huc confluxerant, brevitatem huius orationis,
+                    sed ita se res habet. <persName>Rex</persName> sedit in sedili substrato pannis
+                    aureis, a dextero latere sedebamus nos duo scilicet reverendissimus
+                        <persName>dominus Lundensis</persName> et ego, et post nos magno intervallo,
+                    ab eodem tamen latere dextro stabant <persName>archiepiscopus Strigoniensis
+                        Paulus</persName>,<note type="critic" xml:id="note.17">Pál
+                        Várday.</note><persName>episcopi Agriensis</persName>,
+                        <persName>Varadiensis</persName>,<note type="critic" xml:id="note.18">László
+                        Macedóniai.</note><persName>praepositi Albensis</persName>,<note
+                        type="critic" xml:id="note.19">Lőrinc
+                        Kretschmer.</note><persName>Posoniensis</persName>,<note type="critic"
+                        xml:id="note.20">Ferenc
+                        Újlaki.</note><persName>Quinqueecclesiensis</persName>;<note type="critic"
+                        xml:id="note.21">Albert Peregi.</note> et ex secularibus:
+                        <persName>Turzo</persName>, <persName>Bothani Ferencz</persName>,
+                        <persName>Valentinus Thwrek</persName>, <persName>Paulus Bakyth</persName>,
+                        <persName>Petrus Keglowietz</persName>, <persName>Baltasar
+                    Banisy</persName>, <persName>Caspar Horwath de Wingarth</persName>,
+                        <persName>Bonaventura Bathory</persName>, <persName>Emericus
+                        Deszhazy</persName> et alter eiusdem nominis <persName>Nagky</persName>,
+                        <persName>Nicolaus Kostellanssky</persName>, <persName>Franciscus
+                        Nyary</persName>, <persName>Stephanus Mailath</persName>,
+                        <persName>Anthonius Lossanczy</persName>, <persName>Franciscus
+                        Reway</persName>, <persName>Alexius Bethlehem</persName>, item
+                        <persName>Marcus</persName>, <persName>Sebastianus</persName>,
+                        <persName>Stephanus de Pemphling</persName>, <persName>Ioannes
+                        Maylath</persName><note type="critic" xml:id="note.22">Secular people
+                        attending included Elek Thurzó, Ferenc Batthyány, Bálint Török, Pál Bakics,
+                        Péter Keglevich, Boldizsár Bánffy, Gáspár Horváth of Vingárd, Bonaventura
+                        Báthori, Imre Désházy, Imre Nagy, Miklós Kosztolányi, Ferenc Nyáry, István
+                        Majláth, Antal Losonczy, Ferenc Révay, Elek Bethlen; Márk, Sebestyén, and
+                        István Pemfflinger, and János Majláth.</note> et alii complures. A sinistro
+                    latere stabant <persName>episcopus Vratislaviensis</persName> et Bohemi:
+                        <persName>Adalbertus de Bernstain</persName>, <persName>Ioannes
+                        Pflong</persName>, <persName>Albertus Schlyck</persName>,
+                        <persName>Ladislaus de Leippa</persName>, <persName>Iodocus de
+                        Rosenbergk</persName>, <persName>Ioannes Cuna de Constat</persName>, </p>
+                <pb facs="15330402_1_7.jpg"/>
+                <p xml:id="p.13"><persName>Ioannes de Lypnick</persName>, tres de
+                        <persName>Meczericz</persName><note type="critic" xml:id="note.23">Bishop of
+                        Wrocław was Jakob von Salza; the other Czechs were: Albert von Pernstein or
+                        Pernštejna (see <hi rend="smallcap">Wotschke</hi> 1904, 146.), Jan Pflug,
+                        Albert Šlik or Schlick, Ladislav z Lipého, Jošt III z Rožmberka, Jan Kuna II
+                        z Kunštatu, Jan z Lipnik, and the Meziřičti brothers, see <hi
+                            rend="smallcap">Kameníček</hi> 1886, 28. For more on Rožmberka and
+                        Pernštejna see <hi rend="smallcap">Maťa</hi> 2004, 101 and 450–451, and <hi
+                            rend="smallcap">Dillon</hi> 1976, 8–9.</note> et alii multi, quos vanus
+                    enumerare labor. Ex Germanis aliis non nisi primi ordinis quidam intromissi. Ita
+                    hoc die finita est haec comoedia. Postridie illius <choice>
+                        <orig>die</orig>
+                        <supplied>diei</supplied>
+                    </choice> mane hora octava convenit serenissimus rex et nos et alii omnes in
+                    eundem locum excepto Turcarum nuntio. Ibi rex iussit domino <persName>Ioanni
+                        Hoffman</persName><note type="critic" xml:id="note.24">Hans Hofmann
+                        (1492–1564) was Court Chamber and a key figure for King Ferdinand I. Thanks
+                        to his allegiance, he became Baron of Grünpüchl und Strechau, see <hi
+                            rend="smallcap">Wandruszka</hi> 1972.</note>, ut exponeret conditiones
+                    pacis et oblata Turcarum Germanice. Caspari vero
+                        <persName>Horwath</persName><note type="critic" xml:id="note.25">Gáspár
+                        Horváth of Vingárd was Master Seneschal <hi rend="italic">(magister
+                            dapiferorum regalium),</hi> see <hi rend="smallcap">Heiss</hi> 1971,
+                        123.</note> et <persName>Georgio Szapka</persName>,<note type="critic"
+                        xml:id="note.26">Jiří Žabka z Limberka na Kounicích was Royal Secretary of
+                        King Louis II, and between 1532–1552, he was Vice-Chancellor of the Kingdom
+                        of Bohemia under King Ferdinand I, see <hi rend="smallcap">Fógel</hi> 1917,
+                        44.</note> ut ille Hungarice, iste Bohemice audita ab
+                        <persName>Hoffmanno</persName> per singulos articulos exponerent suis, qui
+                    aderant, ignaris linguae Germanicae. Quod et factum est. Exorsus est igitur
+                    praefatus dominus <persName>Ioannes Hoffmannus</persName>. Prima erant de studio
+                    diligentiaque serenissimi <persName>regis</persName> impensa ad conservationem
+                    regnorum, de evocatione <persName>caesaris Caroli</persName>, de fuga Turcarum,
+                    de profectione <persName>caesaris</persName> in Italiam, de omisso bello
+                    Hungarico propter hiemem, commeatuum defectum et seditionem, de soluta obsidione
+                        <placeName>Strigonii</placeName><note type="critic" xml:id="note.27"
+                        >Esztergom.</note>, de tractatis mediis pacis et belli, de missa insigni
+                    legatione provincialium ad <persName>caesarem</persName> et
+                        <persName>pontificem</persName> iunctos pro subsidio et benigno responso
+                    eorundem; de indicto conventu Posoniensi. Haec omnia eo spectabant, ut
+                    ostenderet prudentiam diligentiamque serenissimi <persName>regis</persName>.
+                    Postmodum, cum semper vaivodani iactassent <persName>Turcarum
+                        caesarem</persName> nunquam daturum pacem <placeName>Hungariae</placeName>
+                    regno, nisi ipsorum medio, misisse regem quendam <persName>Hyeronimum de
+                        Zara</persName> ad ipsum <persName>caesarem Turcarum</persName>, secrete
+                    tamen propter multas rationes et sine scitu multorum. Eum invenisse caesarem et
+                    Imbrahymum bassam pronos ad pacem, et ob id misisse istum nuntium ad maiestatem
+                    suam regiam, ut scire posset, an ea esset voluntas suae maiestatis, nec ne,
+                    prout hesterno die audivissent. Esse autem huius pacis oblatae conditiones non
+                    alias, quam eas, quae sequuntur. Quisquis secus diceret, illi non esse fidem
+                    adhibendam. Haec ideo dicta sunt, quia <persName>Hyeronimus Lasky</persName> et
+                    vaivodani sparserant rumorem, qualiter ipse rex <persName>Ferdinandus</persName>
+                    deberet cedere Turcis regnum <placeName>Sclavoniae</placeName> et pro reliquo
+                    regno dare tributum, praetereaque dedisset bassis magnas et promisisset maiores
+                    largitiones. Dixit itaque has esse cum <persName>caesare Turcarum</persName>
+                    pacis conditiones.</p>
+                <p xml:id="p.14">Condiciones pacis</p>
+                <p xml:id="p.15">I. <persName>Caesar Turcarum</persName> recipit
+                        <persName>Ferdinandum</persName> regem in filium,
+                        <persName>Mariam</persName> et <persName>Annam</persName> reginas in
+                    filias.</p>
+                <p xml:id="p.16">II. Dat pacem illis in iis, quae possident in regno
+                        <placeName>Hungariae</placeName>.</p>
+                <p xml:id="p.17">III. Offert contra adversarios ipsorum subsidium et auxilium.</p>
+                <p xml:id="p.18">IIII. Per <persName>Ludovicum Gryti</persName> tractabit cum
+                    vaivoda ad inducendum eum, ut cedat partem regni, quam habet,
+                        <persName>Ferdinando</persName> regi, etiam sperat ipsum hoc </p>
+                <pb facs="15330402_1_8.jpg"/>
+                <p xml:id="p.19">facturum, immo confidit, non denegaturum.</p>
+                <p xml:id="p.20">V. Durabit haec pax per vitam alterutrius. Et si rex
+                        <persName>Ferdinandus</persName> velit longius, poterit deduci.</p>
+                <p xml:id="p.21">Vicissim petit <persName>caesar Turcarum</persName>, ut rex
+                        <persName>Ferdinandus</persName> pro demonstranda filiali oboedientia mittat
+                    ad se claves arcis <placeName>Strigonii</placeName>. Dixit tamen ipse
+                        <persName>rex</persName><persName>Imbraymum bassam</persName> iurasse
+                    maximum iuramentum <persName>Turcarum caesarem</persName> eas non recepturum,
+                    sed velle solum hunc honorem. Praeterea de tributo dixit
+                        <persName>rex</persName> nullam mentionem esse factam. Idque omnibus
+                    audientibus dixit, affirmavitque nullas alias condiciones per <persName>Turcarum
+                        caesarem</persName> peti a sua <persName>maiestate regia</persName>, verum
+                    esse illum paratum esse facere pacem cum <persName>caesare</persName> et
+                        <persName>pontifice</persName> maximo iis condicionibus.</p>
+                <p xml:id="p.22">I. Acceptabit <persName>caesar
+                        Turcarum</persName><persName>pontificem</persName> maximum in patrem,
+                        <persName>caesarem Carolum</persName> in fratrem.</p>
+                <p xml:id="p.23">II. Faciet cum illis pacem quinque annorum aut septem aut
+                    diuturniorem, si velint.</p>
+                <p xml:id="p.24">Vicissim petit, ut <persName>caesar</persName> noster ipsi
+                    restituat urbem <placeName>Coronem</placeName>,<note type="critic"
+                        xml:id="note.28">Koroni or Corone, a town in the Pelopponnese.</note> quam
+                    in <placeName>Peloponeso</placeName> sitam expugnavit anno superiore
+                        <persName>Andreas de Auria</persName>.<note type="critic" xml:id="note.29"
+                        >Andrea Doria.</note></p>
+                <p xml:id="p.25">Promittit ipse <persName>caesar Turcarum</persName> dare
+                        <persName>caesari</persName> nostro propter id recompensam, et id voliturum
+                    serenissimo <persName>regi Ferdinando</persName> pro recuperatione totius regni
+                        <placeName>Hungariae</placeName>.</p>
+                <p xml:id="p.26">Quod si <persName>caesar</persName> et
+                        <persName>pontifex</persName> nolint secum pacem facere nihilominus pacem
+                    cum <persName>Ferdinando</persName> rege factam mansuram in suo vigore,
+                    condicionibus quibus supra, et non aliis.</p>
+                <p xml:id="p.27">[6.] Propter haec missum esse comitem <persName>Nicolaum de
+                        Salm</persName><note type="critic" xml:id="note.30">Niklas II Count of Salm,
+                        son of the famous Captain and defender of Vienna. He also was King Ferdinand
+                        I’s Master of Chamberlains <hi rend="italic">(magister cubiculariorum),</hi>
+                        see Ep. 353.<ref>olahus.tei.15330415_1</ref></note> ad
+                        <persName>caesaream</persName> maiestatem ea omnia expositum tam pontificiae
+                    sanctitati, quam ipsius caesareae maiestatis. Quae cum talia essent,
+                        <persName>regem</persName> noluisse ipsos ea ignorare, petereque, ut
+                    assertirent in eam pacem, et nullo modo persuaderent alias esse condiciones aut
+                    alium modum. His ita dicendis cum de articulo in articulum Bohemi ac Hungari ad
+                    suos referrent audita, et hoc modo interrumperetur sermo oratioque praefati
+                    domini <persName>Ioannis Hoffman</persName>, insumptae sunt horae duae. Eandem
+                    tamen non exiguam meo iudicio meritus est praefatus
+                        <persName>Hoffmannus</persName>, quod Germanice egregie oraret, et singula
+                    suis locis perquam eleganter et scite explicaret. Quae postquam facta sunt,
+                    dixit nobis duobus serenissimus <persName>rex</persName> ipsum
+                        <persName>caesarem Turcarum</persName> offerre <persName>caesari</persName>
+                    nostro conditionem, qua supra se curaturum, ut
+                        <persName>Barbarossa</persName><note type="critic" xml:id="note.31"
+                        >Hayreddin Barbarossa Pasha (1478–1546).</note> et reliqui piratae, Mauri et
+                    Turcae, qui solent infestare litora <placeName>Hispaniarum</placeName>,
+                    abstinerent omnino. Praeterea renuntiaturum omnibus amicitiis et foederibus,
+                    quae habet cum aliquibus Christianis, hoc modo ut
+                    <persName>caesari</persName></p>
+                <pb facs="15330402_1_9.jpg"/>
+                <p xml:id="p.28">nostro liberum esset praefatos Christianos principes, ut
+                        <persName>regem Francorum</persName> et alios in hoc foedus assumere, vel
+                    omnino ab eo excludere. Haec quia non faciebant ad rem horum regnorum, noluisse
+                    dixisse Germanis aut Hungaris Bohemisve, sed bene nobis. Nos congratulati sumus
+                    isti paci, et hoc modo dimisimus <persName>maiestatem</persName> ipsius pro eo
+                    die; post haec exspectatum est ad diem vicesimum nonum istius mensis. Interim
+                    advenit reverendissimus dominus <persName>cardinalis
+                        Tridentinus</persName>.<note type="critic" xml:id="note.32">Bernhard von
+                        Cles.</note> Advenit etiam ex Hungaris <persName>Laurentius
+                        Pekry</persName><note type="critic" xml:id="note.33">This is an erratum,
+                        Schepper wrote <hi rend="italic">Laurentius</hi> instead of <hi
+                            rend="italic">Ludovicus</hi>, i.e. Lajos Pekry.</note> et ex Bohemis
+                    nonnulli, vicesimo demum nono die convenimus in eundem locum. Admissus est
+                    Turcarum nuntius. Ibi responsum est per reverendissimum <persName>dominum
+                        Tridentinum</persName> intermedio interpretis Itali cuiusdam ex
+                        <placeName>Bassano</placeName>, qui iam amplius quindecim annis mansit in
+                        <placeName>Turcia</placeName> et novissima obsidione
+                        <placeName>Ghincii</placeName><note type="critic" xml:id="note.34"
+                        >Kőszeg.</note> transfugit, scitus legere et scribere, quo etiam interprete
+                    usus est serenissimus <persName>rex</persName> in priore illo congressu cum
+                    Turcarum nuntio, responsum est, inquam, serenissimum <persName>regem</persName>
+                    velle suscipere <persName>caesarem Turcarum</persName> in patrem. Deinde ea,
+                    quae essent per ipsum proposita, observare velle; demum quia nonnulla
+                    concernerent <persName>caesarem</persName> et <persName>pontificem</persName>
+                    summum atque pro illis iisdem significandis, <persName>maiestas</persName>
+                    ipsius regia misisset nuntios suos, neque desuper haberet responsum, quaesivit
+                    ab eodem nuntio <persName>caesaris Turcarum</persName>, an exspectare vellet
+                    idem responsum necne? Respondit se id permittere voluntati et iudicio <del
+                        corresp="editor">et voluntati</del> serenissimi <persName>regis</persName>.
+                    Parte ab altera serenissimus <persName>rex</persName> commisit ipsius arbitrio.
+                    Demum ille sese resolvit firmiterque constituisse se dixit velle abire. Ex quo
+                    ad neminem alium, quam ad serenissimum <persName>regem</persName> esset missus;
+                    ita dimissus est domum.</p>
+                <p xml:id="p.29">[7.] Multis id consilium placuit, neque mihi displicuit, omnium
+                    ratio, quae eos urgeret, haec fuit, ne si diutius moraretur, quia videtur res
+                    protrahenda in longum tempus, priusquam <persName>caesar</persName> et
+                        <persName>pontifex</persName> sese resolvant, quantum ad
+                        <placeName>Coronem</placeName> oppidum attinet. Est enim loco opportuno
+                    situm, et ad multas res innovandas perquam apto et idoneo, posset multa
+                    perscrutari plurimaque ad suos referre de rebus nostris. Mihi tamen est longe
+                    alia sententia. Nam deesse nobis vires, corpora, animos, opes, referre non
+                    potest. Earum autem rerum, quas nollemus vulgo notas esse, alii, qui Turcicarum
+                    sunt partium, non pauci bonam habent et longe meliorem, quam is assequi potest
+                    peritiam. Accedit, quod iste ex verorum est Turcarum origine, qui nostra non tam
+                    despiciunt atque ii faciunt, qui sunt profugi; quorum authoritas fidesque omnis
+                    apud eas gentes comparatur, si sese convincant esse maxime hostes illi pro
+                    professione, </p>
+                <pb facs="15330402_1_10.jpg"/>
+                <p xml:id="p.30">a qua abiurarint; quicquid sit, illi viderint; qua tamen ratione,
+                    ignarus sum, hic adhuc substiterit aliquot dies. Nisi forte quod missum est
+                        <placeName>Strigonium</placeName> ad praeparandos animos militum, ne
+                    moveantur novitate rei, quando praefatus <persName>nuntius Turcarum</persName>
+                    ad eos venturus est pro clavibus. Nam hinc secundo
+                        <placeName>Danubio</placeName> iturus eo est, et deinde
+                        <placeName>Budam</placeName>, postmodum
+                        <placeName>Bellgradum</placeName><note type="critic" xml:id="note.35"
+                        >Belgrade.</note> etc. His ita actis a <persName>Ludovico Gritti</persName>
+                    allatae sunt litterae ad <persName>Catzianer</persName>, quibus scire cupit, an
+                    inducias, aut intermissionem belli observare velit, necne? Se vocatum a
+                        <persName>caesare Turcarum</persName> properare
+                        <placeName>Constantinopolim</placeName>, mittere tamen nuntium, qui post se
+                    responsum ferat. Eo etiam tempore, hoc est XXX-a Martii, perlatae sunt ad nos
+                    duos litterae a tribus illis vaivodanis, scilicet reverendissimis
+                        <persName>Collociensi</persName>, <persName>Sirmiensi</persName><note
+                        type="critic" xml:id="note.36">István Brodarics.</note> et
+                        <persName>Werbevcz</persName> de data vigiliae Annuntiationis<note
+                        type="critic" xml:id="note.37">Annunciation to the Blessed Virgin Mary was
+                        on 25 March.</note> in <placeName>Buda</placeName>, quibus nos rogabant, ne
+                    tam cito ad caesaream maiestatem reverteremur, sed subsisteremus, donec videri
+                    posset, quorsum haec res tenderet. Has litteras ostendimus serenissimo regi,
+                    iussique sumus hic manere. Nam intellegimus non obstante cum Turcis tractatu
+                    facto velle serenissimum <persName>regem</persName> componere cum
+                        <persName>vaivoda</persName> etiam. Res tamen nondum clare nobis declarata
+                    est, sed omnino ego id arbitror futurum, et ad te, ut ad amicissimum hominem,
+                    transscribo. Nam neque fines inter utrumque dominium dividi possunt, cum plurima
+                    sint, quae alter dicit suae ditionis esse, alter ad se vendicat. Quod accidit
+                    oppidis, ubi sunt fodinae, quae cum <persName>Ferdinandi</persName> allegassent
+                    esse suae, neque debere citari ad comparendum <placeName>Budae</placeName>
+                    tempore harum induciarum, vaivodani responderunt nobis praesentibus illa oppida
+                    esse regis sui, et ex illis ipsum recipere quotannis viginti millia ducatorum;
+                    de iis ergo et similibus loquor. Praeterea si limitum <choice>
+                        <orig>dividundorum</orig>
+                        <supplied>dividendorum</supplied>
+                    </choice> arbitrium Turcae committatur, verisimile est, illum quantumvis
+                    polliceatur praeclara, non libenter tantum assignaturum <persName>Ferdinando
+                        regi</persName>, quantum multi putant, praesertim si
+                        <persName>caesar</persName> et <persName>pontifex</persName> nolint illi
+                        <placeName>Coronem</placeName> restituere. Namque hoc est, quod sonat
+                    articulus pacis restitutionem <placeName>Coronis</placeName> profuturam
+                        <persName>regi</persName> ad integram recuperationem regni. Accedit, quod
+                    ipse <persName>Turcarum caesar</persName> et <persName>Imbraym bassa</persName>
+                    aliquando litteras suas dedere <persName>Ioanni vaivodae</persName>, quibus
+                    pollicebantur se eundem defensuros in regno <placeName>Hungariae</placeName>.
+                    Quare probabile non est ipsos eundem spoliaturos. Ne quid dicam, quod suspectas
+                    habet istorum duorum fratrum vires, sin autem suas <persName>Ioanni</persName>
+                    litteras non servant, non video, cur multum illis confidere possit serenissimus
+                    rex.</p>
+                <p xml:id="p.31">[8.] Haec omnia me inducunt, ut credam <persName>Ferdinandum
+                        regem</persName> non exspectata resolutione <persName>caesaris
+                        Turcarum</persName> tentaturum, si quid cum <persName>vaivoda</persName>
+                    tractare possit. Quod ego sane omnino spero successurum, </p>
+                <pb facs="15330402_1_11.jpg"/>
+                <p xml:id="p.32">praesertim tam propensis ad uniendum
+                        <placeName>Hungariae</placeName> regnum <persName>Collocensi</persName>,
+                        <persName>Sirmiensi</persName> et <persName>Nadasdy</persName> atque adeo,
+                    ut ipsi aiunt <persName>Ioanne vaivoda</persName>. Neque celare te volo auditas
+                    esse a non contemnendis Hungaris voces, priusquam regnum dividetur, se
+                    inventuros alium modum non obscure indicantes, de tertio, ut aliquando dixi. Eas
+                    cum ego ex passione profectas ducerem, ideaque leviter ferrem comperi, quosdam
+                    partis nostrae in <placeName>Hungaria</placeName> versatos et rerum illarum
+                    peritia praeditos, neutiquam tam leviter existimasse eas, sed aliquid tale fieri
+                    adhuc posse dicentes. Neque deerant, qui tertium illum, cui se crederent Turcam
+                    esse, dicerent, potiusque illi tributum pensuros, quam duobus dominis
+                    inservituros. Et praefecto nefanda a latronibus utriusque partis in eo regno
+                    sunt patrata. Exspectamus itaque reditum illustrissimi domini <persName>comitis
+                        de Salm</persName>, qui <persName>pontificis</persName> et
+                        <persName>caesaris</persName> mentem, quantum ad restitutionem
+                        <placeName>Coronis</placeName> attinet, est perlaturus, secundum quod ipse
+                    serenissimus <persName>Romanorum rex</persName> actiones suas intentabit. Nobis
+                    tamen videntur <persName>caesar</persName> et <persName>pontifex</persName>
+                    concessuri praefatam urbem; primo, quia est utriusque simul aequalique expensa
+                    tenetur; secundo, quia opportuno loco sita est; tertium autem et maximum, quod
+                    me inducit ad id non credendum est, quod sub hoc praetextu et specie belli
+                    Turcici maximam pecuniam pontifex caesarque sibi comparabunt ab ecclesiasticis.
+                    Haec ergo sunt, quae in hunc usque diem, qui est secundus Aprilis, acta sunt.
+                    Nam has litteras partim in Martio, partim in Aprili conscripsi per intervalla,
+                    intervenientibus negotiis, quae nos avocarunt. Nunc redibo ad litteras tuas
+                    iterum.</p>
+                <p xml:id="p.33">[9.] Quod multis de causis arbitraris necessario hanc fieri pacem
+                    debere. Hungaros amore magis regi, quam viribus, satis magnam <choice>
+                        <orig>illum</orig>
+                        <supplied>illam</supplied>
+                    </choice> provinciam obire, qui <placeName>Hungariam</placeName> regit, ut
+                    nequaquam sit onus par humeris iuvenis alicuius vel pueri. Qualiter de
+                        <persName>Polono</persName> ad te scripsi, valde mihi probatur sententia
+                    tua. Sed non semper mortales, quae optima sunt, deligunt; feruntur nonnunquam in
+                    ea, quae praesentia sunt, futurorum immemores. Ipse nostri, mi Carissime Olae,
+                    quantas calamitates excitarint in eo <placeName>Hungariae</placeName> regno, duo
+                        <persName>Stephani Bathor</persName><note type="critic" xml:id="note.38"
+                        >István Báthori.</note> et <persName>Werwevcz</persName>, qui si quantam
+                    privatae iniuriae ulciscendae cupiditatem habuere, tantam habuissent Dei et
+                    reipublicae curam, nunquam profecto fuissent ea exsecuti, quae ab ipsis patrata
+                    sensimus. Neque minus probatur mihi, <choice>
+                        <orig>quam</orig>
+                        <supplied>quod</supplied>
+                    </choice> subiungis, Turcarum foederi nunquam fidendum esse, quam rem vestrate
+                    proverbio confirmas, sed speramus <persName>Ferdinandum regem</persName> tempore
+                    ad respirandum habito firmaturum vires suas, et quod ab eo fieri debet, qui
+                    aliorum dominatur, in pace de bello cogitaturum. Eas intelligo </p>
+                <pb facs="15330402_1_12.jpg"/>
+                <p xml:id="p.34">adhuc Hungarici regni vires esse, ut si veniatur sub unius <choice>
+                        <orig>domino</orig>
+                        <supplied>dominio</supplied>
+                    </choice>, possint <persName>Turcarum caesari</persName> negotium facessere.
+                    Dixit enim nobis non semel <persName>Brodericus</persName> hac novissima
+                    expeditione Turcarum neminem ex <placeName>Hungaria</placeName> abactum, cum
+                    tamen possent multa hominum millia abigere. Id se compertissimum habere, ut qui
+                    apud <persName>Imbraymum bassam</persName> tunc continue fuerit, nonnullos, qui
+                    temerarie Turcas invaserant, caesos, sed nullum locum firmatum praesidio in toto
+                    regno. In confluente autem <placeName>Dravi</placeName> et
+                        <placeName>Danubii</placeName><placeName>Essek</placeName><note
+                        type="critic" xml:id="note.39">Osijek.</note> utcumque tenere, sed quod
+                    occuparint post Mohatzensem cladem,<note type="critic" xml:id="note.40">The
+                        battle of Mohács on 29 August, 1526.</note> ceterea adhuc integra esse.
+                    Nihil officere regno, quam latronum istorum inhumanam crudelitatem et
+                    insolentiam, quae, uti aliquoties dixi, non nisi ab uno rege cohiberi potest.
+                    Quid ergo futurum est, cum accesserint Austriacorum ducatuum, ad haec Bohemorum,
+                    Moravorum, reliquarumque nationum praesidia? Haec eo tendunt, ut omnia meliora
+                    esse intelligas. Quandoquidem humana prudentia assequi nunquam potuissemus rem
+                    eo venturam, quo illam, et <quote xml:id="quote.1">non sine numine divum, ut
+                        poëta ait, pervenisse</quote><note type="quote" xml:id="note.quote.1">Cf.
+                        Verg. <hi rend="italic">Aen.</hi> II,777–778: “non haec sine numine divum
+                        eveniunt”.</note> iam cernimus. Neque aliam possum huius rei rationem
+                    invenire, nisi quod duae istae expeditiones vehementer illum exhauserint,
+                    experientiaque compererit esse sibi cum viris fortibus et intrepidis negotium.
+                    Omnino id persuade tibi, rusticos et agrestes harum provinciarum longe
+                    animosiores esse affectos, ne quid dicam de militibus, planeque Turcarum nomen
+                    non tam illis formidini, quam contemptui esse. Id quod mihi non in totum
+                    probatur, neque vituperatione tamen usque adeo dignum censeo, aut forte externo
+                    aliquo bello premitur, cuius ad nos minime adhuc pervenit notitia.</p>
+                <p xml:id="p.35">[10.] Praeterea multum lapsus est opinione <persName>rex
+                        Francus</persName><note type="critic" xml:id="note.41">King Frances
+                        I.</note> ad distrahendas caesaris copias, receperat se missurum in Italiam
+                    non exiguum exercitum. Nonnulli Germani receperant se neutiquam daturos nomen in
+                    hanc expeditionem, ut Bavari et alii quidam; cum tamen ab illis non contemnenda
+                    venerint subsidia, fueruntque Bavari inter eos, a quibus profligata fuit illa
+                    praedatoria manus Turcarum, quae irruperat trans
+                        <placeName>Onasum</placeName><note type="critic" xml:id="note.42">Enns
+                        River.</note> flumen. Videt ad haec patefactam esse viam in
+                        <placeName>Peloponnesum</placeName>, <persName>caesaris</persName> res
+                    crescere, suas atteri, ut qui confessionem viderit a se expressam esse, mari
+                    nihil posse, quod hactenus fuit inter incredibilia. Ex hoc uno videre potes
+                    omnes practicas, de quibus aliquando scripsimus, ruere. Neque quicquam ausuros
+                    Lutheranos, neque Virtenbergenses, neque Gallos, nec eos, de quibus vere et
+                    eleganter scribis, curare magis, ut rem suam privatam augeant, quam publicae
+                    prospiciant. Iam neque Valachorum subsidio opus est, de quorum infidelitate,
+                    quae scribis,<note type="critic" xml:id="note.43">See Ep. 333. Cap.
+                            4.<ref>olahus.tei.15330307_1</ref></note> mihi valde </p>
+                <pb facs="15330402_1_13.jpg"/>
+                <p xml:id="p.36">grata fuere, gavisusque sum plurimum illis legendis. Sed quae ego
+                    de illis in subsidium vocandis scripsi, ea ex <persName>Sinyl Cuna de
+                        Constatis</persName><note type="critic" xml:id="note.44">Smil Kuna of
+                        Kunštátu and Luckau (1495–1547) was King John I’s Lord Steward<hi
+                            rend="italic"> (magister curiae regiae)</hi> between 1526–1531, see <hi
+                            rend="smallcap">Fallenbüchl</hi> 1988, 85. He later informed many other
+                        people, see <hi rend="smallcap">Iványi</hi> 1935, 329.</note> hauseram,
+                    neque tam movebar authoritate vaivodarum praefatae
+                        <placeName>Valachiae</placeName>, quam incolarum consensu; neque me fugit
+                    hoc anno unum ex illis vaivodis a <persName>Ludovico Griti</persName> capite
+                    truncatum esse, quae res eorum securitatis est maximum iudicium. Neque parte ab
+                    altera contemnendum esse in illis, modo velint subsidium, bella a
+                        <persName>Calepino</persName><note type="critic" xml:id="note.45">Soliman
+                        Calepinus or Suleiman Çelebi (1377–1411) was an Ottoman Prince.</note> et
+                        Amaruto<note type="critic" xml:id="note.46">Amurath or Murad II (1404–1451)
+                        was an Ottoman Sultan from 1421 to 1444, and 1446 to 1451.</note>, postea et
+                    a Mahumete<note type="critic" xml:id="note.47">Mehmed II or the Conqueror
+                        (1432–1481) was an Ottoman Sultan from 1444 to 1446, and 1451 to
+                        1481.</note> adversum eos dissidentes et minime concordes gesta docere
+                    possunt. Quamquam autem <placeName>Hungariae</placeName> salutem nunquam ego ex
+                    Valachis pendere posse sum ratus, accessione autem illius gentis et
+                        <placeName>Transsilvania</placeName>, uti vere scribis, securior, et vires
+                    Hungarorum alias non contemnendae firmiores redderentur, sed de iis nunc
+                    satis.</p>
+                <p xml:id="p.37">[11.] De negotiis serenissimae <persName>reginae</persName> nunc
+                    ita habe, si <persName>vaivoda</persName> partem suam cesserit serenissimo
+                        <persName>regi</persName>, tunc res <persName>maiestatis</persName> ipsius
+                    sunt in tuto; sin minus, semper modus erit, ut eadem bona recuperemus, sed ego
+                    in opinione sum nos omnia consecuturos. Adhuc hodie, qui est secundus huius
+                    mensis Aprilis, locutus sum cum regia maiestate de super et de negotio tuo
+                    praesente reverendissimo <persName>domino Lundensi</persName>. Respondit
+                        <persName>maiestas</persName> sua non dubitare me debere res sororis <choice>
+                        <orig>sui</orig>
+                        <supplied>suae</supplied>
+                    </choice> sibi maximae curae esse. De tuis eadem dicebat, sed de te honorifica
+                    quaedam. Conveni et reverendissimum <persName>dominum Tridentinum</persName>
+                    admonens eum litterarum scriptarum a serenissima <persName>reginali
+                        maiestate</persName> ad ipsius reverendissimi domini et responsi sui. Nam
+                    utrasque mihi iam tradiderat reverendissimus dominus <persName>Gabriel
+                        Xantus</persName>.<note type="critic" xml:id="note.48">Gabriel
+                        Sanchez.</note> Respondit: maiorem curam utriusque, hoc est
+                        <persName>maiestatis reginalis</persName> et tui esse serenissimo
+                        <persName>regi</persName>, quam dicere posset. Neque diffidendum esse, immo
+                    ne dubitandum quidem. Cum reverendissimo <persName>Agriensi</persName> et
+                    saepenumero alias et hodie quoque in palatio regio sum de re tua locutus. Is
+                    consimilem fiduciam facit; neque quidquam haesito, quominus ex animi nostri
+                    sententia res componendae sint. Credo praeterea hic nos haesuros, donec omnia
+                    completa erunt, hoc est: vaivoda cesserit, latrones a spoliando destiterint,
+                    bona ab illis occupata redeant ad pristinos possessores. In quod haud dubie
+                    adhuc aliquid temporis erit impendendum, sed eo libentius hanc molestiam
+                    tollerabo, quod sperem hoc modo, homini amico requiem <choice>
+                        <orig>paratam</orig>
+                        <supplied>paratum</supplied>
+                    </choice> iri. Impense omnes favent virtutibus tuis, et adversae partis
+                        <persName>Brodericus</persName> et regiae <persName>Agriensis</persName>
+                    ceterique. Sed a <persName>Broderico</persName> in testimonium sui in te studii
+                    etiam litteras ad te habui, quas nescio an miserim ad <persName>Ioannem
+                        Langhium</persName>.<note type="critic" xml:id="note.49">John de
+                        Lange.</note> Nam vicesima octava Martii transmisi certam sarcinulam
+                    litterarum ad <persName>coniugem</persName> meam, eamque destinavi
+                        <persName>Ioanni Langhio</persName>. Quod existimarem te iis sacris
+                    temporibus, quae imminerent, alibi secessurum </p>
+                <pb facs="15330402_1_14.jpg"/>
+                <p xml:id="p.38">in monasterium. Et has ad te tamen coeperam scribere, sedulo
+                    exspectans finem negotiorum Turcicorum, ut certa ad te scriberem. Interim
+                    litterae <persName>Broderici</persName> sunt elapsae ex manibus adeo, ut eas
+                    nequeam invenire, et nesciam, an fortuito tunc incluserim. Quicquid id est,
+                    namque ego scio, quid continuerint, parum est deperditum. Idem <choice>
+                        <orig>periit</orig>
+                        <supplied>petiit</supplied>
+                    </choice> a me commendari plurimum serenissimae reginali maiestati; quod rogo,
+                    mei loco facias. Est dignus vir, qui ametur.</p>
+                <p xml:id="p.39">[12.] Quod autem te scribis tantum optare reditum in patriam, non
+                    miror, quod ad talem patriam aspires. Nam et ego ad meam, tametsi submersam,
+                    feror toto animo, in qua tamen nihil sum visurus praeter ruinas et luctum
+                    meorum. Proinde non est, quod me horteris, ut curem utriusque reditum. Nam id
+                    longe sum diligentius facturus, quam verbis exprimere possum. Neque possum
+                    quicquam desiderare in iudicio tuo, quod te neque sonitus campanarum
+                    artificiosus, non caminorum fuliginosae deliciae, non muliercularum blanditiae
+                    remoratus est.<note type="critic" xml:id="note.50">See Ep. 333. Cap.
+                            5.<ref>olahus.tei.15330307_1</ref></note> Quodque ad solam libertatem
+                    properaturus sis, modo hae res hic pacentur, et alia, quae non minus ornate,
+                    quam copiose scribis. <quote xml:id="quote.2">Natura enim omnes ferimur in eam,
+                        quae nobis nascentibus obtigit, patriam.</quote><note type="quote"
+                        xml:id="note.quote.2">Cf. Cic. <hi rend="italic">De off.</hi> I,21: “Ex quo,
+                        quia suum cuiusque fit eorum, quae natura fuerant communia, quod cuique
+                        optigit, id quisque teneat.”</note> Cumque posset <quote xml:id="quote.3"
+                        >Ulysses apud Circen et Calypson esse immortalis, maluit Ithacam sterilem et
+                        montuosam et anum coniugem revisere.</quote><note type="quote"
+                        xml:id="note.quote.3">Cf. Ep. Jodoci Badii Ascensii Joanni Fisschero, 1
+                        June, 1521, see <hi rend="smallcap">Renouard</hi> 1908, 148: “Quantum vero
+                        patria ipsa ad charitatem habeat momenti, non tacuit insignis ille
+                        ingeniorum fons Homerus, qui Ulyssem inducit patriam suam Ithacam et
+                        sterilem et montuosam immortalitati quam apud Circen haberet,
+                        praeferentem.”</note> Si <persName>vaivoda</persName> duriorem sese exhibeat
+                    ita, ut ad Polonos sit refugiendum, omnia ibi salva et integra futura sunt
+                    nobis. In summa ego te iubeo non bono tantum, sed firmo animo esse et
+                    firmissimo. Patria, parentes, libri tibi servantur. Parte alia dixit mihi
+                        <persName>Gabriel Xanthus</persName>, quae ad eum scripseras<note
+                        type="critic" xml:id="note.51">See Ep. 339, and Ep.
+                            342.<ref>olahus.tei.15330309_3</ref></note><ref>/o:olahus.tei.15330317_1</ref>
+                    de tuo officio. Ego huic oblationi tuae habeo magnam gratiam, et eam accepto,
+                    forte non futurus incommodus, si quando tu abitionem pararis rebus omnibus tuis
+                    prius hic integris et recuperatis. Spero enim hoc modo et mihi quoque quietem
+                    aliquam parare tandem post multos labores. Alias essent mihi novae conditiones
+                    quaerendae. Nam <persName>caesarem</persName> in
+                        <placeName>Hispaniam</placeName> sequi non possum, et tot annis nihil aliud
+                    accepi, quam verba, video praeterea de die in diem minorem haberi rationem
+                    hominum proborum et ad res gerendas aptorum. Neque desunt, ut alias scripsi ad
+                    te, oblationes quorundam regum et regnorum mihi factae, sed magis arridet
+                    patria. Haec ideo, ut intelligas me nihil omissurum, quod ad rerum tuarum
+                    promotionem attinet. <persName>Ioannes Cegledinus</persName><note type="critic"
+                        xml:id="note.52">János Czeglédi.</note> aliquoties apud me fuit et adhuc
+                    venit, per quem et ego informor, et vicissim ipse quid agere debeat, </p>
+                <pb facs="15330402_1_15.jpg"/>
+                <p xml:id="p.40">intelligit. Quod me reverendissimo <persName>domino
+                        Panormitano</persName> commendaris, habeo gratiam, precor iterum, ut id
+                    facias. Illustrissimae quoque <persName>dominae comiti de Salm</persName><note
+                        type="critic" xml:id="note.53">Elisabeth, Countess of Salm.</note> magistrae
+                    curiae reginalis, quae me tam humane salutavit, vicissim servitia mea quanto
+                    potes offer affectu. Det illi Deus votorum omnium complementum, utque et ipsa
+                    diu vivat feliciter et subolem videat omnibus animi fortunaeque bonis
+                    locupletem. Commendabis ad haec servitia mea magnificae <persName>dominae de
+                        Baillieul</persName><note type="critic" xml:id="note.54">Madame Bailleul or
+                        Frau Perseresserin.</note> et dominae <persName>Lucretiae</persName><note
+                        type="critic" xml:id="note.55">Lucretia Caballis (vom Ross).</note>
+                    ceterisque et, si adsit, <persName>dominae de Sovastre</persName>.<note
+                        type="critic" xml:id="note.56">Madame de Souvastre was “one of Maximilians’s
+                        illegitimate daughters (...), was appointed mistress of the Duchess’s
+                        household, which consisted of six maids of honour, six waiting-women, four
+                        pages, and ten gentlemen”, see <hi rend="smallcap">Cartwright</hi> 1913, 85
+                        and 91. Her husband, Philippe de Souvastre was Chamberlain <hi rend="italic"
+                            >(magister cubi­culariorum)</hi> of Queen Mary, see <hi rend="smallcap"
+                            >Kerkhoff</hi> 2008, 115.</note> Quas omnes conservet Christus detque
+                    felicissime valere. Pro litteris ad <persName>coniugem</persName> meam missis
+                    habeo gratiam. Litteras tuas, quia abiit <persName>Xanthus</persName>, mitte ad
+                    magistrum postarum in curia regia vel ad <persName>Bernhardum Bohemum</persName>
+                    comitem Zoliensem vel ad <persName>vicedominum Austriae</persName>. Nam illi
+                    facile eas ad me transmittent. Scribe praeterea, si in re ea, quam ad
+                        <persName>Xanthum</persName> scribis, sit opus commendatione regia pro me ad
+                    serenissimam reginalem maiestatem rebus hic absolutis, necne. Et rogo te habe
+                    rem secretam, donec ego rediero, quod nescio, quam brevi fiet. Et bene vale,
+                    Domine et Amice Honorandissime Humillimeque, si quando potes me
+                        <persName>reginali maiestati</persName>, insinua.</p>
+                <p xml:id="p.41">Datum <placeName>Viennae</placeName> die secunda mensis Aprilis
+                    anno 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">103</title>
+                <title key="body" n="103" type="main">Miklós Oláh to Tamás Szalaházy (Augsburg, 20
+                    October 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301020_2</idno>
+                <idno type="ITIdata">Q472675</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301020_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 94–96.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">97–99.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">103</biblScope>
+                    <biblScope unit="page">165–166.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
+                <date when="1530-10-20">20 October 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Tamás Szalaházy<idno type="ITIdata">Q258359</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Tamás Szalaházy (Augsburg, 20 October 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. During breakfast the news arrived that the Emperor’s
+                            money, which he had delivered from Italy, has been taken by robbers
+                            during the transport, at everyone’s horror. And the other day news
+                            arrived that the Vice-regent of Burgundy has attacked Geneva with the
+                            Burgundian troops and the Duke of Savoy, where they now adhere to the
+                            Lutheran faith. The Helvetians, allied with the Genevese,
+                            counterattacked and drove ours out all the way to Savoy. They are
+                            demanding three months’ tax from the duke in exchange for leaving, and
+                            if he does not pay, they will also occupy his territories, resulting in
+                            a great revolt in Germany. 2. It seems that the imperial states are not
+                            obeying Emperor Charles V. When the other day he obliged them to stay
+                            true to the old faith, they promised everything, but it is clear that
+                            beyond fighting the Turks, they are incapable of serving the emperor.
+                            Even if with a heavy heart, both the emperor and Ferdinand have accepted
+                            this.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301020_2_1.jpg"/>
+                <p xml:id="p.1"> Ad Thomam episcopum Agriensem.</p>
+                <p xml:id="p.2">[1.] Volui, ut scias, quae hic circumferantur. Hodie dum essemus in
+                    prandio, venit fama, praedones pecuniam caesaris, quae huc vehebatur ex Italia,
+                    non sine magna suspiriisque plena curialium exspectatione, quibus iam aliquot </p>
+                <pb facs="15301020_2_2.jpg"/>
+                <p xml:id="p.3">mensium debetur stipendium, ad duodecimum hinc miliarium
+                    intercepisse eamque vertisse omnem in praedam. Quod si ita est, cogita, quae
+                    sunt suspiria curialium? Qui exsertis, ut dicunt, linguis eam exspectabant, qui
+                    clamores hospitum, qui ex <add corresp="Olahus" type="insert">his</add> pecuniis
+                        <del corresp="Olahus">sibi</del> solvi <del corresp="Olahus"
+                        >debeant</del><add corresp="Olahus" type="corr">debebant</add>, verum haec
+                    quoque nonnulli cogitant caesarem ex Italia pecuniam tam subito, ut sperabat,
+                    habere non potuisse, et ut <del corresp="Olahus">curiales</del><add
+                        corresp="Olahus" type="corr">aulicos</add> ulterius sine clamoribus <del
+                        corresp="Olahus">trahere</del><add corresp="Olahus" type="corr"
+                        >protrahere</add><choice>
+                        <orig>possent</orig>
+                        <supplied>posset</supplied>
+                    </choice>, hanc famam in vulgus sparsam.</p>
+                <p xml:id="p.4">Nuper item venit fama certissima <persName>vicegerentem
+                        Burgundiae</persName><note type="critic" xml:id="note.1">Vicegerens
+                        Burgundiae, that is Vicomte or Vice-Gerent of Burgundy.</note> coactis
+                    copiis et <del corresp="Olahus">Burgundianis</del><add corresp="Olahus"
+                        type="corr">Burgundiacis</add> et <persName>ducis Sabaudiae</persName><note
+                        type="critic" xml:id="note.2">Savoy. Charles III of Savoy (1486–1553) was
+                        the Duke of Savoy from 1504 to 1553.</note> invasisse civitatem
+                        <placeName>Geneffa</placeName><note type="critic" xml:id="note.3"
+                        >Geneva.</note>. Ea civitas confoederata est Helvetiis et aliis civitatibus
+                    imperii, quae sectam nunc sequuntur Lutheranam. Cum igitur haec civitas
+                    Burgundiacis et ducis Sabaudiae viribus non parum oppugnaretur, ut iam suburbia
+                    illius capta essent, Helvetii insurgentes nostros omnes ab illius expugnatione
+                    repulisse dicuntur, et illos in fugam vertisse ac in Sabaudiam usque penetrasse,
+                    atque aliquot iam arces nobilium illius provinciae vi cepisse. Ducem vero pro
+                    petenda <del corresp="Olahus">parte</del><add corresp="Olahus" type="corr"
+                        >pace</add> ad eos legatum misisse. Illos ante regredi nolle, quam trium
+                    mensium stipendium eis <del corresp="Olahus">pendeatur</del><add
+                        corresp="Olahus" type="corr">pendatur</add>. Quod <del corresp="Olahus"
+                        >maximi autem sis ponderis id</del> ducem nunc praestare non posse, in ore
+                    est omnium. Qui non magna habere dicatur vectigalia, non uberes regionis suae
+                    proventus fore, igitur non dubitamus, ut cum dux hoc minime praestare possit,
+                    quod Helvetii ab eo petant, illi ulterius sint progressuri, et omnes vel saltem
+                    potiorem regni sui partem sint occupaturi. Quod si factum fuerit, vide, quantum
+                    in Germania incendium oriatur, quod non facile restringui possit, nisi cum magna
+                    sanguinis Christiani effusione.</p>
+                <p xml:id="p.5">[2.] Ad id civitates imperiales hae fere omnes, quae potentia,
+                    divitiis et authoritate praestant ceteris, videntur caesari Carolo esse
+                    inoboedientes. Cum nuper caesar ex potiorum principum decreto imperii
+                    statuisset, ut omnes, quicumque essent sub ipsius imperio, perseverarent in
+                    vetere nostra religione, <del corresp="Olahus">ecclesiasticosque</del><add
+                        corresp="Olahus" type="corr">ecclesiastici</add>, qui expulsi essent, suis
+                    restituerentur sedibus, bona vero, quae illis essent adempta, redderentur,
+                    nonnullae mox civitates insurrexere. Quae facta prius cum aliis mutua
+                    conspiratione dixerunt se paratos esse omnia facere, quaecumque caesar
+                    imperaret, modo ea non essent conscientiae eorum contraria. Gentes et alia omnia
+                    pro viribus eorum contra Turcas praestare praesidia, sed in rebus his, quae
+                    conscientiam eorum attingerent, non posse caesaris voluntati inservire.</p>
+                <p xml:id="p.6">Haec quam gravi animo caesar et rex Ferdinandus <del
+                        corresp="Olahus">acceperat</del><add corresp="Olahus" type="corr"
+                        >acceperit</add>, tu ipse cogita. Credo non abfuturum, quin graves in </p>
+                <pb facs="15301020_2_3.jpg"/>
+                <p xml:id="p.7">Germania seditiones brevi hanc ob rem cooriantur. Miramur omnes
+                    nullum nos ex Hungaria habere nuntium de progressu regii exercitus, <add
+                        corresp="Olahus" type="insert">quos</add> nescimus, ubi sint et quid rerum
+                    agant. Iam tempora rigescunt, dies aderunt ad aliquid praeclari agendum
+                    incommodissimi. Quare ut nos hac de re certiores facias, rogamus te plurimum.
+                    Vale.</p>
+                <p xml:id="p.8">Ex <placeName>Augusta</placeName> XX. Octobris MDXXX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

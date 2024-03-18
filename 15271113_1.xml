@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">2</title>
+                <title key="body" n="2" type="main">Imre Kálnai to Miklós Oláh (Radava, 13 November
+                    1527)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15271113_1</idno>
+                <idno type="ITIdata">Q472574</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15271113_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro"><hi rend="italic">Notes:</hi> Copy with Oláh’s
+                    emendations.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 1–2. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >177–178.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">2</biblScope>
+                    <biblScope unit="page">52–54.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Radava<idno type="ITIdata">Q16078</idno></placeName>
+                <date when="1527-11-13">13 November 1527</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Imre Kálnai<idno type="ITIdata">Q51566</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Imre Kálnai to Miklós Oláh (Radava, 13 November 1527)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. Kálnai is asking for Oláh’s intervention so that he
+                            does not have to seek an audience with King Ferdinand I and salute him.
+                            Miklós Gerendi, Tamás Nádasdy, and László Macedóniai will also help him
+                            in this. 2. He thanks Oláh for his help in connection with the Esztergom
+                            estate. His servant, Literatus Mihály will tell the rest. 3.
+                            Furthermore, he asks that he should not have to travel anywhere before
+                            he has been to Częstochowa and the Holy Land, he is namely absolutely
+                            determined to accomplish that as a good Christian.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15271113_1_1.jpg"/>
+                <p xml:id="p.1"><add corresp="Olahus" type="insert">Emericus a Calna<note
+                            type="critic" xml:id="note.1">Imre Kálnai (ca. 1490–1544) humanist,
+                            member of Jacob Piso’s humanist circle. Kálnai studied together with
+                            Oláh between 1505–1510 in Oradea, then he earned a Magister’s degree in
+                            Bologna. He was Royal Secretary between 1525–1526, and after Mohács
+                            remained loyal to King John I. See <hi rend="smallcap">Lakatos</hi>
+                            2009, <hi rend="smallcap">Lakatos</hi> 2010 and <hi rend="smallcap">V.
+                                Kovács</hi> 1970.</note> archidiaconus Transsilvaniensis Nicolao
+                        Olaho thesaurario Albensi, secretario et consiliario regio.</add> Post mei
+                    commendationem, Carissime Domine Nicolae!<note type="critic" xml:id="note.2"
+                        >About this letter see <hi rend="smallcap">V. Kovács</hi> 1970,
+                    664.</note></p>
+                <p xml:id="p.2">[1.] Quoniam sic fuit fortunae visum, ut nos prosterneret, ac
+                    penitus solo illideret, vos autem elevaret, et in summo collocaret, quid dicam,
+                    nostrum est manus tendere, et ad alios recurrere si quid est, in quo aliorum
+                    opera et auxilio indigeamus. Itaque cum his diebus
+                        <placeName>Albae</placeName><note type="critic" xml:id="note.3"
+                        >Székesfehérvár.</note> constitutum sit, ut omnes, qui partes adversas
+                    secuti fuerant, coram <persName>rege Ferdinando</persName> spatio quindecim
+                    dierum a festo Sancti Martini<note type="critic" xml:id="note.4">The Feast of
+                        St. Martin is on 11 November, so they had to take an oath until 25
+                        November.</note> sub nota perpetuae infidelitatis comparere debeant, mihi ad
+                    te hominem amicissimum est confugiendum, ut me ab hac constitutione seu edicto
+                    publico liberes, ne ego nunc ad vos ire tenear. Quod tu facile certe poteris
+                    efficere, si volueris. Cuius tanta, scio, est auctoritas apud curiae primores,
+                    dominum videlicet <persName>palatinum</persName><note type="critic"
+                        xml:id="note.5">István Báthori.</note> et dominum
+                        <persName>episcopum</persName>,<note type="critic" xml:id="note.6">Tamás
+                        Szalaházy. </note> vel etiam ipsum <persName>principem</persName>, ut nihil
+                    non sis ab eis impetraturus. Et, ut efficias, etiam summopere peto. Quod ego si
+                    vivam, et si qua in re potero, curabo profecto omni studio rependere. Est autem
+                    haec res, quam a te peto, levis et minima et impetratu facilis, modo te pro
+                    amico verbum facere non pigeat. Ego autem, si quid forte sinistri de me
+                    cogitares, quamvis nihil possum, sed si etiam aliquid possem, polliceor me
+                    adversum vos nihil moliturum. Nec puto hanc constitutionem ob alios factam esse,
+                    quam ob eos, qui adhuc quiescere non possunt, sintque in proposito aliquid
+                    moliendi. </p>
+                <p xml:id="p.3">Poteris autem hanc rem etiam cum aliis dominis et amicis nostris,
+                    domino videlicet <persName>Gerendy</persName><note type="critic" xml:id="note.7"
+                        >Miklós Gerendi (†1542) was Custos of the Cathedral Chapter of
+                        Székesfehérvár between 1525–1527 and Royal Secretary under King Louis II.
+                        After Mohács, he remained loyal to the Habsburgs. King Ferdinand I appointed
+                        him to Bishop of Transylvania in 1527. Although the Pope never confirmed it,
+                        he used this title until his death and became a key figure in the Habsburg
+                        party in Transylvania. Between 1527 and 1529, he was also Royal Treasurer.
+                    </note> et domino <persName>Nadasdy</persName><note type="critic"
+                        xml:id="note.8">Tamás Nádasdy (1498–1562), Hungarian statesman. At the time
+                        of the battle of Mohács, he was away on a mission, although in the beginning
+                        he had remained loyal to the Habsburgs. Between 1530–1533 we find him in the
+                        Szapolyai party, but after his return he remained in the Habsburg party till
+                        the end. From 1537 he became King Ferdinand I's secret but most influential
+                        counsellor. In 1540 he was appointed Chief Justice of Hungary <hi
+                            rend="italic">(iudex curiae regiae),</hi> and in 1554 he was elected
+                        Palatine. For more see <hi rend="smallcap">Söptei</hi> 1999. </note>
+                    communicare, et eos meo nomine rogare, velint veteris amicitiae nostrae memores
+                    esse, et tibi in hoc negotio levi certe, ut dixi et minimo adiumento esse, qua
+                    de re scripsi et ad dominum <persName>Maczedoniay</persName>,<note type="critic"
+                        xml:id="note.9">László Macedóniai (ca. 1479–1536). From the 1510s he was at
+                        the court of György Szatmári, Bishop of Pécs. In 1520 he was appointed
+                        Bishop of Szerém, but in 1526 he resigned and became Provost of Pécs. He
+                        participated in important legations and held successful orations. For more
+                        on his life, see <hi rend="smallcap">K. Obermayer–Horváth</hi> 1959. </note>
+                    qui et ipse credo pro sua humanitate mutuoque amore, quo invicem coniuncti
+                    fuimus, non gravabitur id facere, quod ego fecissem pro eo proque omnibus vobis
+                    facturus, si forte ita fortuna tulisset, ut mea opera indiguissetis. </p>
+                <p xml:id="p.4">[2.] De beneficio Strigoniensi, de quo <persName>frater
+                        meus</persName><note type="critic" xml:id="note.10">Probably Ferenc Kálnai
+                        because his brothers, István Kálnai and János Kálnai, died at the battle of
+                        Mohács, see <hi rend="smallcap">V. Kovács 1970, </hi>661.</note> tibi
+                        <placeName>Albae</placeName> locutus fuerat, habeo tibi summas gratias, quod
+                    te obtulisti, nihil te facturum de eo sine scitu meo. Nec ego credidi, te pro
+                    amicitia nostra secus facturum. Equum tuum, quem mihi alendum commiseras,
+                    remittam tibi, cum volueris, significis modo, quando vis, ut tibi eum remittam.
+                    Est autem talis, qualem nunquam sperassem fore, ut talis fieret. Estque pro tali
+                    homine militari, qualis iam es ipse factus in Germanos belli studiosos. Alia
+                    dicet is servitor meus <persName>Michael litteratus</persName>,<note
+                        type="critic" xml:id="note.11">We do not know him more closely.</note> cui
+                    in his, quae nomine meo retulerit, velis fidem praestare. </p>
+                <p xml:id="p.5">[3.] Et vale ac me per amicitiam nostram ab onere eundi
+                        <placeName>Budam</placeName>, vel ubi futuri estis, liberes, hoc te iterum
+                    atque iterum peto, habeo autem ex voto, quod paene praetermiseram, et ad
+                        <placeName>Chezthako</placeName><note type="critic" xml:id="note.12"
+                        >Częstochowa, known for the famous Pauline monastery of Jasna Góra, which is
+                        the home of the Black Madonna painting. Since the 14<hi rend="super">th</hi>
+                        century, thousands of pilgrims have visited this shrine because healing
+                        power has been attributed to it.</note> proficisci, ut certe sive damnetis,
+                    sive non, ego </p>
+                <pb facs="15271113_1_2.jpg"/>
+                <p xml:id="p.6">nunc istuc ire non possum. Et promisi me non ante alio iturum, quam
+                    hoc, quod feci, votum exsolvero, quod <del corresp="Olahus">vos</del> Lutheriani
+                    quamvis <del corresp="Olahus">irrideatis</del><add corresp="Olahus" type="corr"
+                        >irrideant</add>, ego tamen talia pro vera duco pietate et religione, brevi
+                    etiam in Terram Sanctam iturus, ut totus bonus Christianus evadam.<note
+                        type="critic" xml:id="note.13">About these pilgrimages, see <hi
+                            rend="smallcap">Petneki</hi> 1998, II, 551.</note> Iterum vale et peto
+                    rursum, sis meae petitionis memor. </p>
+                <p xml:id="p.7"> Ex possessione nostra <placeName>Rendwe</placeName> XIII. Novembris
+                    1527. </p>
+                <p xml:id="p.8">
+                    <seg type="signature">Servitor Emericus Kalnay</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">408</title>
+                                <title key="body" n="408" type="main">Lieven van den Zande to Miklós
+                                        Oláh (Ghent, 13 September 1533)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15330913_1</idno>
+                                <idno type="ITIdata">Q472980</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330913_1.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        408–409.</note>
+                                <note type="translation"><hi rend="italic">In Romanian:</hi><hi
+                                                rend="smallcap">Albu–Capoianu</hi> 1974, 20; <hi
+                                                rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                                        1026–1027.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >433–434.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">408</biblScope>
+                                        <biblScope unit="page">533.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Ghent<idno type="ITIdata">Q11613</idno></placeName>
+                                <date when="1533-09-13">13 September 1533</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Lieven van den Zande<idno type="ITIdata"
+                                                  >Q470351</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Lieven van den Zande to Miklós Oláh (Ghent, 13
+                                        September 1533)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1">Many visited and saw the Queen’s
+                                                  new musical instruments yesterday, which sound
+                                                  wonderful. They are asking Oláh through him that
+                                                  the Queen should go among them after all, even
+                                                  though something came up yesterday, and she should
+                                                  light the fire of their souls with sweet music to
+                                                  the glory of God. At least his soul is swept away
+                                                  by this music, it approaches the heavenly chorus
+                                                  in its beauty.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15330913_1_1.jpg"/>
+                                <p xml:id="p.1">Levinus Ammonius Cartusianus monachus Nicolao Olao
+                                        salutem.</p>
+                                <p xml:id="p.2">Ecce rursus adeo Praestantiam Tuam! Vide vero,
+                                        quanti faciam gratiosum esse fratribus meis, quorum gratia
+                                        tam pueriliter ineptiam. Opinor me funem quoque ducturum in
+                                        foro, si iusserint. Heri sub vesperam frequentes me
+                                        adierunt, posteaquam litteras<note type="critic"
+                                                xml:id="note.1">Ep.
+                                                  407.<ref>olahus.tei.15330912_1</ref></note> ad te
+                                        dedissem. Viderant inter apparatum serenissimae
+                                                <persName>reginae</persName> nova quaedam musica
+                                        instrumenta, quorum concentum vix credas, quantopere
+                                        desiderent audire. Itaque Tuam Dominationem per me adeunt,
+                                        credentes </p>
+                                <pb facs="15330913_1_2.jpg"/>
+                                <p xml:id="p.3">me nonnihil apud eam posse, rogantes obnixe, ut
+                                        serenissimae <persName>reginae</persName> suggerere dignetur
+                                        (si tamen me sinis hoc impetrare, quod tibi non sit fraudi),
+                                        ut hodie, hoc est sabbato, faciat, quod heri factura fuerat,
+                                        nisi nescio, quid intervenisset, veniat et animos illa dulci
+                                        modulatione alacriores in Deum faciat. Nescio enim, qui
+                                        fiat, fieri tamen expertus sum, ut mens suavibus modis
+                                        excitata rapiatur in Deum, admonita sensilibus instrumentis;
+                                        quanto in infinitum dulciora sunt in caelis angelorum
+                                        beatorumque Deum laudantium carmina! Perfunctus sum apud te
+                                        hoc epistolio legatione sodalitatis meae, tua dignatio
+                                        ostendat, quanti faciat et fieri velit Ammonium. Christus
+                                        Iesus quam diutissime servet incolumem Reverendam
+                                        Dominationam Tuam, cui me toto pectore cupio esse
+                                        commendatum.</p>
+                                <p xml:id="p.4"><placeName>E Valle Regali</placeName> die memorato,
+                                        hoc est Idibus Septembris anno Domini 1533.</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

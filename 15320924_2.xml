@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">277</title>
+                <title key="body" n="277" type="main">Johann Henckel to Miklós Oláh (Świdnica, 24
+                    September 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320924_2</idno>
+                <idno type="ITIdata">Q472849</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320924_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Frankl</hi> 1872, 26–28; <hi
+                        rend="smallcap">Ipolyi</hi> 1875, 250–252. </note>
+                <note type="translation"><hi rend="italic">In Slovakian:</hi><hi rend="smallcap"
+                        >Nagy</hi> 2022, 134–137.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >184–186.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">277</biblScope>
+                    <biblScope unit="page">354–356.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Świdnica<idno type="ITIdata">Q470213</idno></placeName>
+                <date when="1532-09-24">24 September 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Johann Henckel<idno type="ITIdata">Q154740</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Johann Henckel to Miklós Oláh (Świdnica, 24 September
+                    1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. The pain in his leg has returned, he is suffering. He
+                            is afraid that due to his ill health and old age he will not be able to
+                            properly fulfill the office of the Wrocław provostry. His remuneration
+                            will not arrive on St. Michael’s day; Oláh could collect the majority of
+                            his debt, 70 florins, he is hoping he will do it for him. 2. The youth
+                            who is handing over the letter is his nephew, whom he is sending to
+                            Leuven and Cologne to finish his studies and to be of use to the Queen,
+                            he should help him in this and recommend him to the Queen’s attention.
+                            He heard that the Turks attacked Kőszeg and headed for Vienna, then on
+                            their way back to Hungary they plundered everything. Emperor Charles V,
+                            whom they are expecting in Vienna, is still in Regensburg, while King
+                            Ferdinand I is in Linz. The well-equipped army is in Vienna. </p>
+                    </body>
+                </floatingText>
+                <pb facs="15320924_2_1.jpg"/>
+                <p xml:id="p.1">Iohannes Henckel Nicolao Olao thesaurario Albensi secretario etc.
+                    reginae Mariae. Reverende Domine et Frater Carissime!</p>
+                <p xml:id="p.2">[1.] Si Dominatio Vestra recte valet, eidemque ad voluntatem
+                    succedunt omnia, id ei sincere et ex animo gratulor. Ego, ut soleo, valeo,
+                    subinde carnificem meum, pedum dolorem recurrentem et me excruciantem sentiens.
+                    Carissime Domine ac Frater, frequens invaletudo </p>
+                <pb facs="15320924_2_2.jpg"/>
+                <p xml:id="p.3">mea et ingravescens aetas facit, ut verear, ne munus pastorale, quod
+                    ad mandatum regiae maiestatis domini mei clementissimi et vocationem senatus et
+                    communitatis <placeName>Schveidniciae</placeName> administro relinquere et
+                        <placeName>Vratislaviam</placeName><note type="critic" xml:id="note.1"
+                        >Wrocław.</note> redire cogar, ubi quam aegre et difficulter sumptus
+                    tollerare potero, cum praebendam istic meam curtisanus<note type="critic"
+                        xml:id="note.2">It means ’courtier’, and was used from the 15<hi
+                            rend="super">th</hi>-century, see <hi rend="smallcap">Ramminger</hi>
+                        2008.</note> quidam, pontificia nescio qua gratia, oppugnet et controversam
+                    faciat. Pensio etiam illa, qua mihi reginalis maiestas domina mea gratiosissima
+                    ex Hungaria providit, ad proximum divi Michaelis diem<note type="critic"
+                        xml:id="note.3">29 September.</note> de integro anno soluta et propter
+                    praesentium temporum difficultatem repraesentata non sit. Bona insuper pars
+                    debiti mei, nempe septuaginta duo floreni debeantur, facile Dominatio Vestra
+                    colligere potest. Ceterum cum secundum Deum omnes spes opesque meae in
+                    serenissima principe domina <persName>Maria</persName> regina, utpote fidelis
+                    ministri et clientis maiestatis suae, sint positae, Dominatio Vestra pro mutuo
+                    inter nos et veteri amore, summo studio oro atque obsecro, ut me sacrae suae
+                    maiestati fideliter ac diligenter commendet, quo maiestas sua, pro innata sibi
+                    reginali munificentia et liberalitate, mihi aliunde gratiose providere dignetur.
+                    Id quod maiestas sua non difficulter aut incommode meo iudicio ex
+                        <placeName>Antwerpia</placeName> per procuratores seu factores mercatorum
+                    Vratislaviensium facere posset. Bona me spes habet id maiestatem suam non
+                    gravate facturam, fidelissimorum servitiorum meorum et aegritudinis meae ratione
+                    habita, praesertim si legitima Dominatio Vestra apud eam mei commendatio, pro ut
+                    spero, accesserit. </p>
+                <p xml:id="p.4">[2.] Adolescens vero, qui hasce Dominationi Vestrae litteras
+                    reddidit <persName>Ioannes Henckellus iunior</persName>,<note type="critic"
+                        xml:id="note.4">Johann Henckel the Younger.</note> nepos ex fratre meo, ab
+                    ineunte aetate virtutis et bonarum litte­rarum studiis, quam feliciter nescio,
+                    diligenter certe semper navavit operam. Quapropter maximam optimamque de ingenio
+                    suo apud multos concitavit spem atque exspectationem, quam ut eum sustinere
+                    posse confidam, ingenita naturae eius bonitas ac indoles mihi persuadet. Cum
+                    isto ad <persName>reginalem maiestatem</persName> mittendum putavi, ut
+                    maiestatis suae liberalitate ac patrocinio <placeName>Lovanii</placeName><note
+                        type="critic" xml:id="note.5">He matriculated at the University of Leuven in
+                        1532.</note> aut <placeName>Coloniae</placeName> sub bonis praeceptoribus
+                    inchoata, coeptaque sua studia absolvat, quo commodius rectiusque deinde
+                    maestati suae servire valeat. Nam famulatio eius plane a me est destinatus.
+                    Quemadmodum id quoque in litteris meis maiestati suae insinuavi. Carissime
+                    Domine et Frater Observandissime, adiuvet me in hac etiam causa Dominationis
+                    Vestrae et ipsum adolescentem reginae de meliore nota commendet, ut id cuius
+                    gratia isto venit, eo facilius consequatur. Quicquid studii aut officiorum in me
+                    aut illum Dominationi Vestrae contulerit, id eidem ab utroque nostrum pulchre
+                    foenerabitur, ut memores et gratos esse Dominatio Vestra experiatur, reipsa
+                    praestabimus. De novis rebus illud Dominationi Vestrae scribere habeo. </p>
+                <p xml:id="p.5">Rumoribus multorum ad nos esse perlatum, Turcam cum innumerabilibus
+                    copiis oppidum <placeName>Austriae</placeName><placeName>Goncz</placeName><note
+                        type="critic" xml:id="note.6">Kőszeg.</note> obsidione cinxisse, et
+                    aliquoties frustra oppugnatione tentata, ubi nostros milites
+                        <placeName>Viennae</placeName> congregari audiit, in
+                        <placeName>Hungariam</placeName> retrocessisse, vastatis tamen prius
+                    circumcirca ferro et igne pagis, qui ex priore clade supererant, omnibus. Sunt,
+                    qui eum <placeName>Budae</placeName> restitisse, isticque nostrorum adventum et
+                    congressum </p>
+                <pb facs="15320924_2_3.jpg"/>
+                <p xml:id="p.6">exspectare velle nuntiant. Nostris partibus ne cunctatio incommodet,
+                    periculum est. <persName>Carolus</persName> caesar, qui in horas
+                        <placeName>Viennae</placeName> exspectatur, adhuc
+                        <placeName>Ratisbonae</placeName><note type="critic" xml:id="note.7"
+                        >Regensburg.</note>, <persName>Ferdinandus</persName> rex
+                        <placeName>Lincii</placeName>, ut aiunt, morantur. Apparatus belli
+                        <placeName>Viennae</placeName> instructissimus esse perhibetur. Boni omnes
+                    optime sperant, optimorum principum et fratrum concordissimorum virtute,
+                    pietate, diligentia, industria, alterius etiam felicitate admirabili confisi.
+                    Quid tamen futurum sit, magis sperare, quam certo coniicere licet. Precamur
+                    quidem et optamus prospera una voce universi Deus Dominationem Vestram servet
+                    incolumem. </p>
+                <p xml:id="p.7"> Datum <placeName>Schveidnicii</placeName> die Martis post Mauritii
+                    1532. </p>
+                <p xml:id="p.8"> Haec in lecto recumbens, coactus sum manu alterius scribi facere,
+                    nam podagra me premit nunc <choice>
+                        <orig>arcius</orig>
+                        <supplied>acrius</supplied>
+                    </choice>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">131</title>
+                <title key="body" n="131" type="main">Miklós Oláh to the Secretary of the Bohemian
+                    King (Krems, 11 December 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301211_1</idno>
+                <idno type="ITIdata">Q472703</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301211_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 118–119.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >432–433.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">131</biblScope>
+                    <biblScope unit="page">194–195.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Krems<idno type="ITIdata">Q16824</idno></placeName>
+                <date when="1530-12-11">11 December 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Secretary of the Bohemian King</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to the Secretary of the Bohemian King (Krems, 11
+                    December 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. Humankind is wretched, they can never know what is
+                            going to happen, as the Savior reminds us in the gospel. 2. When they
+                            arrived to this city, at their accommodation the pharmacist’s aide had
+                            died of the plague that day, but it was kept a secret. So unbeknownst to
+                            them, they were walking around in the middle of a plague outbreak.
+                            Oláh’s priest saw that the pharmacist’s wife was sad and asked her about
+                            it, and so it was by accident that it came to light that the
+                            pharmacist’s daughter was also sick. So luckily, with God’s help, they
+                            left the house, leaving unnecessary belongings behind. Who knows if he
+                            has contracted the disease?</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301211_1_1.jpg"/>
+                <p xml:id="p.1"> Ad secretarium regis Bohemum.<note type="critic" xml:id="note.1">We
+                        do not know him more closely</note></p>
+                <p xml:id="p.2">[1.] Misera certe hominis conditio: quid cuique infortunii et casuum
+                    eveniat, nemo scire potest. Momentum ipsum fert homini aliquid, quod antea vix
+                    putaras vel aliquando vel tam cito posse contingere. Non immerito <quote
+                        xml:id="quote.1">Salvator noster hominem vigilem esse mandavit in suo
+                        Evangelio</quote><note type="quote" xml:id="note.quote.1">Cf. Mt25, 13:
+                        “Vigilate itaque, quia nescitis diem, neque horam.”</note> omni temporis
+                    puncto, nescientem quippe quando mors veluti <quote xml:id="quote.2">fur
+                        venturus sit.</quote><note type="quote" xml:id="note.quote.2">Cf. Mt24, 43:
+                        “Illud autem scitote, quoniam si sciret paterfamilias qua hora fur venturus
+                        esset, vigilaret utique, et non sineret perfodi domum suam.”</note> Quod
+                    Salvatoris nostri praeceptum, si quis semper prae oculis habuerit, quicumque
+                    homini casus accidat, sperandum est eum non periturum; </p>
+                <pb facs="15301211_1_2.jpg"/>
+                <p xml:id="p.3">hostem enim supervenientem <add corresp="Olahus" type="insert"
+                        >mortem scilicet</add>, quam nullus vitare potest mortalium, vigil et
+                    paratus accipiet.</p>
+                <p xml:id="p.4">[2.] Scis, cur haec tibi scripserim? Cum ad hanc civitatem
+                    venissemus, et ad hospitium meum, quod est et amplum satis et honestum,
+                    divertissem, forte eo ipso die cuiusdam apotecarii puer, qui in posteriore domus
+                    parte hospitabatur, peste interierat, quem nemine sciente clam extulit. Mors
+                    huius nemini ex meis fuit nota, immo ne hospiti quidem domus. Sic inscientes
+                    diversabamur in medio pestis. Tribus deinde post diebus sacellanus<note
+                        type="critic" xml:id="note.2">Probably János Czeglédi.</note> meus stabat in
+                    solario domus, forte uxor apotecarii maesta praeteribat. Sacellanus meus
+                    interrogans eam, quid rei esset, et an aegrotaret, quod tam esset pallida. <choice>
+                        <orig>Ille</orig>
+                        <supplied>Illa</supplied>
+                    </choice> reticere suspirando dolorem internum non potuit, sed quicquid inquit,
+                    tibi dicam: “Sum admodum molesta super filiae meae et servi alterius
+                    aegrotatione, qui hanc fortasse noctem non evadet, sed morietur.” Sacellanus <choice>
+                        <orig>perconctatus</orig>
+                        <supplied>percunctatus</supplied>
+                    </choice> genus infirmitatis, illa se non posse alterius dissimulare: “Pestis”
+                    inquit “eos oppressit, et magno” inquit “supra quam dici potest maerore
+                    conficior, casu filiae meae, timeo enim, ne moriatur. Nam hac nocte servus ipse,
+                    ni Deus ei auxilietur, proculdubio morietur, quia et antequam ad hanc domum
+                    dominus tuus venisset, unum ex meis extuli.” Haec sacellanus meus ad me iam die
+                    declinante detulit; ego mox accepta veste egressus sum domum, et in alio
+                    hospitio eam peregi noctem. Ab eo die in alia dego domo, partemque rerum mearum
+                    ex illa contagiosa domo feci efferri, partem, quae non admodum curavi, ibi
+                    reliqui.</p>
+                <p xml:id="p.5">Sic, Frater Optime, ex medio pestis ex Dei auxilio cum meis evasi.
+                    Nescio, quid de me aut meis, quod Deus optimus maximus longe ex sua gratia
+                    avertat, adhuc fieri potest, contrahere enim vel ego vel mei aliquid contagii in
+                    domo illa pestilenti potuerunt. Vale et me ama.</p>
+                <p xml:id="p.6">Ex Crems 11. Decembris anno 1530.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">17</title>
+                <title key="body" n="17" type="main">Zsigmond Szeremlényi to Miklós Oláh (Vienna, 1
+                    September 1529)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15290901_1</idno>
+                <idno type="ITIdata">Q472589</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15290901_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Original letter with sign and seal. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 12. Konv. C</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">2rv.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">17</biblScope>
+                    <biblScope unit="page">71–73.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
+                <date when="1529-09-01">1 September 1529</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Zsigmond Szeremlényi</persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Zsigmond Szeremlényi to Miklós Oláh (Vienna, 1 September
+                    1529)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. Szeremlényi met János Czeglédi in Vienna, whom he
+                            informed about the latest events. Their scout had gone to Pozsony and
+                            returned to say that the Turks are at Kömlőd, that is, six miles from
+                            Buda. 2. In the meantime, King John I had gone to Székesfehérvár, and
+                            the Turkish Emperor surrounded Buda, if he has not occupied it yet. He
+                            provides a status report about the siege of Esztergom. It is rumored
+                            that German soldiers have driven out the Hungarians from Bratislava.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15290901_1_1.jpg"/>
+                <p xml:id="p.1">Praemissa servitiorum meorum commendatione, Reverendissime Domine
+                        Honorandissime!<note type="critic" xml:id="note.1">For his letter see <hi
+                            rend="smallcap">Hegedűs</hi> 1997, 131.</note></p>
+                <p xml:id="p.2">[1.] Cum per reverendissimum dominum meum cancellarium regium huc
+                        <placeName>Viennam</placeName> missus fuissem, reperi officialem
+                    Dominationis Vestrae Reverendissimae dominum <persName>Ioannem
+                        Czegledinum</persName><note type="critic" xml:id="note.2">János Czeglédi,
+                        Provisor of Oláh. He was Canon of the Cathedral Chapter of Győr between
+                        1534–1541, and Canon of Veszprém from 1543, see <hi rend="smallcap"
+                            >Karácsonyi–Kollányi</hi> 1909, 275, 299, and <hi rend="smallcap"
+                            >Bedy</hi> 1938, 359–360.</note> affinem meum et ne sine istis ad
+                    Dominationem Vestram Reverendissimam proficisceretur, volui de quibusdam
+                    novitatibus eandem certiorem facere.</p>
+                <p xml:id="p.3">Explorator noster sabbato proxime praeterito<note type="critic"
+                        xml:id="note.3">28 August.</note> rediit ad
+                        <placeName>Posonium</placeName>,<note type="critic" xml:id="note.4"
+                        >Bratislava.</note> qui retulit <persName>caesarum Turcarum</persName> feria
+                    secunda ante Bartholomei<note type="critic" xml:id="note.5">St. Bartholomew’s
+                        Day is on 24 August; <hi rend="italic">feria secunda ante Bartholomei</hi>
+                        was on 23 August.</note> in possessionem <placeName>Kunlewd</placeName><note
+                        type="critic" xml:id="note.6">Kömlőd.</note> ab <placeName>Buda</placeName>
+                    sex milliaribus<note type="critic" xml:id="note.7">The extent of an old
+                        Hungarian mile depended on the geography. It was between 1.74–8.35
+                        kilometres, but sometimes it went up to 11.3 kilometres. If we calculate
+                        with about 8 kilometres per one old Hungarian mile, we get about 50
+                        kilometres, which distance is in accordance with the distance between Buda
+                        and Kömlőd, see <hi rend="smallcap">Bogdán</hi> 1987, 58.</note> reliquisse.
+                    Procursores autem Turci eodem die in suburbio civitatis Budensis affuerunt.
+                    Feria quinta aut sexta post Bartholomei<note type="critic" xml:id="note.8">On
+                        Thursday or Friday after St. Bartolomew’s, i.e. 26 or 27
+                        August.</note><persName>Ioannes Zapoliensis</persName><note type="critic"
+                        xml:id="note.9">János Szapolyai (1487–1540) or King John I was Voivode of
+                        Transylvania before his coronation. He had himself proclaimed king at the
+                        Diet of Székesfehérvár on 10 November, 1526 as a result of which civil war
+                        broke out.</note> ingressus est <placeName>Albam Regalem</placeName><note
+                        type="critic" xml:id="note.10">Székesfehérvár.</note> et iisdem diebus
+                    caesar ipse undequaque circumdedit castrum et civitatem Budensem. Refertur, quod
+                    iam ceperit <placeName>Budam</placeName>.</p>
+                <p xml:id="p.4">[2.] Cum haec ita agerentur, <persName>Thomas Nadasdi</persName> ad
+                    explorandum pro se exiverat de castro utcumque ab Hungaris vel Turcis notus:
+                    insecuti sunt eum, ut vix castrum ingressus est. Sabbato tunc sequenti Turcae et
+                    Hungari fuerunt <placeName>Strigonii</placeName>,<note type="critic"
+                        xml:id="note.11">Esztergom.</note> qui statim castrum sagittare coeperunt:
+                    dummodo <persName>Strigoniensis</persName><note type="critic" xml:id="note.12"
+                        >Pál Várday.</note> est in castro suo <placeName>Dregel</placeName>,<note
+                        type="critic" xml:id="note.13">Drégely.</note> nulla spes nobis est, ut
+                    Budense castrum, <placeName>Wyssegrad</placeName>,<note type="critic"
+                        xml:id="note.14">Visegrád.</note><placeName>Strigonium</placeName> non
+                    capiatur. Hodie <placeName>Viennam</placeName> ruit fama, quales laucigeni<note
+                        type="critic" xml:id="note.15">Or <hi rend="italic">lancigeri</hi>, <hi
+                            rend="italic">Landsknechts</hi>, meaning infantrymen of peasant
+                        origin.</note> Hungaros ex castro Posoniensi simulcum <persName>Ioanne
+                        Zalay</persName><note type="critic" xml:id="note.16">János Szalay of
+                        Kerecsény, <hi rend="italic">ispán</hi> of Pozsony county from 1527. He
+                        remained loyal to King Ferdinand I till the end. One of his best friends was
+                        Tamás Nádasdy, with whom he corresponded as well, see <hi rend="smallcap"
+                            >Bessenyei</hi> 1994, passim.</note> expulissent, tamen ut hoc revera
+                    scribere possum, incertum adhuc habeo. Hodie civitas Viennensis fecit computum,
+                    quantum peditum et equitum haec potest: <persName>caesar</persName> Romanorum
+                    est in <placeName>Italia</placeName>, habet pacem perpetuam cum sancto
+                    pontifice, cum <persName>rege Francorum</persName>, cum <persName>rege
+                        Angliae</persName>, ne forte Deus ex eorum unione defensioni nostrae
+                    attendet, quod ut fiat, Deum deprecemur. Turca habet in exercitu suo III <hi
+                        rend="smallcap">CM</hi><note type="critic" xml:id="note.17">Unclear reading.
+                            <hi rend="italic">CM</hi> probably means 100,000, so III<hi rend="super"
+                            >CM</hi> would mean 300,000 of infantrymen.</note> et in aqua I<hi
+                        rend="super">CM</hi> ingenia magna pro muro<note type="critic"
+                        xml:id="note.18">Battering cannons, see <hi rend="smallcap">Simon</hi> 2008,
+                        318.</note> VI<hi rend="smallcap">C</hi><note type="critic" xml:id="note.19"
+                            >VI<hi rend="super">C</hi> probably means 600.</note> Hungari ab ipsis
+                    non impediuntur, ut eo magis ipsos ad se alliciat, sed videant ipsi in </p>
+                <pb facs="15290901_1_2.jpg"/>
+                <p xml:id="p.5">futurum, ut fertur Turca vult totam <placeName>Austriam</placeName>
+                    hac hieme suae <choice>
+                        <orig>ditionae</orig>
+                        <supplied>ditioni</supplied>
+                    </choice> dare. Maxima res est, quod huzarones tam a domino palatino, quam a
+                    domino cancellario ad Turcas eunt, illicque libentius esse voluit, quam
+                    nobiscum, cum nuper ex
+                        <placeName>Buda</placeName><placeName>Posonium</placeName> veniremus,
+                    provisor domini mei <persName>Ioannes Redneky</persName><note type="critic"
+                        xml:id="note.20">János Redneki, the accountant of the income of the Bishop
+                        of Veszprém, previous hussar at the court of King Louis II, see <hi
+                            rend="smallcap">Fógel</hi> 1917, 62.</note> cum quarta equitibus ad
+                        <persName>Ioannem</persName> ivit, alii itidem faciunt, quid deinde
+                    sequetur, Deus novit. Haec volui Dominationi Vestrae Reverendissimae scribere,
+                    ne me negligentem putare posset, cui me iterum commendo.</p>
+                <p xml:id="p.6"><placeName>Viennae</placeName> feria tertia in festo Beati Egidii
+                    abbatis 1529.</p>
+                <p xml:id="p.7">
+                    <seg type="signature">Servitor Sigismundus Zeremlyeny</seg>
+                    <note type="critic" xml:id="note.21">Zsigmond Szeremlényi was Royal
+                        Secretary.</note>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso" xml:id="d.2">
+                <head>On the other side:</head>
+                <p xml:id="p.8"> Reverendo Domino Nicolao Olah, custodi Albensi, utrariumque
+                    maiestatum Secretario, Domino meo Honorandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">18</title>
+                <title key="body" n="18" type="main">Miklós Oláh to Pál Gerébi (Znojmo, 4 September
+                    1529)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15290904_1</idno>
+                <idno type="ITIdata">Q472590</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15290904_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi </hi> 1875, 15–18. </note>
+                <note type="translation"><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                        >Albu–Firu</hi> 1963, 195–197.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">13–16.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">18</biblScope>
+                    <biblScope unit="page">73–75.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Znojmo<idno type="ITIdata">Q16940</idno></placeName>
+                <date when="1529-09-04">4 September 1529</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Pál Gerébi</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Pál Gerébi (Znojmo, 4 September 1529)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. He expresses his worry and anxiety about the present
+                            and future of the homeland. 2. It is rumored that King Charles V is
+                            arriving to the Italian border, but according to Oláh, he has enough on
+                            his plate even without Hungary and the Turks, and he only trusts King
+                            Ferdinand I, although they have been preparing to defend Hungary for
+                            nine months now. 3. In the meantime the Turks have occupied Pécs and
+                            Székesfehérvár, and it is clear as day that they have also reached Buda.
+                            4. The Czechs have not sent troops, and they have not gone to war
+                            themselves either as they had promised. But the Moravians have given
+                            money to King Ferdinand I for 3,000 infantrymen, and they will also send
+                            another 3,000 men, and Johann von Hardegg is bringing 500 horsemen from
+                            Silesia. 5. While he is writing these, he receives a note that another
+                            500 men will be joining the army, which is starting to grow in number;
+                            the question is if this will be enough. 6. They can only trust in God,
+                            he will have mercy on them.</p>
+                    </body>
+                </floatingText>
+                <p xml:id="p.1"> Ad <persName>Paulum Gerebium</persName>.<note type="critic"
+                        xml:id="note.1">He can possibly be identified as Pál Geréb of Gáltő, see <hi
+                            rend="smallcap">Jakó</hi> 1990, 164.</note></p>
+                <p xml:id="p.2">[1.] Torqueor mirum in modum praesentium temporum perturbatione.
+                    Video undequaque nobis mala <del corresp="Olahus">minere</del><add
+                        corresp="Olahus" type="corr">imminere</add>, quae vitari certe poterant,
+                    nisi principes nostri belli, quam pacis, et privati magis, quam publici commodi,
+                    sine ullo futurorum malorum respectu cupidi, se sua sponte in haec mala
+                    coniicere voluissent. Iam perlubenter rem et consilium suum mutarent: si commode
+                    fieri posset, sed frustra res agitur, dum occasio et tempus praeteriere. </p>
+                <p xml:id="p.3"> [2.] Audivimus <persName>caesarem Carolum</persName> venisse ad
+                    Italiae fines. Quid id nobis praesidii afferre poterit? Satis habet negotii res
+                    suas privatas curare, magis eum in animo habere credo, quo pacto in
+                        <placeName>Urbe</placeName> coronetur, quam <placeName>Hungariae</placeName>
+                    et omnium vicinarum regionum defensionem. <persName>Regem</persName> nostrum,
+                    quantum in se est, arbitror totis viribus innisurum ad nostram regnique sui tam
+                    aviti, quam quaesiticii tutelam, sed prae hoste tam potentissimo et multis
+                    triumphis victoriisque aucto, quid solus facere potest? Novem iam abest
+                    mensibus, eo nomine, ut aliquid praesidii <del corresp="Olahus">ex</del><add
+                        corresp="Olahus" type="corr">et</add> auxilii ab imperio et aliis suis
+                    regnis ad <placeName>Hungariae</placeName> defensionem compararet; et tamen
+                    nihil video a tanto tempore confectum esse, praeter inane auxilii contra Turcos
+                    mittendi nomen, verborum et <del corresp="Olahus">pollitationum</del><add
+                        corresp="Olahus" type="corr">pollicitationum</add> et ab imperio et aliis
+                    regnis satis habemus, re tamen ipsa nihil praestari videmus, ob quam rem nihil
+                    aliud undique video, quam pericula (ni Deus ex immensa sua bonitate celeriter
+                    nobis providerit) toti Christianitati imminere. </p>
+                <p xml:id="p.4"> Spes nulla nobis est, et si quae est, vana est, nullum praesidium,
+                    quo possumus tuti esse. Unde autem haec malorum nostrorum seges accesserit, et
+                    quae sit origo periculi Christianitatis, attende brevibus, dum nullius est boni
+                    respectus, dum suae quisque studet utilitati, et publica <del corresp="Olahus"
+                        >posthabentur</del><add corresp="Olahus" type="corr">negliguntur</add>,
+                    iustitia nemini administratur, viduae et orphani miris affliguntur malis,
+                    postremo dum et divina et humana sine ullo discrimine posthabentur. </p>
+                <p xml:id="p.5"> [3.] Interim hostis <del corresp="Olahus">potentissimos</del><add
+                        corresp="Olahus" type="corr">potentissimus</add> irrupit in viscera nostra:
+                    hortatu nescio cuius principis <del corresp="Olahus">Christianitati</del><add
+                        corresp="Olahus" type="corr"
+                        >Christiani</add><placeName>Quinqueecclesias</placeName><note type="critic"
+                        xml:id="note.2">Pécs.</note> occupavit et <placeName>Albam
+                        Regalem</placeName>,<note type="critic" xml:id="note.3"
+                        >Székesfehérvár.</note> eius duces sunt hi, de quibus bene erat merita
+                        <placeName>Hungaria</placeName>, hi nec Deum nec honorem suum timentes,
+                    omnia promiscue agunt, eorum hortatu miseri coloni in servitutem abducuntur
+                    perpetuam, virgines stuprantur, coniugatae opprimuntur, viduae ad <del
+                        corresp="Olahus">omnem</del><add corresp="Olahus" type="corr">omne</add>
+                    libidinis genus compelluntur. Quod vero crudelius est, non contenti finibus
+                        <placeName>Hungariae</placeName>, et omnium, qui in ea sunt, periculis,
+                    aliis quoque Christianitatis regnis exitium et simile periculum moliuntur, eoque
+                    sunt, ut iam apertissimis iudiciis et documentis cognovimus, animo, ut vicinas
+                        <placeName>Hungariae</placeName> regiones invadant, et per eas alia quoque
+                    Christianorum regna penetrent. <persName>Rex</persName> noster licet maximis
+                    curis, studiis in hoc dies et noctes versatur, hoc cogitat, ut coactis omnium
+                    suorum regnorum viribus, primo quoque tempore <placeName>Hungariae</placeName>
+                    subveniat, hostesque Dei auxilio propellat. Tamen ubique videntur res tardius
+                    quam existimabamus sperabamusque procedere. </p>
+                <p xml:id="p.6"> [4.] Bohemi polliciti fuerant, ultra <del corresp="Olahus">ea
+                        auxilia, quae promiserant</del><add corresp="Olahus" type="corr">ea quae
+                        promiserant ante auxilia</add> sese quoque in propria persona paratos
+                    futuros cum rege, dum Turcarum adventum audituri, et certo intellecturi essent.
+                    Iam sole clarius intelligunt Turcum <placeName>Budam</placeName> usque
+                    pervenisse, <placeName>Quinqueecclesiis</placeName> et <placeName>Alba
+                        Regali</placeName> captis. Et nihil adhuc de <del corresp="Olahus"
+                        >Bohemis</del><add corresp="Olahus" type="corr">eis</add> audimus, quod <choice>
+                        <orig>declararet</orig>
+                        <supplied>declaret</supplied>
+                    </choice> eos promissa servaturos; heri venit ad me spectatae fidei nobilis
+                    Bohemus ex <placeName>Praga</placeName>, qui mihi hac de re percontanti nihil
+                    apparatus se vidisse dixit. </p>
+                <p xml:id="p.7"> Moravi instruunt tria peditum milia, ultra datam illam pecuniae
+                    summam, quam regi ad alia tria milia peditum conducenda nuper dederunt, hi,
+                    videor videre, ultra omnes alios regis negotia curae habent, et <del
+                        corresp="Olahus">sollicius</del><add corresp="Olahus" type="corr"
+                        >sollicitius</add> rem Christianitatis tractant, si quis soli facere
+                    possunt. Ex <placeName>Silesia</placeName> quingenti afferuntur equites duce
+                    comite <persName>Ioanne ab Hardeck</persName>,<note type="critic"
+                        xml:id="note.4">Johann von Hardegg or Johann, Count of Hardegg and his
+                        brother Julius I, Count of Hardegg defended with their own army the Danube
+                        bank against the Turks with their own army in 1529.</note> qui ad diem
+                    dominicum proxime venturum constituturi sunt in finibus
+                        <placeName>Moraviae</placeName> versus <placeName>Hungariam</placeName>.
+                        <placeName>Austria</placeName> non magnam dare potest cum
+                        <placeName>Stiria</placeName>, <placeName>Carniola</placeName>,
+                        <placeName>Carinthea</placeName>que hominum copiam; ea, quam rex et ab
+                    imperio, et ex aliis principum ac ducum auxiliis secum speratur ducturus hominum
+                    copiam, maior futura esse creditur inter alios omnes apparatus, quae si etiam
+                    advenerit, utinam par sit tanto hosti <del corresp="Olahus">repellando</del><add
+                        corresp="Olahus" type="corr">repellendo</add>.</p>
+                <p xml:id="p.8"> [5.] Dum haec scriberem, accepi copias, quae promissae sunt in
+                    subsidium <placeName>Hungariae</placeName> plures futuras quinquaginta milibus
+                    hominum; hic numerus, si adiunctae ei fuerint copiae provinciarum vicinarum, non
+                    parvus esse videtur; ad hostis ipsius conatus comprimendos, verum quando
+                    convenient? Dum se parant, accingunt, monent, interea Turcus occupata
+                        <placeName>Hungaria</placeName><placeName>Viennam</placeName> usque
+                    appellere potest. </p>
+                <p xml:id="p.9"> [6.] Deus, qui habenas omnium habet regnorum, scit, quid sit rebus
+                    Christianorum concessurus, benignus est, bonus est, pius est permitti ad tempus
+                    propter scelera populum suum affligi. Non patietur tamen ad extremum
+                    periclitari, dum viderit preces piorum ad se continue advolare, auresque suas
+                    continuis piorum observationibus pulsari, solus ipse est spes nostra, qui rem
+                    parvam augere, magnam minuere potest, nihil aliud nobis deest, quam <add
+                        corresp="Olahus" type="insert">quod</add> nos ipsi desumus rebus nostris. Si
+                    boni erimus, Deus dexteram suam porriget, si mali, avertet a nobis suam faciem.
+                    Haec tibi volui significare, ut scires, quo in periculo versaremur, et quis nos
+                    maneret rerum status, et ut te posses consolari, omnem tuam in Deo figens spem,
+                    qui bene de se sperantibus nunquam defuit. Vale. </p>
+                <p xml:id="p.10"> Ex <placeName>Znoyma</placeName> 4. Septembris 1529. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

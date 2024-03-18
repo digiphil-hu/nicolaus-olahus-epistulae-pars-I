@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">324</title>
+                <title key="body" n="324" type="main">Cornelis de Schepper to Miklós Oláh (Linz, 18
+                    February 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330218_1</idno>
+                <idno type="ITIdata">Q472896</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330218_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 295–296.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 251–253; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1616–1623.</p>
+                </note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15330307_1" type="url">(333)</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">455–456.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">324</biblScope>
+                    <biblScope unit="page">409–411.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Linz<idno type="ITIdata">Q22537</idno></placeName>
+                <date when="1533-02-18">18 February 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Linz, 18 February
+                    1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. After his recent letter he met with the King and
+                            talked about the Queen’s and Oláh’s affairs, and he received the answer
+                            that the King has the Queen’s affair at heart, and he will not forget
+                            about him, either. 2. Schepper and a colleague of his are going to the
+                            negotiations tomorrow; they will first encourage both King Fedinand I’s
+                            and King John I’s men to make peace; they do not yet know who will
+                            respond. On King John I’s side the following are coming: Ferenc
+                            Frangepán, István Brodarics, István Werbőczy, Tamás Nádasdy, and others;
+                            on King Ferdinand I’s side: Sigismund von Dietrichstein and Sigismund
+                            von Herberstein. Nobody is coming from Poland, and they do not even know
+                            what is going on at the Piotrków assembly. 3. King Ferdinand I is in
+                            Linz, and he is hesitating if he should go to Bohemia or Moravia. Gritti
+                            has crossed the Drava, they do not know anything else about him. If he
+                            wants to write to his Hungarian friends who are coming to the
+                            negotiation, he should do so through Sanchez, and Oláh should write to
+                            his wife that he is well.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330218_1_1.jpg"/>
+                <p xml:id="p.1">Cornelius Scepperus Nicolao Olao salutem. Reverende et Excellens
+                    Domine, Maior et Amice Carissime et Honorandissime!</p>
+                <p xml:id="p.2">[1.] Nolo longa praefatione tecum uti, cuius perspecta est mihi
+                    integritas, proinde ad rem. Post novissimas litteras meas<note type="critic"
+                        xml:id="note.1">Ep. 317.<ref>olahus.tei.15330208_1</ref></note> tam in re
+                    sacrae <persName>reginalis maiestatis</persName>, quam Reverendissimae
+                    Dominationis Vestrae conveni serenissimum <persName>regem Romanorum</persName>
+                    non tam anxius de re praefatae <persName>reginalis maiestatis</persName>, quam
+                    sciebam <persName>fratri</persName> curae esse, quam de iis, quae ad
+                    Reverendissimam Dominationem Vestram attinent. Respondit in rem
+                        <persName>maiestatis reginalis</persName> facturum, ut
+                        <persName>fratrem</persName> decet, adiunxit illam esse optime de se meritam
+                    et replicavit bis idipsum, tandem subiunxit et sororem postea iterum talem, et
+                    tam bene meritam. Nosti hunc affectum esse magnum. De re Dominationis Vestrae
+                    Reverendissimae dixit se recordari et minime obliturum. Itaque tum ipsius
+                    maiestatis benevolentia, tum officio et sedulitate domini <persName>Gabrielis
+                        Xanthi</persName><note type="critic" xml:id="note.2">Gabriel Sanchez.</note>
+                    nihil non debet boni sperare Reverendissima Dominatio Vestra.</p>
+                <p xml:id="p.3">[2.] Quod ad me attinet, quae superioribus litteris<note
+                        type="critic" xml:id="note.3">Ep.
+                        317.<ref>olahus.tei.15330208_1</ref></note> ad te scripsi, illa facturum
+                    esse, iamque pro parte fecisse ne dubita. Cras hinc sumus abituri collega meus
+                    et ego cum aequali potestate. Deus faxit, ut bonum ad finem res haec perduci
+                    possit. Primi tractatus nostri erunt, ut adhortemur tam regios, quam vaivodanos
+                    ad pacem. Neque nescimus a regiis propositum iri principio, ut
+                        <persName>vaivoda</persName> cedat ea parte regni, quam habet; vicissim
+                        <persName>maiestatem regiam</persName> sese ita gesturam erga eum, ut
+                    apparere possit minime illum poenitere debere huius cessionis. Tum quid sint
+                    adversarii responsuri, in obscuro non est; tandem veniemus ad nucleum. De loco
+                    mutando et aliis rebus scripsi ad <persName>reginalem maiestatem</persName>,
+                    quas litteras, quia scio Reverendissimae Dominationis Vestrae communes fore, non
+                    amplius addam illis de rebus. Venturi sunt ex parte
+                        <persName>vaivodae</persName><persName>Franciscus de
+                        Frangipanibus</persName> archiepiscopus Collocensis,<note type="critic"
+                        xml:id="note.4">Ferenc Frangepán.</note> item <persName>Stephanus
+                        Brodericus</persName> et <persName>Stephanus Verbetzy</persName><note
+                        type="critic" xml:id="note.5">István Werbőczy.</note> et
+                        <persName>Nadasdy</persName> et alii. </p>
+                <pb facs="15330218_1_2.jpg"/>
+                <p xml:id="p.4">Ex parte serenissimi <persName>regis</persName> praeter duos
+                        <persName>Sigismundos de Dieteristain</persName><note type="critic"
+                        xml:id="note.6">Sigismund von Dietrichstein (1484–1533) was an Austrian
+                        nobleman and Imperial Councilor, and from 1515 to 1529 also the Governor <hi
+                            rend="italic">(Landeshauptmann)</hi> of Styria, see <hi rend="smallcap"
+                            >Varga</hi> 2008, 1105.</note> et <persName>de
+                        Herbestain</persName><note type="critic" xml:id="note.7">Sigismund von
+                        Herberstein (1486–1566) was a Carniolan diplomat, writer, and member of the
+                        Holy Roman Empire’s Imperial Council. For his life and his diplomatical
+                        relations, see <hi rend="smallcap">Picard</hi> 1967, 166–174.</note> erunt
+                    ex omnibus provinciis legati et oratores, sed illi primi. Polonorum nemo vocatus
+                    est ad hunc conventum, sed nihil id refert. Semper sunt nobis integra omnia eo
+                    genere, quo ad Reverendissimam Dominationem Vestram nuper scripsi, praetera
+                    valde vicini sumus <placeName>Poloniae</placeName>, ut ad omnes casus illic
+                    possit nobis esse recursus.</p>
+                <p xml:id="p.5">[3.] Serenissimus <persName>rex Romanorum</persName> haeret
+                        <placeName>Lincii</placeName> dubitans in <placeName>Bohemiam</placeName>ne,
+                    an in <placeName>Moraviam</placeName> sese sit collaturus, et vicinus esse
+                    possit his tractatibus. Quid actum sit <placeName>Peterkoviae</placeName><note
+                        type="critic" xml:id="note.8">Piotrków.</note> in comitiis Polonorum, nondum
+                    scimus. Exspecto ego de die in diem litteras, per quas certior de omnibus sum
+                    futurus. Tum nihil Reverendissimae Dominationi Vestrae celavero. De
+                        <persName>Ludovico Gritti</persName> nihil audimus; abiit trans
+                        <placeName>Dravum</placeName>. Si qui inter nominatos Hungaros amici sunt,
+                    Reverendissima Dominatio Vestra et ad eos quicquam scribere velit, mittat ad me
+                    litteras per <persName>Gabrielem Xantum</persName>. Uni primum aliquid tractare
+                    coeperimus, confestim et reginalem maiestatem et Dominationem Vestram
+                    Reverendissimam de hoc faciam certiorem. Interim dignetur me reginali maiestati
+                    humillime commendare, si sese obtulerit occasio Dominationi Vestrae
+                    Reverendissimae scribendi <placeName>Brugas</placeName>, nuntiet
+                        <persName>uxori</persName> et amicis rectissime me valere. Mitto ad illos
+                    nunc etiam litteras, sed in omnem eventum poterit eam operam amico praestare. Et
+                    rectissime valeat Reverendissima Dominatio Vestra, cui me ex animo commendo.</p>
+                <p xml:id="p.6">Ex <placeName>Lyncio</placeName> die XVIII. Februarii 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

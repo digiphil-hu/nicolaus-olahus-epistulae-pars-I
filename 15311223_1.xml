@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">192</title>
+                <title key="body" n="192" type="main">Arnold van Bergheick to Miklós Oláh (Enghien,
+                    23 December 1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15311223_1</idno>
+                <idno type="ITIdata">Q472764</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15311223_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 177–178.</note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15320302_1" type="url">217</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >179–180.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">192</biblScope>
+                    <biblScope unit="page">264–265.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Enghien<idno type="ITIdata">Q470206</idno></placeName>
+                <date when="1531-12-23">23 December 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Arnold van Bergheick<idno type="ITIdata">Q470224</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Arnold van Bergheick to Miklós Oláh (Enghien, 23 December
+                    1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He cannot express how happy he is for their luck that
+                            good literature, which seems to be dying out in this age, has returned.
+                            2. He should go ahead and use his Greek grammars and tables, and Jakob
+                            Jespersen will also help him. Theodorus Gaza is often useless, he should
+                            rather pay attention to Jakob. If Oláh stays here for a long time, he
+                            will often write to him, and he will send him Hesiod’s Works and Days,
+                            which he has translated word for word.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15311223_1_1.jpg"/>
+                <p xml:id="p.1">Arnoldus Oridryus<note type="critic" xml:id="note.1">See Ep. 144.
+                        Note 1.<ref>olahus.tei.15310311_1</ref></note> Nicolao Olao secretario
+                    etc.</p>
+                <p xml:id="p.2">[1.] Serenissimae Hungarorum reginae Primario, eidemque longe omnium
+                    Oculatissimo Consuli ac Domino meo, Domino Nicolao Olao <choice>
+                        <orig>τοῦ</orig>
+                        <supplied>τὴν</supplied>
+                    </choice> θεοῦ φιλίαν καὶ πάντοτε εὐπράττειν!<note type="critic" xml:id="note.2"
+                        >‘(sends) God’s love and much success for the future’. The opening
+                        salutation of the letter is missing a verb.</note> Dici non facile poterit,
+                    ne ab ipsis quidem musis, Ornatissime Consul, quam unice quamquam impense
+                    gratuler seculi nostri felicitati, cui non modo bonae litterae, prius extinctae,
+                    ab orco vindicatae, quasi postliminio restitutae sunt, non modo sanctissimae
+                    leges, utpote sumptuariae et de subveniendis pauperibus, hoc est nudo et famenti
+                    Christo, vestra ope revixerunt, verum etiam cui tot tam eruditi, tam opulenti,
+                    tam omni virtutum genere praestantissimi heroes caelitum evidenti benignitate
+                    obvenerunt. Neque semel dubito, quin Deus optimus maximus ceteris illa tristi
+                    clade occubentibus, te quasi carum quendam unionem reipublicae nostrae
+                    reservaverit, a qua hactenus tui similes, hoc est, tum pii, tum eruditi magnis
+                    votis permulti desiderati sunt, ut scilicet non innocentes solum, sed et
+                    litterati habeant suae quoque industriae confugium et asylum.</p>
+                <p xml:id="p.3">[2.] Quamobrem etsi non fuissem id Dominationi Tuae pollicitus, ut
+                    scilicet eam subinde litteris meis liceret interpellare, tamen ultro etiam id
+                    tentassem, praesertim huc toties instigatus, optimi eiusdemque non sane
+                    illitterati clientis tui <persName>Iacobi Iaspari Dani</persName><note
+                        type="critic" xml:id="note.3">Jakob Jespersen.</note> amicissimis
+                    colloquiis, et iam communis iste nobiscum litterarum amor plane persuasit, ut
+                    aliquando litteratissimo principi meo aut gratularer feliciter graecissanti aut
+                    gratificarer de omnibus bene mereri parato. Utere rudimentis nostris illis
+                    Graecanicis, ac praescriptas ob oculos coniugationum, formationum, contractionum
+                    tabulas introspicere per otium. Nimium otiosus est persaepe <persName>Theodorus
+                        Gaza</persName><note type="critic" xml:id="note.4">Theodorus Gaza (ca.
+                        1398–ca. 1475) was a Greek humanist and Aristotle’s translator.</note> et
+                    rem </p>
+                <pb facs="15311223_1_2.jpg"/>
+                <p xml:id="p.4">nimis obscure prosequitur. Ipsi vero in libello nostro docemus et
+                    consulimus et paene citra grammaticen facimus grammaticos. Graeci in plerisque
+                    cum Latinis conveniunt. Quid hic necessum est onerare Latinum lectorem taediosis
+                    praeceptis iisdem otiosis? Habes tecum <persName>Iasparum</persName>, qui rem
+                    omnem facile expediverit, si et me per otium aliquando adesse liceret, tribus
+                    horis facile rem omnem commonstraverim. Quod si te nostris, quod spero,
+                    regionibus haerere per fata detur, agam frequenter litteris, missurus etiam
+                    munusculi loco <persName>Haesiodi</persName> opusculum, cui titulum inscripsit
+                    ἔργα καὶ ἡμέραι <note type="critic" xml:id="note.5"><hi rend="italic">Works and
+                            Days</hi> by Hesiod. We do not know his translation.</note> per me
+                    versum de verbo ad verbum, quo sit fructus uberior graecissanti, si modo per
+                    otium rescripserit Dominationi Tuae sibi officioli nostri non displicere
+                    humilitatem. Bene vale. <placeName>Angiae</placeName> e nostro litterario ludo,
+                    quem velim commendatum habeas, si casus inciderit.</p>
+                <p xml:id="p.5">Anno 1531. Ysis Nataliciis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

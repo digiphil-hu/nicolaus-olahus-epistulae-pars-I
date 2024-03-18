@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">146</title>
+                <title key="body" n="146" type="main">Tamás Szalaházy to Miklós Oláh (Veszprém, 2
+                    May 1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15310502_1</idno>
+                <idno type="ITIdata">Q472718</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15310502_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 128–129.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >373–374.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">146</biblScope>
+                    <biblScope unit="page">208–209.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Veszprém<idno type="ITIdata">Q19425</idno></placeName>
+                <date when="1531-05-02">2 May 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Tamás Szalaházy<idno type="ITIdata">Q258359</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Tamás Szalaházy to Miklós Oláh (Veszprém, 2 May 1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. He has already written about the latest news to the
+                            Queen, Oláh should also be aware of them by now. As far as Oláh’s
+                            affairs are concerned, he is trying to fulfill his commitment. Oláh’s
+                            chaplain has been here. He will get Dörgicse back as well as the rest of
+                            his neighboring estates. Bálint Török refuses to give back what he has
+                            conquered. He has completely looted Somogy and now has retreated to
+                            Nyitra county with his family. He has left János Lengyel behind as
+                            captain, maybe it will be easier to negotiate with him about the return.
+                            2. The Queen’s castle in Mukachevo is in the hands of Ártándy’s
+                            servants. If she wants it back, she should write a letter of commission
+                            for Szalaházy and a letter of safeguard according to the model he is
+                            sending, and he will do what he can.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15310502_1_1.jpg"/>
+                <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
+                <p xml:id="p.2">[1.] Nova, quae in praesentia apud <del corresp="Olahus"
+                        >vos</del><add corresp="Olahus" type="corr">nos</add> sint, ad serenissimam
+                    dominam reginam perscripsimus. Quae quoniam Dominationem Vestram non dubitamus
+                    ex iisdem illis intellecturam, non putavimus hic repetenda esse. In negotiis
+                    Dominationis Vestrae quicquid praestare potuimus, praestitimus. Fuit apud nos
+                    his diebus capellanus eiusdem, obtulimus illi omnem operam et auctoritatem
+                    nostram, possidet <placeName>Dergycze</placeName><note type="critic"
+                        xml:id="note.1">Dörgicse.</note> et illas possessiones Dominationis Vestrae
+                    nostris <choice>
+                        <orig>vicinis</orig>
+                        <supplied>vicinas</supplied>
+                    </choice>. Ut dominus <persName>Valentinus Therek</persName><note type="critic"
+                        xml:id="note.2">For more on him and what follows see Ep. 127. Note
+                            5.<ref>olahus.tei.15301210_1</ref></note> remitteret bona, quae
+                    occupavit hactenus, adduci non potuit, apud quem quantum possimus, vel hinc
+                    Dominatio Vestra considerare potest, quod omnes nostras in
+                        <placeName>Simigio</placeName><note type="critic" xml:id="note.3">Somogy
+                        county. On Török’s devastation in this county, see <hi rend="smallcap"
+                            >Bessenyei</hi> 1994, XIV.</note> possessiones variis exactionibus adeo
+                    exhausit, ut multi aufugere coacti sint, multi ne panem quidem habent ad
+                    manducandum. Hoc modo tractato toto fere
+                        <placeName>Simigio</placeName><placeName>Nittriam</placeName><note
+                        type="critic" xml:id="note.4">Nyitra county.</note> una cum coniuge, liberis
+                    et rebus omnibus se contulit, reliquit capitaneum in
+                        <placeName>Simigio</placeName> dominum <persName>Ioannem
+                        Lenghyel</persName>,<note type="critic" xml:id="note.5">János Lengyel of
+                        Tóti (†1532?) was an aristocrat loyal to King Ferdinand I, who bestowed many
+                        possessions to him e.g. Zalaegerszeg, and Csesznek. He was Royal Master
+                        Seneschal <hi rend="italic">(magister regalis dapiferorum)</hi> from 1527
+                        until his death.</note> forte apud hunc melius agi de recuperatione bonorum
+                    Dominationis Vestrae poterit.</p>
+                <p xml:id="p.3">[2.] Nos nihil omittemus, quod praestare poterimus, scripsimus ad
+                    serenissimam dominam reginam de arce eius <placeName>Mwnkach</placeName>.<note
+                        type="critic" xml:id="note.6">Mukachevo.</note> Est adhuc in manibus
+                    servitorum egregii cuiusdam <persName>Pauli Arthandy</persName><note
+                        type="critic" xml:id="note.7">Pál Ártándy of Kereki (ca. 1490–1533) was a
+                        follower of King John I, and the <hi rend="italic">ispán</hi> of Máramaros
+                        county between 1526–1530. He and his brother, Balázs were executed by
+                        Gritti, see <hi rend="smallcap">Heiss</hi> 1976, 84.</note>, instant illis
+                    ac variis artibus. Apud eos laborant quidam, ut tradant arcem, veremur ne
+                    expugnentur. Nam non sunt divites et huiusmodi genus hominum facile cedit
+                    muneribus. Nos decrevimus laborare, si quo pacto arcem </p>
+                <pb facs="15310502_1_2.jpg"/>
+                <p xml:id="p.4">e manibus eorum eruere possimus, sed timemus, ne cum negotium
+                    aggressi fuerimus, haerendum nobis sit, si litteras reginalis maiestatis non
+                    habuerimus. Quare si placuerit eius maiestati, ut laboremus, Dominatio Vestra
+                    efficiat, ut quamprimum nobis litteras mittat, unas credentionales in personam
+                    nostram ad ipsos castellanos, et alteras expeditorias hoc exemplo, quod misimus.
+                    Si extorquere arcem e manibus eorum poterimus, mox eius maiestati
+                    significabimus, poterit de eo disponere, prout ei visum fuerit, nobis foret
+                    admodum molestum, si in manus hostiles deveniret. Quod omnino futurum veremur,
+                    si reginalis maiestas cunctata fuerit negotium praevenire. Dominatio Vestra
+                    feliciter valere optamus.</p>
+                <p xml:id="p.5"><placeName>Vesprimii</placeName> secunda Maii 1531.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

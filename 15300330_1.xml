@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">68</title>
+                <title key="body" n="68" type="main">Miklós Oláh to Christoph Rauber (Linz, 30 March
+                    1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15300330_1</idno>
+                <idno type="ITIdata">Q472640</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15300330_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 61–63.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">53–55.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">68</biblScope>
+                    <biblScope unit="page">131–133.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Linz<idno type="ITIdata">Q22537</idno></placeName>
+                <date when="1530-03-30">30 March 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Christoph Rauber</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Christoph Rauber (Linz, 30 March 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. He is surprised how nonchalant the princes are. If
+                            they do not defend their own, they will lose all their possessions, the
+                            treasury will be empty, and they will not be able to pay the soldiers.
+                            It is the princes’ great sin that while they are becoming poor, their
+                            people are becoming rich. 2. Hungary could also have been defended if
+                            they had shown greater care towards it. He should remember the time they
+                            were in Bratislava, in constant danger. He attributes these sins not to
+                            the king, but to the ill will and injustice of his people. Rauber should
+                            help ease these troubles if he can.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15300330_1_1.jpg"/>
+                <p xml:id="p.1">Ad eundem.</p>
+                <p xml:id="p.2">[1.] Cum ego principum mores et conditionem mecum ipse considero,
+                    non possum explicare, Reverendissime Pater, quanta ducat admiratione
+                    negligentiae eorum et exiguae, quam in rebus suis habere soliti sunt, curae,
+                    sollicitudinis ac diligentiae. Videmus quotidie magnum excelsumque principes
+                    nostros habere animum, et omnia acutissimo praevidere ingenio, cognoscere et
+                    discutere. Quod magis est necessarium id non provident, nemini dubium est:
+                    apparatus bellicos magnis parari sumptibus, nihil sine pecunia, <quote
+                        xml:id="quote.1">quae nervus est belli</quote><note type="quote"
+                        xml:id="note.quote.1">Proverb, cf. Cic. <hi rend="italic">Phil.</hi> V,2,5:
+                        “nervos belli, pecuniam infinitam”.</note>, in castris fieri gloria dignum,
+                    eam autem si quis parare velit, magna adhibeatur diligentia necesse est. Subditi
+                    defendendi ab hostibus, ne depraedentur, spolientur, diripiantur et in
+                    servitutem abigantur. Nam si ea principes neglexerint, amissuri proculdubio sunt
+                    tributa, <choice>
+                        <orig>vectigala</orig>
+                        <supplied>vectigalia</supplied>
+                    </choice> et omnes alias, quibus regnum et parari et defendi potest,
+                    commoditates, deinde fiscus diligenter custodiendus, ne a quaestoribus et illius
+                    praefectis mille artibus exhauriatur. Quod nunc nostro tempore saepenumero
+                    contingere videmus, nostrosque principes tam negligenter <del corresp="Olahus"
+                        >suos fiscos</del><add corresp="Olahus" type="corr">suum fiscum</add>
+                    custodire, ut illis direptis in extremam nonnumquam deveniant mendicitatem, <del
+                        corresp="Olahus">dare</del><add corresp="Olahus" type="corr">dicere</add>
+                    volebam, necessitatem.</p>
+                <p xml:id="p.3">Qui fit, Reverendissime Praesul, ut quaestores, et qui rem tractant
+                    principum nostrorum pecuniariam, brevi tempore ditescant? Cum paulo ante nihil
+                    penitus habuerint, principes vero pauperescant? Nimirum ex negligentia eorum,
+                    qui plus credunt suis receptoribus et financiariis, quam bonorum consiliis. Immo
+                    quod maius est, propriis oculis <del corresp="Olahus">dicunt</del><add
+                        corresp="Olahus" type="insert">vident sui ipsius rapinam ac desolationem.
+                        Et</add> licet nostri quaestores <add corresp="Olahus" type="insert"
+                        >dicant</add> se antea quoque quam ad principum venissent servitia, satis
+                    habuisse opum, facultatum et divitiarum, tamen neminem adhuc ex tanto hominum
+                    grege, qui eos antea noverint, vidimus, qui fateatur eorum vera esse verba. Quod
+                    si etiam verum sit, quis non credat eos plus fenoribus crevisse quam bonis
+                    artibus, videntur nunc principes feneratoribus imprudentibus veluti esca esse
+                    propositi. Non parva mihi videtur esse <del corresp="Olahus">noxa esse</del><add
+                        corresp="Olahus" type="corr">culpa</add> principes nostros suarum rerum adeo
+                    esse negligentes, </p>
+                <pb facs="15300330_1_2.jpg"/>
+                <p xml:id="p.4">ut ipsi reddantur in dies pauperiores, sui vero ditiores. Quae tu
+                    omnia iam olim multis in rebus aperte cognovisti, nam dum militibus te praesente
+                    stipendium pendere principes nostri debuerunt, tunc primum ut vidisti, senserunt
+                    fiscum suum exhaustum, suos vero ditatos. Quare regnum magno labore, impensis
+                    plurimis partum brevi amiserunt, nonne idem nunc quoque fieri videmus.</p>
+                <p xml:id="p.5">[2.] Nam Hungariam, quam prius <del corresp="Olahus"
+                        >tenere</del><add corresp="Olahus" type="corr">defendere</add> et conservare
+                    totam non magnis copiis poteramus, nunc quoque non magna manu recuperare, et
+                    Turcis illis finitimis, qui illis provinciis, quibus tu es vicinus, nunc sunt
+                    infestissimi, facile resistere possemus, si quae maior rebus principum nostrorum
+                    adhiberetur provisio. Attamen nescio, quo infortunio nostro res nostras in
+                    deteriorem in dies partem verti videmus, et non videmus modo, sed etiam
+                    sentimus. Meminisse potes illorum temporum, quae Posonii peregimus, licet multa
+                    saepe contra nos intendebantur pericula, multas tempestates experiebamur. Tamen
+                    auxilio imprimis Dei, deinde dominorum, qui ibi fuerant, et etiam tuo consilio
+                    omnibus nobis ingruentibus malis peropportune fuit obviatum, nihilque existimo
+                    fuisse praetermissum id temporis, quod ad regiam dignitatem et nostram
+                    fidelitatem honoremque pertinere fuit visum. Hoc unum tunc quoque non parvum
+                    nobis defuisse videbatur, quod omnium eramus egentiores, et dum res aliqua ardua
+                    modica pecunia expediri poterat, semper <quote xml:id="quote.2">haerebamus <del
+                            corresp="Olahus">ut</del><add corresp="Olahus" type="insert">ut</add> in
+                        scopulo</quote><note type="quote" xml:id="note.quote.2">Cf. Ovid. <hi
+                            rend="italic">Her.</hi> X,135–136: “adspice mente / haerentem scopulo
+                        quem vaga pulsat aqua” et Verg. <hi rend="italic">Aen</hi>. IV,445–446:
+                        “ipsa haeret scopulis et quantum vertice ad auras / aetherias”. This
+                        allusion frequently occurs, see Ep. 20. Cap. 2; and Ep. 418. Cap.
+                            1.<ref>olahus.tei.15291104_1</ref></note><ref>/o:olahus.tei.15331031_2</ref><add
+                        corresp="Olahus" type="insert">indigentiae</add> rei pecuniariae. Eadem res
+                    nunc quoque nobis obstare videtur. Quoquo nos vertamus, undique nobis
+                    necessitates imminent quam plurimae, et minima etiam res cum magna dilatione et
+                    negotio maximo plerumque vix expediri potest. Non possumus hanc causam regi
+                    nostro, qui in omnibus rebus est omnium diligentissimus, aliquo pacto ascribere,
+                    sed suorum malitiae et iniquitati, qui plus gaudent rebus et commodis suis
+                    studere, quam regis promovere. Non te fugiunt, quoties cum maxima animi nostri
+                    perturbatione actum fuerit Posonii, cum tu aderas, de rebus regis commode
+                    tractandis. In his raro diligentiae et sollicitudines nostrorum defuerunt. Cuius
+                    rei tu ipse potes <choice>
+                        <orig>esses</orig>
+                        <supplied>esse</supplied>
+                    </choice> testis locupletissimus, sed deerant nobis nonnunquam facultates. Qua
+                    ex re maxima plerumque affectus fuisti, una cum aliis dominis molestia. Eadem
+                    penuria facultatum res principum nostrorum, ut </p>
+                <pb facs="15300330_1_3.jpg"/>
+                <p xml:id="p.6">olim, ita et nunc urgent, de qua re usque adeo tristamur et dolemus,
+                    ut vix explicare possimus.</p>
+                <p xml:id="p.7">Quare si tardius quam opinamur res regiae et nostrae procedunt,
+                    nemini mirum esse debeat, cum hae inter nos sint negligentiae vel potius
+                    inordinationes et malorum plus habeatur apud principes nostros respectus quam
+                    bonorum. Si quid igitur remedii, Reverendissime Praesul, adhibere his poteris,
+                    adhibe id pro tua in regem fidelitate, observantia et singulari, qua praeditus
+                    es, prudentia. Plura ad te <choice>
+                        <orig>scribere</orig>
+                        <supplied>scriberem</supplied>
+                    </choice>, si scirem te haec latere et non omnia singulari iamdudum proprio
+                    ingenio prospexisse, et in dies prospicere aperteque videre, quibus cardinibus
+                    res nostrae versentur. Vale.</p>
+                <p xml:id="p.8">Ex <placeName>Lincio</placeName> 30. Martii 1530.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

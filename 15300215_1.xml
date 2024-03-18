@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">38</title>
+                <title key="body" n="38" type="main">Miklós Oláh to Pope Clement VII (Linz, 15
+                    February 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15300215_1</idno>
+                <idno type="ITIdata">Q472610</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15300215_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi </hi> 1875, 34–41.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        609–616.</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1963,
+                        198–206.</p>
+                    <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap">Nagy</hi> 2022,
+                        64–75.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">30–36.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">38</biblScope>
+                    <biblScope unit="page">97–103.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Linz<idno type="ITIdata">Q22537</idno></placeName>
+                <date when="1530-02-15">15 February 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Pope Clement VII<idno type="ITIdata">Q470424</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Pope Clement VII (Linz, 15 February 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. He expresses his joy and hope over the meeting of
+                            King Charles V and the Pope. 2. He recounts the Hungarian precedents of
+                            the battle of Mohács, that although they had seen that the Turks
+                            outnumbered them, they still fought them. 3. He briefly reminds him of
+                            the horrors of the battle of Mohács, the troops’ demise, the fall of
+                            King Louis II. 4. He recounts the disloyalty of King John I, that he did
+                            not hasten to aid his king, that he did not attend the assembly at Queen
+                            Mary’s call, and how he had himself crowned King. 5. Queen Mary gathered
+                            the Hungarian lords who had chosen Ferdinand as King Ferdinand I;
+                            Ferdinand launched troops against King John I, but he fled to Poland. 6.
+                            From here on King Ferdinand I is laboring on persuading the leaders of
+                            Europe of a war against the Turks, but they had not even believed him in
+                            the West when the Turks were already besieging Vienna. 7. Christian
+                            rulers should put their private interests and grievances aside and work
+                            together against the common enemy. 8. The Holy Father should have mercy
+                            on the Hungarians because if he wants to save Hungary, it will escape,
+                            but if not, it will remain a servant forever.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15300215_1_1.jpg"/>
+                <p xml:id="p.1">Ad papam <persName>Clementem VII.</persName></p>
+                <p xml:id="p.2">[1.] Magna affecti sumus laetitia, Pater Beatissime, cum te tuosque
+                    omnes sacros cardinei coetus ordines ad extremas usque Italiae oras Germaniae
+                        propinquos,<note type="critic" xml:id="note.1">King Charles V and the Pope
+                        met on 24 February, 1530 in Bologna, see <hi rend="smallcap"
+                            >Eisenbichler</hi> 1999, 430.</note> salvos atque incolumes advenisse
+                    cognovissemus, quippe cum omnibus malorum generibus calamitatum saevissimarum
+                    turbinibus, tota laboraret Christianitas, hac una re, his malis provisum iri
+                    arbitrabamur, si tu, qui caput es Christiani populi et vicarius Ihesu in terris,
+                    propius accessisses, et conventu cum principibus Christianitatis habito, aliquid
+                    decerneres, quo tot malis mederi posset. Id nunc nobis, Pater Beatissime,
+                    omnibus votis optantibus contigisse ex Dei omnipotentis gratia videmus, nam tu
+                    nobis appropinquasti, convenisti cum Carolo caesare cum aliisque Italiae
+                    principibus in paterno amore, clementia, mansuetudine et benignitate,
+                    dissidentem multos iam annos populum redegisti in concordiam, et civitates ab
+                    oboedientia tua et caesaris iamdudum elapsas, ad veram reduxisti oboedientiam,
+                    et non reduxisti modo, sed foedus cum eis pepigisti perpetuum. Quo pie, sancte
+                    et religiose observato, communis Christianitatis hostibus resistere possetis
+                    viribus Christianorum coniunctis et firmiter connexis. Destinerant a te
+                    Florentini tui municipes, homines <del corresp="Olahus">facionibus</del><add
+                        corresp="Olahus" type="corr">factionibus</add> pessimis studentes, parere
+                    suo <del corresp="Olahus">volebat</del><add corresp="Olahus" type="corr"><choice>
+                            <orig>nolebat</orig>
+                            <supplied>nolebant</supplied>
+                        </choice></add> superiori privati commodi causa, quos caesar ipse Carolus
+                    tuo hortatu, tuis monitis usque eo induxit, tum prece, tum formidine, ut iam non
+                    gravatim in coetum aliorum oboedientium subditorum venerint, omnia, quae <del
+                        corresp="Olahus">illius</del><add corresp="Olahus" type="corr">illis</add>
+                    iubet, paratissimo facturi animo. Cum autem hanc animorum concordiam et unionem
+                    audivimus, Pater Beatissime, in spem ducimur maximam, futurum propediem ut
+                    religio Christiana iam a multis annis internis principum seditionibus
+                    labefactata renovetur, et suum pristinum consequatur pacis statum. Illud quoque </p>
+                <pb facs="15300215_1_2.jpg"/>
+                <p xml:id="p.3">non minimam spem Christianitatis parandae nobis attulit, quod
+                    intelleximus te Romam iam coepisse regredi cum caesare, ut tuis auspiciis et
+                    beneficio coronam istic accipiat caesaream. Haec omnia boni sunt signa futuri et
+                    venturae pacis indicia, verum enimvero, Pater Beatissime, res moram nullam
+                    patitur Christiana, ad extremum iam usque eo contrita, ut et unicus dies sit
+                    illi periculosus. Nam etsi sciam, te statum et conditionem rerum nostrarum
+                    iamdiu a multis intellexisse, et non intellexisse modo, verum etiam experientia
+                    ipsa didicisse, tamen ut a <del corresp="Olahus">mea</del><add corresp="Olahus"
+                        type="corr">me</add> quoque periculi nostri communis commemoratio apud te
+                    aliqua fiat, et malorum nostrorum initium intelligas, volui de nostra immo
+                    totius Christianitatis calamitate ad te haec pauca litteris dare. Si altius rem
+                    incepero, quae tua est, Pater Beatissime, erga omnes clementia et mansuetudo,
+                    facile id mihi condonabis.</p>
+                <p xml:id="p.4">[2.] Initio rerum, dum rex adhuc Ludovicus felicis memoriae dominus
+                    meus <del corresp="Olahus">clementissimus</del> in humanis ageret, et si erat
+                    adolescens, bonam indolem in suis omnibus prae se ferens actionibus, nihil tamen
+                    praeclarius ducebat, quam omnia sua dicta et facta eo dirigere, consilia
+                    tendere, vires parare, ut Turcis religionis Sacrosanctae hostibus obviam ire, et
+                    eos ab impia ad fines Christianos eruptione procul arcere posset; dum autem dies
+                    et noctes hoc versaret animo, et nec animi, nec corporis apud eum quies esset
+                    ulla, quin omnes suas vires ad salutare hoc propositum laudabiliter perficiendum
+                    protenderat, multosque milites in finibus Hungariae aleret, qui excursionem
+                    hostium <del corresp="Olahus">exiperent</del><add corresp="Olahus" type="corr"
+                        >exciperent</add>, Christianos ab aliorum rapinis immunes conservarent;
+                    arcibus quibusdam limitaneis praefecerat <persName>Paulum
+                        Thomorem</persName><note type="critic" xml:id="note.2">Pál Tomori,
+                        Archbishop of Kalocsa (ca. 1475–1526) died at the battle of Mohács.</note>
+                    Colocensem archiepiscopum virum bonae spectataeque probitatis et ob scientiam
+                    rei militaris omnibus probatissimum. Is assiduos hostium experiebatur insultus,
+                    non <del corresp="Olahus">parita</del><add corresp="Olahus" type="corr"
+                        >parva</add> mercede suos alebat milites, adiutus et redditibus sui
+                    archiepiscopatus et munificentia regis, qui menstruos illi suppeditabat sumptus.
+                    Is autem post multas acceptas clades, multos etiam conflictus, quos et ipse et
+                    sui milites cum Turcis saepenumero commiserant, certiorem fecit Ludovicum regem
+                    caesarem Turcarum cum suo omni exercitu et viribus iam a duobus aut tribus annis
+                    maximo studio comparatis velle invadere Hungariam eo praeposito, ut eam vel
+                    ditioni suae totam subigeret, vel sibi faceret tributariam; proinde rex
+                    cogitaret frequenti suo consilio de via et modo, quo tanto hosti, multis iam
+                    subactis nationibus praepotenti, plurimis victoriis et triumphis elato, resisti
+                    posset, viam autem eam </p>
+                <pb facs="15300215_1_3.jpg"/>
+                <p xml:id="p.5">esse, ut rex conscriptis suis, quas haberet, viribus, illi obviaret,
+                    se interea illum suscepturum, et quatenus a se fieri posse, prohibiturum, ne tam
+                    cito quam ipse cogitavisset, posset ad Hungariae viscera penetrare, providendum
+                    tamen esse, ne rex <del corresp="Olahus">imperatis</del><add corresp="Olahus"
+                        type="corr">imparatis</add> viribus et minus paribus illi obviaret. Nam si
+                    quid infortunii experietur, et mars belli Turcae succederet, proculdubio id
+                    futurum esset in periculum non modo regni Hungariae, sed etiam totius
+                    Christianitatis. Facile namque occupata Hungaria omne <del corresp="Olahus"
+                        >inter</del><add corresp="Olahus" type="corr">iter</add> suum, in omnem
+                    Christianitatis partem pateret. Haec et multa alia regi ille et litteris et
+                    certis nuntiis palam <del corresp="Olahus">fert</del><add corresp="Olahus"
+                        type="corr">fecit</add>, quae cum ad regem et frequens consilium fuissent
+                    perlata, multos dies res fuit in disceptatione. Tractabatur in utramque partem,
+                    quid esset faciendum, hinc regis et suorum inopia, illinc Turcarum copiae
+                    potentes versabantur ob oculos, non videbatur esse modus aliquis, quo rex
+                    paribus illi <del corresp="Olahus">occurrerent</del><add corresp="Olahus"
+                        type="corr">occurrere</add> posset viribus, fiscus et aeraria exhausta
+                    erant, praeteritorum annorum bellis, dominorum quisque suas facultates
+                    retinebat, et non libenter publicam egestatem privatis opibus sublevabat. Factum
+                    itaque nihilominus est, ut coactus sit, ni regnum Hungariae amittere rex mallet,
+                    se in campum conferre, omnibus omnium ordinum hominibus ut id faceret, multum
+                    vociferantibus.</p>
+                <p xml:id="p.6">[3.] Cum itaque <del corresp="Olahus">ventem</del><add
+                        corresp="Olahus" type="corr">ventum</add> esset facili et tardo progressu ad
+                    oppidum <placeName>Mohaach</placeName>, obvius fit nobis ipse
+                        <persName>Colociensis archiepiscopus</persName>, qui Turcarum tyrannum iam
+                    affore nuntiabat cum exercitibus suis, hoc nimirum triste erat omnibus et
+                    nostras vires quam exiguas esse cogitantibus, placuit tamen omnibus una
+                    sententia, ut fortuna belli Deo optimo maximo, qui plerumque etiam res in
+                    periculum et desperationem delapsas sublevare consuevit, omni animi devotione
+                    commendaretur. Itum igitur est illi praeferoci hosti obviam, et cum castra
+                    hostis <add corresp="Olahus" type="insert">a</add> castris regis non multum
+                    abessent, iaculari coeptum est tormentis et machinis bellicis <add
+                        corresp="Olahus" type="insert">utraque ex</add> parte. Ego, Beatissime
+                    Pater, licet non affuerim eo momento temporis, quo haec iaculatio facta fuit,
+                    remissus enim eram triduo ante eum diem a rege celeri itinere ad reginam, tamen
+                    has utrimque factas iaculationes familiares mei, qui rebus ipsis interfuerant,
+                    certo mihi retulerunt, <add corresp="Olahus" type="insert">crebras vel maximas
+                        fuisse</add>. Secutus deinde est clamor validus, nostrum exercitum voce
+                    terribili non parum concutiens, post quem consertum est proelium, in quo nostri
+                    excurrerunt usque ad ea loca, ubi tormenta composita erant. Cum maxima illorum
+                    strage verum repulsi <add corresp="Olahus" type="insert">nostri</add> sunt et
+                    tandem in fugam versi. Quid multa? Maior pars nostri </p>
+                <pb facs="15300215_1_4.jpg"/>
+                <p xml:id="p.7">exercitus partim trucidata, partim in Danubio est <choice>
+                        <orig>periclitatae</orig>
+                        <supplied>periclitata</supplied>
+                    </choice>. Rex noster, nescio, quo fato, dum fugere hostes vellet, venit in
+                    stagnum quoddam citra <placeName>Mohaach</placeName>, ex quo evadere non potuit
+                    propter equi <del corresp="Olahus">causam</del><add corresp="Olahus" type="corr"
+                        >casum</add> ex freni retractione factum, ibidemque a nemine suorum adiutus
+                    miserabiliter interiit.</p>
+                <p xml:id="p.8">[4.] Rex ipse, dum adhuc incertus esset de Turcarum adventu, tum per
+                    litteras crebras, tum per nuntios frequentes <choice>
+                        <orig>admonuerunt</orig>
+                        <supplied>admonuerit</supplied>
+                    </choice><persName>Ioannem</persName>, tunc vaivodam <del corresp="Olahus"
+                        >Transilvaniensem</del><add corresp="Olahus" type="corr"
+                        >Transilvanensem</add>, nunc regem, ut comparatis in Transilvania viribus
+                    cum exercitu <del corresp="Olahus">ad</del><add corresp="Olahus" type="corr"
+                        >in</add> auxilium suum primo quoque tempore veniret. Ille promisit quidem
+                    se sine ulla mora in regis sui subsidium cum omnibus <del corresp="Olahus"
+                        >Transilvaniensis</del><add corresp="Olahus" type="corr"
+                        >Transilvanensis</add> viribus venturum, tamen antequam Turca cum rege
+                    confligeret, non venit. Erat fama non vulgaris eum iam ante nescio, quam mutuam
+                    cum Turca inivisse confoederationem, non parvamque diu antea de se affectati
+                    regni Hungariae multis ex causis praebuerat suspicionem, quae tandem hac sui
+                    tarditate omnium testimonio est confirmata. Ioannes ipse rex, cum caesar
+                    Turcarum deletis viribus regis Ludovici, combustaque <placeName>Buda</placeName>
+                    et multis aliis Hungariae locis domum revertisset, ut multorum de eo ferebantur
+                    sermones, iam non occulte sed palam coepit agere de regno Hungariae consequendo;
+                    indictisque primum comitiis ad arcem suam <placeName>Thokay</placeName>,
+                    procerum primorumque regni Hungariae eo convocatorum consilio deliberatum istic
+                    est, ut in <placeName>Alba Regali</placeName>,<note type="critic"
+                        xml:id="note.3">Székesfehérvár.</note> quae civitas locus est coronationis
+                    regis, de creando novo rege consultaretur. Quod cum regina Maria regis Ludovici
+                    vidua et <persName>Stephanus Bathoreus</persName> regni Hungariae palatinus,
+                        <persName>Stephanus Brodericus</persName> episcopus Sirmiensis cancellarius,
+                        <persName>Thomas Vesprimiensis</persName><note type="critic" xml:id="note.4"
+                        >Tamás Szalaházy.</note> antistes, <persName>Alexius Turzo</persName> iudex
+                    curiae regiae, ac dominorum Hungariae potior pars quae cum regina tunc
+                        <placeName>Posonii</placeName> erat, certo intellexissent monere, hortari et
+                    rogare Ioannem coeperunt, ne privatum publico commodum anteponeret et ne tam
+                    novum pessimumque in regem creando exemplum in rempublicam Hungaricam induceret,
+                    sed veniret cum aliis una ad reginam et palatinum (mortuo rege) principem
+                    Hungariae, communibusque istic votis transigerent de eo eligendo, qui esset ad
+                    gubernamen Hungariae <add corresp="Olahus" type="insert">magis</add> idoneus,
+                    utilior et sufficientior. Ipse tum a suo proposito non destitit, sed
+                    proficiscens in <placeName>Albam</placeName>, ab ea portione Hungarorum, qui
+                    partes <del corresp="Olahus">eum</del><add corresp="Olahus" type="corr"
+                        >eius</add> sequebantur, in regem creatur, et corona, cuius custodiae
+                    praefuerat, coronatur.</p>
+                <p xml:id="p.9">[5.] Quae res cum reginae, palatino et aliis dominis
+                        <placeName>Posonii</placeName> tunc constitutis innotuisset, vix dici </p>
+                <pb facs="15300215_1_5.jpg"/>
+                <p xml:id="p.10">potest, quantum maestitiae et tristitiae omnibus attulerit, nam
+                    veluti <del corresp="Olahus">et</del><add corresp="Olahus" type="corr">e</add>
+                    speculo quodam praevidebant futuram tempestatem, regni Hungariae pestem, cladem
+                    et perniciem, et cogitabant quantum incendium ex ipsius coronatione omnibus
+                    bonis esset futurum. Conclusum itaque est omnium consiliis, ut in comitiis
+                    illis, quae iamdiu litteris reginalibus publicata erant et ad quae ipse etiam
+                    Ioannes vocatus erat, quisque conveniret, ac tractaretur legitime de rege vero
+                    et legitimo creando. Dies comitiorum advenit, convenerunt domini nobiles et
+                    civitates, deliberatum est et <choice>
+                        <orig>conclusium</orig>
+                        <supplied>conclusum</supplied>
+                    </choice> communibus votis, ut Ferdinandus archidux Austriae in regem Hungariae
+                    nominaretur, eo consilio, quod iam ante per dominos Bohemos rex Bohemiae
+                    coronatus, et dux Sclesiae per Sclesitas, per dominos vero Moravos marchio
+                    Moraviae electus fuisset; neminem namque alium magis idoneum, aptum,
+                    sufficientemque arbitrati sunt, qui Hungariae regnum multis iam calamitatibus,
+                    periculis et cladibus obnoxium a direptione miseranda Turcarum fratris sui
+                    Caroli imperatoris auxilio defendere posset. Cum itaque res sic acta esset, et
+                    Ferdinandus ad imperium Hungaricum vocaretur, venissetque postea, ut rem
+                    breviter exsequar, cum octo milibus hominum, <del corresp="Olahus"
+                        >aliquod</del><add corresp="Olahus" type="corr">aliquot</add> vocationem
+                    temporibus, Ioannes rex eius adventum <add corresp="Olahus" type="insert"
+                        >praesentiens</add> non ausus est <placeName>Budae</placeName><add
+                        corresp="Olahus" type="insert">eum</add> exspectare, sed
+                        <placeName>Tokay</placeName> versus, ubi initia regni sui fuerat auspicatus,
+                    profugit; in qua arce, dum aliquamdiu cum his, qui eum secuti erant, commoratus
+                    est, misit rex Ferdinandus alium rursus contra eum exercitum, qui eum fugavit et
+                    coegit Tibiscum<note type="critic" xml:id="note.5">Tisza river.</note> traicere,
+                    deinde Poloniam migrare. Ipse vero rex Ferdinandus corona regni Hungariae
+                    accepta, quae concordibus dominorum Hungarorum animis ei fuerat decreta,
+                    reversus est <placeName>Wiennam</placeName>. Et cum annum et medium a regno
+                    Hungariae abfuisset, omnibus interea viis, modis et laboribus <del
+                        corresp="Olahus">ut regno Hungariae ad quod occupandum</del> apud exteras
+                    nationes, subditis etiam aliarum provinciarum <del corresp="Olahus">agens et
+                        laborans</del><add corresp="Olahus" type="corr">agebat et laborabat</add>,
+                    ut regno Hungariae ad quod occupandum caesar Turcarum cum suis omnibus viribus
+                    rursus exire statuerat, suppetias ferrent.</p>
+                <p xml:id="p.11">[6.] Ab eo tempore in eum usque diem, quo caesar Turcarum hortatu
+                    vel potius ductu nonnullorum Christianorum fines Hungariae attigerat, non
+                    destitit rex Ferdinandus omnes principes Christianos urgere, monere et
+                    sollicitare, ut ei auxilium ferrent contra tam <del corresp="Olahus"
+                        >potentissimam</del><add corresp="Olahus" type="corr">potentissimum</add>
+                    hostem, Christianum sanguinem fundere parantem. Illi tamen omnes has illius </p>
+                <pb facs="15300215_1_6.jpg"/>
+                <p xml:id="p.12">sollicitationes pro nihilo habuere, adeo ut ne tunc quidem
+                    crederent Turcam advenisse, dum ille iam <placeName>Wiennam</placeName>
+                    oppugnaret. Factum itaque est principum Christianorum negligentia, ut parum
+                    abfuerit, quin <placeName>Wienna</placeName> caperetur. Si octo vel ad summum
+                    decem diebus prius hostis ad obsidionem venisset, ea capta fuisset; nam nostri
+                    milites vix duobus aut tribus diebus ante Turcarum adventum fuerunt
+                        <placeName>Wiennam</placeName> ingressi. Qui nisi adventum Turcarum
+                    praeripuissent, actum iam omnium iudicio erat de <placeName>Wienna</placeName>.
+                    Quam cum frustra diu oppugnassent, viginti vel circiter dierum curriculo,<note
+                        type="critic" xml:id="note.6">The siege of Vienna lasted from 27 September
+                        to 16 October, 1529.</note> caesar magna ignominia ab illius obsidione
+                    discessit, praeteritarumque rerum a se praeclare gestarum gloriam hoc suo conatu
+                    frustra tentato non parum imminuit. Interea autem dum ipse in <choice>
+                        <orig>Wiennesi</orig>
+                        <supplied>Wiennensi</supplied>
+                    </choice> obsidione magno conatu occuparetur, procursores sui aliquot millia
+                    Turcarum, maiorem fere partem Inferioris et Superioris Austriae partim igne,
+                    partim gladio vastarunt, homines senes trucidarunt, quidquid virorum, puerorum,
+                    puellarum et mulierum aetate florentium capere potuerunt non solum ex Austriis,
+                    sed ex Hungaria reversi domum miserabiliter abduxerunt, latamque omnium rerum
+                        <del corresp="Olahus">fuerunt</del><add corresp="Olahus" type="corr"
+                        >fecerunt</add> stragem, ut memoriam eius calamitatis et ruinae acceptae
+                    multa secula meminerint.</p>
+                <p xml:id="p.13">[7.] Haec mala Christianorum ruinamque, Pater Beatissime, quis
+                    unquam arbitratus fuisset futuram? Quae Christianis nequaquam evenissent, si
+                    principes Christiani sepositis mutuis odiis, inimicis et diuturnis
+                    conflictationibus concordi voto rebus nostris succurrere, et quod officii eorum
+                    erat, exsequi curassent. Nimirum Dei in nos admissum esse arbitror flagellum,
+                    qui ex sua bonitate, ut nos a peccatis nostris ad poenitentiam revocaret, his
+                    tribulationibus corrigere voluit. Quos putat Beatitudo Vestra esse emissos ad
+                    caelum usque eiulatus, quas <del corresp="Olahus">lacrimis</del><add
+                        corresp="Olahus" type="corr">lacrimas</add> fusas, cum Turcarum tyrannus et
+                    Germanas et Hungaras gentes, viros, matresfamilias, virgines, viduas, puellas,
+                    vinctis post tergum manibus ad miserabilem servitutem impune abduceret, et eos
+                    omnes <choice>
+                        <orig>spurcissimo suo</orig>
+                        <supplied>spurcissimae suae</supplied>
+                    </choice> dominationi servire per omnia servitiorum et etiam libidinum genera ad
+                    nutum suum sollicitet, urgeat et cogat. Si aliquis inesset principibus
+                    Christianis sensus, caritas erga Deum et proximum, non profecto, Pater
+                    Beatissime, se ex maximo maerore ac lacrimis abstinerent; cum talia si non
+                    viderint corporeis oculis, at ex litteris intelligant, et ab his, qui crudelem
+                    hanc Turcarum rabiem vix evasi, in eorum regnis inopem agunt vitam, saepe
+                    audiant.</p>
+                <p xml:id="p.14">[8.] Et si autem sciam Tuam Beatitudinem omnibus </p>
+                <pb facs="15300215_1_7.jpg"/>
+                <p xml:id="p.15">curis, studiis et laboribus ab initio eo fuisse propensam, ut
+                    coniunctis principum Christianorum, iamdiu cum summa peste reipublicae
+                    Christianae dissidentium animis, omnes illi vires Christianas contra <del
+                        corresp="Olahus">tam Tyrannem</del><add corresp="Olahus" type="corr"
+                        >tyrannum tam</add> ferocem et crudelem hostem converterent, nescio tamen,
+                    quo fato nostro hactenus id nullum progressum habere potuit, deditique sint
+                    magis omnium animi pompis, nescio, quibus et domesticis otiis, quam huic rei tam
+                    salutari et Christianae. Non deesse video vires Christianas, modo animus et
+                    voluntas non deesset. Quam ob rem, Pater Beatissime, miserere reipublicae
+                    Christianae tam diu internis divulsae controversiis, moveat te populi Dei tam
+                    crudelis et miserabilis in servitutem <del corresp="Olahus">abducio</del><add
+                        corresp="Olahus" type="corr">abductio</add>, excitent lacrimae viduarum et
+                    virginum honestarumque matrumfamilias, quibus Turcae impune abutuntur; tuum <add
+                        corresp="Olahus" type="insert">id</add> est officium. Tibi Deus eum tribuit
+                    statum, ex quo tamquam ipsius vicarius, rebus Christianorum multos iam annos
+                    contrariis, bene et laudabiliter primo quoque tempore compositis, principes
+                    alios, quibuscum nunc conventum agis, inducere possis ad expeditionem generalem
+                    contra Turcos suscipiendam, ut in nomine Ihesu Christi, qui sanguine suo
+                    pretioso nos et omnes fidei suae subiectos a servitute illa perpetua liberavit,
+                    hostibus obviam progediatur, liberentur miseria tanta calamitate duriore quavis
+                    morte. Si omni conatu, omnibus viribus et votis id complexus fueris, in eaque re
+                    elaboraveris, nemini est dubium, quin iam pro dimidia parte Christianus populus,
+                    maxime vero Hungari, Turcarum et diuturnis et nocturnis excursionibus obnoxii
+                    liberati sint ab his teterrimis crudelissimisque cruciatibus. In manu tua est
+                    salus omnium, si voles, libertas nobis erit, si noles, prompta est servitus
+                    perpetua. Utrum malis, tuae est voluntatis. Malle autem debes salutem potius et
+                    quietem populi Dei, quam servitutem, nam quid tuum officium expetat, nemo melius
+                    quam tu ipse diiudicare potes, nempe id, ut non modo curas, cogitationes et
+                    labores omnes pro populo tibi commisso subeas libentissime, sed etiam mortem, si
+                    casus ita ferat.</p>
+                <p xml:id="p.16">Haec, Pater Beatissime, volui tibi nota esse, quae ideo longiora
+                    sunt, quam decreveram, quod ex maximo meo, cum tanta Christianorum pericula
+                    videam et aspiciam, profecta sunt maerore. Quae in bonam partem accipe,
+                    supplico. Vale.</p>
+                <p xml:id="p.17">Ex <placeName>Lincio</placeName> 15. Februarii 1530.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">299</title>
+                                <title key="body" n="299" type="main">Miklós Oláh to a friend
+                                        (Binche, 19 November 1532)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15321119_1</idno>
+                                <idno type="ITIdata">Q472871</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15321119_1.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/I.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Copy.</p>
+                                </note>
+                                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875,
+                                        262–263.</note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <country>Hungary</country>
+                                                <settlement>Budapest</settlement>
+                                                <institution>MNL OL</institution>
+                                                <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                                                <idno/>
+                                                <msName/>
+                                        </msIdentifier>
+                                        <msPart style="letter">
+                                                <msIdentifier/>
+                                                <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <extent>
+                                                  <measure type="quantity" unit="pagination"
+                                                  >285–286.</measure>
+                                                  <dimensions unit="mm">
+                                                  <height/>
+                                                  <width/>
+                                                  </dimensions>
+                                                  </extent>
+                                                  <condition>
+                                                  <p/>
+                                                  </condition>
+                                                  </supportDesc>
+                                                  </objectDesc>
+                                                </physDesc>
+                                        </msPart>
+                                </msDesc>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars I.
+                                                1523–1533</title>
+                                        <idno type="ISBN">978-615-5478-62-8</idno>
+                                        <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2018">2018</date>
+                                        <biblScope unit="entry">299</biblScope>
+                                        <biblScope unit="page">373–374.</biblScope>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.10817873</idno><idno
+                                                type="ITIdata">Q469927</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <placeName>Binche<idno type="ITIdata">Q470202</idno></placeName>
+                                <date when="1532-11-19">19 November 1532</date>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <persName>a friend</persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div xml:id="d.1">
+                                <head type="title">Miklós Oláh to a friend (Binche, 19 November
+                                        1532)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1">As prophet Job said, our entire
+                                                  life is a series of misfortunes, and life is full
+                                                  of misery from conception to death. Nobody can be
+                                                  rich enough to be able to avoid misfortune; but if
+                                                  he thinks about it, great wealth is followed by
+                                                  trouble and a million problems, while moderation
+                                                  is followed by calmness and safety. Still,
+                                                  wherever he lives, he will always find what
+                                                  torments his soul.</p>
+                                        </body>
+                                </floatingText>
+                                <pb facs="15321119_1_1.jpg"/>
+                                <p xml:id="p.1">Ad amicum, ne mutet locum.</p>
+                                <p xml:id="p.2">Calamitas, quam quisque mortalis patitur, dum vitam
+                                        vivit hanc caducam, tanta esse videtur, ut si omnem vitam
+                                        hominis bene annumeres, nihil aliud reperias, quam malum ex
+                                        malo, miseriam ex miseria nasci. Non immerito igitur
+                                                <persName>Iob</persName> ille patriarcha, bonorum
+                                        omnium exemplum: vitam, inquit, hominis ab eo, quo
+                                        concipitur in <choice>
+                                                <orig>uturo</orig>
+                                                <supplied>utero</supplied>
+                                        </choice> matris <del corresp="editor">matris</del></p>
+                                <pb facs="15321119_1_2.jpg"/>
+                                <p xml:id="p.3">momento, ad extremum usque obitus sui diem <quote
+                                                xml:id="quote.1">plenam esse
+                                                miseriarum</quote>,<note type="quote"
+                                                xml:id="note.quote.1">Cf. Iob31, 18: “quia ab
+                                                infantia mea crevit mecum miseratio, / et de utero
+                                                matris meae egressa est mecum”.</note> nec ullam in
+                                        hac vita temporaria reperire posse requiem. Quod si
+                                        diligenter animadvertas, nimirum verum et sancte dictum
+                                        reperies. Quis unquam eorum, qui nati sunt, fuit usque adeo
+                                        ex <choice>
+                                                <orig>illustris</orig>
+                                                <supplied>illustribus</supplied>
+                                        </choice> parentibus, quis ex magno stemmate, quis ex tantis
+                                        divitiis, quis in excelso honore dignitate et amplitudine,
+                                        qui non multa perpessus sit vitae incommoda? Immo tantum
+                                        abest, ut hi caruerint magnis et fortunae et rerum
+                                        quotidianarum incommodis, ut his, qui ex tenui orti sunt
+                                        domo, longe fuerint inferiores infelicioresve. Nam si
+                                        alterum alteri conferes, divitias sequuntur semper curae,
+                                        inquietudines et mille mala; at mediocritatem quies,
+                                        securitas et animi <choice>
+                                                <orig>tranquillitatis</orig>
+                                                <supplied>tranquillitates</supplied>
+                                        </choice>. Quae si conferas <choice>
+                                                <orig>quibus ac</orig>
+                                                <supplied>quibuscum</supplied>
+                                        </choice> divitiis, nemo sapiens non putabit illas utpote <choice>
+                                                <orig>erimus</orig>
+                                                <supplied>aerumnis</supplied>
+                                        </choice> plenas, prae his sordescere. Quorsum haec ais, tam
+                                        longe repetita principia? Huc profecto, ut si haec sit
+                                        mortalium omnium conditio, cogites, neque te neque me ab hac
+                                        eximi nos posse lege. Sed dum vivimus, pati nos oportet ab
+                                        his maxime, a quibus <choice>
+                                                <orig>minine</orig>
+                                                <supplied>minime</supplied>
+                                        </choice> esse patiendum, sed potius quiete, honore et
+                                        praemiis <choice>
+                                                <orig>officii</orig>
+                                                <supplied>affici</supplied>
+                                        </choice> deberemus. Esto absint a nobis τῶν <choice>
+                                                <orig>ἔξοθεν ἀνθρόπων</orig>
+                                                <supplied>ἔξωθεν ἀνθρώπων</supplied>
+                                        </choice><note type="critic" xml:id="note.1"
+                                                >‘[inconveniences] due to foreign people’.</note>
+                                        molestiae, patieris tamen quotidie a tuis domesticis,
+                                        accipies non parvas turbationes a familiaribus, de quibus
+                                        optima quaeque mereri deberes. Quare si sapis, noli locum
+                                        tuum mutare, non parvis licet <choice>
+                                                <orig>erimus</orig>
+                                                <supplied>aerumnis</supplied>
+                                        </choice> fateor refertum. Sed cogita te in omnibus locis,
+                                        quocumque veneris, reperturum, quod te mordeat. Vale et me
+                                        ama.</p>
+                                <p xml:id="p.4"><placeName>Binsii</placeName> 19. Novembris
+                                        1532.</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

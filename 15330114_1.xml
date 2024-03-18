@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">313</title>
+                <title key="body" n="313" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    14 January 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330114_1</idno>
+                <idno type="ITIdata">Q472885</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330114_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 271–276.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu
+                        </hi>1974, 228–234; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1562–1577.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330101_1" type="url">310</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15330208_1" type="url">317</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >437–440.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">313</biblScope>
+                    <biblScope unit="page">387–391.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1533-01-14">14 January 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 14 January
+                    1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. After receiving Schepper’s letter, he talked to the
+                            Queen, who has also received a letter from him and has seen to the
+                            affairs. From the dowry she still has Zólyom county, which is rich in
+                            ore, the castle of Mukachevo, currently protected by Hans Katzianer;
+                            beyond Maramureș there is Khust and a few other cities, which Pál
+                            Ártándy defended in the Queen’s name after the death of King Louis II,
+                            who, however, defected to King John I’s side and was slain by Gritti,
+                            along with his brother. Then Nádasdy was appointed to head Maramureș,
+                            and everything was taken from the Queen. On the other hand, she still
+                            has Óbuda and the island of Csepel, which King John I’s side had already
+                            occupied when King Ferdinand I left Buda. He has to know what needs to
+                            be returned to the Queen. 2. As far as his affairs are concerned,
+                            nothing would make him happier than if Schepper also started to manage
+                            his affairs as an envoy. Before King Ferdinand I came to Hungary, he had
+                            many estates, and also a lot of church income. After King Ferdinand’ Is
+                            coronation Gerendi became the Bishop of Transylvania, and his title of
+                            Custos of the Chapter of Székesfehérvár was given to Oláh, which he
+                            could keep for two years. He was driven out from many of his estates
+                            when King Ferdinand I lost Buda: some of those in Zala county were
+                            defended by his people, and he received an annual income from those, but
+                            he was then stripped of those as well, he does not know to whose
+                            benefit. Then there is his abbey of Tapolca, which Imre Bebek invaded
+                            and devastated last summer. He has thus nothing left, so if Schepper
+                            goes to Poland to negotiate about peace, he should remember him and make
+                            sure that his church benefices are returned. The Queen wrote about these
+                            to the King and Bernhard von Cles the other day, but he afraid that they
+                            will forget about it unless someone, e.g. Gabriel Sanchez reminds them.
+                            3. He has heard that Schepper’s wife is well, and they have a son.
+                            Vissenaken and the others are also well. Part of the Netherlands has
+                            been flooded by the sea, causing a lot of damage. When they were in Mons
+                            the other day, the water lever of the river Salda also rose so high that
+                            a third of the city was flooded, and 25 people drowned. He believes he
+                            has heard about the mad crowd in Brussels, whom the Queen has pardoned.
+                            The Emperor’s illegitimate daughter has been engaged to the Pope’s
+                            nephew.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330114_1_1.jpg"/>
+                <p xml:id="p.1">Nicolaus Olaus ad Cornelium Scepperum oratorem regiae
+                    maiestatis.</p>
+                <p xml:id="p.2">[1.] Accepi nudiustertius litteras tuas ad me datas, ad quas si
+                    longiores rescipsero, Boni Consule, ex amoreque et necessitate profectas
+                    iudicato. Tuis his acceptis, quo affectus sim gaudio, vix litteris explicare
+                    possum. Nam praeter ea, quae illis erant scripta mihi gratissima, amorem in me
+                    tuum ac benevolentiam singularem, qua res meas te curaturum suscipis, etsi
+                    iampridem mihi satis perspectam. Tamen plane nunc cognosco, utpote quae maxime
+                    tunc solita sint amicis, cum absint, innotescere. Utinam daretur occasio, qua
+                    meam item in rebus tuis operam me declarare liceret, certe animus et sincerus et
+                    ad omnia tua vota expositus non deest, non deeritque unquam, modo non desit
+                    occasio, et opportunitas. Sed missa haec facio, ne hac te commemoratione
+                    detineam, satis uti arbitror, meum in te amorem expertum.</p>
+                <p xml:id="p.3">Litteris tuis acceptis allocutus sum <persName>reginam</persName>;
+                    retulit mihi se quoque habuisse a te litteras, et res, de quibus scriptae erant,
+                    recensuit. Quas partim ego quoque iam ex tuis ad me datis intelligebam, post
+                    plurimos de servitiis tuis caesari iam exhibitis et etiam deinceps exhibendis
+                    sermones, maiestas sua et hilari et clementi vultu accepit oblationem
+                    servitiorum tuorum, nunc in rebus ipsius factam; quam credit speratque te re
+                    ipsa comprobaturum, dum tempus erit, ut tamen intelligas apertius </p>
+                <pb facs="15330114_1_2.jpg"/>
+                <p xml:id="p.4">maiestatis suae res et bonorum suorum statum in
+                        <placeName>Hungaria</placeName> existentium. <persName>Maiestas
+                        sua</persName> ex dote habet comitatum <choice>
+                        <orig>veteris</orig>
+                        <supplied>veterem</supplied>
+                    </choice> Zoliensem,<note type="critic" xml:id="note.1">Zólyom county.</note> in
+                    quo sunt arces, civitates, fodinae aurariae, argentariae et minerarum quoque
+                    aliarum, haec omnia utcumque fieri potuit etiam temporibus his omnibus
+                    perturbatis, per suos officiales licet non sine magnis expensis suis, possedit
+                    et possidet, habuit praeterea arcem unam <placeName>Mownkach</placeName><note
+                        type="critic" xml:id="note.2">Mukachevo.</note> in finibus
+                        <placeName>Maromarusii</placeName>,<note type="critic" xml:id="note.3"
+                        >Máramaros county.</note> cuius nunc officialis, qui antea desciverant a
+                    nobis ad oboedientiam serenissimi regis nostri <persName>Ferdinandi</persName>
+                    rediisse, ac <persName>Ioanni Katzianer</persName> capitaneo regis de fidelitate
+                    imposterum servanda, iuramentum praestitisse hoc biduo intelleximus. In
+                        <placeName>Maromarusio</placeName> praeterea arces
+                        <placeName>Hwsch</placeName><note type="critic" xml:id="note.4"
+                        >Khust.</note> et aliquot alias civitates<note type="critic" xml:id="note.5"
+                        >Viskove, Tiachiv, Câmpulung la Tisa, and Sighetu Marmației.</note> una cum
+                    oppidis et montanis salium, qui camerae Maromarusiensis uno nomine vocantur. Has
+                    quidam officialis <persName>reginae</persName>, cui nomen erat <persName>Paulus
+                        Arthandi</persName>,<note type="critic" xml:id="note.6">Pál Ártándy.</note>
+                    dum <persName>Lodovicus rex</persName> infeliciter occubuit, nomine reginali
+                    tenebat, qui, posteaquam venimus in haec turbulenta tempora diversasque
+                    nostrorum factiones et schismata, descivit cum bonis omnibus reginae ad Ioannem,
+                    a quo postea captus et nescio ob quam rem, aliqui dicunt ob proditionem, aliqui
+                    ob <choice>
+                        <orig>pecuniis</orig>
+                        <supplied>pecunias</supplied>
+                    </choice> (multa enim ex bonis reginae congesserat) cum fratre suo suasu et
+                    consilio <persName>Aloisii Gritti</persName><note type="critic" xml:id="note.7"
+                        >Ludovico Gritti.</note> fuerat trucidatus. Post horum necem
+                        <persName>Thomas Nadasdy</persName>, quem scribis nunc cum
+                        <persName>Katzianer</persName> convenisse, profectus est
+                        <placeName>Maromarusium</placeName>, ubi tantum effecit apud illius
+                        <persName>Pauli</persName> viduam verbis speciosis, ut et arces illas omnes
+                    et cameras salium et alia bona reginae in manus illius resignarit; ab eo tempore
+                    bona illa fuerunt a regina alienata.</p>
+                <p xml:id="p.5">Ex alia parte habuit eadem regina oppidum <placeName>Vetus
+                        Budam</placeName> prope <placeName>Sicambriam</placeName><note type="critic"
+                        xml:id="note.8">Óbuda.</note>, situm supra <placeName>Budam</placeName>
+                    regiam, deinde insulam <placeName>Zeppel</placeName><note type="critic"
+                        xml:id="note.9">Csepel Island.</note> infra <placeName>Budam</placeName> ad
+                    medium milliare. Haec bona occupata fuere per factionem
+                        <persName>Ioannis</persName> iam ab eo tempore, quo
+                        <placeName>Budam</placeName><persName>Ferdinandus</persName> rex amisit;
+                    quae omnia praedicta spectant ad dotem reginae. Non parvique sunt momenti bona,
+                    quae et etiam alia, quae ad dotem reginae pertinent, si <choice>
+                        <orig>quae</orig>
+                        <supplied>qua</supplied>
+                    </choice> concordia futura est, reduci deberent opera tua in ditionem reginalem.
+                    Credo autem his de rebus et commissionem et informationem a rege Ferdinando;
+                    tamen ut singula bona apertius intelligere reginalia posses, qualia et ubi
+                    essent, haec ad te non ignorante ipsa regina scripsi, ut scias commodius rebus
+                    his operam tuam praestare, si sit tempus et necessitas futura.</p>
+                <p xml:id="p.6">[2.] Nunc venio ad res meas, de quibus si pluribus, quam decet,
+                    scribo. Rogo, ignosce, nonque sit tibi molestum. Licet, mi Frater, non dubitem,
+                    quin omnia sis tum pro tua in me benevolentia, tum singulari humanitate, qua in
+                    amicorum negotiis esse consueveris tua sponte facturus. Tamen ut intelligas, quo
+                    nomine contendam a te, ut rerum mearum curam suscipias, velim te scire. Nihil
+                    mihi gratius, optatius et magis necessarium te aut unquam fecisse vel in
+                    posterum facere posse, quam si tua cura ac diligentia ac authoritate, quam in
+                    hac re caesaris oratorem agens mea negotia ex sententia conficiantur. Ut ergo
+                    rem nostram a primo ovo accipias, antequam rex <persName>Ferdinandus</persName>
+                    veniret ad <placeName>Hungariam</placeName>, pleraque habui beneficia in
+                        <placeName>Hungaria</placeName> in diversis ecclesiis, quibus, relicta mea
+                    fratri meo in <placeName>Transilvania</placeName> paterna hereditate, me
+                    sustentabam. Post electionem et coronationem <persName>Ferdinandi</persName>,
+                        <persName>Nicolaus Gerendy</persName>, meus singularis ab ineunte aetate
+                    nostra amicus, </p>
+                <pb facs="15330114_1_3.jpg"/>
+                <p xml:id="p.7">tunc <persName>custos</persName> sive thesaurarius, ut vocant,
+                    ecclesiae <placeName>Albaeregalis</placeName><note type="critic"
+                        xml:id="note.10">Székesfehérvár. Gerendi was Custos of Chapter of
+                        Székesfehérvár between 1525–1527, see <hi rend="smallcap">Köblös</hi> 1987,
+                        78.</note>, translatus fuit ad episcopatum Transsilvaniensem, tunc casu per
+                    mortem vacantem, cuius hanc custodiam Albensem, in qua beneficium non
+                    poenitendum rex, cum maius tunc non vacaret, quod mihi iuxta aliquot diplomata
+                    sua mihi data, quae et nunc apud me habeo, promissionibus suis satis firma,
+                    conferri posset, per illius translationem mihi contulerat. In cuius possessione
+                    fui biennio.</p>
+                <p xml:id="p.8">Ex bonorum eius aliqua parte ego et mei fuerunt postea expulsi, cum
+                        <persName>rex</persName> noster <placeName>Budam</placeName> amisisset.
+                    Aliquam tamen illorum partem etiam tunc mei in comitatu Zaladiensi,<note
+                        type="critic" xml:id="note.11">Dörgicse, his land was in Zala county.</note>
+                    utcumque retinuerant. Quam et meo nomine possiderunt tempore induciarum
+                    annuarum, quae erant facta post Vienensem obsidionem anni 1529. Quibus expiratis
+                    meus <persName>consocius</persName><note type="critic" xml:id="note.12">Probably
+                        András Choron.</note> fuit in bonis captus et cruciatus, et bona occupata;
+                    ab eo tempore meis spoliatus sum; quae nescio, cui per
+                        <persName>Ioannem</persName> regem sint collata.</p>
+                <p xml:id="p.9">Est praeterea quaedam abbatia mea
+                        <placeName>Thapoltza</placeName><note type="critic" xml:id="note.13"
+                        >Tapolca, see 15310512_1. Note 2.</note> nomine, unum milliare ad arcem
+                        <persName>reginae</persName><placeName>Dyosgyewr</placeName><note
+                        type="critic" xml:id="note.14">Diósgyőr.</note> non longe
+                        <placeName>Cassovia</placeName><note type="critic" xml:id="note.15"
+                        >Košice.</note>, quam aestate praeterita <persName>Emericus
+                        Bebek</persName><note type="critic" xml:id="note.16">Imre Bebek.</note>
+                    perfidus invasit, occupavit, monachos expulit, ex qua, quia est in loco munito,
+                    omnem illam regionem depraedatum esse et spoliasse dicitur; quam, quia caesaris
+                    et regis <placeName>Viennam</placeName> profectio omnibus perfidis terrorem
+                    incusserat, exussit cum ecclesia et muros diruit, colonos et villas eo
+                    spectantes ad arcem suam propinquam occupavit. Sic hac quoque abbatia sum
+                    privatus ita, ut nihil fere iam in <placeName>Hungaria</placeName> possideam,
+                    vacuusque nunc degam omni et onere et cura. Quare si res eo devenerit, ut tu ad
+                        <placeName>Poloniam</placeName> proficiscaris, ubi vel etiam alibi te nomen
+                    et authoritatem <persName>caesaris</persName> ac <persName>regis</persName>
+                    habente pax tractetur, oro et te obtestor, velis mei meminisse, et curare pro
+                    tuo singulari ingenio, quo vales pollesque plurimum, ut in parta redigar ac
+                    beneficia mea ista videlicet custodia Albensi, abbatia de
+                        <placeName>Thapolza</placeName>, archidiaconatus Comorconensis<note
+                        type="critic" xml:id="note.17">Archidiaconate of Komárom.</note> in ecclesia
+                    Strigoniensi, et alia nonnulla, quibus privatus sum, cum bonis ad illa
+                    pertinentibus Ungari pacti et concordiae mihi in integrum remittantur. Tuam hanc
+                    operam et patrocinium meis officiis omni certe tempore rependere et curabo et
+                    volo. Nolo te rogare pluribus in his meis conficiendis; quandoquidem et spero et
+                    scio te facturum plus me absente, quam ego petere sciam. Quicquid autem actum
+                    fuerit, rogo, fac me certiorem, ut sciam meas res secundum tuas actiones
+                    dirigere ordinareque. Nuper <persName>regina</persName> in commendationem harum
+                    rerum scripsit et ad <persName>regem</persName> et ad
+                        <persName>Tridentinum</persName>,<note type="critic" xml:id="note.18"
+                        >Bernhard von Cles.</note> credo, modo eas inter alia negligent, si modo sit
+                    aliquis, qui earum mentionem apud eos bono commodoque tempore faciat. Huius
+                    negotii conscius est <persName>Gabriel Xanthus</persName><note type="critic"
+                        xml:id="note.19">Gabriel Sanchez or Xanthus was Royal Secretary, then King
+                        Ferdinand I’s Roman ambassador from 1533 to ca. 1540. Around 1548, he also
+                        received the provostry of Wrocław. He corresponded with Cornelis de Schepper
+                        and Oláh as well, see <hi rend="smallcap">Nausea</hi> 1550, 454, and <hi
+                            rend="smallcap">Laferl–Lutter</hi> 2000, 177.</note> protonotarius
+                    secretarius regis, amicus meus singularis.</p>
+                <p xml:id="p.10">[3.] Nova scribere non multa possum, frequenter ad his, qui huc
+                    veniunt, sciscitor de incolumitate <persName>coniugis</persName> tuae
+                    amantissimae, quam feliciter valere intellexi. Novumque tibi hospitem in lucem
+                    edidisse; qui utinam felicissimus sit, patrisque virtutes imitetur. Scripsi et
+                    nuper ei, ut litteras, si quas vellet ad te dare, semper ad me mitteret;
+                    hactenus nullas misit; credo habuisse per quem citius ad te mittere potuit.
+                        <persName>Decanus Brugensis</persName><note type="critic" xml:id="note.20"
+                        >Mark Lauwerijns.</note> nostrum utriusque amicus bene valet et alii omnes
+                    tui amici, quos hic habes. <placeName>Selandiae</placeName> et
+                        <placeName>Holandiae</placeName> pars aliqua maris inundatione
+                    irrecuperabilia </p>
+                <pb facs="15330114_1_3.jpg"/>
+                <p xml:id="p.11">damna esse passas dicunt; eos vix posse reficere claustra maris,
+                    nisi quis decem <persName>Croesis</persName> sit ditior. Dierum aestus latiora
+                    illius provinciae occupat loca, verendum est, ne temporibus futuris maius damnum
+                    eveniat. <placeName>Scalda</placeName><note type="critic" xml:id="note.21"
+                        >Scheldt river.</note> quoque fluvius nuper, cum essemus <placeName>Bergis
+                        Hannoniae</placeName>,<note type="critic" xml:id="note.22">Mons. According
+                        to Oláh’s letters, they were in Mons from 24 November, 1532 to about 1
+                        January, 1533.</note> qui per <placeName>Valencenas</placeName><note
+                        type="critic" xml:id="note.23">Valenciennes.</note> praeterlabitur
+                        <placeName>Gandavum</placeName>,<note type="critic" xml:id="note.24"
+                        >Ghent.</note> ex piscinarum propter tempestates eruptione tantum crevit, ut
+                    tertia pars oppidi fuerit in aqua, et in xenodochio pauperum fuerint submersi
+                    subito vigintiquinque aegroti. Credo te audisse tumultum Bruxellensem
+                        insanum.<note type="critic" xml:id="note.25">See Ep.
+                            312.<ref>olahus.tei.15330110_1</ref></note><persName>Regina</persName>
+                    post multas eorum supplicationes clementiam eis impertita est, confirmationem
+                    privilegiorum a regina per tumultum vi quasi exortam reportarunt, abrogata sunt
+                    eorum, quaedam privilegia de homicidis contra gratiam caesaris ad XXIIII horas
+                    occidendis, de concione, ut ipsi vocant, coronata, et pleraque alia
+                    damnificatis, quorum domus direptae erant, solverunt quattuor millia florenorum,
+                    caesari et eius successoribus relaxarunt coronatos sexcentos, ut opinor, eis
+                    solvi annuatim consuetos, multamque aliam suae rebellionis exsolverunt poenam.
+                        <persName>Reginae</persName> ad hoc oppidum octava huius mensis revertenti
+                    usque ad centum et quinquaginta ex primoribus oppidanis usque ad ecclesiam
+                    parochialem, quae uno iactu extra portam est versus
+                        <placeName>Haal</placeName>,<note type="critic" xml:id="note.26">De
+                        Haal.</note> prodierunt pullati cum facibus obviam, illamque genibus istic
+                    flexis exoratam conduxerunt ad curiam.
+                        <persName>Caesaris</persName><persName>filia</persName> naturalis<note
+                        type="critic" xml:id="note.27">Margaret of Parma (1522–1586) was the
+                        illegitimate daughter of Emperor Charles V, born before his marriage. Later
+                        she became the Governor of the Netherlands (1559–1567 and 1578–1582). In
+                        1536, she married Alessandro de’ Medici, but unfortunately the marriage did
+                        not last.</note><persName>nepoti</persName><note type="critic"
+                        xml:id="note.28">Alessandro de’ Medici (1510–1537), “The Moor” was the Duke
+                        of Florence from 1532. According to rumors, he was the illegitimate son of
+                        Giulio de’ Medici (later Pope Clement VII).</note> pontificis
+                        <persName>Clementis</persName> desponsata, hinc ad octavum et decimum, ut
+                    arbitror, diem <placeName>Italiam</placeName> versus progredietur, habebit
+                    comitivam ad centum et quinquaginta circiter equites, conducet eam
+                        <persName>episcopus Tornacensis</persName><note type="critic"
+                        xml:id="note.29">Charles de Croÿ.</note> et quidam ex comitibus. Vale.</p>
+                <p xml:id="p.12"><placeName>Bruxellae</placeName> 14. Ianuarii 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

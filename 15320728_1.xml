@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">244</title>
+                <title key="body" n="244" type="main">Miklós Oláh to Paulus comes (Brussels, 28 July
+                    1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320728_1</idno>
+                <idno type="ITIdata">Q472816</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320728_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 229–230.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >243–244.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">244</biblScope>
+                    <biblScope unit="page">326–327.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1532-07-28">28 July 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Paulus comes</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Paulus comes (Brussels, 28 July 1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. Two days ago he received a letter from which he found
+                            out that the Turks have reached Osijek, from where Buda is only 25 miles
+                            away, and they could reach Vienna around 8-10 August, which they want to
+                            besiege, and if the Emperor cannot stop them, they will also enter the
+                            depths of Germany. 2. From another place he has received the news that
+                            from among the Transylvanian towns only Sibiu has remained on King
+                            Ferdinand I’s side. Gerendi and many other noblemen are locked inside
+                            Sibiu’s walls. Now the Doge of Venice is encouraging them to surrender
+                            to King John I. King Ferdinand I cannot protect them, but he should at
+                            least defend those who are closer to Austria.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15320728_1_1.jpg"/>
+                <p xml:id="p.1">Ad Paulum comitem.<note type="critic" xml:id="note.1">We do not know
+                        him more closely.</note></p>
+                <p xml:id="p.2">[1.] Cupis fortasse scire, quae nova huc ex
+                        <placeName>Hungaria</placeName> afferantur. Scias nos ex litteris hoc biduo
+                    ad nos allatis intellexisse <persName>Turcarum tyrannum</persName> ante
+                    vigesimum huius <choice>
+                        <orig>diei</orig>
+                        <supplied>mensis</supplied>
+                    </choice> diem in <placeName>Ezzek</placeName>,<note type="critic"
+                        xml:id="note.2">Osijek.</note> quod oppidum est ad ulteriorem
+                        <placeName>Dravi</placeName><note type="critic" xml:id="note.3">Drava
+                        river.</note> ripam situm, pervenisse. </p>
+                <pb facs="15320728_1_2.jpg"/>
+                <p xml:id="p.3">Ex quo oppido distante, ut recordari possum, a
+                        <placeName>Buda</placeName><choice>
+                        <orig>vingintiquinque</orig>
+                        <supplied>vigintiquinque</supplied>
+                    </choice> milliaribus<note type="critic" xml:id="note.4">About the distance see
+                        Ep. 17. Note 7.<ref>olahus.tei.15290901_1</ref></note> iam
+                        <placeName>Budam</placeName> facile applicuit, ut autem ego eius progressum <choice>
+                        <orig>ratiorinor</orig>
+                        <supplied>ratiocinor</supplied>
+                    </choice>, quantumcunque lento progrediatur gradu,
+                        <placeName>Wiennam</placeName> octavo aut decimo Augusti futuri die sine
+                    labore constitui poterit, est autem eius animi, ut omnes et exploratores et
+                    litterae et illius venientes partibus referunt, ut
+                        <placeName>Wiennam</placeName> obsidens tentet prima et altera irruptione,
+                    si ea potiri possit. Quod si minus successerit audieritque
+                        <persName>caesarem</persName> nostrum contra eum progessurum. Statim ei cum
+                    suis omnibus occurrat, et cum eo manus conserat. Si
+                        <persName>caesarem</persName> nostrum viderit pugnam detractaturum, ascendat
+                    tamen ille ad Germaniae viscera altius, quo fieri possit, et interea per
+                    praecursores suos omnia circum loca igne ferroque depopuletur, hanc et scribunt
+                    et dicunt eius esse voluntatem.</p>
+                <p xml:id="p.4">[2.] Ex parte alia unica sola civitas Transilvania
+                        <placeName>Cibinium</placeName><note type="critic" xml:id="note.5"
+                        >Sibiu.</note> adhuc regis nostri <persName>Ferdinandi</persName> mandatis
+                    parebat. In ea fuerunt inclusi iam ab duobus annis <persName>Nicolaus
+                        Gerhendi</persName><note type="critic" xml:id="note.6">Miklós
+                        Gerendi.</note> meus maxime familiaris et nonulli illius provinciae nobiles;
+                    hos <persName>Andreas Gritthi</persName><note type="critic" xml:id="note.7"
+                        >Andrea Gritti (1455–1538) was the Doge of Venice from 1523, and Ludovico
+                        Gritti’s father. Oláh probably wrote Andrea instead of Ludovico.</note>
+                    sollicitare nunc dicitur, sicuti ex litteris <persName>Gerhendi</persName> ad
+                        <persName>regem</persName> missis cognovi, ut civitatem ei vel
+                        <persName>Ioanni</persName> regi traderent. Nihil eis, si hic facerent, mali
+                    perpessurus. Quod si facere mallent, paulo post tempore eos velint nolint
+                    deventuros in potestatem <persName>Gritthi</persName>. Nam <persName>Turcarum
+                        caesar</persName> totam esse propediem non modo
+                        <placeName>Hungariam</placeName>, sed etiam <placeName>Germaniae</placeName>
+                    partem maiorem occupaturus Cibiniensesque non possent diu durare sub rege
+                        <persName>Ferdinando</persName>. Caesar enim <persName>Carolus</persName>
+                    iampridem abisset ex <placeName>Germania</placeName>. Rex vero
+                        <persName>Ferdinandus</persName> non modo non posset eos defendere aut eis
+                    praesidia, quibus tuti esse possent, mittere, sed id saltem, quam maxime
+                    curaret, ut impositis certis praesidiis ad finitimas
+                        <placeName>Austriae</placeName> civitates eas contra Turcum, quod tum
+                    difficulter efficeret, posset conservare. Haec sunt, quae habui, si certiora
+                    habes, fac me certiorem. Vale.</p>
+                <p xml:id="p.5"><placeName>Bruxellae</placeName> 28. Iulii 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

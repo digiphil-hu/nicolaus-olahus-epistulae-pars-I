@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">178</title>
+                <title key="body" n="178" type="main">Miklós Oláh to Giovanni Antonio da Burgio
+                    (Brussels, 16 October 1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15311016_1</idno>
+                <idno type="ITIdata">Q472750</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15311016_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 158–160.</note>
+                <note type="translation"><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                        >Albu–Firu</hi> 1963, 212–215.</note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15311108_1" type="url">184</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >201–203.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">178</biblScope>
+                    <biblScope unit="page">242–245.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1531-10-16">16 October 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Giovanni Antonio da Burgio<idno type="ITIdata"
+                        >Q470275</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Giovanni Antonio da Burgio (Brussels, 16 October
+                    1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. It may seem that he has forgotten about his duties
+                            because he has not written to Burgio, but since the death of King Louis
+                            II he has not really had the time to write, so he will start from the
+                            time Burgio left Bratislava. When he left, he and Brodarics missed him
+                            very much, but they were hoping that his trip would be of great use and
+                            glory for him. Since then he has not known where Burgio is, how he
+                            lives, but then he learned from Czettrich’s words and his letter to
+                            Lucretia that Burgio has become a Papal Legate in England, which made
+                            him very happy. 2. Now Burgio should hear what has happened to them
+                            since he left. Not long after his departure Brodarics defected to King
+                            John I. 3. Then King Ferdinand I marched into Hungary with 7-8,000 men;
+                            Várday handed over Esztergom to him. In the meantime King John I had
+                            fled to Eger, but King Ferdinand I destroyed his army at Tokaj. Then
+                            King Ferdinand I was crowned king, Queen Mary returned to Magyaróvár,
+                            and King Ferdinand I returned to Esztergom. Not much later he was
+                            stripped of his bishopric of Transylvania, so he returned to Queen Mary.
+                            When King Ferdinand I went to Prague and would have needed his company,
+                            he wanted to go, so that he is not in female company all the time, but
+                            Queen Mary kept him by her side. 4. He will not say how many places they
+                            have been because it would take too long; most recently this is where he
+                            has followed his mistress. He is not very hopeful as far as his future
+                            is concerned because he is promised many things, but it is questionable
+                            what will materialize from these. Life at the court is also not for him
+                            due to its dishonesty, and it also creates a lot of confusion that they
+                            do not know each other with the others.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15311016_1_1.jpg"/>
+                <p xml:id="p.1">Ad Iohannem Anthonium baronem Burgi Clementis VII pontificis apud
+                    Angliae regem oratorem Nicolaus Olahus.</p>
+                <p xml:id="p.2">[1.] Nonne tibi videor inofficiosus, ne dicam inhumanus, qui ad te
+                    tanto temporis curriculo nullas dederim litteras. Verum me hoc vitio <add
+                        corresp="Olahus" type="insert">a te</add> accusari minime posse
+                        arbitror.<note type="critic" xml:id="note.1">We only know one letter by Oláh
+                        addressed to Burgio, see Ep. 153.<ref>olahus.tei.15310530_1</ref></note> Nam
+                    ut in mei excusationem paulo altius repetam, ea, quae post serenissimi regis mei
+                        <persName>Ludovici</persName> cladem miserabilem consecuta sunt tempora,
+                    licebit me initium scribendi sumere ex tua <placeName>Pisonio</placeName><note
+                        type="critic" xml:id="note.2">Bratislava.</note> a nobis in
+                        <placeName>Urbem</placeName><note type="critic" xml:id="note.3">Rome.</note>
+                        profectione.<note type="critic" xml:id="note.4">Burgio left Bratislava on 5
+                        September, 1526.</note> Cum tu bene de regno
+                        <placeName>Hungariae</placeName> et serenissima regina mea
+                        <persName>Maria</persName> propter tuas virtutes meritus ex
+                        <placeName>Posonio</placeName> ad <placeName>Urbem</placeName> reverteris,
+                    nihil erat <persName>Bioderico</persName><note type="critic" xml:id="note.5"
+                        >István Brodarics.</note> nostro, mihi et aliis omnibus tui observantibus
+                    tua profectione molestius, qui tua iucunda familiaritate, consuetudine et
+                    humanitate carituri essemus. Sed necessitas vicit nostrum affectum. Et quod ex
+                    affectu moleste ferebamus, id necessitate patienter nos ferre oportuit,
+                    praesertim cum tuam profectionem magnum tibi in <placeName>Urbe</placeName>
+                    decoris, commodi, utilitatis et gloriae parituram existimaremus. Discessisti
+                    igitur a nobis non sine nostro magno tui desiderio, quod tua quam coram
+                    saepissime egeramus, comitas, humanitas et mansuetudo mirum in modum in nobis
+                    auxerat. Ab eo tempore, ubi egeris gentium, in Urbene commoratus fueris, an
+                    alibi locorum, non prius scire potuimus, quam proxime ex redeuntis a
+                        <placeName>Gallia</placeName><persName>Czethlicz</persName><note
+                        type="critic" xml:id="note.6">Ulrich Czettrich von Kynsberg or Četrys z
+                        Kinšperka was a page of King Louis II and is generally known as the witness
+                        of the King’s death. He reported to the Queen on 31 August in Bratislava,
+                        which Burgio noted down in his letter of 5 September, see <hi
+                            rend="smallcap">Kasza</hi> 2016, and <hi rend="smallcap">Magyar</hi>
+                        2016.</note> sermone, et ex litteris tuis ad <persName>Virginem
+                        Lucretiam</persName><note type="critic" xml:id="note.7">Lucretia Caballis
+                        (vom Ross).</note> datis, ex quibus et sermonibus et litteris cognovi te in
+                        <placeName>Anglia</placeName> oratorem agere pontificis. Quod maximae mihi
+                    fuit voluptati, eam maxime ob causam, quod te prope haberem, cum quo et litteris
+                    et, si tantum esset futurum mihi otium, <del corresp="Olahus">nostra</del><add
+                        corresp="Olahus" type="corr">coram</add> agere possem.</p>
+                <p xml:id="p.3">[2.] Nunc vicissim nostrum ab eo tempore, quo nos
+                        <placeName>Posonii</placeName> reliqueris, <del corresp="Olahus"
+                        >factum</del><add corresp="Olahus" type="corr">studium</add> accipe, et quae
+                    nos interea sollicitaverit presseritque fortuna, quibusve fatis agitati
+                    fuerimus, animadverte. <persName>Brodericus</persName> non multis post tuam
+                    profectionem diebus a nobis ad <persName>Ioannem regem</persName>
+                        desciverat<note type="critic" xml:id="note.8">Brodarics changed sides in
+                        March 1527, which he explained in his letter called “Dévény epistle”, for
+                        more see <hi rend="smallcap">Kasza</hi> 2015, 71–82.</note>, profectusque
+                        <del corresp="Olahus">est</del><add corresp="Olahus" type="corr"
+                        >fuit</add><placeName>Budam</placeName>. Ab eo tempore quid fecerit, ubi
+                    fuerit, quam habuerit conditionem, certo nunquam potui intelligere. Rumore <add
+                        corresp="Olahus" type="insert">quidem</add> ferebatur ipso profectum eum
+                    fuisse legatum ad pontificem, tum <persName>Franciscum regem
+                        Galliae</persName><note type="critic" xml:id="note.9">King Francis I, King
+                        of France (1494–1547).</note> et ad alios principes. Nos
+                        <placeName>Posonii</placeName> post regis nostri
+                        <persName>Ferdinandi</persName> electionem,<note type="critic"
+                        xml:id="note.10">On 16 December, 1526, see Book 2 of Velius’ <hi
+                            rend="italic">Historiae</hi> in <hi rend="smallcap">Kollár</hi> 1762,
+                        27–33. On the coronations of both kings see <hi rend="smallcap">Pálffy</hi>
+                        2009b, 37–41.</note> cui et <persName>Brodericus</persName> non modo
+                    adfuerat, sed et album, ut dicunt, calculum adposuerat,<note type="critic"
+                        xml:id="note.11">Meaning he approved.</note> aliquandiu commorati, tum <del
+                        corresp="Olahus">Posonii</del><add corresp="Olahus" type="corr">ibi</add>,
+                    tum <placeName>Viennae</placeName> fuimus.</p>
+                <p xml:id="p.4">[3.] Tandem <del corresp="Olahus">primoribus</del><add
+                        corresp="Olahus" type="corr">proceribus</add> nostris, quos
+                        <placeName>Posonii</placeName> reliqueras ita volentibus rex ipse noster
+                        <persName>Ferdinandus</persName> profectus <del corresp="Olahus"
+                        >est</del><add corresp="Olahus" type="corr">fuit</add> ad
+                        <placeName>Hungariam</placeName> cum exercitu septem aut octo <del
+                        corresp="Olahus">millibus</del><add corresp="Olahus" type="corr"
+                        >millium</add> hominum. <placeName>Strigonium</placeName><note type="critic"
+                        xml:id="note.12">Esztergom.</note> ei deditum per <persName>Paulum
+                        archiepiscopum</persName><note type="critic" xml:id="note.13">Pál
+                        Várday.</note><del corresp="Olahus">fuit</del><add corresp="Olahus"
+                        type="corr">fuerat</add>, <placeName>Buda</placeName> pariter dedita.
+                        <persName>Ioannes</persName> interea rex profugerat </p>
+                <pb facs="15311016_1_2.jpg"/>
+                <p xml:id="p.5"><placeName>Agriam</placeName><note type="critic" xml:id="note.14"
+                        >Eger.</note> versus, ubi fuerat ad arcem suam <placeName>Thokay</placeName>
+                    a nostris prostratus.<note type="critic" xml:id="note.15">In the battle of Tokaj
+                        on 27 September, 1527, King John I’s army was defeated and he fled.</note>
+                    Non multo autem post tempore indicta die coronationis
+                        <persName>rex</persName><placeName>Albam Regalem</placeName><note
+                        type="critic" xml:id="note.16">Székesfehérvár.</note> proficiscitur<note
+                        type="critic" xml:id="note.17">3 November 1527.</note>. Coronam Petrus
+                        Pereny,<note type="critic" xml:id="note.18">Péter Perényi (ca. 1502–1548)
+                        was Keeper of the Holy Crown <hi rend="italic">(conservator coronae)</hi>
+                        and <hi rend="italic">ispán</hi> of the Temes and Abaúj counties from 1519.
+                        He participated in the battle of Mohács and became loyal to King John I, who
+                        appointed him Voivode of Transylvania. After the battle, he hid the crown in
+                        Trenčín, and later gave it to Szapolyai for his coronation. In November
+                        1527, he changed sides and gave the crown to King Ferdinand I and became his
+                        ally. In exchange for this, he received Sárospatak and the income from the
+                        Episcopate of Eger. In 1529, he returned to King John I’s service, while
+                        later in 1540 we find him on the side of King Ferdinand I, who appointed him
+                        chancellor.</note> cui eam <persName>Ioannes</persName> servandam
+                    tradiderat, spe ductus polliciti et praemii adportat. <persName>Rex</persName>
+                    coronatur <add corresp="Olahus" type="insert">anno Domini 1527 die tertia
+                        Novembris</add> cum summa omnium utriusque ordinis dominorum exultatione.
+                    Revertitur <persName>regina</persName> ad <placeName>Owar</placeName><note
+                        type="critic" xml:id="note.19">Magyaróvár.</note>,
+                        <persName>rex</persName><placeName>Strigonium</placeName> profectus est. Ego
+                    vero eum secutus, tum quod res meae ita exigebant, tum quod volebam me a reginae
+                    servitiis, si fieri potuisset eximere, ne perpetuo in gynnecio desidere viderer.
+                        <placeName>Strigonii</placeName> in domo mea commoratus sum aliquantisper,
+                    et confectis istic apud regem meis negotiis, non ut ipse desiderabam, sed ut
+                    fortuna tulerat et aemuli mei passi erant, hi enim episcopatum Transsilvaniensem
+                    mihi a rege promissum a me omnibus suis viribus alienarunt, reverti coactus sum
+                    ad reginam, cum pluribus ipsius et scriptis et sollicitationibus, ut reverterer,
+                    admonitus fuissem. Contigit sub eo tempore, ut rex proficisceretur
+                        <placeName>Pragam</placeName> ad conventum inter Bohemos agendum, qui cum in
+                    temporis secretarium regni <placeName>Hungariae</placeName> apud se haberet
+                    neminem, et regiis et <persName>Agriensis episcopi cancellarii</persName><note
+                        type="critic" xml:id="note.20">Tamás Szalaházy.</note> Hungariae litteris
+                    sollicitatus fui aliquoties, ut ad regem proficiscerer, et officium istic meum
+                    exercerem, sed refragante <add corresp="Olahus" type="insert">retinenteque</add>
+                    regina id me facere minime licuit.</p>
+                <p xml:id="p.6">[4.] Ab eo tempore semper me regina detinuit, <del corresp="Olahus"
+                        >et</del><add corresp="Olahus" type="corr">cuius</add> ego quoque, cum
+                    viderem in omnibus Hungariae locis tempestatem oborituram, non multum sum
+                    voluntati <del corresp="Olahus">suae</del> refragatus, <add corresp="Olahus"
+                        type="insert">licet id non cum minimis meis expensis ac damnis
+                    fecerim</add>. Nam ad id, quod mihi pro viatico ex curia datum est, quicquid
+                    habui ex <placeName>Hungaria</placeName> reddituum, quod certe non erat minimum,
+                    adiicere me necesse fuit et omnia, ut meis conditionibus satisfacerem,
+                    liberaliter profundere. Taceo, quae interea temporis loca cum regina peragratus
+                    fuerim, similior currenti quam residenti, quas cursitationes, quos labores
+                    obiverimus. Si enim ea omnia, quae interea peragraverimus loca, explicare tibi
+                    vellem, dies unus et alter me deficeret, nec tibi arbitrarer me voluptatem hac
+                    rerum nostrarum commemoratione allaturum.<note type="critic" xml:id="note.21"
+                        >Cf. Ep. 175. Cap. 2.<ref>olahus.tei.15311002_1</ref></note></p>
+                <p xml:id="p.7">Novissime, ne rebus etiam in extremis reginae pro mea in illam fide
+                    et constantia deesse viderer, secutus sum eam huc usque, ut postquam eam in
+                    multis adversis fortunis, casibus et cursitationibus, in ipsius egestate eam
+                    secutus fuerim, <del corresp="Olahus">viderim</del><add corresp="Olahus"
+                        type="corr">viderem</add> hic quoque ipsius statum <del corresp="Olahus"
+                        >conditionem</del><add corresp="Olahus" type="corr">conditionemque</add>
+                    futuram et quem exitum esset habitura. Sum itaque hic non tam abunde, ut liceret
+                    et mea ferret conditio, provisus. In regina nihil mihi deesse videtur,
+                    pollicetur omnia: fortunam futuram, provisionem honestam honori et statui meo
+                    convenientem, et ea, quae homini permansionem suadere possent, sed mores hominum
+                    non novi, alieni </p>
+                <pb facs="15311016_1_3.jpg"/>
+                <p xml:id="p.8">illorum sunt a meis moribus. Videntur omnia et simulare et
+                    dissimulare, multa verbis polliceri <del corresp="Olahus">et</del><add
+                        corresp="Olahus" type="corr">re</add> parum praestare, salutare quemvis
+                    libenter, corde longe diversa meditari. Omnes eorum cogitatus in lucro
+                    commodoque sibi parando versari, utilitatis privatae potius quam verae amicitiae
+                    et caritatis in proximum rationem habere. Praeterea non me cognoscunt, neque ego
+                    eos, quod quantum afferat homini turbationis, cogitare ipse potes. Ego tamen
+                    nihilominus facio, quod meum exigit officium iampridem susceptum, quod e reginae
+                    re et mea esse videtur. Non praetermittam fidelia mea in principem meam officia,
+                    quae ab initio nullis deterritus incommodis, laboribus et periculis prae me
+                    semper tuli.</p>
+                <p xml:id="p.9">Intellexisti omnium rerum statum et illorum temporum, quo a nobis
+                        <placeName>Posonio</placeName> discesseras <del corresp="Olahus">si</del> et
+                    horum praesentium, in quibus nunc versamur, <add corresp="Olahus" type="insert"
+                        >conditionem. Si</add> aliquid habes, quod mea opera et officiis effici
+                    posse putaveris, fac intelligam. Gratissimum mihi erit pro vetere nostra
+                    amicitia et familiaritate, quicquid mihi demandaveris et quicquid in rem, usum
+                    et commoditatem tuam <add corresp="Olahus" type="insert">me</add> praestare <del
+                        corresp="Olahus">potero</del><add corresp="Olahus" type="corr"
+                        >volueris</add>. Vale et me, ut soles, ama.</p>
+                <p xml:id="p.10"><placeName>Bruxellae</placeName> 16. Octobris 1531.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

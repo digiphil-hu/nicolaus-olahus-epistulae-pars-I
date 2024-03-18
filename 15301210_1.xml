@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">127</title>
+                <title key="body" n="127" type="main">Miklós Oláh to Michael comes (Krems, 10
+                    December 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301210_1</idno>
+                <idno type="ITIdata">Q472699</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301210_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 115–116.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">122–123. </measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">127</biblScope>
+                    <biblScope unit="page">190–192.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Krems<idno type="ITIdata">Q16824</idno></placeName>
+                <date when="1530-12-10">10 December 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Michael comes</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Michael comes (Krems, 10 December 1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. He does not know what to write, as he does not know
+                            anything for certain. Three days ago a messenger arrived for the Queen
+                            with a letter from Georg Baron of Puchheim, saying that Mehmed Bey will
+                            help King John I with 5,000 horsemen and 100 sloops and liberate him
+                            from the 40-day siege. The plan is that part of the cavalry will be sent
+                            to face Mehmed, while part of it will be left behind by the siege. 2.
+                            Roggendorf’s experience will be enhanced by Török, Bakics, and Pekry,
+                            who are familiar with the Turks’ combat style, and he is ultimately
+                            hoping that God will also have mercy on them in the end.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301210_1_1.jpg"/>
+                <p xml:id="p.1"> Ad Michaelem comitem.<note type="critic" xml:id="note.1">We do not
+                        know him more closely.</note></p>
+                <p xml:id="p.2">[1.] Quid tibi de rebus nostris scribam, nescio. Tam varia atque
+                    dubia ad nos quotidie afferuntur nova, ut nemo sit, qui certi aliquid scribere
+                    possit. Nunc concepimus spem ex nuntiis, qui Vienna veniunt, certam fore
+                    propediem, ut <placeName>Buda</placeName> potiti, et hostibus in ditionem
+                    nostram propter inediam, quam pati dicuntur, redactis pacem diu summis omnium
+                    votis expetitam simus consecuturi. Nunc Turcarum adventu adeo terremur, ut prope
+                    res nostras desperemus. Venit hic triduo ad reginam ex Vienna nuntius cum
+                    litteris locumtenentis,<note type="critic" xml:id="note.2">Georg, Baron of
+                        Puchheim at Raabs and Krumbach was Governor of the Archduchy of Austria
+                        under the Enns between 1528–1531.</note> qui certo attulit <persName>Mechmet
+                        becum</persName><note type="critic" xml:id="note.3">Yahya-Pasha-zade Mehmed
+                        Bey.</note> Turcam praefectum arcis Nandor Albae<note type="critic"
+                        xml:id="note.4">Belgrade.</note> cum quinque millibus equitum et centum <choice>
+                        <orig>nadastis</orig>
+                        <supplied>nasadis</supplied>
+                    </choice> (qua navicula sunt non longe a Buda) consedisse, velleque Ioanni et
+                    omnibus, qui in arce sunt, suppetias ferre, et eos ab obsidione quam iam
+                    quadraginta dies patiuntur, utcumque fieri a se possit, liberare. Id autem hoc
+                    consilio facere, ut dicitur, cogitat, ut nostros, qui Budam obsident, imparatos
+                    invadat, eodemque ipso tempore ex civitate quoque ipsa erumpant, ut utrimque
+                    nostris terror iniciatur. Nostri dicuntur esse vigilantes et licet pauci, tamen
+                    magno animo cogitant rursus <choice>
+                        <orig>dis</orig>
+                        <supplied>dies</supplied>
+                    </choice> ac noctes stratagemate contra illos uti; ut dum Mechmeth becum
+                    advenire senserint, illi partem copiarum, quas cum nostris equitibus levis
+                    armaturae usque ad XVI millia habere dicuntur, mittant obviam, reliqua parte
+                    tamen in obsidione relicta, ne illis manum conserentibus civitatenses et
+                    arcenses erumpere et nostros rem cum hostibus habentes intercipere possint; </p>
+                <pb facs="15301210_1_2.jpg"/>
+                <p xml:id="p.3">optimum sane consilium. Nam hoc modo futurum esse arbitror, ut unam
+                    exercitus nostri partem exiguis Mechmeth beci copiis sufficere putem, et alteram
+                    rursus satis futuram potentem ad civitatenses intra muros continendos.</p>
+                <p xml:id="p.4">[2.] Ad haec non deerit prudentia Rogendorffii, insignis certe et
+                    praestantissimi in re militari viri, qui multa iam a pueritia et vidit et
+                    expertus est, cogitabit mihi crede omnibus modis, ut hostibus nostri superiores
+                    sint evasuri. <persName>Valentinus Theurek</persName>,<note type="critic"
+                        xml:id="note.5">Bálint Török of Enying (1502–1550) was a Hungarian
+                        aristocrat, Ban of Belgrade, and Lord of Csesznek (1527–1542). After Mohács,
+                        we find him on the Habsburgs side. King Ferdinand I promised to donate
+                        possessions to him, but Török could not wait to receive them and began to
+                        plunder these estates with his hussars. Because he took one of Oláh’s
+                        possessions, Oláh always berated him in his letters. In 1530, Török was
+                        still loyal to King Ferdinand I, but in 1532 he seems to have changed sides,
+                        see <hi rend="smallcap">Bessenyei</hi> 1994, 64, and <hi rend="smallcap"
+                            >Kasza</hi> 2012, 300.</note><persName>Bakhyth</persName>,<note
+                        type="critic" xml:id="note.6">Pál Bakics or Pavle Bakić (†1537) was the last
+                        Despot of Serbia. Bakics participated in the battle of Mohács with his
+                        forces. After Mohács, he was with King John I, but later he changed sides at
+                        the latest after the battle of Tokaj (1527) and remained faithful to King
+                        Ferdinand I until his death. He was one of the most important defenders of
+                        the Habsburgs in Transdanubia. For more see <hi rend="smallcap">Kasza</hi>
+                        2012, 340.</note><persName>Ludovicus Pekry</persName><note type="critic"
+                        xml:id="note.7">Lajos Pekry of Petrovina (†1550, according to Oláh’s letters
+                        Ferenc Révay on 1 July 1551, and to the Hungarian Chamber on 27 October
+                        1551, see Ep. 771, and Ep. 787.) was servitor of Ferenc Batthány de Güssing,
+                        then hussar captain of King Ferdinand I, and later Ban of Croatia, Dalmatia
+                        and Slavonia (1532–1537), see <hi rend="smallcap">Varga</hi> 2003,
+                            164.<ref>olahus.tei.15510701_1</ref></note><ref>/o:olahus.tei.15511027_1</ref>
+                    et alii, qui artes et mores in bello gerendo Turcicos optime a teneris annis
+                    noverunt, quod in <persName>Rogendorfio</persName> in re cum Turcis gerenda
+                    deerit, cumulatissime supplebunt, et ubi ille admonendus est alicuius rei,
+                    admonebunt. Infracto enim animo sunt hi, ut quemlibet eorum cum bonis belli
+                    ducibus conferre audeam. Quibus ex rebus non parvam habeo spem Deum optimum
+                    maximum res nostras felicitaturum miserturumque nostrae diuturnae calamitatis et
+                    nos ex illius gratia optatam pacem consecuturos. <quote xml:id="quote.1">Pater,
+                        ut dicitur, filium, quem amat, castigat</quote><note type="quote"
+                        xml:id="note.quote.1">H12, 6: “Quem enim diligit Dominus, castigat.”</note>,
+                    sic pater noster caelestis, a quo et esse et vivere coepimus, per cuius
+                    sanguinem regenerati in novum sumus hominem, nos satis diu iam ob scelera
+                    nostra, quae maxima sunt, emendavit, amat enim nos et non patietur perire. Et
+                    iam misertus nostri reducit in sui cognitionem vel observationem, ut sanctam
+                    iustam istius voluntatem agentes vitam consequi possimus, et hanc pacem
+                    temporariam et illam aeternam, cuius nullus unquam erit finis. Vale et me
+                    ama.</p>
+                <p xml:id="p.5">Ex Cremps X. Decembris MDXXX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">110</title>
+                <title key="body" n="110" type="main">Miklós Oláh to Lőrinc Kretschmer (Augsburg, 3
+                    November 1530)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15301103_1</idno>
+                <idno type="ITIdata">Q472682</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15301103_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 101–103.</note>
+                <note type="translation"><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V.
+                        Kovács</hi> 1971, 630–632. <hi rend="italic">In Slovakian:</hi><hi
+                        rend="smallcap">Nagy</hi> 2022, 114–117.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >102–104.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">110</biblScope>
+                    <biblScope unit="page">173–175.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
+                <date when="1530-11-03">3 November 1530</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Lőrinc Kretschmer<idno type="ITIdata">Q156029</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Lőrinc Kretschmer (Augsburg, 3 November
+                    1530)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. As Kretschmer cannot wait to learn what has
+                            happened, Oláh will provide a report. He must have heard already that
+                            Emperor Charles V, King Ferdinand I, and the princes discussed two main
+                            topics: the fight against the Turks, and religious reforms. During the
+                            Imperial Assembly several lords left, which made those who stayed more
+                            recalcitrant. The Emperor would rather exercise tolerance in terms of
+                            religion than disturb the campaign against the Turks. 2. In the end,
+                            they decided at the Imperial Diet that the princes will send 40,000
+                            infantrymen and 8,000 horsemen to the campaign against the Turks if the
+                            Emperor safeguards peace within Germany, which he obviously will
+                            endeavor to do. With this army and with God’s help they will drive out
+                            the Turks.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15301103_1_1.jpg"/>
+                <p xml:id="p.1">Ad <persName>Laurentium</persName> praepositum Albensem.</p>
+                <p xml:id="p.2">[1.] Cupidissimum te esse scio rerum novarum, earum praesertim, quae
+                    utilitati reipublicae Christianae aliquid sunt conducturae. Hanc ob causam
+                    putavi mei esse officii te certum reddere his de rebus, quae hic agantur.
+                    Audivisse te antea credo ex multorum tuorum litteris, satis diu hic per caesarem
+                    Carolum, regem Ferdinandum ceterosque principes imperii duabus de rebus
+                    tractatum esse, de bello contra Turcos inferendo, et de reformando vivendoque
+                    schismate, quod in religione Christiana est ortum, utrisque ita (quod felix
+                    faustumque sit) est provisum rebus, ut arbitrer omnes bonos, ea quae caesar, rex
+                    et ceteri principes concluserunt, aequi bonique consulaturos. Admonebat primum
+                    caesar pro sua in religionem nostram pietate, ut est princeps Christianissimus, </p>
+                <pb facs="15301103_1_2.jpg"/>
+                <p xml:id="p.3">animoque ad religionem colendam propensissimo, admonebat, inquam,
+                    principes imperii, ut instituta primum sanctorum, religionem veterem nostram,
+                    quam maiores nostri a mille vel pluribus annis sacrosancte observarunt, pluris
+                    facerent, quam novas has aliquorum neoteriorum virorum nescio, quas
+                    professiones, et a doctrina institutisque maiorum non aberrarent, sed eas
+                    sanctissime colerent, observarent et venerarentur. Multis autem et quidem omni
+                    pietate, humanitate et benevolentia plenis verbis ad haec principes ipsos fuit
+                    exhortatus, inter quos duo fuere vel tres ad summum, aliquot praeterea
+                    civitates, ut <placeName>Nurmberga</placeName>,
+                        <placeName>Argentina</placeName><note type="critic" xml:id="note.1"
+                        >Strasbourg.</note>, <placeName>Ulma</placeName>,
+                        <placeName>Francfordia</placeName> et pleraeque aliae quae tam piam non
+                    admitterent exhortationem, principes ipsi, qui contrarii fuerunt,
+                        <persName>Ioannes dux Saxoniae</persName><note type="critic" xml:id="note.2"
+                        >Johann Friedrich I, Elector of Saxony and his son, Johann Friedrich II, the
+                        later Duke of Saxony.</note> cum filio, <persName>Lanthgravius
+                        Hessiae</persName><note type="critic" xml:id="note.3">Philipp I, Landgrave
+                        of Hesse.</note> et <persName>Georgius marchio
+                        Brandenburgensis</persName><note type="critic" xml:id="note.4">George,
+                        Margrave of Brandenburg-Ansbach (1484–1543), known as George the
+                        Pious.</note> erant, qui non exspectato fine conventus, partim nescio,
+                    partim annuente caesare unus post alium discesserunt.<note type="critic"
+                        xml:id="note.5">Oláh wrote about the same instance of leaving the assembly
+                        in Ep. 90.<ref>olahus.tei.15301001_1</ref></note> Quorum discessu civitates
+                    non parum confirmatae sunt in sua pertinacia. Caesar dum ita per eosdem
+                    principes rem agi vidisset, etsi mirum in modum, ut debuit, fuerat conturbatus,
+                    et omnia quaeque extrema pro rectificando hoc fidei schismate pati intra se
+                    deliberaverat, maluit tamen hanc, quaecumque esset, rectificationem
+                    aliquantisper differre, quam expeditioni, quae contra Turcas parabatur, aliquid
+                    inferre turbationis.</p>
+                <p xml:id="p.4">[2.] Ea enim quam necessaria esset, Turca monarchiam totius orbis <choice>
+                        <orig>machinate</orig>
+                        <supplied>machinante</supplied>
+                    </choice> et quam maximos, quin res contra tam potentem hostem agi deberet,
+                    exposceret apparatus, iamdudum animo conceperat. Quamobrem negotium fidei ad
+                    futurum prorogavit concilium, ut in eo quod quantocius fieri per communem
+                    expeditionem posset, cogeretur, omnium votis postea concluderetur, quo in statu,
+                    ordine et constitutione res Christiana permanere deberet. De expeditione vero
+                    Turcica conclusum est, ut principes imperii quadraginta millia et octo millia
+                    equitum mitterent, caesar, rex et alii principes tantum et ipsi numerum darent.
+                    Ea tamen lege imperiales dictas copias polliciti sunt, si usque ad concilium
+                    generale pax in Germania servata erit, et ab omni belli terrore interea erunt
+                    securi, in eaque re caesaris litteris et promissione adsecurabuntur. Quod
+                    caesarem facturum arbitramur, ut enim est natura ad pacem reique publicae
+                    tranquillitatem, concordiam et quietem natus, ita omnia ultro videbitur
+                    facturus, quod facere possit et quod honor et dignitas ipsius feret. Itaque </p>
+                <pb facs="15301103_1_3.jpg"/>
+                <p xml:id="p.5">facturum esse existimo, ut optatam quam diu maximis votis moliti
+                    sumus expeditionem contra Turcos simus habituri. Et tantam, quae illorum
+                    potentiae et viribus toto terrarum orbi formidolosis facile sufficiat.</p>
+                <p xml:id="p.6">Non deerit nobis Dei quoque optimi maximi, cuius iram in populum
+                    suum propter scelera nostra immissam deprecari debemus, auxilium singulare. Quo
+                    freti ac industria, virtute et opera principis nostri, tum viribus non
+                    imperialibus modo, sed etiam aliorum principum Christianorum arbitror propediem
+                    futurum, ut Turcarum tyrannidem simus propulsaturi, et respublica Christiana,
+                    quae tot annis iudicibilibus malis est paene obruta, suum florem, decus et
+                    gloriam sit recuperatura. Vale et me ama.</p>
+                <p xml:id="p.7">Ex <placeName>Augusta</placeName> III. Novembris MDXXX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

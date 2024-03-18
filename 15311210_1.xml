@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">189</title>
+                <title key="body" n="189" type="main">Miklós Oláh to a friend (Tournai, 10 December
+                    1531)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15311210_1</idno>
+                <idno type="ITIdata">Q472761</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15311210_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 172–174.</note>
+                <note type="translation"><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                        >Albu–Firu</hi> 1963, 215–216.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >164–165.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">189</biblScope>
+                    <biblScope unit="page">259–261.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Tournai<idno type="ITIdata">Q470214</idno></placeName>
+                <date when="1531-12-10">10 December 1531</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>a friend</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to a friend (Tournai, 10 December 1531)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1"> 1. How difficult life at court is! He was just
+                            contemplating dedicating himself a little to literature in Brussels, in
+                            the city that he was already starting to get used to, when the order
+                            came that he has to travel to Tournai in the entourage of the Emperor
+                            and the Queen. He tried to object, but the Queen has ordered him to do
+                            so. So he reluctantly traveled to Tournai, which, although it is the
+                            most famous city of Flanders, is not as pretty as they say it is. 2.
+                            Every day there was some kind of splendor, on Sunday they gathered in
+                            the cathedral, the following day they performed the sacrifice with the
+                            members of the Order of the Golden Fleece, on the fourth day there was
+                            jousting at the agora. He wants to go back to Brussels, where he can
+                            better budget his small amount of money.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15311210_1_1.jpg"/>
+                <p xml:id="p.1">Ad amicum.</p>
+                <p xml:id="p.2">[1.] Di boni, quae est curialium molestia, qui labor, quae omnium
+                    malorum patientia! Si omnem aetatem cuiuspiam in curia versantis diligenter
+                    perquirere velis, nullum spero te diem reperire posse, quae non plena sit
+                    miseriarum. Dum quieturum te credis et bonis aut studiis aut rebus aliis operam
+                    daturum, tunc oriuntur impedimenta quamplurima, quae te a bono proposito
+                    disturbent, et animi tui deliberationem mirum in modum impediant. Non possum
+                    negare hominem in curia plerumque magna consequi solere, magnis affici et
+                    praemiis et honoribus, tamen libertas ipsa, quae caput est omnium bonorum, abest
+                    ab aula quam maxime. Quod nolis, id te facere oportet, et quod plurimum abhorret
+                    a veris studiis. Deliberaram mecum hisce diebus
+                    <placeName>Bruxellae</placeName>, cui civitati iam assuetus eram, otio me operam
+                    daturum litterario, et molestiam temporis, quam ex patriae meae periculo maximam
+                    et paene intollerabilem accepi, ut cumque fieri posset devorare. Idque cum
+                    facere vellem, <persName>caesar</persName> paravit profectionem
+                        <placeName>Tornacum</placeName>,<note type="critic" xml:id="note.1">Tournai,
+                        Ep. 187. Cap. 2.<ref>olahus.tei.15311123_1</ref></note> cum quo et
+                        <persName>regina</persName> eo venit. Equidem licet ex meo instituto plurima
+                    sim usus excusatione, ut <del corresp="Olahus?">ad</del> me ab hoc labore
+                    liberare possem et <placeName>Bruxellae</placeName> manere. Tamen
+                        <persName>regina</persName> voluit, <del corresp="Olahus">mique</del><add
+                        corresp="Olahus" type="corr">mihique</add> iussit, ut eam sequerer. Ego ut
+                    in omnibus aliis rebus semper reginae oboedivi mandatis, sic ne nunc quoque </p>
+                <pb facs="15311210_1_2.jpg"/>
+                <p xml:id="p.3">servitiis eius deessem, nolens licet tamen coactus sum huc
+                        <placeName>Tornacum</placeName> venire. Quod oppidum nominatissimum licet
+                    sit inter alia Flandriae oppida Galliae finitima, non tamen tam pulchra et
+                    decora visa est, quam prius fama conceperamus.</p>
+                <p xml:id="p.4">[2.] Caesar ut cives honorare ornareque propter eorum in eum veterem
+                    fidem et merita videretur, nullum hactenus praetermisit hic diem, quo non
+                    aliquid ederet spectaculi. Tertio statim, postquam ingressi sumus, die dominica
+                    nempe festum Divi Andreae<note type="critic" xml:id="note.2">Sunday following 30
+                        November, i.e. 3 December.</note> sequenti ingressus est ecclesiam
+                    cathedralem cum magna pompa, insignibus et habitu rubro Ordinis Velleris
+                        Gedeonis<note type="critic" xml:id="note.3">See Ep. 187. Note
+                            9.<ref>olahus.tei.15311123_1</ref></note> indutus. Quem praecedebant
+                    duodecem ex ordine dominorum et comitum similem gestantes habitum, missaque die
+                    eo sollenniter peracta, secundo die inferiae celebratae sunt his, qui sunt ex eo
+                    ordine demortui. Qui ad numerum sese extendunt vigintiquattuor. Cui
+                        <persName>caesar</persName> cum suis in habitu pulchro interfuit, sub
+                    offertorio <persName>secretarius</persName> caesaris lingua sua Gallica, ut
+                    dicebatur disertissimus et facundus prolixam habuit de laudibus maiorum caesaris
+                    orationem. In qua enumeravit eos quoque, qui fuissent authores et postea
+                    commilitiones huius ordinis. Tertio deinde die <persName>caesar</persName> cum
+                    superstitibus fratribus eiusdem ordinis habitum ferens album ingressus est
+                    iterum ecclesiam maiorem, in qua in agendis divinis rebus magna erat omnium
+                    ordinum frequentia. Quarto die celebrati sunt in civitatis theatro<note
+                        type="critic" xml:id="note.4">In contemporary texts, it means a marketplace
+                        for the representation of a king or a prince, see <hi rend="smallcap"
+                            >Kovács</hi> 2008, 210.</note> lusus hastarum, qui dicuntur rumpere
+                    lanceas. Nunc exspectatur, ut nomina eorum, qui in locum demortuorum fratrum
+                    electi sunt, pronuntientur. Caesar diebus singulis cum militibus eius ordinis
+                    est in consilio. Nam illorum arbitrio eligi novi debent, nondum tamen aliquid ab
+                    eis est conclusum.</p>
+                <p xml:id="p.5">Ego ut non libenter ad hanc civitatem veni, ita magno aestuo
+                    desiderio regrediendi <placeName>Bruxellas</placeName>, non ut istic quoque
+                    meliorem animi quitem habeam, sed quod videor istic commodius me expensis, quae
+                    tenues nunc mihi sunt, parcere posse. Vale, Amicorum Optime.</p>
+                <p xml:id="p.6"><placeName>Tornaci</placeName> decima Decembris anno Domini
+                    MDXXXI.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">221</title>
+                <title key="body" n="221" type="main">Rutger Ressen to Miklós Oláh (Leuven, 23 March
+                    [1532])</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320323_1</idno>
+                <idno type="ITIdata">Q472793</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320323_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 210.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">189.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">221</biblScope>
+                    <biblScope unit="page">303–304.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
+                <date when="1532-03-23">23 March [1532]</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Rutger Ressen to Miklós Oláh (Leuven, 23 March [1532])</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">He wanted to visit Oláh, but things have come up, so he
+                            will rather write why he wanted to see him. He wanted to acquire the
+                            privilege for old and new books not yet published here to only go to
+                            press with his imprimatur; however, he has not succeeded so far, and so
+                            he is requesting Oláh’s help. He would need the privilege as soon as
+                            Easter. He has just finished Baarlando’s book, then theological works
+                            are on the agenda, but he does not want his work to be in vain. He sends
+                            him books and recommends the messenger to his attention.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15320323_1_1.jpg"/>
+                <p xml:id="p.1">Rutgerus Rescius domino Olao thesaurario Albensi secretario etc.
+                    reginae Mariae.</p>
+                <p xml:id="p.2">Statueram humanitatem tuam invisere, Domine Observande, sed per
+                    occupationes varias hactenus non fuit integrum, neque adhuc est; itaque quam ob
+                    causam eram venturus ad te, nunc litteris exponam. Dedi aliquam operam, ut
+                    impetrarem privilegium generale ad quosvis novos libros aut veteres antea hic
+                    non impressos aut castigatos, ne eos liceret in aliquot annos chalcographis<note
+                        type="critic" xml:id="note.1">Word from the end of 15<hi rend="super"
+                            >th</hi>-century, meaning ‘printer’, see <hi rend="smallcap"
+                            >Ramminger</hi> 2008.</note> aliis imprimere, postquam ego magnos
+                    sumptus in eos imprimendos et recognoscendos fecissem, ad theologicos autem
+                    libros aut sacras litteras tractantes non nisi a theologis Lovaniensibus, at
+                    iis, quibus hoc commisit caesarea maiestas, approbatos cupiebam privilegium.
+                    Ceterum hactenus non potui voto meo potiri. Idcirco confugio ad te, per quem
+                    spero me hoc facile impetraturum esse. Usui autem erit mihi hoc privilegium
+                    statim a festo Paschae.<note type="critic" xml:id="note.2">31 March.</note> Nam
+                    tunc absolvam tres libros <hi rend="italic">Historiarum</hi><note type="critic"
+                        xml:id="note.3">See Ep. 215. Note
+                        2.<ref>olahus.tei.15320227_1</ref></note><persName>Barlando</persName><note
+                        type="critic" xml:id="note.4">Adriaan van Baerland.</note> Lovaniensis
+                    academiae rhetore conscriptos, ac statim post illos exordiar imprimere diversa
+                    opera theologica doctoris cuiusdam Lovaniensis, quos ut liceat in publicum
+                    edere, ipse theologus impetrabit ex aula. Mihi autem curandum est, ut haec cum
+                    privilegio edantur, ne perdam oleum et impensas, si aliae partes sumptibus
+                    statim emittentur, quae mihi magnis laboribus ac sumptibus constiterunt. Tua
+                    humanitas et facilitas me animarunt, ut haec tam audacter abs te petere ausus
+                    sim, si qua in re tibi aut tuis inservire potero, ero semper paratissimus.
+                    Libellos, quos nunc ad te dono mitto, rogo ut boni consulas. Cum praelium
+                    nostrum maiores protulerit fetus, accipies et ipse maiora dona. Latorem huius
+                    epistolae <persName>Hadrianum Cordatum</persName>,<note type="critic"
+                        xml:id="note.5">Hadrianus Cordatus of Wissekerke (†1538/1539) was Canon of
+                        Middelburg, see <hi rend="smallcap">Mynors–Thomson</hi> 1979, 145.</note>
+                    virum probissimum ac eruditissimum mihique amicissimum quam possum maxime tibi
+                    commendo. Habet quoddam in aula negotii, quod sperat se facile per te posse
+                    conficere. Confido pro tuo erga omnes studiosos et doctos amore singulari te
+                    illi non defuturum esse. Bene vale.</p>
+                <p xml:id="p.3"><placeName>Lovanii</placeName> postridie Palmarum.<note
+                        type="critic" xml:id="note.6">We do not know the precise date of this
+                        letter, but its location in the manuscript suggests the year
+                    1532.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

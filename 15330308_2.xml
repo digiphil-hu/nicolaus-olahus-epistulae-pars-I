@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">335</title>
+                <title key="body" n="335" type="main">Elek Thurzó to Miklós Oláh (Bratislava, 8
+                    March 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330308_2</idno>
+                <idno type="ITIdata">Q472907</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330308_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 316–318.</note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330210_1" type="url">318</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >399–400.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">335</biblScope>
+                    <biblScope unit="page">433–434.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
+                <date when="1533-03-08">8 March 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Elek Thurzó to Miklós Oláh (Bratislava, 8 March 1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. He thanks for the congratulations, but this office is
+                            a burden on his shoulders rather than a reward. There is nothing to
+                            congratulate for anyway, the situation is so miserable, nobody is safe,
+                            and the horsemen are pillaging the poor every day so much that they are
+                            already starving to death; so he should rather send his condolences.
+                            King John I has sent Ferenc Frangepán and his people, and they talked
+                            about peace with them. Once it is made at last, he will not forget about
+                            Oláh’s possessions. 2. He writes about his daughter Lucretia. He hears
+                            that the English and the French want to join in an attack on Charles V,
+                            their only hope.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330308_2_1.jpg"/>
+                <p xml:id="p.1">Idem Nicolao Olao salutem. Reverende <del corresp="Olahus">ac
+                        egregie</del> Domine, Amice Dilecte, salutem! </p>
+                <p xml:id="p.2">[1.] Litteras Dominationis Vestrae Bruxellis nona<note type="critic"
+                        xml:id="note.1">The Nonae of February fell on 5 February. Oláh’s letter was
+                        dated 10 February, but its content suggests that Thurzó is referring to Ep.
+                        318, in which Oláh congratulates on his appointment to <hi rend="italic"
+                            >locumtenens</hi>.<ref>olahus.tei.15330210_1</ref></note> praeteriti
+                    mensis datas heri accepimus, ex quibus cognovimus Dominationem Vestram gratulari
+                    de officio, <choice>
+                        <orig>quem</orig>
+                        <supplied>quod</supplied>
+                    </choice><persName>maiestas regia</persName>, dominus noster clementissimus
+                    nobis imposuit verius, quam contulit. De quo quid congratulandum est, non
+                    videmus, propterea quod omnis rerum ordo adeo confusus est, ut non nisi
+                    angustias et acerbitates privatas, publica hac cura auctas dicere liceat.
+                    Accedit enim calamitati, quam ex hoste toties reverso et ex miserabili scissione
+                    accepimus, equitum, quos <persName>maiestas regia</persName> alit, effera
+                    rapinae aviditas, ut nihil fere miseris colonis sit relictum, ut taceamus
+                    interim non dominos, </p>
+                <pb facs="15330308_2_2.jpg"/>
+                <p xml:id="p.3">non nobiles, non ullum statum securum esse posse, vel in exiguis
+                    fortunis, quas temporum malignitas illis fecit reliquas, adeo in omnium bona
+                    equites illi debachati sunt, et indies debachantur, ut miserae plebeculae
+                    nonnisi ex fame interitus immineat, nisi divina benignitas res nostras
+                    respexerit. Nam non est, quod speret quis raptorum horum violentias legibus ac
+                    poenis cohiberi posse; creverunt adeo, ut maiores videantur, quam quibus leges
+                    imperare possent, ut leges non silere, sed obrutae potius ac sepultae videantur.
+                    Unde fit, ut considerantibus nobis praesentium miseram rerum faciem condolendum
+                    potius hoc nomine videatur, quam gratulandum de officio imposito, quod nonnisi
+                    oneri est in hoc confuso statu rerum. Anget animi dolorem, quod, quando tot
+                    malorum sit futurus finis, nequaquam appareat. Miserat huc
+                        <persName>Ioannes</persName><note type="critic" xml:id="note.2">King John
+                        I.</note> homines suos <persName>monachum de Frangipanibus</persName>,<note
+                        type="critic" xml:id="note.3">Ferenc Frangepán.</note><persName>Stephanum
+                        Werbewezy</persName>,<note type="critic" xml:id="note.4">István
+                        Werbőczy</note><persName>Stephanum Brodericum</persName> et
+                        <persName>Hieronymum Lasky</persName>, quibus cum egimus, nondum tamen
+                    certam deliberationem in regni commodum videmus, ubi certa pax convenerit, non
+                    erimus Dominationis Vestrae immemores, et de beneficio suo, quod possidere
+                    deberet.</p>
+                <p xml:id="p.4">[2.] Quod ad filiam nostram dominam
+                        <persName>Lucretiam</persName><note type="critic" xml:id="note.5">Probably
+                        Lucretia Caballis (vom Ross). According to De Vocht, Lucretia had been
+                        adopted by Elek Thurzó, see <hi rend="smallcap">De Vocht</hi> 1961,
+                        242.</note> attinet, manet apud nos vetus illa ac debita benevolentia, et
+                    nisi tam atrox regnum hoc detinuisset turbo, iampridem accepta eiusdem dominae
+                    filiae nostrae mente potuisset per nos nonnihil curae adhiberi. Nihilominus si
+                    Dei benignitate laetior regno facies reddita fuerit, eam adhibebimus
+                    diligentiam, ut fortasse non frustra parentis nos sumpsisse nomen filia nostra
+                    sit iudicatura. Quod vero intelligimus Gallorum et
+                        <placeName>Angliae</placeName> principes apparatu occupari, ut ditioni
+                    serenissimi <persName>regis</persName> nostri bellum inferant, partibus scilicet
+                    illis <placeName>Flandriae</placeName>, non possumus non vehementer dolere,
+                    quippe cum non ignoremus insanissimis principum motibus rempublicam Christianam
+                    labefactari, et occupato imperatore, in quo salus nostra spesque liberationis
+                    erat reposita, serius nostram a tot malis liberationem exspectare cogamur et
+                    interim labente seculo minor posteris sit speranda requies a <persName>Turcarum
+                        tyrannide</persName>, qui nihil non moliuntur nostris stertentibus, ut
+                    ditionem eorum proferant. Cogimur tamen divinae providentiae omnia vel nolentes
+                    attribuere, ut ea solum sint habenda, quae numen iusserit. Utrumque frustra
+                    quidam nitantur. Nos, ut praemisimus, Dominationis Vestrae immemores non sumus,
+                    ut veteris amici, et cuius rebus consuluisse non pigeat. Quamquam, ut diximus,
+                    certa nulla salus appareat, neque voluntati commoditas respondeat. Dominationem
+                    Vestram cum his bene valere optamus.</p>
+                <p xml:id="p.5"><placeName>Posonii</placeName> VIII. Martii anno 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

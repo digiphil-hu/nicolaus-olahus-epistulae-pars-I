@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">275</title>
+                <title key="body" n="275" type="main">Miklós Oláh to Paolo Giovio (?) (Brussels, 22
+                    September 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15320922_1</idno>
+                <idno type="ITIdata">Q472847</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320922_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 248.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">273.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">275</biblScope>
+                    <biblScope unit="page">352–353.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1532-09-22">22 September 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Paolo Giovio (?)<idno type="ITIdata">Q470411</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Paolo Giovio (?) (Brussels, 22 September
+                    1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">He probably already knows what bravery Jurisics showed
+                            when he defended Kőszeg. He not only defended it, but he even suffered
+                            two injuries as well, one from a lance, and one from a cannonball. When
+                            they were running out of both food and gunpowder, he kept doing his job,
+                            and in the end, with God’s grace he had the opportunity to end the
+                            siege. Namely Pasha Ibrahim sent a messenger to him that if he
+                            surrendered to him, he would release him and cease the siege as well.
+                            Jurisics, having considered that due to the lack of stocks this was the
+                            best course of action, presented his conditions and met with Ibrahim,
+                            who received him kindly and then released him, and he gave him Kőszeg in
+                            the sultan’s name.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
+                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.2">Quanta fuerit illius <persName>Nicolai Iurasyth</persName>,<note
+                        type="critic" xml:id="note.2">Miklós Jurisics or Nikola Jurišić (1490–1544)
+                        was a Croatian nobleman, soldier, and diplomat. He was loyal to the
+                        Habsburgs. King Ferdinand I appointed him Commander-in-Chief of the armed
+                        forces defending the borders. In 1532, he defended both the castle and the
+                        city of Kőszeg against the Turkish army. See Ep. 253. Note 3. On his
+                        diplomatic activity supporting King Ferdinand I, see <hi rend="smallcap"
+                            >Varga</hi> 2008.<ref>olahus.tei.15320829_2</ref></note> quem optime
+                    nosti, in <placeName>Ginsio</placeName><note type="critic" xml:id="note.3"
+                        >Kőszeg.</note> defendendo virtus et fortitudo, iampridem scio te optime
+                    intellexisse. Nam ea fecit, quae muliti alii non fecerunt et quae fortissimi
+                    militis fuerunt officia. Non solum tutatus <choice>
+                        <orig>es</orig>
+                        <supplied>est</supplied>
+                    </choice> et oppidum et arcem ab innumeris hostibus hisdemque fortissimis ac
+                    acerrimis oppugnationibus, sed etiam in testimonium suae fortitudinis, duo
+                    accepisse dicitur vulnera, unum hasta, alterum pyxide. Ad postremum, cum et ipse
+                    et sui non tam animi robore defecisse viderentur, quam pulveres et victualia,
+                    quibus arx conservari consuevit, omnino essent absumpta; nihilo secius militis
+                    strenui exsecutus est officium. Verum Deus illius saluti optime prospexit,
+                    occasionemque tribuit, qua ab hac obsidione liberaretur. Nam <persName>Ibraym
+                        bassa</persName><note type="critic" xml:id="note.4">Ibrahim Pargalı
+                        Pasha.</note> misit ad eum nuntiatum, ut si ad tentorium ipsius ire ac ei
+                    reverentiam facere vellet, salutem ei impetrasset ab imperatore Turcarum
+                    curaretque, ut et oppidum et arx illa daretur et a Turca in haereditatem. Ille
+                    cogitans suorum, qui in arce erant paucitatem, pulverumque bombardicorum et
+                    victualium inopiam, et quod si id non faceret, paulo post invitus cogeretur
+                    cedere Turcae, admisit conditionem, acceptisque litteris ab eo salvi conductus
+                    ac obsidibus, profectus est ad Ibraymum. Quem ille in tentorio humaniter <choice>
+                        <orig>excupiens</orig>
+                        <supplied>excipiens</supplied>
+                    </choice> sibi assidere fecit ac post multa ultro citroque dicta verba, eum
+                    salvum remisit donatum non modo veste purpura, sed nomine
+                        <persName>caesaris</persName> sui ipsa etiam arce et oppido
+                        <placeName>Ginsio</placeName>. Hanc illius historiam volui tibi significare.
+                    Vale.</p>
+                <p xml:id="p.3"><placeName>Bruxellae</placeName> 22. Septembris 1532.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

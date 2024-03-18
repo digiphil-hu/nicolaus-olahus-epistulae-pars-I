@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">414</title>
+                <title key="body" n="414" type="main">Mark Lauwerijns to Miklós Oláh (Bruges, 1
+                    October 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15331001_1</idno>
+                <idno type="ITIdata">Q472986</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15331001_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 417–418.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1426–1429.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">435.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">414</biblScope>
+                    <biblScope unit="page">541–542.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Bruges<idno type="ITIdata">Q470203</idno></placeName>
+                <date when="1533-10-01">1 October 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Mark Lauwerijns<idno type="ITIdata">Q470379</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Mark Lauwerijns to Miklós Oláh (Bruges, 1 October 1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">His sister, Schepper’s wife is torturing him with
+                            questions, i.e. where Schepper is, and if her husband is well, but since
+                            she is not getting answers, she has asked Mark Lauwerijns to write to
+                            Oláh and ask what she can hope for about Schepper. Oláh will free him of
+                            a great burden if he answers, since his sister is starting to become
+                            increasingly anxious as the cold weather approaches.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15331001_1_1.jpg"/>
+                <p xml:id="p.1">Marcus Laurinus <add corresp="Olahus" type="insert">decanus
+                        Antverpiensis</add><note type="critic" xml:id="note.1">In fact, Mark
+                        Lauweijns was <hi rend="italic">decanus Brugensis</hi>, see Ep. 243. Note
+                            10.<ref>olahus.tei.15320726_1</ref></note> Nicolao Olao salutem.</p>
+                <p xml:id="p.2">Mire incipit cruciari mea <persName>soror</persName><note
+                        type="critic" xml:id="note.2">Anna Isabella (Elizabeth) Donche. In fact,
+                        Anna Isabella was not his sister, but his sister-in-law because she was
+                        married first to Pieter Lauwerijns, Mark’s brother, see<hi rend="smallcap">
+                            Luttenberger–Bietenholz</hi> 1987, 219.</note>, domini
+                        <persName>Cornelii Scepperi</persName> uxor, Domine Observandissime. Nec ab
+                    re, utpote quae suspenso animo quotidie suum exspectans maritum nihil de illo
+                    audit, quod eam solari possit. An apud Turcas agat, sitne in itinere, an apud
+                    serenissimum <persName>regem Romanorum</persName>, ac ubicumque sit, an recte
+                    valeat, est illi ignotum. Viriliter nimis pro sexu eiulationes, lacrimas,
+                    mulierumque clamores in pectore abscondit huc usque, suspiria tantum occulte,
+                    gemitusque submisse depromit, cum illi fit mariti mentio. Interrogata praecipue
+                    ab uno atque altero (ex aviditate uniuscuiusque novarum cupidi), quid scripsit
+                    maritus? Quid sperandum est ex tractatu cum Turca etc.? Quod credas, mi Domine
+                    Olae, bono iure hanc torqueri, cum non habeat, quid respondeat. Rogavit itigur
+                    me, ut ad Tuam Dominationem scriberem eandemque oratam haberem, ut dignaretur
+                    nobis significare, quid mea soror
+                        <persName>Cornelii</persName><persName>coniunx</persName> sperare debeat de
+                    suo marito. Hoc facile percipiet, si cognoverit, quid ex postremis suis litteris
+                    serenissimus <persName>rex Romanorum</persName> ad <persName>reginam</persName>
+                    de domino <persName>Cornelio</persName> scripserit. Anne diu sint scriptae, quo
+                    die mense etc. Anne ipse dominus <persName>Cornelius</persName> scripserit,
+                    aliusve illius nomine. Id rogo, ne omittas. Sublevabis profecto meam
+                        <persName>sororem</persName> magno animi angore, quem indies magis atque
+                    magis crescere facit hiemis intemperies, quae praeter pericula itineris
+                    incommoda non modica accersit, omniaque reddit proficiscentibus molestissima.
+                    Ceterum oro, ut nostrae audaciae condones, qui Tuae Dominationi gravare non
+                    erubescimus; submovit pudorem nobis rei tam desideratae necessitas, pro
+                        <persName>sororis</persName> solatio atque nobis cognita tua humanitas, qua <choice>
+                        <orig>omni</orig>
+                        <supplied>omnia</supplied>
+                    </choice> boni consulis omnibusque te reddes promptissimum. Deus optimus maximus
+                    Tuam Dominationem diu servet incolumem! Vale.</p>
+                <p xml:id="p.3"><placeName>Brugis</placeName> Kalendis Octobris 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

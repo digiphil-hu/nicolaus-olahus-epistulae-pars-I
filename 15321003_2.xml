@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">282</title>
+                <title key="body" n="282" type="main">[Miklós Oláh] to [Imre Kálnai] (Brussels, 3
+                    October 1532)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15321003_2</idno>
+                <idno type="ITIdata">Q473016</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15321003_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 253. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">276.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">282</biblScope>
+                    <biblScope unit="page">359–360.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1532-10-03">3 October 1532</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>[Miklós Oláh]<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>[Imre Kálnai]<idno type="ITIdata">Q51566</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">[Miklós Oláh] to [Imre Kálnai] (Brussels, 3 October 1532)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">It has been twenty days since they last received news
+                            about the Emperor. Both him and the Queen are so depressed that they do
+                            not know what to do with themselves. The appearance of the comet has
+                            caused quite a panic, it could be seen for the last four days between
+                            the 4th and 5th hour of the evening; it has scared many people to death,
+                            since it was exactly a year ago after the appearance of the comet that
+                            the mother of King Francis I died. </p>
+                    </body>
+                </floatingText>
+                <pb facs="15321003_2_1.jpg"/>
+                <p xml:id="p.1">[The superscription is missing.]<note type="critic" xml:id="note.1"
+                        >The location in the manuscript suggests that Oláh wrote this letter to
+                        Kálnai.</note></p>
+                <p xml:id="p.2">Mirabile dictu est, a vigesimo fere iam die nihil certi ab
+                    imperatore nostro nos audire potuisse, nec venit aliquis, qui nos certos
+                    redderet de rebus, quas aut nostri aut Turcae agant. Adeo autem et
+                        <persName>regina</persName> et nos omnes hac tam diuturni temporis
+                    taciturnitati non modo confecti, sed quodammodo <choice>
+                        <orig>conservati</orig>
+                        <supplied>consternati</supplied>
+                    </choice> sumus, ut vix sciamus, quid sit agitandum. Multa versamus animo, in
+                    utramque partem plurima cogitamus, quid aut imperatori nostro contingere aut
+                    quomodo Turcis resisti potuisset, sed inter spem metumque sumus animo turbato,
+                    et nihil est, quod non vereamur. Addidit etiam non minimum cumulum nostro timori
+                        cometes<note type="critic" xml:id="note.2">See a contemporary account of the
+                        comet by Peter Apian, <hi rend="italic">Ein kurtzer bericht der Observation
+                            unnd urtels des Jüngst erschinnen Cometen im weinmon und wintermon dises
+                            XXXII. Jars</hi>, Ingolstadt, 1532. </note> hic a quattuor fere iam
+                    diebus continue inter quartam et quintam noctis horam <choice>
+                        <orig>visa</orig>
+                        <supplied>visus</supplied>
+                    </choice>, qui multos ita metu exanimavit, ut etiam illa, quae fortasse non
+                    contingunt, suspicemur. Exemplum a morte
+                        <persName>matris</persName><persName>regis Franciae</persName><note
+                        type="critic" xml:id="note.3">Louise of Savoy died on 22 September
+                        1531.</note> capientes, quae fuerat anno exacto, post cometam<note
+                        type="critic" xml:id="note.4">In 1705, Edmond Halley claimed in his book <hi
+                            rend="italic">(Synopsis of the Astronomy of Comets)</hi> that there is a
+                        comet that returns periodically. According to him, the comet in 1532 was the
+                        return of the 1531 one.</note> hic visum secuta. Quare <quote
+                        xml:id="quote.1">beatus tu esse videris prae omnibus malis, qui procul
+                        es</quote><note type="quote" xml:id="note.quote.1">Cf. Hor.<hi rend="italic"
+                            > Epod. </hi>2,1: “Beatus ille, qui procul negotiis”.</note> ab his
+                    terroribus vale. </p>
+                <p xml:id="p.3"><placeName>Bruxellae</placeName> 3. Octobris 1532. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

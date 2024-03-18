@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">333</title>
+                <title key="body" n="333" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    7 March 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330307_1</idno>
+                <idno type="ITIdata">Q472905</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330307_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 307–315.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1963,
+                        224–232. <hi rend="smallcap">Albu–Capoianu</hi> 1974, 255–264; <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1626–1651.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330208_1" type="url">317</ref>
+                        <ref target="15330218_1" type="url">(324)</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15330402_1" type="url">347</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >449–455.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">333</biblScope>
+                    <biblScope unit="page">423–431.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1533-03-07">7 March 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 7 March
+                    1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. Schepper’s long letter, a sign of his honest
+                            friendship, has made Oláh very happy. He was happy to inform the Queen
+                            about Schepper’s results, it goes without saying. 2. As far as their
+                            affairs are concerned, the Queen has promised to write to her brother
+                            herself, that is best, namely she knows that her brother often forgets
+                            not only about both her and her other brother but also himself among all
+                            the things he has to do, that is why she has sent the letter to
+                            Magyaróvár to remind him. The Hungarians can obey their king
+                            wholeheartedly if he is present. 3. About making a quick peace agreement
+                            he thinks the same as Schepper: it is unlikely to last. He does not
+                            trust the Turks’ kiss because while the Turk is kissing, he will bite
+                            the nose off as well. He lists the cases of the neighboring countries.
+                            He does not think it a good idea to have a third king, especially if he
+                            is young; they already learned during King Louis II’ times that a young
+                            and inexperienced ruler is not good. He is also worried about the
+                            Polish, where the King has had no support since Szydłowiecki’s death. 4.
+                            He does not believe in the alliance to be made with the Wallachians and
+                            Moldavians, since he knows the Romanians. His father also chose to flee
+                            from there lest he be killed by the Romanians, although he could have
+                            been Voivode of Wallachia. His uncle Mihnea, who had been Voivode, chose
+                            to flee to Sibiu, but even there he met with a violent death. The
+                            strength of the Wallachians harms Transylvania more than it helps. 5.
+                            About his own affairs: he thanks Schepper for his help, he knows
+                            Schepper is doing everything he can. The members of the delegation,
+                            Brodarics and Nádasdy, will not object to his possessions being returned
+                            to him. Even if they cannot achieve anything else in Magyaróvár, at
+                            least the ceasefire will be extended by four months. If there is peace
+                            in Hungary, he will not be detained by the glockenspiel or any of the
+                            other good things here, not even the fact that some people have codices
+                            as if he were in Italy; he will return home at last and conduct
+                            conversations with his own. He is as attracted to these as Schepper is
+                            attracted to his wife, they should work on getting back to their own. 6.
+                            He has recommended Schepper to Carondelet, many have attested to his
+                            being an excellent man. Many send their regards. By the time he is
+                            writing this, things will have been decided in Magyaróvár, but he will
+                            still write to him. 7. He reports on where each friend is. Czeglédi is
+                            also with Szalaházy, if he visits Schepper, he should receive him
+                            kindly.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330307_1_1.jpg"/>
+                <p xml:id="p.1">Nicolai Olai ad Cornelium Scepperum responsio.</p>
+                <p xml:id="p.2">[1.] Si longa uterer mei officii commendatione, quod tibi, mi
+                    Cornelii, ob tuum in me amorem nostramque mutuam amicitiam debeo, viderer morem
+                    vulgi servare, qui nonnunquam plura talia scribere, pauciora tamen re ipsa
+                    praestare consuevit, sed his omissis rem aggrediar. Litteras tuas nudiustertius
+                    accepi, quae non solum scriptis in eis rebus fuerunt mihi gratissimae, sed sua
+                    quoque prolixitate,<note type="critic" xml:id="note.1">Schepper’s letter on 8
+                        February is one of the longest in this collection.</note> quae tuum in me
+                    sincerum animum facile declarabat. Quis enim unquam longa apud amicos consuevit
+                    uti epistola, nisi aut res ardua longiorem expetat scriptionem, aut <add
+                        corresp="Olahus" type="insert">quis</add> provocatus aliqua iniuria, cum
+                    iniuriae illatae acerbitatem evomere et cum eo, qui contumeliam intulit,
+                    expostulare velit, aut magna coniunctus alicui familiaritate, ut initam iamdiu
+                    amicitiam et amorem mutuum absens praesertim alere, nutrire et amicus, si non
+                    praesentibus, at litterariis amici collocutionibus se oblectare, amicumque
+                    absentem, praesentem sibi statuere possit? Huius, quem dixi, amoris et amicitiae
+                    mutuae ac iucundae nostrae consuetudinis laetam memoriam scio esse causam tam
+                    amicabilis et fraternae longaeque tuae ad me epistolae; <del corresp="Olahus"
+                        >quas</del><add corresp="Olahus" type="corr">quam</add> quo pluries legi, eo
+                    maiori mihi <del corresp="Olahus">fuerunt</del><add corresp="Olahus" type="corr"
+                        >fuit</add> voluptati. Utinam daretur tibi otium, ut inter eas res, quas
+                    nunc istic magnas certe geris, et quae magnum tibi gloriae conciliabunt, si duos
+                    principes immo plures dissidentes regna et provincias bello iam fere exhaustas
+                    in pacem redegeris, frequenter longiores, quam hae fuerunt, ad me dare posses
+                    litteras. Nihil profecto mihi esset gratius.</p>
+                <p xml:id="p.3">Quod <persName>maiestas reginalis</persName> informata per me
+                    fuerit, quantum praestiteris laboris, curae et diligentiae in rebus fratrum
+                    suorum, agisque ob id mihi gratias, non est, cur magnae mihi a te hoc nomine agi
+                    debeant gratiae. Nam feci et facturus sum etiam deinceps officium boni amici ac
+                    fratris. Et alioqui <persName>maiestas</persName> sua iam olim etiam bene fuit
+                    instructa de tuis virtutibus, fide, constantia et integritate in rebus fratrum
+                    suorum curandis. Nunc quoque acceptis tuis litteris, quantum in me fuit, nihil
+                    praetermisi, quod ad commemorationem tuarum laudum pertinere sum arbitratus. Ac
+                    illa quoque, quae ad me scripsisti in his partibus, quae visa fuerunt
+                    opportunae, maiestati suae communicavi; quae omnia audivit iucundo animo,
+                    nihilque dubitat, quin in rebus primum suis eam praestiturus sis, dum tempus
+                    erit, curam et diligentiam, quam debes.</p>
+                <p xml:id="p.4">[2.] Postremo in meis, quam tuus in me amor et mea erga te obsequia
+                    exposcent, dixit se scripturam ad <persName>regiam maiestatem</persName> cum
+                    aliis suis rebus, solet enim in suis propria manu ad <persName>regem</persName>
+                    scribere, ne notam ardelionis subeas, quamvis litterae proximae, </p>
+                <pb facs="15330307_1_2.jpg"/>
+                <p xml:id="p.5">quibus maiestas sua rerum suarum curam tibi demandavit, abunde
+                    sufficerent ad eam notam longe depellendam. Scit regina fratres principes ob
+                    rerum privatarum multitudinem et magnitudinem aliquando non solum sororis aut
+                    fratrum, sed etiam suorum negotiorum oblivisci posse. Et id fuit causae, quod ad
+                    consiliaros suos Austriacos, quos credo tempore tractatus in
+                        <placeName>Owaro</placeName> constituros, et ad te quoque scripserit, cum
+                    quibus, si illic aderint, loqui poteris. <persName>Regis</persName> in eos
+                    munificentiam, qui non tantum fortasse meruerunt, quantum consecuti sunt
+                    bonorum, omnes mirantur. Nam etsi in principe virtus sit, quam maxima
+                    liberalitate in subditos uti; tamen liberalitatis et modum et rationem observare
+                    et in eos, qui beneficentiam mereantur, liberalem esse, non in immeritos, id
+                    demum magna fuit laudis, satiusque ob eam rem esset maiestatem suam
+                    circumspectius esse liberalem, ut sui liberorumque, quorum indies augetur
+                    numerus, ac bonorum servitorum, qui non verbis, sed factis et vitam et fortunam
+                    pro regiminis sui augmento effundere curavit, maiorem habet rationem. Si enim
+                    fortuna aliquantisper, avertat id Deus, se mutaverit, et frenum aliqui
+                    momorderint maxime caesare in Hispaniis constituto ac aliquid etiam externi
+                    belli vel potius finitimi, de quo tu ad me scribis, et ego etiam aliunde audivi,
+                    motum fuerit: tunc primum maiestas sua, quod longe absit, sentiet, in quos
+                    servitores fuerit munificus, et quos habeat amicos sibi obsequentes. Omnes hi,
+                    quos ad me scribis, finitimi eius potentiam, ne crescat, verentur. Qui etiam
+                    intelligunt, quid caesar aut possit absens, aut velit facere in fratris negotio,
+                    cum opportunitatem hanc, qua facili negotio hostes retundi,
+                        <placeName>Hungaria</placeName> recuperari, Christianitas a periculo ad
+                    multos annos quieta reddi poterat, tam facile praeter omnium exspectationem e
+                    manibus emiserit.</p>
+                <p xml:id="p.6">Adde, quod <placeName>Hungaria</placeName> amore potius et
+                    benevolentia maxime, cum reges in regno illo praesentes semper degere non
+                    possunt, regi consuevit, quam aliqua exacerbatione. Qua scio Hungaros non parum
+                    nunc perturbatos his, quas <del corresp="editor">in</del> ad me scribis ex
+                    causis, militum et capitaneorum scilicet nostrorum insolentia, et consiliariorum
+                    externorum taedio; <add corresp="Olahus?" type="insert">quod</add> a quadriennio
+                    aut fere quinquennio nostri mussitant, et conqueriuntur Hungari. Nam externorum
+                    consiliorum iugum non facile ferrent, nisi eos calamitas, qua pressi sunt, id
+                    ferre cogeret, huius autem rei culpam conferunt non in regem, quem sciunt esse
+                    nostris iuribus ac libertatibus, sicuti in hoc iuramentum etiam praestitit,
+                    clementem et propitium, sed aliis nonnullis, qui principes in contrariam
+                    abducunt sententiam, et quasi cogunt eo tempore, quo illorum eget opera.</p>
+                <p xml:id="p.7">[3.] De pace celeriter conficienda, eadem est mea quoque, quae tua
+                    sententia, conducibile esse arbitror et principibus et regno, si ea cito
+                    conficiatur. Sed quae firma stabilisque esse possit, vix possum cogitare. Si
+                    mentem Turcae cognitam habetis, et de illius consensu huic paci tribuendo certi
+                    estis, fieri quidem aliqua temporaria potest, sed saepe cum </p>
+                <pb facs="15330307_1_3.jpg"/>
+                <p xml:id="p.8">magno suo malo Hungari experti sunt, quam fluxa fuerit et infirma
+                    pacta cum Turco concordia; venisseque apud nostros in proverbium memini: basium
+                    Turcae et amicabile et perniciosum simul esse. Nam dum solet Christianos
+                    basiare, cum osculo demordet et nares. Si utraque pars diviso regno tributum
+                    illi dederit, in magnum Christiani nominis dedecus, fortasse interea spirare
+                    Hungari et finitimae provinciae poterunt, dum illi vel non mutata fuerit
+                    voluntas, quis enim unquam ab illo fidem servatam animadvertit? Vel alter ei
+                    mortuo non successerit, sed mox cum viderit se occasionem habere Hungariam
+                    occupandi, sperasne tu, mi Sceppere, eum hanc negligere? Versatum a puero in
+                    armis ac rei militaris gloria hactenus insignem et militem habentem praedis
+                    continuis iam assuetum? Quae, nisi illi semper sit proposita, iam statim
+                    tumultuatur, et de <persName>caesare</persName> bellicoso creando cogitat, si
+                    vero illi velis resistere, <persName>caesar</persName> nostra causa non
+                    revertetur, arbitror secundo ex Hispaniis, principes imperii, sive ob eorum in
+                    regem nostrum malevolentiam, sive solitam iam ab antiquo tarditatem et
+                    avaritiam, quemadmodum affecti sint ad res Hungaricas defendendas, tu me melius
+                    nosti. Quodsi incendium<note type="critic" xml:id="note.2">Presumably Oláh means
+                        the German Peasants’ War in 1525 which swept through Bavaria and
+                        Württemberg.</note> quoque Bavaricum et sua et
+                        <placeName>Virtembergi</placeName> illius causa excitatum fuerit, liga
+                        Suevica<note type="critic" xml:id="note.3">The Swabian League, which helped
+                        to suppress the Peasants’ Revolt, was disbanded in 1534.</note> prope iam,
+                    ut audio, exspirata. Circumspice, quid etiam ex aliis multis locis, in quibus
+                    nunc multa latent abstrusa, subsequatur, adeo ut verear, ne pax quoque ipsa,
+                    quae fortasse futura <del corresp="Olahus">nunc est</del> tua et aliorum opera
+                        <add corresp="Olahus" type="insert">nunc est</add>, interrumpatur.</p>
+                <p xml:id="p.9">De tertio illo, de quo scribis assumendo, etiamsi id fieret, non
+                    maiorem habeo spem boni alicuius sub illo futuri, quam nunc. Quid enim et quale
+                    sit imperium puerile iamdudum <placeName>Hungaria</placeName> sub serenissimo
+                    olim <persName>Ludovico</persName> rege edocta est, et ita male, ut etiam nunc
+                    ob simile regnum Hungari ad mentum usque natent et crucientur. Prudentes licet,
+                    ut scribis, adhibeantur consiliarii et rerum Hungaricarum experti, difficile
+                    tamen est sub principe parum intelligente consiliaros reperire <del
+                        corresp="Olahus">item</del><add corresp="Olahus" type="corr">tales</add>,
+                    qui non suam potius impune rem curent, quam alienam. Praeterea gravissimum est
+                    etiam viro iam strenuo, aetateque et rerum militarium experientia abunde
+                    praedito duo amplissima vasta et lata regna bene gubernare, nedum puero hae
+                    practicae eo tendunt meo iudicio, ut quisque dum potest, suam potius rem
+                    familiarem augeat, quam publicam curet. Mortuo <persName>Christophoro a
+                        Schidlowietz</persName>,<note type="critic" xml:id="note.4">Krzysztof
+                        Szydłowiecki.</note> cuius prudentia vel potius rerum experientia res
+                        <persName>regis Poloniae</persName> aliquot annis bene administratae
+                    fuerunt, vereor, ne istic quoque omnia consenescant. Omnes, quos enumerans
+                    scribis tibi singulariter esse affectos, sint licet praestantes et insignes
+                    viri; tamen satis, ut mihi videtur, habebunt curarum sub principe iuvene, si
+                    patrem mori contigerit, et si quid flammae excitatum fuerit, regnum suum
+                    privatum vastum, hostibus undique circumventum bene defendere.</p>
+                <p xml:id="p.10">[4.] In Valachis et Moldavis in amicitiam nostrorum et Polonorum
+                    adhibendis non magnum iacio fundamentum. Nescis enim tu Valachorum vaivodarum
+                    quam incerta sit condicio. Memini ego <persName>patrem meum</persName>,<note
+                        type="critic" xml:id="note.5">István or Stojan Oláh. For his family story,
+                        see <hi rend="italic">Hungaria</hi> chapter 12.</note> qui erat ortus ex
+                    sanguine <persName>Drakwla</persName><note type="critic" xml:id="note.6">Vlad
+                        the Impaler or Vlad Dracula (†1476/1477) was Voivode of Wallachia. Oláh
+                        outlines his family tree many times, for example, in <hi rend="italic"
+                            >Hungaria</hi> (1536), and he always tries to connect himself to the
+                        Hunyadis and to Dracula. In fact, he certainly was not related to either of
+                        them.</note> vaivodae </p>
+                <pb facs="15330307_1_4.jpg"/>
+                <p xml:id="p.11">Valachiae, mihi aliquando narrasse, se maluisse in
+                        <placeName>Transsilvania</placeName>, quo ex <placeName>Valachia</placeName>
+                    tempore <persName>Mathiae regis</persName>, ne per ipsum
+                        <persName>Draculam</persName> ob regnum trucidari posset, confugerat,
+                    mediocri fortuna esse contentum, quam ampla in patria sua dignitate. Quem
+                        <persName>Mathias rex</persName> saepe monuerat, ut si vellet, ad vaivodatum
+                    Transalpinum cum exercitu remitteret, sed quid illi responderit, non ob
+                    pusillanimitatem, aut timiditatem, sed quod maluerit ad senectam usque in pace
+                    privatus vivere, quam in magistratu ad annum (solent enim vaivodae Valachii eos,
+                    qui sunt ex vaivodarum sanguine, ob imperium trucidare), sciunt multi. Audivit
+                    etiam aliquando, si bene recordor, <persName>Thomas Nadasdy</persName> a
+                        <persName>Ioanne Bornamissa</persName><note type="critic" xml:id="note.7"
+                        >János Bornemissza (†1527) was <hi rend="italic">ispán</hi> of Pozsony
+                        county and Royal Chamberlain. He also was <hi rend="italic">praeceptor</hi>
+                        of King Louis II, and after Mohács he remained loyal to the
+                        Habsburgs.</note> mortuo <persName>regis Mathiae</persName> consiliario, a
+                    quo, si tecum aliquando constituetur, interrogare poteris. Hoc ideo inserui
+                    privatum exemplum, ut partim ridere possis, me longe huc, ubi nunc sum,
+                    aberravisse a patria mea paterna, partim, ut scias, Valacicum imperium et
+                    societatem non esse durabilem. Nam solus
+                        <placeName>Danubius</placeName><placeName>Transalpinam</placeName> a Turcia
+                    dividit, quem Turcae dum eis placuerit, praesertim occupatis iam arcibus
+                    Hungaricis illi vicinis, traiicere possunt, et <persName>vaivodam</persName> aut
+                    interficere aut expellere. Quod si Turci non faciunt, faciunt soli plerumque
+                    Valachi subditi etiam levibus affecti contumeliis.</p>
+                <p xml:id="p.12">Quemadmodum id fuerat expertus, <persName>Myhne</persName><note
+                        type="critic" xml:id="note.8">Mihnea cel Rau (1462–1510) was Voivode of
+                        Wallachia; according to Nagy, he was an illegitimate son of Vlad Dracula,
+                        see <hi rend="smallcap">Nagy</hi> 2012, 20–22. Oláh in his will names Mihnea
+                        as his uncle.</note> vaivoda Transalpinus patris mei, si bene memini,
+                    patruus, non multo ante mortem <persName>regis Vladislai</persName>,<note
+                        type="critic" xml:id="note.9">King Vladislaus II died in 1516.</note> patris
+                        <persName>Ludovici</persName>, qui post multa proelia cum Turcis et subditis
+                    suis in defensionem capitis sui commissa transfugerat
+                        <placeName>Cibinium</placeName><note type="critic" xml:id="note.10"
+                        >Sibiu.</note> civitatem <placeName>Transilvaniae</placeName>, ubi quoque
+                    practicas Valachorum evitare non potuit. Nam quidam
+                        <persName>Iaxisth</persName><note type="critic" xml:id="note.11">Dmitar
+                        Jakšić (†1510), not to be confused with the famous knight of King Mathias I
+                        of the same name.</note> eum comitatum a patre meo et aliis nobilibus a <choice>
+                        <orig>sacris</orig>
+                        <supplied>sacro</supplied>
+                    </choice> ad hospitium ex insidiis adortus inter magnam ipsius
+                        <persName>Myhne</persName> multitudinem transfodit; tanta erat temeritate et
+                    rabie <choice>
+                        <orig>percitus</orig>
+                        <supplied>peritus</supplied>
+                    </choice>, quamvis et ipse fuit postea in hospitio suo, quo confugerat
+                    interfectus. Quare Valachorum vires nocere quidem
+                        <placeName>Transsilvaniae</placeName>, dum illa propugnatore vacua est,
+                    possunt, sed <placeName>Hungariae</placeName> defensioni non valde prodesse.
+                    Mallem igitur hunc eundem regem nostrum, si quomodo fieri posset, permanere
+                        <persName>regem</persName> Hungariae, sed is quoque, quam bene illam absens,
+                    cum tam latam habeat administrationem, gubernare et defendere possit, nescio.
+                    Externorum consilio et magistratibus nunquam certe quiete gubernabit, si ego
+                    bene mores et naturas nostratium cognovi. Si is esse non potest, vellem virum
+                    strenuum, qui in <placeName>Hungaria</placeName> praesens semper esset. Nam
+                    absentiam <persName>regis</persName> vix <placeName>Hungaria</placeName> pati
+                    potest. Haec de rebus publicis, ut chartam implerem, postquam longiores vis
+                    habere litteras.</p>
+                <p xml:id="p.13">[5.] Nunc venio ad meas privatas, de quibus non video esse
+                    necessitatem, cur multa scribam, nisi velim adhuc has litteras extensiores
+                    facere. Nuper enim satis multa de his scripsi, et eam esse verae amicitiae legem
+                    scio, ut non patiatur amicos multis commonefacere de his, quae ad amicorum
+                    spectant aut honorem aut utilitatem. Is modus in rebus ipsis meis agendi, quem
+                    litteris tuis <del corresp="Olahus">praeservisti</del><add corresp="Olahus"
+                        type="corr">praefinisti</add>, maxime mihi placet. Quantum tibi
+                        <persName>rex</persName> et <persName>regina Polonia</persName>e tribuant
+                    pro tuis in ipsis meritis, quem etiam dominorum procerum
+                        <placeName>Poloniae</placeName> habeas favorem,<note type="critic"
+                        xml:id="note.12">See Ep. 317. Cap. 4.<ref>olahus.tei.15330208_1</ref></note>
+                    quam familiaritatem, iampridem etiam ex aliis cognovi. </p>
+                <pb facs="15330307_1_5.jpg"/>
+                <p xml:id="p.14">Si una non satis <add corresp="Olahus" type="insert">est</add>
+                    secura, alia via tentanda est, ut voto potiamur. Ago apud te rem meam tanta
+                    fiducia, quam apud me inductus tua humanitate et amicis complacendi studio
+                    tuaque oblatione. Nam si id non facerem, crederem me tibi facere iniuriam, ut
+                    ego sum in dominos et amicos meos animo sincero et aperto, ita etiam quos novi
+                    veros meos, de illis iudico, ac non secus facturos existimo in meis rebus, quam
+                    ego facturus essem in eorum, si quando casus incideret. Quare fac, uti
+                    decrevisti, mihique te facturum scribis. Non in ingratum amicum <del
+                        corresp="Olahus">et servitorem</del> conferes, quaecumque contuleris
+                    beneficia. Cuperem iam tandem post tot peregrinationes, damna et incommoda
+                    patriam revisere, si in pace meisque rebus salvis fieri liceret. Quod tu facere,
+                    ut spero, poteris, si illis curam, uti non dubito, adhibueris.</p>
+                <p xml:id="p.15">Commisarii quoque partis adversae, si ex eorum numero
+                        <persName>Brodericus</persName> est et <persName>Thomas Nadasdi</persName>,
+                    non credo multum adversabuntur meis rebus, cum quibus, antequam haec inter nos
+                    diversarum partium secta orta fuisset, intima usus sum familiaritate, et ea, qua
+                    maior excepto sanguinis vinculo vix fiere potuit; quam postea studium diversum
+                    et uniuscuiusque opinio, fides et integritas discidit. Nostri etiam regis
+                    commissarii Hungari, si non mutarint animum locorum intervallo, fuerunt semper
+                    mihi faventes. Quodsi accesserit regis mandatum, <persName>caesaris</persName>
+                    per te authoritas, credo res meas tua opera confectum iri. Si nihil aliud
+                    finiveritis in <placeName>Owaro</placeName>, saltem hoc arbitror facietis, ut
+                    induciae quadrimestres prorogentur, et summa tractandae concludendaeque pacis
+                    reiicietur ad <persName>regem Poloniae</persName>.<note type="critic"
+                        xml:id="note.13">Sigismund I the Old.</note> Quodsi fiet, iam principum tibi
+                    faventium opera, res meas in tutum locare restituereque poteris, praesertim si
+                        <persName>regiae</persName> et <persName>reginalis maiestatis</persName> aut
+                    si fas erit, etiam caesaris, cum ille velit, quod hi duo in re iusta volunt,
+                    voluntatem eam esse illius significaris, ut mea mihi beneficia et bona
+                    reserventur reddanturque, hoc modo me liberabis ab exilio, et reddes tibi
+                    devinctum obligatumque. Hic quidquid ego in honorem, statum et commoditatem tuam
+                    facere potero, tam libenter faciam, quam pro me facerem, voluntas nunquam
+                    deerit, modo non desit aut modus aut facultas. Et, mi Domine, pro tua, quam in
+                    me absentem ostendisti ostensurusque es, humanitate Olaum hunc eum perpetuo
+                    reperies, qualem tu voles, sicuti dominus <persName>Xanthus</persName><note
+                        type="critic" xml:id="note.14">Gabriel Sanchez.</note> tecum est locutus. Si
+                    pacata <placeName>Hungaria</placeName> rebusque meis salvis fieri poterit, non
+                    me hic detinebunt <del corresp="Olahus">campanulatis</del><add corresp="Olahus"
+                        type="corr">campanularum</add> vestrarum <choice>
+                        <orig>artificiosis sonis</orig>
+                        <supplied>artificiosi sonus</supplied>
+                    </choice>, non caminorum etsi sanae tamen fuliginosae deliciae, non
+                    muliercularum blanditiae, libertas sola et doctorum virorum conversatio me
+                    quodammodo irritat, at libertas magna erit mihi in patria homini non admodum
+                    ambitioso, sed paucis contento, non deerunt istic etiam si non tam multi, quam
+                    hic ac non pauci viri, et plures his docti codices, quorum conversatio et
+                    tractacio me perinde delectabit ac <choice>
+                        <orig>se</orig>
+                        <supplied>si</supplied>
+                    </choice> in media essem Italia, praesertim cum non defuturos arbitror in patria
+                    abundantem commeatum omnis generis copiam, vinorum diversorum nobilitatem,
+                    amicorum veterum redintegrandae confabulationis. Ut hae me revocare videntur
+                    rebus pacatis et salvis, ita te uxor, liberi, patria revocant; quibus plus
+                    debes, ut </p>
+                <pb facs="15330307_1_6.jpg"/>
+                <p xml:id="p.16">tute vere scribis, quam omnibus mortalium. Cura igitur, ut uterque
+                    redeamus in patriam ego in <placeName>Hungariam</placeName>, tu in
+                        <placeName>Flandriam</placeName>. Oceanus etsi ferox hisce annis fuit
+                        <placeName>Flandris</placeName>, <placeName>Zelandis</placeName> et suis
+                    aliis vicinis, verendumque est, ne in annos posteriores crudelior fiat. Tamen
+                    tantum iecisti tuarum rerum ubique fundamentum, ut vivendi honestam propter tuas
+                    animi dotes, ubique locorum modo per bella liceat, parvo negotio consequi possis
+                    conditionem.</p>
+                <p xml:id="p.17">[6.] <persName>Domino Panormitano</persName>,<note type="critic"
+                        xml:id="note.15">Jean II Carondelet.</note> apud quem saepe velim nolim
+                    propter humanam ipsius frequentemque invitationem prandeo ac coenito, te
+                    commendavi, et eam feci mentionem facioque honorificam, quam tua virtus exigit.
+                    Dixit et hodie se tuum bonum amicum fore, ubicumque opus fuerit. Cui in tuum
+                    honorem quid responderim, et qualia de te praedicarim, <persName>cancellarius
+                        Brabantiae frater</persName><note type="critic" xml:id="note.16">Probably
+                        Matthias Lauwerijns, see <hi rend="smallcap">IJsewijn</hi> 1986b.</note>
+                    domini <persName>decani Brugensis</persName>,<note type="critic"
+                        xml:id="note.17">Mark Lauwerijns.</note> quem in eo saltem prandio cognovi,
+                    et alii praestantes viri, qui una casu prandebant, testes esse poterunt. Domina
+                    quoque <persName>magistra curiae comes de Salm</persName><note type="critic"
+                        xml:id="note.18">Elisabeth, Countess of Salm was Seneschal in the Court of
+                        Queen Mary in Hungary, and later she accompanied her to the Netherlands, see
+                            <hi rend="smallcap">Réthelyi</hi> 2007, 1999–2000.</note> Alemana te
+                    salutat, omniaque prospera tibi precatur. Litteras tuas ad ipsum dominum
+                        <persName>decanum</persName> et ad dominam <persName>coniugem</persName>
+                    tuam amantissimam eo statim die, quo mihi fuerunt cum aliis redditae per fidum
+                    hominem misi. Ad quos scripsi, ut si quae res inciderit, in qua in absentia tua
+                    eis inservire possim, mihi libere significent. Non patiar, quantum in me erit
+                    possumque ac valeo, meam ab eis operam desiderari similiter et litteras semper
+                    ad me mittant, quas ad te recte perferendas voluerint. Credo id eos facturos.
+                    Antequam hae litterae meae ad te perveniant, etsi sciam iam in
+                        <placeName>Owaro</placeName> rem transactam, et te omnia fecisse in re mea,
+                    quae debuisti, tamen ne putares me esse negligentem et non accepisse tuas
+                    litteras, volui nihilominus has ad te rescribere. De rebus novis mihi
+                    significatis et de tam amicabili sinceraque omnium rerum mecum communicatione
+                    ago tibi immensas gratias. Rogo Dominationem Tuam Magnificam, velis etiam
+                    imposterum hoc idem facere, ut aliquid habere possimus consolationis. Illa sola
+                    vera putamus, quae a te habemus et habebimus. Nam alia multa ad reginam et ad me
+                    et ad alios scribuntur, quae plerumque aliter paulo post acta esse
+                    reperiuntur.</p>
+                <p xml:id="p.18">[7.] Hic nova sunt nulla. Financia <persName>caesaris</persName>
+                    laborare videtur, quae calet concione frequenti, adeo ut regina quoque cum eius
+                    una laboret. Dominus <persName>marchio de Naskoth</persName> aut potius
+                        <persName>dux de Sora</persName><note type="critic" xml:id="note.19"
+                        >Philippe II de Croÿ (1496–1549) was Lord of Chateau-Porcéan, Prince of
+                        Chimay, Duke of Aerschot, and he was appointed to Grand Bailiff of Hainaut.
+                        He was also a member of the order of the Golden Fleece from 1516. See more
+                            <hi rend="smallcap">Moreau</hi> 1985b and <hi rend="smallcap">Gorter-van
+                            Royen</hi> 2009, passim.</note>, profectus est ante decimum diem ad
+                        <persName>caesarem</persName>, tum iussu <persName>reginae</persName>, tum
+                    privatorum suorum negotiorum gratia, audio enim eum turbari coeptum esse in
+                    ducatu suo <placeName>Neopolitano</placeName>. <persName>Dominus de Byren
+                        Bewert</persName>,<note type="critic" xml:id="note.20">Adolphe de Bourgogne
+                        de Beveren (1489–1540) was Lord of Veere, Admiral of the Netherlands, and
+                        Knight of the Golden Fleece. <hi rend="italic">Bewert</hi> is probably a
+                        misspelling of “de Veere”, see <hi rend="smallcap">Gorter-van Royen</hi>
+                        2009, passim.</note><persName>Hostrath</persName><note type="critic"
+                        xml:id="note.21">Antoine I de Lalaing (1480–1540) was the first Count of
+                        Hoogstraten and Culembourg, and Governor of Mechelen, see <hi
+                            rend="smallcap">Stratenwerth</hi> 1986.</note> et alii praesentes sunt.
+                        <persName>Bergis</persName><note type="critic" xml:id="note.22">John Lord of
+                        Berghes.</note> abest <placeName>Leodiensis</placeName>,<note type="critic"
+                        xml:id="note.23">Probably Liège.</note> ab abito
+                        <persName>caesaris</persName> nunquam in curiam venit.
+                        <persName>Sempy</persName><note type="critic" xml:id="note.24">Antoine de
+                        Croÿ.</note> missus est in <placeName>Flandriam</placeName> ad perlustranda
+                    loca, quae oceano consumpta fuere. Post eius reditum, quem puto ad
+                    quartumdecimum vel circiter adfuturum, arbitror reginam quoque ea loca
+                    perlustraturam.</p>
+                <p xml:id="p.19">Ex <placeName>Gallia</placeName> et <placeName>Anglia</placeName>
+                    nihil certi audimus. Alere in praecordiis nescio quid latentis dicuntur
+                    moliminis. <persName>Orator caesaris de Liquerka</persName><note type="critic"
+                        xml:id="note.25">Jean Hannart or Jehan Hannaert van Liedekerke (†1539),
+                        after serving King Maximilian I and Archduchess Margaret of Austria, he was
+                        a loyal officer of Emperor Charles V. In 1532, he served as Emperor Charles
+                        V’s legate to France, see <hi rend="smallcap">Lunitz</hi> 1987, 8, and <hi
+                            rend="smallcap">Piot</hi> 1884–1885. On his earlier Hungarian contacts,
+                        see <hi rend="smallcap">Lakatos</hi> 2016, passim.</note> est adhuc apud
+                        <persName>regem Galliae</persName>.<note type="critic" xml:id="note.26">King
+                        Frances I.</note> Habeo istic apud dominum reverendissimum
+                        <persName>Agriensem</persName><note type="critic" xml:id="note.27">Tamás
+                        Szalaházy.</note> presbyterum <persName>Ioannem Cegledinum</persName>,<note
+                        type="critic" xml:id="note.28">János Czeglédi.</note> qui rebus meis salvis
+                    provisor custodiae meae erat. Si </p>
+                <pb facs="15330307_1_7.jpg"/>
+                <p xml:id="p.20">venerit ad Dominationem Tuam Magnificam, ut eum id facere iussi,
+                    rogo, habere velit commendatum. Is exsequi res meas debebit, si quid deliberatum
+                    in eis istic fuerit.</p>
+                <p xml:id="p.21">Vale feliciter et ubicumque locorum sis, fac rogo mei memineris,
+                    tui ex corde amici et inservitoris.</p>
+                <p xml:id="p.22"><placeName>Bruxellae</placeName> 7. Martii 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">383</title>
+                <title key="body" n="383" type="main">Cornelis de Schepper to Miklós Oláh
+                    (Constantinople, 8 July 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330708_1</idno>
+                <idno type="ITIdata">Q472955</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330708_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 385.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu
+                        </hi>1974, 282–283; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1690–1695.</p>
+                </note>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15330806_1" type="url">389</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">483.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">383</biblScope>
+                    <biblScope unit="page">504–505.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Constantinople<idno type="ITIdata">Q17048</idno></placeName>
+                <date when="1533-07-08">8 July 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Constantinople, 8 July
+                    1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">Peace was made on 23 June. They had breakfast with three
+                            Pashas in the Sultan’s palace, then they negotiated with the Sultan for
+                            almost three hours. The Sultan will return all the estates to the Queen
+                            that were part of her dowry, with regard to this he sent Gritti to
+                            Hungary to instruct King John I. When he arrived to Constantinople,
+                            everything was confusing, they did not have faith in peace. Dubrovnik is
+                            devastated by the plague, while in Hungary thieves are marauding, so
+                            they are headed towards Bosnia.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330708_1_1.jpg"/>
+                <p xml:id="p.1">Idem Nicolao Olao suo salutem.</p>
+                <p xml:id="p.2">Reverende et Excellens Domine et Amice Honorande! Post ultimas meas
+                    de data secunda huius per <placeName>Hungariam</placeName> missas<note
+                        type="critic" xml:id="note.1">This letter is not extant.</note> nihil novi
+                    occurrit scriptu dignum. Scripsi autem tunc et ad serenissimam
+                        <persName>maiestatem reginalem</persName> et ad Dominationem Vestram nos
+                    conclusisse bonam firmam et perpetuam pacem<note type="critic" xml:id="note.2"
+                        >See Ep. 378.<ref>olahus.tei.15330620_1</ref></note> cum potentissimo
+                        <persName>caesare Turcarum</persName> ex parte <persName>regiae
+                        maiestatis</persName> Romanorum, Hungariae etc. Idque a nobis factum est
+                    XXIII. Iunii praeteriti, quo die pransi sumus in palatio magni caesaris cum
+                    tribus bassis, <persName>Imbrahimo</persName>,<note type="critic"
+                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> penes quem summa est rerum,
+                        <persName>Aiam</persName><note type="critic" xml:id="note.4">Ayas Mehmed
+                        Pasha (1483–1539).</note> et <persName>Cassum</persName>,<note type="critic"
+                        xml:id="note.5">Güzelce Kasım Pasha (†1532) participated in the battle of
+                        Mohács and the siege of Vienna in 1529. He also participated in the siege of
+                        Kőszeg in 1532 and broke into Lower Austria, causing substantial damage, see
+                            <hi rend="smallcap">Bessenyei</hi> 1994, XVI, and <hi rend="smallcap"
+                            >Babinger</hi> 1993, 799.</note> posteaque cum ipso potentissimo caesare
+                    tractavimus eodem die horis tribus fere. Scripsi praeterea eundem potentissimum
+                    caesarem dono dedisse serenissimae <persName>reginali maiestati</persName> dotem
+                    suam et bona omnia, quae habuit in regno <placeName>Hungariae</placeName>, et ob
+                    id missurum dominum <persName>Aloisium Griti</persName><note type="critic"
+                        xml:id="note.6">Ludovico Gritti.</note> in <placeName>Hungariam</placeName>,
+                    qui iubeat <persName>Ioanni</persName> vaivodae ea, uti bona restituat. Reliqua
+                    neque tunc, neque nunc scribo. Id scito bonam, honestam et dignam pacem nos
+                    confecisse. Cum pervenissem <placeName>Constantinopolim</placeName>, omnia erant
+                    confusa. Nihil enim, nisi verba quaedam erant data, plurimique suadebant, ne
+                    quomodo pax fieret, sed modus agendi noster praevaluit ita volente Deo. Ego tibi
+                        <persName>uxorem</persName> carissimam cum filio meo et familia commendo. Tu
+                    illam absentem consolare. Serenissimae <persName>reginali maiestati</persName>
+                    me humillime commenda, illustribus autem dominis et reverendissimo
+                        <persName>domino Panormitano</persName><note type="critic" xml:id="note.7"
+                        >Jean II Carondelet.</note> servitia mea offer. Ne mirere me in scribendo
+                    brevem esse, quia nescio, an hae sint istuc perventurae. Pestis grassatur
+                        <placeName>Rhagusii</placeName>.<note type="critic" xml:id="note.8"
+                        >Dubrovnik. Schepper mentioned on the way to Istanbul that there is a plague
+                        epidemic in Dubrovnik, see Ep. 363.<ref>olahus.tei.15330506_1</ref></note>
+                    In <placeName>Hungaria</placeName> latrones more suo saeviunt et per alterutram
+                    provinciam litterae hae mitti debent. Nos iter per
+                        <placeName>Boszinam</placeName> sumus facturi usque in
+                        <placeName>Liburniam</placeName>. Tu autem, mi Nicolae, quam rectissime
+                    vale. Scribe ad meos, ad quos ob quaedam scribere non possum.</p>
+                <p xml:id="p.3">Ex <placeName>Constantinopoli</placeName> die VIII. Iulii 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

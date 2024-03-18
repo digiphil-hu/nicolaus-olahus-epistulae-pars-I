@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">346</title>
+                <title key="body" n="346" type="main">Miklós Oláh to Erasmus of Rotterdam (Brussels,
+                    29 March 1533)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital critical edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>editor in chief</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
+                </publisher>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="PID">olahus.tei.15330329_1</idno>
+                <idno type="ITIdata">Q472918</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15330329_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/I.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.</p>
+                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 328–330; <hi
+                        rend="smallcap">Allen</hi> 1941, 184–187.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        657–659.</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1963,
+                        176–179; <hi rend="smallcap">Albu–Capoianu</hi> 1974, 121–124; <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1338–1347. </p>
+                    <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap">Škoviera</hi> 2008,
+                        102–105.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="15330207_1" type="url">316</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="15330419_1" type="url">354</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108, Rep. 71, Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >342–344.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars I. 1523–1533</title>
+                    <idno type="ISBN">978-615-5478-62-8</idno>
+                    <idno type="url">https://www.reciti.hu/2019/4989</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2018">2018</date>
+                    <biblScope unit="entry">346</biblScope>
+                    <biblScope unit="page">446–448.</biblScope>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.10817873</idno><idno
+                        type="ITIdata">Q469927</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">latin</language>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                <date when="1533-03-29">29 March 1533</date>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d.1">
+                <head type="title">Miklós Oláh to Erasmus of Rotterdam (Brussels, 29 March
+                    1533)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p xml:id="reg.p.1">1. It was rumored that Erasmus wanted to go to Besançon,
+                            but then Erasmus’ letter arrived saying that he wanted to come here, but
+                            that Oláh should not mention it to either Jespersen or anybody else. He
+                            is happy to hear the news, and he is not telling anybody beside the
+                            Queen, Carondelet, and Lange, through whom the correspondence is
+                            conducted, but they will remain silent. Then Erasmus also wrote that he
+                            is going to visit Conrad Wackers, with whom he was together today, and
+                            in the end they talked about this. 2. The Queen has great benevolence
+                            towards Erasmus and is expecting him home. For his part, Oláh is doing
+                            everything he can for the cause, so he told the Queen that Erasmus would
+                            be more relaxed to embark on the journey if he was assured of the
+                            payment of his rental fee. 3. The Queen also understands that he wants
+                            to avoid the inconveniences of the Court. Now they only need him to wait
+                            patiently and calmly. He is sending his letter to Wackers together with
+                            his own letter, and he is forwarding Carondelet’s letter to him.</p>
+                    </body>
+                </floatingText>
+                <pb facs="15330329_1_1.jpg"/>
+                <p xml:id="p.1">Nicolai Olai ad Erasmum Roterodamum responsio.</p>
+                <p xml:id="p.2">[1.] Nuper dederam meas vicario <persName>domini
+                        Panormitani</persName>,<note type="critic" xml:id="note.1">Jean II
+                        Carondelet.</note> qui est <placeName>Bizontii</placeName>,<note
+                        type="critic" xml:id="note.2">Besançon.</note> ad te litteras, ex quibus
+                    intellexisse potuisti nos propter diuturnam tuam taciturnitatem <del
+                        corresp="Olahus">de</del><del corresp="Olahus">tuo</del><add
+                        corresp="Olahus" type="corr">tuum</add> huc <del corresp="Olahus"
+                        >reditu</del><add corresp="Olahus" type="corr">reditum</add> paene
+                    desperavisse. Non dubia enim hic fama<note type="critic" xml:id="note.3">On the
+                        rumor, see <hi rend="smallcap">Allen</hi> 1941, 184.</note> de tua
+                        <placeName>Bizontium</placeName> migratione circumferebatur, mirabamurque
+                    tam subitam animi tui mutationem. Cum autem in hac essemus dubitatione,
+                    recrearunt nos tuae litterae, quae ad me, nescio quo nuntio, his diebus ex
+                        <placeName>Anthwerpia</placeName> sunt perlatae, quibus significas mihi,
+                    Amice, tuam voluntatem ad nos revertendi, praescribisque modum, quibus viis id
+                    facere velis, et mones me, Amice, ne haec tua voluntas non modo
+                        <persName>Dano</persName>,<note type="critic" xml:id="note.4">Jakob
+                        Jespersen.</note> sed etiam aliis sit nota. Ego, mi Erasme Doctissime,
+                    gratulor tibi et mihi gaudeo. Mihi, cui dabitur facultas tui hic videndi, tibi,
+                    qui patriam non parum sis tua illustraturus praesentia, amicosque tuos tui
+                    nominis, honoris et gloriae observantes laetitia affecturus. Ut praescripsisti,
+                    rem tuam securius, quo fieri potuit, egi diligenter, quam a me nemo intellexit
+                    alius quam <persName>regina</persName>, <persName>Panormitanus</persName>,
+                        <persName>Langius</persName><note type="critic" xml:id="note.5">John de
+                        Lange.</note> ipsius a secretis, sine quo litterae, ut cogitare potes,
+                    confici non potuerunt. Et hi quoque admoniti a me omnes diligenter ut essent
+                    taciti. Praeterea tu ipse feceras litteris<note type="critic" xml:id="note.6"
+                        >This letter is no longer extant.</note> mentionem tui reditus
+                        <persName>Conrado nostro Goclenio</persName>,<note type="critic"
+                        xml:id="note.7">Conrad Wackers.</note> qui et <placeName>Lovanii</placeName>
+                    his diebus et hodie hic mecum fuit. Is, quem semper cognovi tui amantissimum,
+                    sua sponte <choice>
+                        <orig>feci</orig>
+                        <supplied>fecit</supplied>
+                    </choice> de te mentionem. Ego aliquot diebus rem dissimulavi, postea heri cum
+                    iam ad te rescribere vellem, tuum animum mihi indicatum ei tam meo, quam tuo
+                    singulari fidoque amico, aperui, et retuli, praemonito tamen, ut taceret, quae
+                    in rebus tuis fecerim. Haec igitur te prius intellexisse volui, quam ad reliqua
+                    procederem.</p>
+                <p xml:id="p.3">[2] Apud <persName>reginam</persName> ea fide, cura et amore tuam
+                    rem tractavi, quam tibi debui, et quam in meis propriis praestitissem.
+                        <persName>Regina</persName>, ut tibi antea scripsi, non vulgari afficitur in
+                    te pietate et benevolentia, tum quod tuae virtutes id illustres ab ea exposcant,
+                    tum quod inter alios me quoque non infimum semper apud eam habueris, et
+                    imposterum </p>
+                <pb facs="15330329_1_2.jpg"/>
+                <p xml:id="p.4">quoque habebis, dum opportunitas erit, tuarum laudum praeconem, quae
+                    et optat et plurimum desiderat tuum reditum, sed quia et antea facta fuerat apud
+                    imperatorem hic tunc praesentem nonnulla de te mentio, non putavit esse
+                    consultum, ut te revocaret, antequam insinuari curaret illi te posse fortasse
+                    induci, ut revertereris, si ipsius esset voluntas. Id autem existima me monente
+                    esse factum, non magis imperatoris, quam tuorum privatorum commodorum, quietis
+                    securitatis et tranquillitatis causa. Nam ut apertius tecum agam, etsi tu non
+                    videbaris tam late mihi praescribere, quae ad reditum tuum pertinere videbantur,
+                    praeter litteras et viaticum aliquod honestum, tamen ego cum iam pro parte
+                    aliqua hominum et vestratium et nostratium noverim mores, acceptis tuis litteris
+                    et promotis apud <persName>reginam</persName> tuis rebus, arbitratus sum amici
+                    veri esse officium, amicorum negotia ita providere et curare et perficere, ne
+                    postea posset in eis aliquid aut insecuri aut damni contingere. Quare reginae
+                    proposui ex me ipso tuam revocationem et honestiorem et commodiorem fore, si
+                    esses certus de securitate, de praeterita et futura caesaris pensione
+                    exsolvenda. Nam non putes hic quoque omnia affluere.</p>
+                <p xml:id="p.5">[3.] De honesta vocatione, de vitanda aulae et curialium molestia,
+                    et de aliis, quae mihi videbantur in rem tuam pertinere, utiliaque honesta et
+                    tibi quieta esse, haec omnia visa sunt et reginae summopereque placuerunt. Quae
+                    cupit te esse et securum et quietem. Verum ut dixi pro tuo et honestiore et
+                    securiore reditu, voluit ex causa praemissa, ne ignorante caesare revocaveris.
+                    Hoc autem oneris demandavit <persName>domino Panormitano</persName>, qui tibi
+                    nisi sit, ut scribis, χρηστολόγος,<note type="critic" xml:id="note.8">‘with
+                        eloquence’, see Ep. 316. Note 3.<ref>olahus.tei.15330207_1</ref></note>
+                    vehementer tibi favet. Qui quidem scripsit ad
+                        <persName>Granvellanum</persName>,<note type="critic" xml:id="note.9">Frans
+                        van Cranevelt of Nijmegen (1485–1564) studied arts and law at the
+                        universities of Cologne and Leuven. In 1515, he became pensionary of Bruges.
+                        Despite his political and administrative duties, he actively corresponded
+                        with contemporary scholars. On the death of Erasmus, he composed several
+                        epitaphs, e.g. see <hi rend="smallcap">Ipolyi</hi> 1875, 581. For more on
+                        his life, see <hi rend="smallcap">Leijenhorst</hi> 1985b.</note> nunc munia
+                    cancellarii apud <persName>caesarem</persName> cum alium non habeat obeuntem,
+                    non ut significarit te id velle, sed quod pertrahi bonis fortasse posses
+                    conditionibus ad revertendum, si ea <persName>caesaris</persName> esset voluntas
+                    et propterea ea de re apud <persName>caesarem</persName> ageret, hic enim
+                    praetextus scribendi argumentum visum est mihi tibi esse honorificentius. Eas
+                    litteras hodie per veredarium misimus. Quia autem scis adeo multa tractari
+                    negotia in aulis principum, ut aliquando negotia negligantur, et cum
+                        <persName>Nicolaum</persName><note type="critic" xml:id="note.10">Nicolaas
+                        Everaerts or Nicolaus Grudius of Leuven (1503/1504–1570/1571) studied at The
+                        Hague and at Leuven. In 1532, he was named Secretary to Emperor Charles V.
+                        In 1535, he was appointed Councillor in the council of Holland at The Hague.
+                        More to his life, see <hi rend="smallcap">Leijenhorst</hi> 1986a.</note>
+                    filium praefecti Mecliniensis successorem <persName>Valdesii</persName><note
+                        type="critic" xml:id="note.11">Oláh styled Nicolaas Everaerts as successor
+                        of Alfonso de Valdés, although he did not die until October 1532, see <hi
+                            rend="smallcap">Leijenhorst</hi> 1986a, 139.</note> cognoverim mihi esse
+                    amicissimum et tui etiam honoris et nominis observantissimum feci, ut
+                        <persName>dominus Panormitanus</persName> huius rei apud
+                        <persName>Granvellanum</persName> sollicitationem </p>
+                <pb facs="15330329_1_3.jpg"/>
+                <p xml:id="p.6">illi committeret. Ad quem ego quoque scripsi, ut id negotii et
+                    diligenter et celeriter et secrete ageret, responsumque remitteret. Credo eum id
+                    esse facturum. Opus igitur est te habere parumper patientiam et animo esse
+                    quieto, ut honestius et tutius Deo volente redeas, si rem videbo longius nostra
+                    opinione produci. Curabo, ut et <persName>Granvellanus</persName> et
+                        <persName>Nicolaus</persName> de ea rursus admoneantur.</p>
+                <p xml:id="p.7">Intelligis omnem tuarum rerum statum, quem si putassem agi posse
+                    melius et tuo honori statui et securitati convenientius, nihil fecissem
+                    libentius. Cum primum aliquid habebimus responsi, mox te faciam certiorem.
+                        <persName>Goclenii</persName> nostri litteras, qui duobus iam diebus causam
+                        canonicatus<note type="critic" xml:id="note.12">See <hi rend="smallcap"
+                            >Allen</hi> 1941, 186.</note> sui Anthverpiensis hic sollicitavit
+                    hodieque <placeName>Lovanium</placeName> revertitur; item cuiusdam Hispani, qui
+                    me vehementer rogavit, ut ipsius ad te mitterem, cum praesentibus accipies. Non
+                    ingratum mihi erit, si Hispano, quisquis is est, significaris te ipsius
+                    accepisse. Misi ad te et <persName>Panormitani</persName> litteras. Financiarii
+                    laborant. Quaestor aerarii <placeName>Flandriae</placeName> non est, neque fuit
+                    in curia, apud quem agere potuissem. Consultius est meo iudicio nos exspectare
+                    responsum. Intelligo <del corresp="Olahus">modo solitae</del><add
+                        corresp="Olahus" type="corr">non solutae</add> tuae pensionis sive fucatam,
+                    sive iustam causam fuisse tuam absentiam. Quando Deo dante redieris, ne vereare,
+                        <quote xml:id="quote.1">ὁ λίκμος τοῦ <choice>
+                            <orig>σόματος</orig>
+                            <supplied>σώματος</supplied>
+                        </choice> σοῦ</quote><note type="quote" xml:id="note.quote.1">Cf. Am9, 9,
+                        3.</note><note type="critic" xml:id="note.13">‘your sifter: ‘your person
+                        will be the sifter tidying up, a reference to Am9, 9,3 where God sifts the
+                        house of Israel.</note>, ut scribis, erit liberum ab aula, nisi quantum tu
+                    voles, <del corresp="Olahus">eo in</del><add corresp="Olahus" type="corr">et in
+                        tuo</add> hospitio λικμᾶν<note type="critic" xml:id="note.14">‘to sift’,
+                        metaphorically: ‘to tidy up’.</note> poteris ex animi tui sententia. Id enim
+                    ego curabo. Vale feliciter et in amore tuo erga me permane tui amantem.</p>
+                <p xml:id="p.8"><placeName>Bruxellae</placeName> 29. Martii anno 1533.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
