@@ -235,12 +235,12 @@
                 <pb facs="15330309_3_1.jpg"/>
                 <p xml:id="p.1">Ad Xanthum <add corresp="Olahus" type="insert">Gabrielem Nicolaus
                         Olahus</add>.</p>
-                <p xml:id="p.2">Subdubius fui, an te litterae meae<note type="critic"
-                        xml:id="note.1">Probably this letter.</note> in curia reperturae essent.
-                    Tamen nihilominus has ad te dedi. Ad <persName>Cornelium</persName><note
-                        type="critic" xml:id="note.2">Cornelis de Schepper.</note> scripsi abunde
-                    binis iam meis litteris,<note type="critic" xml:id="note.3">See Ep. 333, and Ep.
-                            337.<ref>olahus.tei.15330307_1</ref></note><ref>/o:olahus.tei.15330309_1</ref>
+                <p xml:id="p.2">Subdubius fui, an te litterae meae<note xml:id="note.1">Probably
+                        this letter.</note> in curia reperturae essent. Tamen nihilominus has ad te
+                    dedi. Ad <persName>Cornelium</persName><note xml:id="note.2">Cornelis de
+                        Schepper.</note> scripsi abunde binis iam meis litteris,<note
+                        xml:id="note.3">See Ep. 333, and Ep.
+                        337.<ref>olahus.tei.15330307_1</ref></note><ref>/o:olahus.tei.15330309_1</ref>
                     et eum confirmavi in fide. Doleo ultra, quam dici potest, te proficisci in
                         <placeName>Urbem</placeName>, tum quod non parvos labores te istic habiturum
                     credam, tum quod ego <del corresp="Olahus">hic</del> in curia neminem fere
@@ -253,14 +253,13 @@
                     mecum, nec ego tecum tuto litteris uti possum. Solent enim litterae haerere in
                     curia, si nemo sit, qui eas excipiat, et eas transmittat. Nihil mihi hac re
                     gratius facies. Litteras tuas medio <persName>Ioannis Langhii</persName><note
-                        type="critic" xml:id="note.4">Probably John de Lange (†1571), see <hi
-                            rend="smallcap">Allen</hi> 1941, 185.</note> secretarii
-                        <persName>Panormitani</persName><note type="critic" xml:id="note.5">Jean II
+                        xml:id="note.4">Probably John de Lange (†1571), see <hi rend="smallcap"
+                            >Allen</hi> 1941, 185.</note> secretarii
+                        <persName>Panormitani</persName><note xml:id="note.5">Jean II
                         Carondelet.</note> misi, mox cum accepi,
-                        <placeName>Mecliniam</placeName><note type="critic" xml:id="note.6"
-                        >Mechelen.</note> inde <placeName>Antwerpiam</placeName>, certificabor de
-                    earum redditione. Vale fideliter et mei sis memor ubicumque locorum, quod ego
-                    quoque faciam.</p>
+                        <placeName>Mecliniam</placeName><note xml:id="note.6">Mechelen.</note> inde
+                        <placeName>Antwerpiam</placeName>, certificabor de earum redditione. Vale
+                    fideliter et mei sis memor ubicumque locorum, quod ego quoque faciam.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> nona Martii 1533.</p>
             </div>
         </body>

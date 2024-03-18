@@ -250,10 +250,9 @@
                 <p xml:id="p.2">[1.] Reverende Domine Maior Benefice et Observande! Mirum, ni iam ex
                     Pannonio plane factus sis Belga aut Flandrius, nec magnopere labores ubi et
                     cuius ditionis sit illud, quod reliquisti <placeName>Sirmium</placeName><note
-                        type="critic" xml:id="note.1">Sirmium was a city in the Roman province of
-                        Pannonia and became the capital of Pannonia Inferior. It is a metonym for
-                        Hungary.</note> ac deliciae olim nostrae, regia <placeName>Buda</placeName>.
-                    Nam eo concessisti, </p>
+                        xml:id="note.1">Sirmium was a city in the Roman province of Pannonia and
+                        became the capital of Pannonia Inferior. It is a metonym for Hungary.</note>
+                    ac deliciae olim nostrae, regia <placeName>Buda</placeName>. Nam eo concessisti, </p>
                 <pb facs="15320223_1_2.jpg"/>
                 <p xml:id="p.3">ubi nec <placeName>Pannoniae</placeName> nomen, atque agis tu quidem
                     meo iudicio sapienter, ut quocunque loco fueris, vixisse libenter te dicas, et
@@ -263,26 +262,25 @@
                     violenter per capita tam nobilia quam ignota grassetur. Quamvis magis quidem
                     huius causa negotii ac provinciae potius, quam suscepi, huc me contulerim.</p>
                 <p xml:id="p.4">[2.] Haud enim ignoras docendi liberos suos a rege mihi laborem
-                        iniunctum<note type="critic" xml:id="note.2">He was <hi rend="italic"
-                            >Praeceptor</hi> of the King’s children from 1531, see <hi
-                            rend="smallcap">Neuber</hi> 2011, 523.</note>, cuius quidem hactenus non
-                    poenitet neque piget, cum bonum regi etiam ipsi patri operae pretium videat
-                    fecisse, si quidem <persName>rex Maximilianus</persName><note type="critic"
-                        xml:id="note.3">Later King Maximilian II (1527–1576), was King of Bohemia,
-                        Germany, Hungary, and finally Emperor of the Holy Roman Empire.</note> ex
-                    quo coepit erudiri, satis belle profecerit. Porro <persName>regina
-                        Elisabeta</persName><note type="critic" xml:id="note.4">Elisabeth of Austria
-                        (1526–1545) was the first child of King Ferdinand I, later the wife of King
-                        Sigismund II August of Poland.</note> supra aetatis captum et sexus illius
-                    mirabiles progressus fecerit, cum intra hosce proximos septem menses Latine,
-                    Italice, etiam Germanice legere didicerit, ac multa memoriae mandarit. Reliqui
-                    minores natu<note type="critic" xml:id="note.5">Princess Anna (1528–1590),
-                        Prince Ferdinand, later Ferdinand II, Archduke of Austria (1529–1595), and
-                        Princess Mary of Habsburg (1531–1581).</note> aliquanto intervallo
-                    subsequuntur, nimirum ob aetatis imbecillitatem, qui propterea indulgentius sunt
-                    habendi, donec coaluerint, quamquam sua sponte ad optima quaeque videantur
-                    ferri, immo vero tantum valet in eis natura et educatio, ut ex animo haec scribo
-                    vel accedente mediocri doctrina ad summum pervenire ac parvo negotio expoliri
+                        iniunctum<note xml:id="note.2">He was <hi rend="italic">Praeceptor</hi> of
+                        the King’s children from 1531, see <hi rend="smallcap">Neuber</hi> 2011,
+                        523.</note>, cuius quidem hactenus non poenitet neque piget, cum bonum regi
+                    etiam ipsi patri operae pretium videat fecisse, si quidem <persName>rex
+                        Maximilianus</persName><note xml:id="note.3">Later King Maximilian II
+                        (1527–1576), was King of Bohemia, Germany, Hungary, and finally Emperor of
+                        the Holy Roman Empire.</note> ex quo coepit erudiri, satis belle profecerit.
+                    Porro <persName>regina Elisabeta</persName><note xml:id="note.4">Elisabeth of
+                        Austria (1526–1545) was the first child of King Ferdinand I, later the wife
+                        of King Sigismund II August of Poland.</note> supra aetatis captum et sexus
+                    illius mirabiles progressus fecerit, cum intra hosce proximos septem menses
+                    Latine, Italice, etiam Germanice legere didicerit, ac multa memoriae mandarit.
+                    Reliqui minores natu<note xml:id="note.5">Princess Anna (1528–1590), Prince
+                        Ferdinand, later Ferdinand II, Archduke of Austria (1529–1595), and Princess
+                        Mary of Habsburg (1531–1581).</note> aliquanto intervallo subsequuntur,
+                    nimirum ob aetatis imbecillitatem, qui propterea indulgentius sunt habendi,
+                    donec coaluerint, quamquam sua sponte ad optima quaeque videantur ferri, immo
+                    vero tantum valet in eis natura et educatio, ut ex animo haec scribo vel
+                    accedente mediocri doctrina ad summum pervenire ac parvo negotio expoliri
                     possint, recte ut scripserit ille <persName>poëta</persName> ingeniosus: <quote
                         xml:id="quote.1">caesaribus virtus contigit ante diem</quote>,<note
                         type="quote" xml:id="note.quote.1">Ovid. <hi rend="italic">Ars am.</hi>
@@ -291,28 +289,27 @@
                     ferunt.</p>
                 <p xml:id="p.5">[3.] Atque haec quidem de liberiis regiis libere, ac vere nactus
                     hominem, cui recte litteras darem. Is civis est ex nobilibus
-                        <persName>Rhagusinius Hieronimus Gradeus</persName>,<note type="critic"
-                        xml:id="note.6">We do not know him more closely.</note> qui propter negotia,
-                    quae istic habet ac apud Britannos ad vos properat. Quem tu hominem, quaeso,
-                    quantum potes, adiuva atque ei commodes apud illustrissimam et praeclarissimam
-                    reginam, singularis et unici exempli feminam principem atque apud alios, quorum
-                    opera gratiaque indiguerit; nil enim, nisi rectum orabit, ut spero, et aequum.
+                        <persName>Rhagusinius Hieronimus Gradeus</persName>,<note xml:id="note.6">We
+                        do not know him more closely.</note> qui propter negotia, quae istic habet
+                    ac apud Britannos ad vos properat. Quem tu hominem, quaeso, quantum potes,
+                    adiuva atque ei commodes apud illustrissimam et praeclarissimam reginam,
+                    singularis et unici exempli feminam principem atque apud alios, quorum opera
+                    gratiaque indiguerit; nil enim, nisi rectum orabit, ut spero, et aequum.
                     Dedissem et huic <hi rend="italic">Libellum de Ludovici regis interitu</hi><note
-                        type="critic" xml:id="note.7">See Ep. 173. Note
-                            4.<ref>olahus.tei.15310910_1</ref></note> meum iam, quem ante biennium
-                    absolvi, verum desunt adhuc nomina captivorum et caesorum in illo conflictu, </p>
+                        xml:id="note.7">See Ep. 173. Note 4.<ref>olahus.tei.15310910_1</ref></note>
+                    meum iam, quem ante biennium absolvi, verum desunt adhuc nomina captivorum et
+                    caesorum in illo conflictu, </p>
                 <pb facs="15320223_1_3.jpg"/>
                 <p xml:id="p.6">mittam aliquando tandem. Tua magnificentia me inclytae ac
                     serenissimae dominae reginae diligenter commendabit. Bene vale.</p>
                 <p xml:id="p.7"><placeName>Aeniponte</placeName> die XXIII. Februarii <choice>
                         <orig>1533</orig>
                         <supplied>1532</supplied>
-                    </choice><note type="critic" xml:id="note.8">In the manuscript we find the year
-                        1533, but based on the context, we have to revise it for 1532. In this
-                        letter, Ursinus asks Oláh to send a list of the participants and victims of
-                        the battle of Mohács, which request was honored by Oláh in his letter on 10
-                        March, 1532 (Ep. 219.), see <hi rend="smallcap">Waczulik</hi> 1937,
-                        56.</note>. </p>
+                    </choice><note xml:id="note.8">In the manuscript we find the year 1533, but
+                        based on the context, we have to revise it for 1532. In this letter, Ursinus
+                        asks Oláh to send a list of the participants and victims of the battle of
+                        Mohács, which request was honored by Oláh in his letter on 10 March, 1532
+                        (Ep. 219.), see <hi rend="smallcap">Waczulik</hi> 1937, 56.</note>. </p>
             </div>
         </body>
     </text>

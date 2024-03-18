@@ -232,16 +232,16 @@
                     </body>
                 </floatingText>
                 <pb facs="15301105_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Ioannem Stomberium</persName>.<note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note></p>
+                <p xml:id="p.1">Ad <persName>Ioannem Stomberium</persName>.<note xml:id="note.1">We
+                        do not know him more closely.</note></p>
                 <p xml:id="p.2">Venit ad nos hodie nuntius certissimus, qui retulit
                         <persName>Wilhelmum a Rogendorff</persName> capitaneum exercitus regii in
                     Hungariam missi factis cum <persName>Paulo</persName> Strigoniensi
-                        archiepiscopo<note type="critic" xml:id="note.2">Pál Várday.</note>
-                    aliquibus pacis condicionibus <placeName>Strigonium</placeName><note
-                        type="critic" xml:id="note.3">Esztergom.</note> in ditionem suam XXVII.
-                    huius mensis recepisse. Imposuisse in arcem praesidium Hispanicum quattuor vel
-                    quinque vexillorum. Qua re istic confecta, cum copiis regiis omnibus </p>
+                        archiepiscopo<note xml:id="note.2">Pál Várday.</note> aliquibus pacis
+                    condicionibus <placeName>Strigonium</placeName><note xml:id="note.3"
+                        >Esztergom.</note> in ditionem suam XXVII. huius mensis recepisse.
+                    Imposuisse in arcem praesidium Hispanicum quattuor vel quinque vexillorum. Qua
+                    re istic confecta, cum copiis regiis omnibus </p>
                 <pb facs="15301105_1_2.jpg"/>
                 <p xml:id="p.3"><placeName>Budam</placeName> versus descendisse.
                         <persName>Ioannem</persName> vero vaivodam audita Strigoniensi deditione

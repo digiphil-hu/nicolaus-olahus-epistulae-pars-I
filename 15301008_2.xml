@@ -230,21 +230,20 @@
                     </body>
                 </floatingText>
                 <pb facs="15301008_2_1.jog"/>
-                <p xml:id="p.1">Ad <persName>Ioannem Franciscum</persName><note type="critic"
-                        xml:id="note.1">Probably Jehan François or Hans Franc who was inspector of
-                        Ravenstein and Seneschal of Queen Mary, see <hi rend="smallcap">Gorter van
-                            Royen</hi> 2009, 74–75, 94, and <hi rend="smallcap">Kerkhoff</hi> 2008,
-                        294.</note>. </p>
+                <p xml:id="p.1">Ad <persName>Ioannem Franciscum</persName><note xml:id="note.1"
+                        >Probably Jehan François or Hans Franc who was inspector of Ravenstein and
+                        Seneschal of Queen Mary, see <hi rend="smallcap">Gorter van Royen</hi> 2009,
+                        74–75, 94, and <hi rend="smallcap">Kerkhoff</hi> 2008, 294.</note>. </p>
                 <p xml:id="p.2">Cum essem sollicitus intelligere, quantum <del corresp="Olahus"
                         >Turcae</del> damni aut incendii <add corresp="Olahus" type="insert"
                         >Turcae</add> in Moravia et Hungaria, ubi iter fecerunt, commisissent,
-                    venerunt litterae ab <persName>Alexio Turzone</persName><note type="critic"
-                        xml:id="note.2">Thurzó also wrote on the devastation to the city of
-                        Bratislava, see <hi rend="smallcap">Erdélyi</hi> 2005, 216–217.</note>, quae
-                    significabant Ioannis de Broda<note type="critic" xml:id="note.3">On the looting
-                        in Brod see Ep. 94.<ref>olahus.tei.15301008_1</ref></note> Moravi bona omnia
-                    esse combusta. Quadraginta vel circiter millia hominum, partim Hungarorum,
-                    partim <del corresp="Olahus">Moraviorum Turcas abduxisse. Tres</del><add
+                    venerunt litterae ab <persName>Alexio Turzone</persName><note xml:id="note.2"
+                        >Thurzó also wrote on the devastation to the city of Bratislava, see <hi
+                            rend="smallcap">Erdélyi</hi> 2005, 216–217.</note>, quae significabant
+                    Ioannis de Broda<note xml:id="note.3">On the looting in Brod see Ep.
+                            94.<ref>olahus.tei.15301008_1</ref></note> Moravi bona omnia esse
+                    combusta. Quadraginta vel circiter millia hominum, partim Hungarorum, partim
+                        <del corresp="Olahus">Moraviorum Turcas abduxisse. Tres</del><add
                         corresp="Olahus" type="insert">Moravorum a Turcis partim interfecta, partim
                         in servitutem perpetuam abducta. Tres</add></p>
                 <pb facs="15301008_2_2.jpg"/>

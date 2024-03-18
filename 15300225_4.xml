@@ -230,19 +230,19 @@
                     </body>
                 </floatingText>
                 <pb facs="15300225_4_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Ursinum Velium</persName><note type="critic"
-                        xml:id="note.1">Caspar Ursinus Velius (ca. 1493–1539) was a German humanist
-                        scholar, poet, and historian, loyal to Ferdinand I. He enrolled at the
-                        University of Cracow, where he mastered humanist Latin. He was János
-                        Thurzó’s secretary, and later he became a court historian and poet laureate
-                        in Vienna. From 1524 he held lectures at the University of Vienna on
-                        Romanian and Greek authors. His work about the battle of Mohács, written in
-                        1528 (see Ep. 173. Note 4.), was dormant until Spring 2018, and his main
-                        work <hi rend="italic">De bello Pannonico </hi>remained unfinished. He wrote
-                        epigrams on Thurzó, Kálnai, and Logau, see <hi rend="smallcap">Lakatos</hi>
-                        2011; <hi rend="smallcap">Erbe</hi>–<hi rend="smallcap">Bietenholz</hi>
-                        1987a; <hi rend="smallcap">Szebelédi</hi> 2015, and <hi rend="smallcap"
-                            >Kasza 2018.</hi><ref>olahus.tei.15310910_1</ref></note> historicum et
+                <p xml:id="p.1">Ad <persName>Ursinum Velium</persName><note xml:id="note.1">Caspar
+                        Ursinus Velius (ca. 1493–1539) was a German humanist scholar, poet, and
+                        historian, loyal to Ferdinand I. He enrolled at the University of Cracow,
+                        where he mastered humanist Latin. He was János Thurzó’s secretary, and later
+                        he became a court historian and poet laureate in Vienna. From 1524 he held
+                        lectures at the University of Vienna on Romanian and Greek authors. His work
+                        about the battle of Mohács, written in 1528 (see Ep. 173. Note 4.), was
+                        dormant until Spring 2018, and his main work <hi rend="italic">De bello
+                            Pannonico </hi>remained unfinished. He wrote epigrams on Thurzó, Kálnai,
+                        and Logau, see <hi rend="smallcap">Lakatos</hi> 2011; <hi rend="smallcap"
+                            >Erbe</hi>–<hi rend="smallcap">Bietenholz</hi> 1987a; <hi
+                            rend="smallcap">Szebelédi</hi> 2015, and <hi rend="smallcap">Kasza
+                            2018.</hi><ref>olahus.tei.15310910_1</ref></note> historicum et
                     poetam.</p>
                 <p xml:id="p.2">Quid multa? Multis a me nominibus, mi Ursine, reprehendi iure potes,
                     quod immemor amicitiae nostrae communis iamdiu cum summa testificatione amoris

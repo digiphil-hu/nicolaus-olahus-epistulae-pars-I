@@ -230,12 +230,12 @@
                     </body>
                 </floatingText>
                 <pb facs="15300227_2_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Nicolaum Thwroczi</persName><note type="critic"
-                        xml:id="note.1">Miklós Thuróczy of Szentmihály (†1531) was Vice-voivode of
-                        Transylvania in 1513, from 1524 Protonotary, from 1525 Royal Secretary. In
-                        1527 he became <hi rend="italic">ispán</hi> of Turóc county and was Master
-                        Doorward <hi rend="italic">(magister ianitorum regalium)</hi> from 1527, see
-                            <hi rend="smallcap">Nagy</hi> XI, 1865, 188. About his death see
+                <p xml:id="p.1">Ad <persName>Nicolaum Thwroczi</persName><note xml:id="note.1"
+                        >Miklós Thuróczy of Szentmihály (†1531) was Vice-voivode of Transylvania in
+                        1513, from 1524 Protonotary, from 1525 Royal Secretary. In 1527 he became
+                            <hi rend="italic">ispán</hi> of Turóc county and was Master Doorward <hi
+                            rend="italic">(magister ianitorum regalium)</hi> from 1527, see <hi
+                            rend="smallcap">Nagy</hi> XI, 1865, 188. About his death see
                         15320405_1.</note><choice>
                         <orig>migistrum</orig>
                         <supplied>magistrum</supplied>

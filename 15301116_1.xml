@@ -234,11 +234,11 @@
                     </body>
                 </floatingText>
                 <pb facs="15301116_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Ludovicum Ricium</persName>.<note type="critic"
-                        xml:id="note.1">Probably Ludovico Ricci, we do not know him more closely. He
-                        was probably either a relative of Paul Ricius (ca. 1480–1529), physician of
-                        King Ferdinand I, or he was the brother of Girolamo Ricci (Hieronymus
-                        Ritius), who was <hi rend="italic">artium et medicinae doctor</hi> and was
+                <p xml:id="p.1">Ad <persName>Ludovicum Ricium</persName>.<note xml:id="note.1"
+                        >Probably Ludovico Ricci, we do not know him more closely. He was probably
+                        either a relative of Paul Ricius (ca. 1480–1529), physician of King
+                        Ferdinand I, or he was the brother of Girolamo Ricci (Hieronymus Ritius),
+                        who was <hi rend="italic">artium et medicinae doctor</hi> and was
                         recommended to King Louis II by King Ferdinand I in 1523, see <hi
                             rend="smallcap">Kühnel</hi> 1962, 66, and <hi rend="smallcap">E.
                             Kovács</hi> 2003, 38.</note></p>
@@ -256,21 +256,19 @@
                         <orig>praestulabuntur</orig>
                         <supplied>praestolabuntur</supplied>
                     </choice>. Nam regina quoque nobiscum una, si viatico providebimur a caesare,
-                    die Lunae vel Martis<note type="critic" xml:id="note.2">22 or 23
-                        November.</note> proxima hinc solvet. Recta
-                        <placeName>Ratisponam</placeName><note type="critic" xml:id="note.3"
+                    die Lunae vel Martis<note xml:id="note.2">22 or 23 November.</note> proxima hinc
+                    solvet. Recta <placeName>Ratisponam</placeName><note xml:id="note.3"
                         >Regensburg.</note> equitatura, ubi conscensa navi adnavigabit
                         <placeName>Lincium</placeName>. Ex Lincio si res (quod Deus longe avertat)
                     eam non retinuerint adversae, <placeName>Viennam</placeName> descendemus, vel ad
-                    minus <placeName>Carneomburgam</placeName>.<note type="critic" xml:id="note.4"
+                    minus <placeName>Carneomburgam</placeName>.<note xml:id="note.4"
                         >Korneuburg.</note> Caesar vero et rex Ferdinandus eo ipso die, quo nos,
-                    hinc solvent profecturi <placeName>Spiram</placeName>,<note type="critic"
-                        xml:id="note.5">Speyer.</note> deinde
-                        <placeName>Aquisgranum</placeName>,<note type="critic" xml:id="note.6"
-                        >Aachen.</note> ubi rex corona regis Romanorum coronabitur. Haec volui te
-                    scire. Vale.</p>
-                <p xml:id="p.3"><placeName>Augustae Vindelicorum</placeName><note type="critic"
-                        xml:id="note.7">Augsburg.</note> XVI. Novembris MDXXX.</p>
+                    hinc solvent profecturi <placeName>Spiram</placeName>,<note xml:id="note.5"
+                        >Speyer.</note> deinde <placeName>Aquisgranum</placeName>,<note
+                        xml:id="note.6">Aachen.</note> ubi rex corona regis Romanorum coronabitur.
+                    Haec volui te scire. Vale.</p>
+                <p xml:id="p.3"><placeName>Augustae Vindelicorum</placeName><note xml:id="note.7"
+                        >Augsburg.</note> XVI. Novembris MDXXX.</p>
             </div>
         </body>
     </text>

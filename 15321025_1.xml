@@ -230,9 +230,9 @@
                     </body>
                 </floatingText>
                 <pb facs="15321025_1_1.jpg"/>
-                <p xml:id="p.1">[The superscription is missing.]<note type="critic" xml:id="note.1"
-                        >The location in the manuscript suggests that Oláh wrote this letter to
-                        Paulus comes.</note></p>
+                <p xml:id="p.1">[The superscription is missing.]<note xml:id="note.1">The location
+                        in the manuscript suggests that Oláh wrote this letter to Paulus
+                        comes.</note></p>
                 <p xml:id="p.2">Quibus apud te querelis utar, nescio. Multae essent, sed vetant me
                     de singulis scribere hominum perversitates. Tuum animum in me singularem multis
                     iudiciis cognovi, maxime quod nuper </p>

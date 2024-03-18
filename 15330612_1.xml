@@ -246,39 +246,38 @@
                 <pb facs="15330612_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad episcopum Agriensem cancellarium Hungariae.</p>
                 <p xml:id="p.2">Litteras tuas <placeName>Viennae</placeName> XVIII. Maii datas<note
-                        type="critic" xml:id="note.1">In fact, Szalaházy’s letter is dated 19
-                        May.</note> ad me hodie accepi. Habeo gratias cumulatas, quod tua promotione
-                    et instantia rex bonis illis viris, boni et quietis publicae turbatoribus et
-                    verbis et litteris commiserit, ut bona mea remittant, his et aliorum
-                    beneficiorum tuorum in me praestitorum non ullo tempore ero immemor. Statum
-                    rerum Hungaricarum iampridem intellexi. <persName>Sceperi</persName> reditus et
-                    legatio utinam eas, quas rex et vos speratis, referat pacis conditiones. Verum
-                    cogito illum bonorum omnium et rei Christianae hostem omnem moturum lapidem,
-                    technasque omnes suas emissurum, ne omnibus optatis <del corresp="Olahus"
-                        >patiamur</del><add corresp="Olahus" type="corr">potiamur</add>. Quo enim ex
-                        <placeName>Hungaria</placeName> exclusus ire aut posset aut auderet? Suorum
-                    scelerum et ipse conscius et aliis ubique bonis exosus.</p>
-                <p xml:id="p.3">Denique si <placeName>Nandoralba</placeName><note type="critic"
-                        xml:id="note.2">Belgrade.</note> alienabitur a rege etiam aliis omnibus
-                    locis in ditionem regis reversis, quid aliud confecerimus, quam
-                        <placeName>Hungariam</placeName> semper fore dubiam, trepidam et in eventum
-                    etiam levem, tumultuosam. At melius est qualemcumque spe etiam nostra viliorem
-                    pacis inire conditionem, quam perpetuo conflictari et in media conflictatione
-                        <placeName>Hungariam</placeName> tacitus perire. Fateor etiam vilem pacis
-                    conditionem aliquando commodiorem esse bello iusto, sed nisi nostri iusto
-                    tardiores fuissent, dum hostis <placeName>Viennae</placeName> fores pulsabat,
-                    iampridem pacem haberemus reoccupata tota <placeName>Hungaria</placeName> et, ut
-                    spero, maiori etiam <placeName>Graeciae</placeName> parte. Deinde hac data
-                    occasione divinitus elapsa a manibus, si <persName>Ioannem</persName><note
-                        type="critic" xml:id="note.3">King John I.</note> instruissent aliquibus
-                    conditionibus cum eo privatim actis in monasterium vel locum aliquem
-                    abstrusiorem, quem iamdudum eum optasse accepi, atque in
-                        <placeName>Coronis</placeName><note type="critic" xml:id="note.4"
-                        >Koroni.</note> ac aliorum locorum Peloponesiacorum restituere, </p>
+                        xml:id="note.1">In fact, Szalaházy’s letter is dated 19 May.</note> ad me
+                    hodie accepi. Habeo gratias cumulatas, quod tua promotione et instantia rex
+                    bonis illis viris, boni et quietis publicae turbatoribus et verbis et litteris
+                    commiserit, ut bona mea remittant, his et aliorum beneficiorum tuorum in me
+                    praestitorum non ullo tempore ero immemor. Statum rerum Hungaricarum iampridem
+                    intellexi. <persName>Sceperi</persName> reditus et legatio utinam eas, quas rex
+                    et vos speratis, referat pacis conditiones. Verum cogito illum bonorum omnium et
+                    rei Christianae hostem omnem moturum lapidem, technasque omnes suas emissurum,
+                    ne omnibus optatis <del corresp="Olahus">patiamur</del><add corresp="Olahus"
+                        type="corr">potiamur</add>. Quo enim ex <placeName>Hungaria</placeName>
+                    exclusus ire aut posset aut auderet? Suorum scelerum et ipse conscius et aliis
+                    ubique bonis exosus.</p>
+                <p xml:id="p.3">Denique si <placeName>Nandoralba</placeName><note xml:id="note.2"
+                        >Belgrade.</note> alienabitur a rege etiam aliis omnibus locis in ditionem
+                    regis reversis, quid aliud confecerimus, quam <placeName>Hungariam</placeName>
+                    semper fore dubiam, trepidam et in eventum etiam levem, tumultuosam. At melius
+                    est qualemcumque spe etiam nostra viliorem pacis inire conditionem, quam
+                    perpetuo conflictari et in media conflictatione <placeName>Hungariam</placeName>
+                    tacitus perire. Fateor etiam vilem pacis conditionem aliquando commodiorem esse
+                    bello iusto, sed nisi nostri iusto tardiores fuissent, dum hostis
+                        <placeName>Viennae</placeName> fores pulsabat, iampridem pacem haberemus
+                    reoccupata tota <placeName>Hungaria</placeName> et, ut spero, maiori etiam
+                        <placeName>Graeciae</placeName> parte. Deinde hac data occasione divinitus
+                    elapsa a manibus, si <persName>Ioannem</persName><note xml:id="note.3">King John
+                        I.</note> instruissent aliquibus conditionibus cum eo privatim actis in
+                    monasterium vel locum aliquem abstrusiorem, quem iamdudum eum optasse accepi,
+                    atque in <placeName>Coronis</placeName><note xml:id="note.4">Koroni.</note> ac
+                    aliorum locorum Peloponesiacorum restituere, </p>
                 <pb facs="15330612_1_2.jpg"/>
                 <p xml:id="p.4">actum fuisset cum Turca de remittenda <placeName>Alba
-                        Graeca</placeName>,<note type="critic" xml:id="note.5">Belgrade.</note>
-                    fortasse induci ille ad hoc faciendum potuisset. Hoc modo rex libere
+                        Graeca</placeName>,<note xml:id="note.5">Belgrade.</note> fortasse induci
+                    ille ad hoc faciendum potuisset. Hoc modo rex libere
                         <placeName>Hungaria</placeName> fuisset petitus, et vos libertate fuissetis
                     usi. Dico autem Turcam fortasse ad hoc induci potuisse. Nam ut
                         <placeName>Albam</placeName> si hostilis sit

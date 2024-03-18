@@ -232,8 +232,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Quid ad te scribam, nescio, nisi forte cupis a me scire, quibus
                     apparatibus <persName>Turcarum tyrannus</persName> veniet in
                         <placeName>Hungariam</placeName> ad <placeName>Germaniam</placeName>
@@ -241,17 +241,17 @@
                     habere millia, triginta millia camellorum, octo millia <choice>
                         <orig>bovem silvestri</orig>
                         <supplied>bovum silvestrium</supplied>
-                    </choice>,<note type="critic" xml:id="note.2">A kind of buffalo native to
-                        Hungary, see <hi rend="smallcap">E. Kovács</hi> 2005.</note> quos <choice>
+                    </choice>,<note xml:id="note.2">A kind of buffalo native to Hungary, see <hi
+                            rend="smallcap">E. Kovács</hi> 2005.</note> quos <choice>
                         <orig>buphates</orig>
                         <supplied>buphales</supplied>
                     </choice> vocant, ad trahenda impedimenta et commeatus praeparata. Scribitur
                     autem ad hunc diem eum <placeName>Budae</placeName> cum suis omnibus constitui
                     debuisse. Quod si verum est, arbitror eum ad decimum huius mensis diem non longe
                     a <placeName>Wienna</placeName> abfuturum, nisi eum <placeName>Strigoniensis
-                        arx</placeName><note type="critic" xml:id="note.3">Esztergom castle.</note>
-                    et aliae arces in ripa <placeName>Danubii</placeName> sitae aliquantisper
-                    retineant. Non solet enim temere quampiam arcium post <choice>
+                        arx</placeName><note xml:id="note.3">Esztergom castle.</note> et aliae arces
+                    in ripa <placeName>Danubii</placeName> sitae aliquantisper retineant. Non solet
+                    enim temere quampiam arcium post <choice>
                         <orig>tergam</orig>
                         <supplied>tergum</supplied>
                     </choice> relinquere, quam non suae dicionis faciat, ante quam exercitum suum

@@ -233,42 +233,40 @@
                     </body>
                 </floatingText>
                 <pb facs="15301210_2_1,jpg"/>
-                <p xml:id="p.1">Ad Ioannem Zalay comitem Posoniensem.<note type="critic"
-                        xml:id="note.1">János Szalay.</note></p>
+                <p xml:id="p.1">Ad Ioannem Zalay comitem Posoniensem.<note xml:id="note.1">János
+                        Szalay.</note></p>
                 <p xml:id="p.2">Non possum sine lacrimis ad te hac de re scribere, dum enim veterem
-                    illam fratris nostri communis Stephani Maylath<note type="critic"
-                        xml:id="note.2">István Majláth (†1550) participated in the battle of Mohács,
-                        then joined King Ferdinand I, who bestowed him the castle of Făgăraș, in
-                        gratitude for his seizing Bratislava together with Tamás Nádasdy and Elek
-                        Thurzó. In 1528, he changed sides and in 1534 he became Voivode of
-                        Transylvania, see <hi rend="smallcap">Majláth</hi> 1889.</note> suavem
-                    familiaritatem revoco in animum, lacrimae subito erumpunt, et miseret me <del
-                        corresp="Olahus">videre</del> ultra quam dici potest eius sortis ac
-                    calamitatis. Erat vir in amicos suavis, comis, humanus et liberalis. Regi nostro
-                    fideliter serviebat, omnemque suam et <del corresp="Olahus">facilitatem</del>
-                    facultatem et vitam nihili faciebat, ut regi commode et fideliter servire
-                    posset. Et quae res alia eum ad hoc coniecit periculum, quam fidelitas regi
-                    servanda? Quid facilius facere poterat, si regis res ei cordi non essent, quam
-                    ut intra <del corresp="Olahus">amicos</del><add corresp="Olahus" type="corr"
-                        >muros</add> Cibienses<note type="critic" xml:id="note.3">Sibiu.</note> se
-                    contineret, ut illi alii amici nostri? Sed regis <del corresp="Olahus">et
-                        fidelitas</del> nostri negotia, quae totis <del corresp="Olahus"
-                        >procurabat</del><add corresp="Olahus" type="corr">curabat</add> viribus, et
-                    fidelitas quam regi debebat, compulit eum ad regionem Transalpinam, unde regis
-                    subditus vaivoda<note type="critic" xml:id="note.4">Voivode Moses. For more on
-                        these, see <hi rend="smallcap">Majláth</hi> 1889, 15–17.</note> expulsus
-                    erat, cum parva manu proficisci, ut vaivodam ipsum non tam propter
-                    necessitudinem, quam cum eo inierat, quam ut regi illam provinciam <add
-                        corresp="Olahus" type="insert">redderet</add> penitus astrictam <del
-                        corresp="Olahus">redderet</del>, in sedem suam collocaret. Interceptus est
-                    igitur a Turcis, et a multis hostibus cum suis, quas habebat exiguis copiolis
-                    oppressus, in manus incidit Turcarum. Dicitur, posteaquam captus esset a Turcis,
-                    fuisse ductus sub arcem Fagaras<note type="critic" xml:id="note.5"
-                        >Făgăraș.</note>, et frater suus, quem in ea arce loco sui reliquerat,
-                    admonitus, ut si fratrem vivere vellet, arcem illam dederet. Ille pluris fecit
-                    regni illius salutem, quae in illius arcis permansione pendet non minima, quam
-                    sui fratris vitam. Noluitque arcem dedere, sic ille ductus est in captivitatem.
-                    Vale.</p>
+                    illam fratris nostri communis Stephani Maylath<note xml:id="note.2">István
+                        Majláth (†1550) participated in the battle of Mohács, then joined King
+                        Ferdinand I, who bestowed him the castle of Făgăraș, in gratitude for his
+                        seizing Bratislava together with Tamás Nádasdy and Elek Thurzó. In 1528, he
+                        changed sides and in 1534 he became Voivode of Transylvania, see <hi
+                            rend="smallcap">Majláth</hi> 1889.</note> suavem familiaritatem revoco
+                    in animum, lacrimae subito erumpunt, et miseret me <del corresp="Olahus"
+                        >videre</del> ultra quam dici potest eius sortis ac calamitatis. Erat vir in
+                    amicos suavis, comis, humanus et liberalis. Regi nostro fideliter serviebat,
+                    omnemque suam et <del corresp="Olahus">facilitatem</del> facultatem et vitam
+                    nihili faciebat, ut regi commode et fideliter servire posset. Et quae res alia
+                    eum ad hoc coniecit periculum, quam fidelitas regi servanda? Quid facilius
+                    facere poterat, si regis res ei cordi non essent, quam ut intra <del
+                        corresp="Olahus">amicos</del><add corresp="Olahus" type="corr">muros</add>
+                        Cibienses<note xml:id="note.3">Sibiu.</note> se contineret, ut illi alii
+                    amici nostri? Sed regis <del corresp="Olahus">et fidelitas</del> nostri negotia,
+                    quae totis <del corresp="Olahus">procurabat</del><add corresp="Olahus"
+                        type="corr">curabat</add> viribus, et fidelitas quam regi debebat, compulit
+                    eum ad regionem Transalpinam, unde regis subditus vaivoda<note xml:id="note.4"
+                        >Voivode Moses. For more on these, see <hi rend="smallcap">Majláth</hi>
+                        1889, 15–17.</note> expulsus erat, cum parva manu proficisci, ut vaivodam
+                    ipsum non tam propter necessitudinem, quam cum eo inierat, quam ut regi illam
+                    provinciam <add corresp="Olahus" type="insert">redderet</add> penitus astrictam
+                        <del corresp="Olahus">redderet</del>, in sedem suam collocaret. Interceptus
+                    est igitur a Turcis, et a multis hostibus cum suis, quas habebat exiguis
+                    copiolis oppressus, in manus incidit Turcarum. Dicitur, posteaquam captus esset
+                    a Turcis, fuisse ductus sub arcem Fagaras<note xml:id="note.5">Făgăraș.</note>,
+                    et frater suus, quem in ea arce loco sui reliquerat, admonitus, ut si fratrem
+                    vivere vellet, arcem illam dederet. Ille pluris fecit regni illius salutem, quae
+                    in illius arcis permansione pendet non minima, quam sui fratris vitam. Noluitque
+                    arcem dedere, sic ille ductus est in captivitatem. Vale.</p>
                 <p xml:id="p.3">Ex Cremps 10. Decembris 1530.</p>
             </div>
         </body>

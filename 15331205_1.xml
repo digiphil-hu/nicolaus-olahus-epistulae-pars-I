@@ -234,18 +234,18 @@
                 <p xml:id="p.2">Tua facilitas et humanitas facit, ut plane apud te deposuerim
                     pudorem, audacterque nimium abuter tua promptitudine ad benefaciendum amicis
                     meis. Et quemadmodum superioribus hebdomadis abusus sum in
-                        <persName>Guilelmo</persName><note type="critic" xml:id="note.1">Guillaume
-                        de Poitiers.</note> meo commendando tibi, ita nunc in latore huius epistolae
+                        <persName>Guilelmo</persName><note xml:id="note.1">Guillaume de
+                        Poitiers.</note> meo commendando tibi, ita nunc in latore huius epistolae
                     nobili viro et summo amico meo iterum cogor confugere ad Dominationem Tuam ac
                     commendare causam ipsius, quae autem illa sit, declarabit tibi coram. Cuperem
                     mihi conferri occasionem, in qua vicissim possem tibi aut tuis gratificari. Bene
                     vale. Raptim.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> pridie domini Nicolai anno 1533.</p>
                 <p xml:id="p.4">Salutare non graveris ex me tuum <persName>Iacobum</persName>.<note
-                        type="critic" xml:id="note.2">Jakob Jespersen.</note> Scripserat
-                    superioribus diebus de quibusdam libris sibi mittendis. Per negotia et varias
-                    occupationes non vacavit illi scribere ac libros mittere. Scribat denuo mihi,
-                    curabo, ut libros accipiat quam primum. Vale.</p>
+                        xml:id="note.2">Jakob Jespersen.</note> Scripserat superioribus diebus de
+                    quibusdam libris sibi mittendis. Per negotia et varias occupationes non vacavit
+                    illi scribere ac libros mittere. Scribat denuo mihi, curabo, ut libros accipiat
+                    quam primum. Vale.</p>
             </div>
         </body>
     </text>

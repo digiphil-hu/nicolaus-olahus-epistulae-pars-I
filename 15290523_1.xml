@@ -237,13 +237,13 @@
                     </body>
                 </floatingText>
                 <pb facs="15290523_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Ioannem Arnoldum</persName><note type="critic"
-                        xml:id="note.1">Johann Arnold, probably Arnoldus Bergellanus, who was a
-                        German typographer and poet. In 1522 he was a corrector in Wittenberg, then
-                        the same in Mainz in Franz Behem’s press, where he published his <hi
-                            rend="italic">Poema encomiasticum de chalcographiae inventione</hi>.
-                        Afterwards, he went to Basel and supervised the editions of manuscripts, see
-                            <hi rend="smallcap">Körner</hi> 2005.</note>. </p>
+                <p xml:id="p.1">Ad <persName>Ioannem Arnoldum</persName><note xml:id="note.1">Johann
+                        Arnold, probably Arnoldus Bergellanus, who was a German typographer and
+                        poet. In 1522 he was a corrector in Wittenberg, then the same in Mainz in
+                        Franz Behem’s press, where he published his <hi rend="italic">Poema
+                            encomiasticum de chalcographiae inventione</hi>. Afterwards, he went to
+                        Basel and supervised the editions of manuscripts, see <hi rend="smallcap"
+                            >Körner</hi> 2005.</note>. </p>
                 <p xml:id="p.2">[1.] Non <del corresp="Olahus">movere</del><add corresp="Olahus"
                         type="corr">moveare</add> te tantis affectum esse calamitatibus,
                     quandoquidem ea semper fuit conditio humanae naturae, ut variis subiecti simus,

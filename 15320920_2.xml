@@ -234,26 +234,25 @@
                 </floatingText>
                 <pb facs="15320920_2_1.jpg"/>
                 <p xml:id="p.1">Ad Albertum praepositum Quinqueecclesiensem.</p>
-                <p xml:id="p.2"><persName>Sigismundus ab Ebersthorff</persName><note type="critic"
-                        xml:id="note.1">Sigismund von Ebersdorf (†1556) was Count of Tierstein,
-                        Chief Chamberlain of Austria and of Queen Mary of Habsburg, see <hi
-                            rend="smallcap">Schweickhardt</hi> 1831, 232.</note> servitor
+                <p xml:id="p.2"><persName>Sigismundus ab Ebersthorff</persName><note xml:id="note.1"
+                        >Sigismund von Ebersdorf (†1556) was Count of Tierstein, Chief Chamberlain
+                        of Austria and of Queen Mary of Habsburg, see <hi rend="smallcap"
+                            >Schweickhardt</hi> 1831, 232.</note> servitor
                         <persName>reginae</persName> scripsit huc se accepisse <persName>Sebastianum
-                        a Pempflynng</persName><note type="critic" xml:id="note.2">Sebestyén
-                        Pemfflinger.</note> tuum et meum amicum singularem castrum
-                        <placeName>Dyosgyewr</placeName><note type="critic" xml:id="note.3"
-                        >Diósgyőr.</note> amisisse, incertumque esse ubi ipse sit gentium; veneritne
-                    in manus hostium, an in aliquem locum abditum fortuna eum detruserit. Abbatia
-                    mea de <placeName>Thapolcza</placeName><note type="critic" xml:id="note.4"
+                        a Pempflynng</persName><note xml:id="note.2">Sebestyén Pemfflinger.</note>
+                    tuum et meum amicum singularem castrum <placeName>Dyosgyewr</placeName><note
+                        xml:id="note.3">Diósgyőr.</note> amisisse, incertumque esse ubi ipse sit
+                    gentium; veneritne in manus hostium, an in aliquem locum abditum fortuna eum
+                    detruserit. Abbatia mea de <placeName>Thapolcza</placeName><note xml:id="note.4"
                         >Tapolca, see Ep. 148. Note 2.<ref>olahus.tei.15310512_1</ref></note>
                     propinqua est arci illi amissae, quae iampridem, ut ex litteris<note
-                        type="critic" xml:id="note.5">See Ep.
+                        xml:id="note.5">See Ep.
                         235.<ref>olahus.tei.15320531_2</ref></note><placeName>episcopi
-                        Agriensis</placeName><note type="critic" xml:id="note.6">Tamás
-                        Szalaházy.</note> intellexeram, <add corresp="editor"
-                        >per</add><persName>Franciscum Bebek</persName><note type="critic"
-                        xml:id="note.7">Ferenc Bebek.</note><persName>regis</persName> nostri et
-                    omnium nostrorum hostem est </p>
+                        Agriensis</placeName><note xml:id="note.6">Tamás Szalaházy.</note>
+                    intellexeram, <add corresp="editor">per</add><persName>Franciscum
+                        Bebek</persName><note xml:id="note.7">Ferenc
+                        Bebek.</note><persName>regis</persName> nostri et omnium nostrorum hostem
+                    est </p>
                 <pb facs="15320920_2_2.jpg"/>
                 <p xml:id="p.3">occupata, et mihi in ea hanc ob rem non parum damni istic illatum.
                     Tu, qui eo <choice>

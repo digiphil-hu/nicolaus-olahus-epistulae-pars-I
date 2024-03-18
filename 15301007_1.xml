@@ -268,8 +268,8 @@
                     quod nobis undique tot gignit hominum portenta, fides, caritas et humanitas non
                     modo friget, verumetiam prorsus extincta sepultaque videtur, reperiuntur adhuc
                     aliqua ingenia sincera candidaque, unde spes est aliquando fore, ut aureum illud
-                    genus mortalium ζωπυρείσϑω<note type="critic" xml:id="note.1">’resuscitate’: The
-                        use of imperative in adverbial clauses of purpose (instead of the use of the
+                    genus mortalium ζωπυρείσϑω<note xml:id="note.1">’resuscitate’: The use of
+                        imperative in adverbial clauses of purpose (instead of the use of the
                         coniunctive) is not in accordance with atticism.</note>. </p>
                 <p xml:id="p.3">Aliquot amicos habui sic addictos iuratosque, ut vel vitae suae
                     dispendio meis commodis consulturi viderentur, si res ita tulisset, quos nunc
@@ -279,16 +279,15 @@
                     mihi veteres amicos, qui in fide perstiterunt reddit cariores, ita novos si qui
                     obtingunt, maiorem in modum commendat. Ipse simplici natus ingenio delector
                     candidis amicis, qualem te esse tum ex litteris tuis, tum ex
-                        <persName>Quirini</persName><note type="critic" xml:id="note.2">Quirinus
-                        Hagius of The Hague.</note> mei narratione mihi videor liquido
-                    deprehendisse, ut tuis munusculis, alioqui lepidissimis, mihique gratissimis
-                    nihil fuerit opus. Penitius impressum est <add corresp="Olahus" type="insert"
-                        >animo meo</add> Olahi simulacrum, quam ut inde possit revelli aut aboleri,
-                    perquam grata tamen fuit ista tua supervacua sollicitudo, quippe quam intelligo
-                    ab </p>
+                        <persName>Quirini</persName><note xml:id="note.2">Quirinus Hagius of The
+                        Hague.</note> mei narratione mihi videor liquido deprehendisse, ut tuis
+                    munusculis, alioqui lepidissimis, mihique gratissimis nihil fuerit opus.
+                    Penitius impressum est <add corresp="Olahus" type="insert">animo meo</add> Olahi
+                    simulacrum, quam ut inde possit revelli aut aboleri, perquam grata tamen fuit
+                    ista tua supervacua sollicitudo, quippe quam intelligo ab </p>
                 <pb facs="15301007_1_2.jpg"/>
                 <p xml:id="p.4">amoris abundantia proficisci. Hoc quoque voluptatis adferet mihi
-                    cocleare tuum ac fuscinula,<note type="critic" xml:id="note.3">See Ep. 88. Note
+                    cocleare tuum ac fuscinula,<note xml:id="note.3">See Ep. 88. Note
                             3.<ref>olahus.tei.15300921_1</ref></note> quod hac certe ratione
                     Nicolaum meum habiturus sum convivam, ac subinde licebit amiculis dicere: “hic
                     est ille meus Olahus”, quando reliquam vitae consuetudinem nobis invidere

@@ -237,24 +237,24 @@
                     </body>
                 </floatingText>
                 <pb facs="15301213_1_1.jpg"/>
-                <p xml:id="p.1">Ad Michaelem comitem.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1">Ad Michaelem comitem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">[1.] Propter eam familiaritatem, quam ab ineunte aetate nostra tecum
                     coluimus sanctissime, facere non possum, quin tecum, quae ad me nova afferantur,
                     communicem. <persName>Regina</persName> mea in
-                        <placeName>Chyrendorff</placeName><note type="critic" xml:id="note.2"
-                        >Kirchdorf an der Krems.</note> dat operam venationi sibi naturaeque suae
-                    iucundissimae. Ad quam heri ad multam noctem <persName>locumtenens regius
-                        Viennensis</persName><note type="critic" xml:id="note.3">Georg, Baron of
-                        Puchheim at Raabs and Krumbach.</note> misit nuntium cum litteris. Quae
-                    postea hodie ad me sunt missa, in quibus significavit <persName>Mechmeth
-                        becum</persName><note type="critic" xml:id="note.4">Yahya-Pasha-zade Mehmed
-                        Bey.</note> infra <placeName>Budam</placeName> cum tribus equitum levis
-                    armaturae millibus et centum nassadis his diebus fuisse. Turcas, qui in nassadis
-                    erant, et eos etiam, qui in ripa Danubii iaculatos ex quattuor tormentis aeneis
-                    campestribus, quae secum attulerant, in nostram classem, nihil tamen fecisse
-                    damni, capitaneum autem regium <persName>Wilhelmum a Rogendorff</persName>
-                    audito Turcarum adventu ex omnibus fere militum </p>
+                        <placeName>Chyrendorff</placeName><note xml:id="note.2">Kirchdorf an der
+                        Krems.</note> dat operam venationi sibi naturaeque suae iucundissimae. Ad
+                    quam heri ad multam noctem <persName>locumtenens regius
+                        Viennensis</persName><note xml:id="note.3">Georg, Baron of Puchheim at Raabs
+                        and Krumbach.</note> misit nuntium cum litteris. Quae postea hodie ad me
+                    sunt missa, in quibus significavit <persName>Mechmeth becum</persName><note
+                        xml:id="note.4">Yahya-Pasha-zade Mehmed Bey.</note> infra
+                        <placeName>Budam</placeName> cum tribus equitum levis armaturae millibus et
+                    centum nassadis his diebus fuisse. Turcas, qui in nassadis erant, et eos etiam,
+                    qui in ripa Danubii iaculatos ex quattuor tormentis aeneis campestribus, quae
+                    secum attulerant, in nostram classem, nihil tamen fecisse damni, capitaneum
+                    autem regium <persName>Wilhelmum a Rogendorff</persName> audito Turcarum adventu
+                    ex omnibus fere militum </p>
                 <pb facs="15301213_1_2.jpg"/>
                 <p xml:id="p.3">Budam obsidentium stationibus aliquam partem evocasse, sed ita, ut
                     integrum castrorum numerum sub <placeName>Buda</placeName> reliquerit, hosque
@@ -262,9 +262,9 @@
                     millia, husaronum mille fuissent, misisse Turcis obviam. Ex his peditibus
                     quadringenti forte vino, ut mos est Germanorum, perfusi et ordinem suum
                     relinquentes contulerant se in villam <placeName>Pestho</placeName><note
-                        type="critic" xml:id="note.5">Pest.</note> propinquam. Qui a Turcis istic
-                    reperti, turpiter sunt profligati, ex quibus trecenti interfecti, centum residui
-                    abducti in castra Turcarum, ibique pecudum more ense trucidati. </p>
+                        xml:id="note.5">Pest.</note> propinquam. Qui a Turcis istic reperti,
+                    turpiter sunt profligati, ex quibus trecenti interfecti, centum residui abducti
+                    in castra Turcarum, ibique pecudum more ense trucidati. </p>
                 <p xml:id="p.4"> [2.] Nostri autem, qui obviam Turcis iverant, coacti sunt rursus ad
                     oppugnationem Budensem reverti. Nam Turci in fugam conversi eos exspectare
                     noluerunt. <persName>Wilhelmus a Rogendorff</persName> eius est propositi, ut

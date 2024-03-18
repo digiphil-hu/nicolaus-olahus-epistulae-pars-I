@@ -239,53 +239,51 @@
                     rerum omnium caritatem ac penuriam, etiam </p>
                 <pb facs="15290111_1_2.jpg"/>
                 <p xml:id="p.3">a pestis contagione periculum est. Fratres nescio quot minores ad
-                    Sanctum Ioannem<note type="critic" xml:id="note.1">The Minorite monks of the
-                        former St. John monastery of Buda.</note> et in utraque civitate nonnulli
-                    hoc morbi genere perierunt. Cupio, ne <persName>maiestati reginali</persName>
-                    desint istic aves aut ferae, quas animi et voluptatis causa sectetur, donec
+                    Sanctum Ioannem<note xml:id="note.1">The Minorite monks of the former St. John
+                        monastery of Buda.</note> et in utraque civitate nonnulli hoc morbi genere
+                    perierunt. Cupio, ne <persName>maiestati reginali</persName> desint istic aves
+                    aut ferae, quas animi et voluptatis causa sectetur, donec
                         <persName>rex</persName> in <placeName>Hungariam</placeName> fuerit
                     reversus. At ubi maiestas regia <placeName>Posonium</placeName> aut
-                        <placeName>Owar</placeName><note type="critic" xml:id="note.2"
-                        >Magyaróvár.</note> attigerit, nolim in Moravia anas aut lepusculus maneat,
-                    qui maiestatem reginalem punctum temporis istic remoretur. </p>
+                        <placeName>Owar</placeName><note xml:id="note.2">Magyaróvár.</note>
+                    attigerit, nolim in Moravia anas aut lepusculus maneat, qui maiestatem reginalem
+                    punctum temporis istic remoretur. </p>
                 <p xml:id="p.4"> [2.] Novi nihil, quam quod exercitus reginalis in factionem
                         <persName>Ioannis</persName> atque adeo in ipsum
                         <persName>Ioannem</persName> progreditur.
-                        <persName>Habardanecz</persName><note type="critic" xml:id="note.3">János
-                        Habardanecz was an agent of King Ferdinand I, from 1527 he worked as an
-                        intermediary between King Ferdinand I and Jovan Nenad, the “Black Man”.
-                        About this conflict see <hi rend="smallcap">Kasza</hi> 2012, 165, note 5. In
-                        1528 Habardanecz went to the Porta as a member of the legation, trying to
-                        offer peace, but Suleiman I rejected it. About his report see <hi
-                            rend="smallcap">Barta–Fodor–Kun</hi> 1996.</note> rediit. Ferunt
-                        <persName>Gasparum Seredi</persName><note type="critic" xml:id="note.4"
-                        >Gáspár Serédy (†1550) was Custos of the Cathedral Chapter of Vác in 1522,
-                        later Secretary of the Queen between 1525–1526, and one of the most
-                        influential counsellors of King Ferdinand I in the early 1530s. He was also
-                        Commander in Chief of Upper Hungary between 1527–1550.</note> nostrum in
-                    festo <add corresp="Olahus" type="insert">Natalis</add> Domini fecisse ad
-                        <placeName>Wyhel</placeName><note type="critic" xml:id="note.5">Wiener
-                        Neustadt.</note> excursionem, cepisse multos, sed praecipuos
-                        <persName>Michaelem Farnay</persName><note type="critic" xml:id="note.6"
-                        >Mihály Farnay. János Szapolyai summoned him in 1524 because Farnay, László
-                        Nagy and Mihály Várdai were abusing their power in the Chapter of
-                        Transylvania, see <hi rend="smallcap">Beke</hi> 1891, 119.</note> et
-                        <persName>Laurentium Barber</persName>.<note type="critic" xml:id="note.7"
-                        >We do not know him more closely.</note> Mei equites et
-                        <persName>Bebeck</persName><note type="critic" xml:id="note.8">Ferenc Bebek
-                        (†1558) was <hi rend="italic">ispán</hi> of Gömör county and Captain of
-                        Upper Hungary.</note> cum <persName>Callay</persName><note type="critic"
-                        xml:id="note.9">János Vitéz of Kiskálló (Kállay) was the Ban of Severin in
-                        1522. After Mohács, he was loyal to King John I, see <hi rend="smallcap"
-                            >Kasza</hi> 2012, 159. </note> et <persName>Ladislao
-                        Magno</persName><note type="critic" xml:id="note.10">He can be identified as
-                        Ladislaus Nagh or Nagy, who occurs in Brodarics’ correspondence, see <hi
-                            rend="smallcap">Kasza</hi> 2012, 390. Six month later, a document shows
-                        that Ferenc Nádasdy, László Nagy, and Gothárd Kun bore arms against Upper
-                        Hungarian captains Gáspár Serédy and Ferenc Bebek while besieging Boldogkő.
-                        See ÖStA HHStA UA AA Fasc. 15. Konv. B. fol. 23.</note> hoc triduo manus
-                    conseruisse dicuntur ad oppidum <placeName>Forro</placeName>; qui fuerit eventus
-                    pugnae, nondum intelligo. </p>
+                        <persName>Habardanecz</persName><note xml:id="note.3">János Habardanecz was
+                        an agent of King Ferdinand I, from 1527 he worked as an intermediary between
+                        King Ferdinand I and Jovan Nenad, the “Black Man”. About this conflict see
+                            <hi rend="smallcap">Kasza</hi> 2012, 165, note 5. In 1528 Habardanecz
+                        went to the Porta as a member of the legation, trying to offer peace, but
+                        Suleiman I rejected it. About his report see <hi rend="smallcap"
+                            >Barta–Fodor–Kun</hi> 1996.</note> rediit. Ferunt <persName>Gasparum
+                        Seredi</persName><note xml:id="note.4">Gáspár Serédy (†1550) was Custos of
+                        the Cathedral Chapter of Vác in 1522, later Secretary of the Queen between
+                        1525–1526, and one of the most influential counsellors of King Ferdinand I
+                        in the early 1530s. He was also Commander in Chief of Upper Hungary between
+                        1527–1550.</note> nostrum in festo <add corresp="Olahus" type="insert"
+                        >Natalis</add> Domini fecisse ad <placeName>Wyhel</placeName><note
+                        xml:id="note.5">Wiener Neustadt.</note> excursionem, cepisse multos, sed
+                    praecipuos <persName>Michaelem Farnay</persName><note xml:id="note.6">Mihály
+                        Farnay. János Szapolyai summoned him in 1524 because Farnay, László Nagy and
+                        Mihály Várdai were abusing their power in the Chapter of Transylvania, see
+                            <hi rend="smallcap">Beke</hi> 1891, 119.</note> et <persName>Laurentium
+                        Barber</persName>.<note xml:id="note.7">We do not know him more
+                        closely.</note> Mei equites et <persName>Bebeck</persName><note
+                        xml:id="note.8">Ferenc Bebek (†1558) was <hi rend="italic">ispán</hi> of
+                        Gömör county and Captain of Upper Hungary.</note> cum
+                        <persName>Callay</persName><note xml:id="note.9">János Vitéz of Kiskálló
+                        (Kállay) was the Ban of Severin in 1522. After Mohács, he was loyal to King
+                        John I, see <hi rend="smallcap">Kasza</hi> 2012, 159. </note> et
+                        <persName>Ladislao Magno</persName><note xml:id="note.10">He can be
+                        identified as Ladislaus Nagh or Nagy, who occurs in Brodarics’
+                        correspondence, see <hi rend="smallcap">Kasza</hi> 2012, 390. Six month
+                        later, a document shows that Ferenc Nádasdy, László Nagy, and Gothárd Kun
+                        bore arms against Upper Hungarian captains Gáspár Serédy and Ferenc Bebek
+                        while besieging Boldogkő. See ÖStA HHStA UA AA Fasc. 15. Konv. B. fol.
+                        23.</note> hoc triduo manus conseruisse dicuntur ad oppidum
+                        <placeName>Forro</placeName>; qui fuerit eventus pugnae, nondum intelligo. </p>
                 <p xml:id="p.5"> Bene vale et me tui esse amantissimum nihil dubites. Negotia tua,
                     quae ad me referentur perinde, atque mea curabo diligenter. </p>
                 <p xml:id="p.6"> Bene vale. <placeName>Budae</placeName> XI. Ianuarii anno 1529.

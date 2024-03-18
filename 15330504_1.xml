@@ -234,24 +234,23 @@
                 <pb/>
                 <p xml:id="p.1">Nicolaus Nicolai Grudius caesareae maiestatis secretarius Nicolao
                     Olao thesaurario Albensi secretario etc. reginae serenissimae.</p>
-                <p xml:id="p.2">Post alteras meas litteras, quas<note type="critic" xml:id="note.1"
-                        >See Ep. 357.<ref>olahus.tei.15330427_1</ref></note> ante paucos dies ad
+                <p xml:id="p.2">Post alteras meas litteras, quas<note xml:id="note.1">See Ep.
+                            357.<ref>olahus.tei.15330427_1</ref></note> ante paucos dies ad
                     Dominationem Tuam scripsi, negotium Erasmicum ut pollicitus eram, quantum potui
                     diligentissime fidelissimeque sollicitavi, et quidem (quod vehementer gaudeo)
                     non sine successu. Scribit enim per hunc ipsum veredarium
                         <persName>caesar</persName> ad <persName>reginam</persName>, et
-                        <persName>dominus a Granulea</persName><note type="critic" xml:id="note.2"
-                        >Nicolas Perrenot de Granvelle (1486–1550) was a diplomat, chancellor of
-                        Emperor Charles V, and one of his most important councillors. There is no
-                        record of a direct connection between Erasmus and him, “but in March 1533
-                        Jean (II) de Carondelet wrote [...] to Granvelle in an effort to facilitate
-                        Erasmus’ return to the Netherlands”, see <hi rend="smallcap">Aulinger</hi>
-                        1987.</note> ad <persName>Panormitanum</persName><note type="critic"
-                        xml:id="note.3">Jean II Carondelet.</note> plane favorabiliter, ut ipse
-                    plenius vel ab ipsa <persName>regina</persName> vel
-                        <persName>Panormitano</persName> cognosces. Nam mihi non suppetit in
-                    praesentia otium fusius cum Tua Dominatione agendi. Serenissimae
-                        <persName>reginae</persName>, cui me iam olim devovi, servitia mea
+                        <persName>dominus a Granulea</persName><note xml:id="note.2">Nicolas
+                        Perrenot de Granvelle (1486–1550) was a diplomat, chancellor of Emperor
+                        Charles V, and one of his most important councillors. There is no record of
+                        a direct connection between Erasmus and him, “but in March 1533 Jean (II) de
+                        Carondelet wrote [...] to Granvelle in an effort to facilitate Erasmus’
+                        return to the Netherlands”, see <hi rend="smallcap">Aulinger</hi>
+                        1987.</note> ad <persName>Panormitanum</persName><note xml:id="note.3">Jean
+                        II Carondelet.</note> plane favorabiliter, ut ipse plenius vel ab ipsa
+                        <persName>regina</persName> vel <persName>Panormitano</persName> cognosces.
+                    Nam mihi non suppetit in praesentia otium fusius cum Tua Dominatione agendi.
+                    Serenissimae <persName>reginae</persName>, cui me iam olim devovi, servitia mea
                     humillima, si dabitur occasio, offeres, et vicissim mihi, quidquid voles,
                     imperabis. Cupio me <persName>Erasmo</persName> a te fieri commendatum.
                     Vale.</p>

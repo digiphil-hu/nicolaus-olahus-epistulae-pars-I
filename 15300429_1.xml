@@ -277,14 +277,14 @@
                     simultates, diuturnaque dissidia mitigaverit, nemo est omnium, qui non viderit.
                     Pacem cum summo pontifice, Venetis et aliis Italia potentatibus intra duos
                     menses cum insigni laude pepigit. Coronam caesaream
-                        <placeName>Bononiae</placeName><note type="critic" xml:id="note.1"
-                        >Bologna.</note> accepit.</p>
+                        <placeName>Bononiae</placeName><note xml:id="note.1">Bologna.</note>
+                    accepit.</p>
                 <p xml:id="p.7">Nunc expeditionem Turcicam, quam multi imperatores ante eum frustra
                     tentarunt, restaurare cupiens pergit ire ad conventum imperialem,<note
-                        type="critic" xml:id="note.2">The Imperial Diet of Augsburg was inaugurated
-                        by the Emperor on June 20.</note> ut istic quoque animis hominum
-                    dissidentium et principum ad veram concordiam, pacem et <del corresp="Olahus"
-                        >mutuam caritatem</del><add corresp="Olahus" type="corr">mutuum amorem</add><choice>
+                        xml:id="note.2">The Imperial Diet of Augsburg was inaugurated by the Emperor
+                        on June 20.</note> ut istic quoque animis hominum dissidentium et principum
+                    ad veram concordiam, pacem et <del corresp="Olahus">mutuam caritatem</del><add
+                        corresp="Olahus" type="corr">mutuum amorem</add><choice>
                         <orig>revocatis</orig>
                         <supplied>revocatus</supplied>
                     </choice>, hanc ipsam expeditionem Turcicam suscipiat, ad eam omnes, qui vere

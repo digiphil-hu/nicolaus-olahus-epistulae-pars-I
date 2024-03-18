@@ -240,55 +240,53 @@
                 <pb facs="15330709_1_1.jpg"/>
                 <p xml:id="p.1">Ruthgerus Rescius Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Quaerenti mihi baiulum, per quem mitterem tibi opus domini
-                        <persName>Ioannis Drutonis</persName>,<note type="critic" xml:id="note.1"
-                        >Probably Jan Driedo of Turnhout. His <hi rend="italic">De ecclesiasticis
-                            scripturis et dogmatibus</hi> was printed by Ressen on 10 June, 1533.
-                        See 15320225_1. Note 10, and onto the printed book, see <hi rend="smallcap"
-                            >Gulik</hi> 2018, 324.</note> commode heri occurit tuus
-                        <persName>Ioannes</persName>,<note type="critic" xml:id="note.2">Probably
-                        Johann Henckel the Younger.</note> cui commisi hoc ipsum Dominationi Tuae
-                    offerendum. Adiecimus <persName>Hippocratis</persName><title><hi rend="italic"
-                            >Aphorismos</hi></title><note type="critic" xml:id="note.3"><hi
-                            rend="italic">Aphorismos Hippocratis ex diversorum Graecorum codicum
-                            recognitione, variis lectionibus ad marginem adnotatis</hi> was edited
-                        by Ressen also in 1533, see <hi rend="smallcap">Haller</hi> 1776, 539.
-                    </note> ac utriusque operis Homerici libros tres.<note type="critic"
-                        xml:id="note.4">Ressen mentions three books, so he meant Dirk Martens’
-                        editions of Homer. Martens published the <hi rend="italic">Iliad</hi> in two
-                        volumes (1521–1523), combining the <hi rend="italic">Odyssey</hi> with other
-                        small works associated with Homer (<hi rend="italic">Batrachomyomachia &amp;
-                            hymns</hi>, 1523), see <hi rend="smallcap">Van Rooy</hi> 2017,
-                        20.</note> Ea forma Deo volente absolvemus utrumque opus. In gratiam
-                    scholasticorum tenuium distinguimus id in aliquot partes, ut commodius sumptum
-                    in recuperando ferre queant. Auspicati sumus proximis diebus <title><hi
-                            rend="italic">Odysseam</hi></title><note type="critic" xml:id="note.5"
-                        >Ressen’s edition of <hi rend="italic">Odyssey</hi> was printed in 1535, see
-                            <hi rend="smallcap">Van Rooy</hi> 2017, 22.</note> praelegere publice in
-                    collegio. Extraordinarie brevi incipiemus interpretari <title><hi rend="italic"
-                            >Iliadem</hi></title>. Si Deus nobis parserit, spero, quod intra annum
-                    utrumque opus praelegendo ad finem perducemus. Accepi proximis diebus litteras
-                    ex <placeName>Bononia</placeName>,<note type="critic" xml:id="note.6"
+                        <persName>Ioannis Drutonis</persName>,<note xml:id="note.1">Probably Jan
+                        Driedo of Turnhout. His <hi rend="italic">De ecclesiasticis scripturis et
+                            dogmatibus</hi> was printed by Ressen on 10 June, 1533. See 15320225_1.
+                        Note 10, and onto the printed book, see <hi rend="smallcap">Gulik</hi> 2018,
+                        324.</note> commode heri occurit tuus <persName>Ioannes</persName>,<note
+                        xml:id="note.2">Probably Johann Henckel the Younger.</note> cui commisi hoc
+                    ipsum Dominationi Tuae offerendum. Adiecimus
+                            <persName>Hippocratis</persName><title><hi rend="italic"
+                        >Aphorismos</hi></title><note xml:id="note.3"><hi rend="italic">Aphorismos
+                            Hippocratis ex diversorum Graecorum codicum recognitione, variis
+                            lectionibus ad marginem adnotatis</hi> was edited by Ressen also in
+                        1533, see <hi rend="smallcap">Haller</hi> 1776, 539. </note> ac utriusque
+                    operis Homerici libros tres.<note xml:id="note.4">Ressen mentions three books,
+                        so he meant Dirk Martens’ editions of Homer. Martens published the <hi
+                            rend="italic">Iliad</hi> in two volumes (1521–1523), combining the <hi
+                            rend="italic">Odyssey</hi> with other small works associated with Homer
+                            (<hi rend="italic">Batrachomyomachia &amp; hymns</hi>, 1523), see <hi
+                            rend="smallcap">Van Rooy</hi> 2017, 20.</note> Ea forma Deo volente
+                    absolvemus utrumque opus. In gratiam scholasticorum tenuium distinguimus id in
+                    aliquot partes, ut commodius sumptum in recuperando ferre queant. Auspicati
+                    sumus proximis diebus <title><hi rend="italic">Odysseam</hi></title><note
+                        xml:id="note.5">Ressen’s edition of <hi rend="italic">Odyssey</hi> was
+                        printed in 1535, see <hi rend="smallcap">Van Rooy</hi> 2017, 22.</note>
+                    praelegere publice in collegio. Extraordinarie brevi incipiemus interpretari
+                            <title><hi rend="italic">Iliadem</hi></title>. Si Deus nobis parserit,
+                    spero, quod intra annum utrumque opus praelegendo ad finem perducemus. Accepi
+                    proximis diebus litteras ex <placeName>Bononia</placeName>,<note xml:id="note.6"
                         >Bologna.</note> quibus scribitur mihi reverendissimum dominum
-                        <persName>cardinalem a Rudulphis</persName><note type="critic"
-                        xml:id="note.7">Niccolò Ridolfi (1501–1550) was an Italian cardinal. At this
-                        time, he was the administrator of Viterbo and the metropolitan see of
-                        Salerno, see <hi rend="smallcap">Byatt</hi> 1984.</note> parasse
-                    elegantissimas characteres Graecos, quibus est impressurus optimos quosque
-                    authores Graecos, et in primis <persName>Eustatii</persName>,<note type="critic"
-                        xml:id="note.8">Eustathius of Thessalonica (ca.1115–1195) was a Greek
-                        scholar and Archbishop of Thessalonica.</note> commentarios in Homerum<note
-                        type="critic" xml:id="note.9">Ressen must have been talking about a
-                        manuscript, as Eustathius’ commentaries were not printed before 1542 (in
-                        Rome), but they had been in use by humanist teachers well before that year,
-                        see <hi rend="smallcap">Pontani</hi> 2017, 201.</note> quos hactenus nemo
-                    excudit propter operis et sumptus magnitudinem. Faxit Deus, ut feliciter hoc
-                    institutum cedat. Habet in familia lascarem<note type="critic" xml:id="note.10"
-                        >Arabic word meaning ‘soldier, guard’.</note>, quo authore et hortatore
-                    sanctissimum hoc negotium suscepit. Si <persName>Eustathii</persName>
-                    commentaria habuerimus, plus et discipulis et nobis utilitatis in praelegendo
-                        <persName>Homero</persName> adferemus. Nunc non ut volumus, sed ut possumus
-                    authorem hunc enarrabimus. Bene vale, Domine Olae, et boni consule nostra
-                    chartarum munuscula.</p>
+                        <persName>cardinalem a Rudulphis</persName><note xml:id="note.7">Niccolò
+                        Ridolfi (1501–1550) was an Italian cardinal. At this time, he was the
+                        administrator of Viterbo and the metropolitan see of Salerno, see <hi
+                            rend="smallcap">Byatt</hi> 1984.</note> parasse elegantissimas
+                    characteres Graecos, quibus est impressurus optimos quosque authores Graecos, et
+                    in primis <persName>Eustatii</persName>,<note xml:id="note.8">Eustathius of
+                        Thessalonica (ca.1115–1195) was a Greek scholar and Archbishop of
+                        Thessalonica.</note> commentarios in Homerum<note xml:id="note.9">Ressen
+                        must have been talking about a manuscript, as Eustathius’ commentaries were
+                        not printed before 1542 (in Rome), but they had been in use by humanist
+                        teachers well before that year, see <hi rend="smallcap">Pontani</hi> 2017,
+                        201.</note> quos hactenus nemo excudit propter operis et sumptus
+                    magnitudinem. Faxit Deus, ut feliciter hoc institutum cedat. Habet in familia
+                        lascarem<note xml:id="note.10">Arabic word meaning ‘soldier, guard’.</note>,
+                    quo authore et hortatore sanctissimum hoc negotium suscepit. Si
+                        <persName>Eustathii</persName> commentaria habuerimus, plus et discipulis et
+                    nobis utilitatis in praelegendo <persName>Homero</persName> adferemus. Nunc non
+                    ut volumus, sed ut possumus authorem hunc enarrabimus. Bene vale, Domine Olae,
+                    et boni consule nostra chartarum munuscula.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> IX. Iulii 1533.</p>
             </div>
         </body>

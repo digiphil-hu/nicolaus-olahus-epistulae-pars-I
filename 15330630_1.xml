@@ -242,38 +242,36 @@
                 <pb facs="15330630_1_1.jpg"/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Accepimus litteras reginalis maiestatis super deputatione
-                    quingentorum florenorum.<note type="critic" xml:id="note.1">See Ep.
+                    quingentorum florenorum.<note xml:id="note.1">See Ep.
                             361.<ref>olahus.tei.15330502_1</ref></note> Agimus Dominationi Vestrae
                     gratias, quod negotium non est gravata sollicitare. Quamvis eius maiestati per
                     litteras egimus gratias, optamus tamen, ut Dominatio quoque Vestra agat,
                     studebimus hanc eius maiestatis erga nos munificentiam, quibuscumque poterimus
                     obsequiis emereri. Quod ad res privatas Dominationis Vestrae pertinet, effecimus
-                    nuper, ut dominus <persName>Valentinus Therek</persName><note type="critic"
-                        xml:id="note.2">Bálint Török.</note> pollicitus fuerit sese bona Dominationi
-                    Vestrae restituturum. Ad alios quoque mandatum <persName>regiae
-                        maiestatis</persName> expedivimus, quid secutum sit, ex litteris magistri
-                        <persName>Ioannis Czegledini</persName><note type="critic" xml:id="note.3"
-                        >János Czeglédi.</note> Dominatio Vestra cognoscet. Apud
-                        <persName>Hieronimum Horwath de Wason</persName><note type="critic"
+                    nuper, ut dominus <persName>Valentinus Therek</persName><note xml:id="note.2"
+                        >Bálint Török.</note> pollicitus fuerit sese bona Dominationi Vestrae
+                    restituturum. Ad alios quoque mandatum <persName>regiae maiestatis</persName>
+                    expedivimus, quid secutum sit, ex litteris magistri <persName>Ioannis
+                        Czegledini</persName><note xml:id="note.3">János Czeglédi.</note> Dominatio
+                    Vestra cognoscet. Apud <persName>Hieronimum Horwath de Wason</persName><note
                         xml:id="note.4">Jeromos Horváth.</note> perfici poterat, ut bona, quae
                     possidet, remissiset, verum si id fecisset, <persName>castellani de
-                        Thiconio</persName><note type="critic" xml:id="note.5">Mihály Szerémi was
-                        the Castellan of Tihany in 1534, see <hi rend="smallcap">Madarász</hi> 1997,
-                        317.</note> ea occupassent, quemadmodum fecerunt nuper de bonis capituli
-                    ecclesiae nostrae Vesprimiensis, quae dominus <persName>Ladislaus
-                        More</persName><note type="critic" xml:id="note.6">László Móré.</note>
-                    remiserat. Si is erit rerum status, ut recipi bona absque incommodo Dominationis
-                    Vestrae poterunt, cogetur <persName>Hieronimus</persName> remittere ea, sin
-                    minus, de proventibus satisfacere debebit. Ad promotionem<note type="critic"
-                        xml:id="note.7">Scilicet, to Bishop of Transylvania, see Ep.
-                            370.<ref>olahus.tei.15330527_1</ref></note> Dominationis Vestrae, quod
-                    praestare poterimus, ex animo praestabimus, quamprimum occasio data fuerit,
-                    interim etiam non omittemus Dominationem Vestram regiae maiestati commendare,
-                    quemadmodum optime meretur. Nova in praesentia nulla sunt. Tenemur exspectatione
-                    oratorum, qui ad caesarem Turcarum profecti sunt, postquam redierint,
-                    intelligemus, quo statu res nostrae futurae sint. Adversarii male observant
-                    inducias, quemadmodum semper fecerunt. Dominam
-                        <persName>Lucretiam</persName><note type="critic" xml:id="note.8">Lucretia
+                        Thiconio</persName><note xml:id="note.5">Mihály Szerémi was the Castellan of
+                        Tihany in 1534, see <hi rend="smallcap">Madarász</hi> 1997, 317.</note> ea
+                    occupassent, quemadmodum fecerunt nuper de bonis capituli ecclesiae nostrae
+                    Vesprimiensis, quae dominus <persName>Ladislaus More</persName><note
+                        xml:id="note.6">László Móré.</note> remiserat. Si is erit rerum status, ut
+                    recipi bona absque incommodo Dominationis Vestrae poterunt, cogetur
+                        <persName>Hieronimus</persName> remittere ea, sin minus, de proventibus
+                    satisfacere debebit. Ad promotionem<note xml:id="note.7">Scilicet, to Bishop of
+                        Transylvania, see Ep. 370.<ref>olahus.tei.15330527_1</ref></note>
+                    Dominationis Vestrae, quod praestare poterimus, ex animo praestabimus,
+                    quamprimum occasio data fuerit, interim etiam non omittemus Dominationem Vestram
+                    regiae maiestati commendare, quemadmodum optime meretur. Nova in praesentia
+                    nulla sunt. Tenemur exspectatione oratorum, qui ad caesarem Turcarum profecti
+                    sunt, postquam redierint, intelligemus, quo statu res nostrae futurae sint.
+                    Adversarii male observant inducias, quemadmodum semper fecerunt. Dominam
+                        <persName>Lucretiam</persName><note xml:id="note.8">Lucretia
                         Caballis.</note> verbis nostris salutetis. Ob praesentium rerum iniuriam et
                     tempestates fieri non potuit, ut eius rei, quam optat, finem consequi
                     potuissemus, speramus meliora </p>

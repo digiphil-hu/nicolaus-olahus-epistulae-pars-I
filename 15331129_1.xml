@@ -256,11 +256,11 @@
                 <p xml:id="p.2"> Ὁ <choice>
                         <orig>οἰκονομός</orig>
                         <supplied>οἰκονόμος</supplied>
-                    </choice> τοῦ κοινοβίου ὑμετέρῳ,<note type="critic" xml:id="note.1">‘economist,
-                        that is the bursar of the abbey’.</note> Doctissime Levine! Tuas mihi
-                    reddidit litteras, nostrae amicitiae nuper invitae amorisque fraterni testes,
-                    quae non eo solum nomine mihi fuerunt gratissimae, quod a me verorum amicorum
-                    more confidenter contendas, quod e re vestri ordinis </p>
+                    </choice> τοῦ κοινοβίου ὑμετέρῳ,<note xml:id="note.1">‘economist, that is the
+                        bursar of the abbey’.</note> Doctissime Levine! Tuas mihi reddidit litteras,
+                    nostrae amicitiae nuper invitae amorisque fraterni testes, quae non eo solum
+                    nomine mihi fuerunt gratissimae, quod a me verorum amicorum more confidenter
+                    contendas, quod e re vestri ordinis </p>
                 <pb facs="15331129_1_2.jpg"/>
                 <p xml:id="p.3">esse videatur, sed quod in eis tuum quoque desiderium declaras, quo
                     tentaris, ut aliquando <persName>Erasmum</persName> nostrum videre possis et
@@ -284,26 +284,24 @@
                         <persName>reginam</persName> meam, heri enim ob quasdam meas occupationes
                     adire curiam non potueram, sed sine fructu aliquo hanc praestiti operam. Quid
                     huius rei causa sit, procurator domus vestrae et antea intellexerat ex verbis
-                        <persName>Panormitani</persName><note type="critic" xml:id="note.2">Jean II
+                        <persName>Panormitani</persName><note xml:id="note.2">Jean II
                         Carondelet.</note> et postea a me edoctus est, qui latius ea de re tibi
-                    loqui poterit. Quod cupis feliciter me ἑλληνίζειν<note type="critic"
-                        xml:id="note.3">‘to study Greek’.</note> utinam id feliciter contingat, sed
-                    quam infeliciter hactenus Graecatus sim, ego quotidie experior. Misi tibi hos
-                    libellos nuper impressos. Brevi mittam et <title><hi rend="italic"
-                            >Meditationes</hi></title><persName>Clenardi</persName><note
-                        type="critic" xml:id="note.4">Oláh acquired this book at Zande’s request,
-                        see Ep. 407.<ref>olahus.tei.15330912_1</ref></note> et <title><hi
-                            rend="italic">Homiliam</hi></title> Κρυσοστόμου περὶ τοῦ ὀλίγῳ οἴνῳ
-                        χρῶ,<note type="critic" xml:id="note.5">‘[the Homily] of John Crysostom on
-                        “drinking little wine” ’, in which Crysostom comments on St. Paul’s homily
-                        against drunkenness (<hi rend="italic">Adversus ebriosos </hi>433.42–43).
-                        Oláh got this book from Ressen, see Ep.
-                        415.<ref>olahus.tei.15331013_1</ref></note> pro quibus <add corresp="Olahus"
-                        type="insert"><placeName>Lovanium</placeName></add> scripsi.
-                        <persName>Levinus</persName><note type="critic" xml:id="note.6">Lieven
-                        Algoet.</note> et <persName>Danus</persName><note type="critic"
-                        xml:id="note.7">Jakob Jespersen.</note> mei te resalutant. Vale mei non
-                    immemor.</p>
+                    loqui poterit. Quod cupis feliciter me ἑλληνίζειν<note xml:id="note.3">‘to study
+                        Greek’.</note> utinam id feliciter contingat, sed quam infeliciter hactenus
+                    Graecatus sim, ego quotidie experior. Misi tibi hos libellos nuper impressos.
+                    Brevi mittam et <title><hi rend="italic"
+                        >Meditationes</hi></title><persName>Clenardi</persName><note xml:id="note.4"
+                        >Oláh acquired this book at Zande’s request, see Ep.
+                            407.<ref>olahus.tei.15330912_1</ref></note> et <title><hi rend="italic"
+                            >Homiliam</hi></title> Κρυσοστόμου περὶ τοῦ ὀλίγῳ οἴνῳ χρῶ,<note
+                        xml:id="note.5">‘[the Homily] of John Crysostom on “drinking little wine” ’,
+                        in which Crysostom comments on St. Paul’s homily against drunkenness (<hi
+                            rend="italic">Adversus ebriosos </hi>433.42–43). Oláh got this book from
+                        Ressen, see Ep. 415.<ref>olahus.tei.15331013_1</ref></note> pro quibus <add
+                        corresp="Olahus" type="insert"><placeName>Lovanium</placeName></add>
+                    scripsi. <persName>Levinus</persName><note xml:id="note.6">Lieven Algoet.</note>
+                    et <persName>Danus</persName><note xml:id="note.7">Jakob Jespersen.</note> mei
+                    te resalutant. Vale mei non immemor.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 29. Novembris 1533.</p>
             </div>
         </body>

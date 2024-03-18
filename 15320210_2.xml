@@ -235,13 +235,13 @@
                     </body>
                 </floatingText>
                 <pb facs="15320210_2_1.jpg"/>
-                <p xml:id="p.1">Ad amicum Ioannem.<note type="critic" xml:id="note.1">We do not know
-                        him more closely.</note></p>
+                <p xml:id="p.1">Ad amicum Ioannem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Si bene recordor, praeteritique temporis memoria recte mihi
                     succurrit, annus hodie est nos ex
                         <placeName>Crempsio</placeName><placeName>Lincium</placeName> versus cum
-                    regina iter arripuisse.<note type="critic" xml:id="note.2">See Ep. 142. on 13
-                        February, 1531: “Decima huius mensis die commisimus nos ex Cremsio
+                    regina iter arripuisse.<note xml:id="note.2">See Ep. 142. on 13 February, 1531:
+                        “Decima huius mensis die commisimus nos ex Cremsio
                             itineri.”<ref>olahus.tei.</ref></note>15310213_1 Deus bone cum quanta
                     nonnullorum laetitia, et quanta rursus aliquorum tristitia. </p>
                 <pb facs="15320210_2_2.jpg"/>
@@ -266,11 +266,11 @@
                     fuit causa, ut huc venirem rebus meis Hungaricis in magno relictis discrimine.
                     Malui igitur fidei et officio meo suscepto satisfacere, quam meorum commodorum
                     aliquam habere rationem, arbitrabar Deum me pro meis in
-                        <persName>principem</persName><note type="critic" xml:id="note.3">Rare use
-                        as a female noun, probably for Queen Mary of Hungary.</note> nostram
-                    officiis non derelicturum, <persName>reginam</persName> etiam, si grata esset,
-                    meorum servitiorum rationem habituram. Habes rationem mei consilii, quod tibi
-                    notum reddere volui.</p>
+                        <persName>principem</persName><note xml:id="note.3">Rare use as a female
+                        noun, probably for Queen Mary of Hungary.</note> nostram officiis non
+                    derelicturum, <persName>reginam</persName> etiam, si grata esset, meorum
+                    servitiorum rationem habituram. Habes rationem mei consilii, quod tibi notum
+                    reddere volui.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> X. Februarii MDXXXII.</p>
             </div>
         </body>

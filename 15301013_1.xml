@@ -247,26 +247,25 @@
                 <pb facs="15301013_1_1.jpg"/>
                 <p xml:id="p.1">Ad Erasmum Rotterodamum.</p>
                 <p xml:id="p.2">[1.] Non sum dubius, quin audieris eam crudelitatem, quam
-                        <persName>Mechmeth becus</persName><note type="critic" xml:id="note.1"
-                        >Yahya-Pasha-zade Mehmed Bey (†1548). Mehmed’s life is not well-documented
-                        before 1529. When Suleiman I besieged Vienna in 1529, Mehmed Bey was the
-                        Governor of Smederevo. The following year, when the Habsburg force besieged
-                        Buda, Mehmed Bey marched into Hungary and dispelled the army of King
-                        Ferdinand I. For more about his later life see <hi rend="smallcap"
-                            >Ismail</hi> 1986, and <hi rend="smallcap">Fantazzi–Estes</hi> 2016,
-                        106–107.</note> Turca, praefectus arcis <placeName>Taurini</placeName><note
-                        type="critic" xml:id="note.2">Belgrade.</note>, quam superioribus annis cum
-                    maxima Christianitatis clade amiseramus, diebus praeteritis in Hungaria
-                    commiserit. Is enim cum decem vel circiter millibus Turcarum tam celeri itinere
-                    ex Taurino eo, ubi cladem et praedam egit, pervenisse dicitur, ut intra septimum
-                    diem hoc itineris, quod est ultra quinquaginta miliaria Hungarica<note
-                        type="critic" xml:id="note.3">According to Škoviera, here we have to count
-                        one Hungarian mile as 11 kilometres so this distance is about 550 km, see
-                            <hi rend="smallcap">Škoviera</hi> 2008, 554. For the early Hungarian
-                        distances, see <hi rend="smallcap">Bogdán</hi> 1987.</note> confecerit,
-                    illicque omnem eam regni partem, quae est terra <del corresp="Olahus"
-                        >Mathyus</del><add corresp="Olahus" type="corr">Mathiae</add><note
-                        type="critic" xml:id="note.4">Matúšova zem, see Ep. 90, and <hi
+                        <persName>Mechmeth becus</persName><note xml:id="note.1">Yahya-Pasha-zade
+                        Mehmed Bey (†1548). Mehmed’s life is not well-documented before 1529. When
+                        Suleiman I besieged Vienna in 1529, Mehmed Bey was the Governor of
+                        Smederevo. The following year, when the Habsburg force besieged Buda, Mehmed
+                        Bey marched into Hungary and dispelled the army of King Ferdinand I. For
+                        more about his later life see <hi rend="smallcap">Ismail</hi> 1986, and <hi
+                            rend="smallcap">Fantazzi–Estes</hi> 2016, 106–107.</note> Turca,
+                    praefectus arcis <placeName>Taurini</placeName><note xml:id="note.2"
+                        >Belgrade.</note>, quam superioribus annis cum maxima Christianitatis clade
+                    amiseramus, diebus praeteritis in Hungaria commiserit. Is enim cum decem vel
+                    circiter millibus Turcarum tam celeri itinere ex Taurino eo, ubi cladem et
+                    praedam egit, pervenisse dicitur, ut intra septimum diem hoc itineris, quod est
+                    ultra quinquaginta miliaria Hungarica<note xml:id="note.3">According to
+                        Škoviera, here we have to count one Hungarian mile as 11 kilometres so this
+                        distance is about 550 km, see <hi rend="smallcap">Škoviera</hi> 2008, 554.
+                        For the early Hungarian distances, see <hi rend="smallcap">Bogdán</hi>
+                        1987.</note> confecerit, illicque omnem eam regni partem, quae est terra
+                        <del corresp="Olahus">Mathyus</del><add corresp="Olahus" type="corr"
+                        >Mathiae</add><note xml:id="note.4">Matúšova zem, see Ep. 90, and <hi
                             rend="smallcap">Fantazzi–Estes</hi> 2016, 107, Note 4. <hi
                             rend="smallcap">V. Kovács</hi> erroneously translated it as ‘Mátyásföld’
                         instead of ‘Mátyusföld’.<ref>olahus.tei.15301001_1</ref></note> a nostris
@@ -274,8 +273,8 @@
                     robustior et vigentior, ultra quindecim <add corresp="Olahus" type="insert"><del
                             corresp="Olahus">triginta</del></add><!--<O add. sup. l. et del.-->
                     milia captos in Turciam praemisit.</p>
-                <p xml:id="p.3">[2.] Dicitur<note type="critic" xml:id="note.5">See Thurzó’s letter
-                        to King Ferdinand I at the end of October 1530, and also <hi rend="smallcap"
+                <p xml:id="p.3">[2.] Dicitur<note xml:id="note.5">See Thurzó’s letter to King
+                        Ferdinand I at the end of October 1530, and also <hi rend="smallcap"
                             >Erdélyi</hi> 2005, 220–228, especially 224.</note><del corresp="Olahus"
                         >stationem</del><add corresp="Olahus" type="corr">stationes tres</add>
                     habuisse in quibusdam pagis Alexii Turzonis, qui cum post Turcarum abitionem
@@ -286,10 +285,9 @@
                     gladio, partim terrae illisos istic mortuos reperisse. Ex quibus quinquaginta
                     trahentes adhuc aegre spiritum delegisse et duobus curribus, ut revocari in
                     sanitatem aliqua cura possent, ad castrum suum
-                        <placeName>Sempthe</placeName><note type="critic" xml:id="note.6"
-                        >Šintava.</note> misisse dicitur pietate erga <del corresp="Olahus"
-                        >pueros</del><add corresp="Olahus" type="corr">semivivos</add> infantes et
-                    crudelitate permotus Turcarum. </p>
+                        <placeName>Sempthe</placeName><note xml:id="note.6">Šintava.</note> misisse
+                    dicitur pietate erga <del corresp="Olahus">pueros</del><add corresp="Olahus"
+                        type="corr">semivivos</add> infantes et crudelitate permotus Turcarum. </p>
                 <p xml:id="p.5"> Vide, mi Erasme, quam gravi Christianus populus prematur tyrannide
                     et Hungaria, quae olim magnis florebat triumphis, magna virtute ac illustribus
                     suorum splendebat facinoribus, quam magnam nunc patiatur servitutem, ut nec dies

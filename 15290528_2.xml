@@ -240,18 +240,18 @@
                     </body>
                 </floatingText>
                 <pb facs="15290528_2_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Iohannem Brassicanum</persName><note type="critic"
-                        xml:id="note.1">Johann Ludwig Brassicanus (1509–1549) was a philologist,
-                        jurist, an advisor to the Habsburg Monarchy and the younger brother of
-                        Johann Alexander Brassicanus, the famous professor of the University of
-                        Tübingen. Both of them were in Vienna at this time.</note> responsio. </p>
+                <p xml:id="p.1">Ad <persName>Iohannem Brassicanum</persName><note xml:id="note.1"
+                        >Johann Ludwig Brassicanus (1509–1549) was a philologist, jurist, an advisor
+                        to the Habsburg Monarchy and the younger brother of Johann Alexander
+                        Brassicanus, the famous professor of the University of Tübingen. Both of
+                        them were in Vienna at this time.</note> responsio. </p>
                 <p xml:id="p.2">Quod tu Erasmi famulum, mi Brassicane, mihi tantopere commendas,
                     facis tu quidem amici officium, qui soleas facere amicos apud me commendatos, et
                     tua igitur commendatione, et <persName>Erasmi</persName> nomine fuit
-                        <persName>Poliphemus</persName><note type="critic" xml:id="note.2">Felix Rex
-                        (†1549) worked at the Froben printing house in Ghent. Erasmus gave him the
-                        nickname Polyphemus and prepared his <hi rend="italic">Cyclops</hi> at Rex’
-                        request. Rex often delivered Erasmus’ letters, e.g. he handed over the <hi
+                        <persName>Poliphemus</persName><note xml:id="note.2">Felix Rex (†1549)
+                        worked at the Froben printing house in Ghent. Erasmus gave him the nickname
+                        Polyphemus and prepared his <hi rend="italic">Cyclops</hi> at Rex’ request.
+                        Rex often delivered Erasmus’ letters, e.g. he handed over the <hi
                             rend="italic">Vidua Christiana</hi> to Queen Mary of Habsburg, see <hi
                             rend="smallcap">Allen</hi> 1934, 99. Although he had good
                         recommendations, such as from Luther and Melanchthon, he did not find a
@@ -274,14 +274,13 @@
                     eruditionem non suspicerem? Qui a tot illustribus viris et celebratus iam olim
                     est, et nunc quoque in ore bonorum omnium versatur? Viderer, ni id facerem,
                     omnium esse incivilior, daturus sum ad eum meas, ut tu cupis, litteras. </p>
-                <p xml:id="p.3"> Tu et <persName>frater tuus</persName><note type="critic"
-                        xml:id="note.3">Johann Alexander Brassicanus (ca. 1500–1539) German humanist
-                        author and a famous professor of the University of Tübingen. For more see
-                            <hi rend="smallcap">Guenther</hi> 1985c.</note> scient, quid de me <del
-                        corresp="Olahus">illi</del><add corresp="Olahus" type="corr">ad illum</add>
-                    scribant. Credo ambos, quae vera erunt scripturos, non est opus, cur vos
-                    scriptionis admoneam, satis superque mei nominis observantissimos et mihi
-                    amicissimos. Vale. </p>
+                <p xml:id="p.3"> Tu et <persName>frater tuus</persName><note xml:id="note.3">Johann
+                        Alexander Brassicanus (ca. 1500–1539) German humanist author and a famous
+                        professor of the University of Tübingen. For more see <hi rend="smallcap"
+                            >Guenther</hi> 1985c.</note> scient, quid de me <del corresp="Olahus"
+                        >illi</del><add corresp="Olahus" type="corr">ad illum</add> scribant. Credo
+                    ambos, quae vera erunt scripturos, non est opus, cur vos scriptionis admoneam,
+                    satis superque mei nominis observantissimos et mihi amicissimos. Vale. </p>
                 <p xml:id="p.4"><placeName>Znoymae</placeName> 28. Maii 1529. </p>
             </div>
         </body>

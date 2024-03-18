@@ -241,13 +241,11 @@
                     apparatum et exercitum, qui ex eo regno venire debebat, fama advenit Turcam
                     tentata septies cum suorum strage Wiennensi oppugnatione ignominiose aufugisse
                     liberatamque <placeName>Wiennam</placeName> ab hac quam periculosa
-                        obsidione.<note type="critic" xml:id="note.1">The retreat took place on 16
-                        October.</note> Sub idem fere tempus <persName>regina Anna</persName><note
-                        type="critic" xml:id="note.2">See Ep. 94. Note
-                            4.<ref>olahus.tei.15291008_1</ref></note> parabat cum liberis suis
-                    abitionem ad <placeName>Aenipontem</placeName>,<note type="critic"
-                        xml:id="note.3">Innsbruck.</note> ut iussum ei erat a
-                        <persName>rege</persName>. </p>
+                        obsidione.<note xml:id="note.1">The retreat took place on 16 October.</note>
+                    Sub idem fere tempus <persName>regina Anna</persName><note xml:id="note.2">See
+                        Ep. 94. Note 4.<ref>olahus.tei.15291008_1</ref></note> parabat cum liberis
+                    suis abitionem ad <placeName>Aenipontem</placeName>,<note xml:id="note.3"
+                        >Innsbruck.</note> ut iussum ei erat a <persName>rege</persName>. </p>
                 <p xml:id="p.4"> [2.] Nos vero cum regina nostra <persName>Maria</persName> eramus
                     ultra quam dici potest solliciti, utrum ad <placeName>Aenipontem</placeName>, an
                     in <placeName>Bohemiam</placeName> iter faceremus. Nam profectio illa
@@ -268,7 +266,7 @@
                     discessione, qua intellecta descendimus sine <choice>
                         <orig>contatione</orig>
                         <supplied>cunctatione</supplied>
-                    </choice> ex <placeName>Patavio</placeName><note type="critic" xml:id="note.4"
+                    </choice> ex <placeName>Patavio</placeName><note xml:id="note.4"
                         >Passau.</note><placeName>Lincium</placeName>. </p>
                 <p xml:id="p.5"> [3.] Triduo post advenit rex <persName>Ferdinandus</persName>, non
                     eo tamen quo exspectabamus itinere, nam ex via diverterat

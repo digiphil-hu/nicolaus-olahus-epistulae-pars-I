@@ -249,10 +249,10 @@
                                 </floatingText>
                                 <pb facs="15310215_1_1.jpg"/>
                                 <p xml:id="p.1">Nicolai Olai ad Ioannem episcopum.<note
-                                                type="critic" xml:id="note.1">Jan Dantyszek,
-                                                according to the critical edition of his
-                                                correspondence, see <hi rend="smallcap"
-                                                  >Skolimowska–Turska</hi> 2010.</note></p>
+                                                xml:id="note.1">Jan Dantyszek, according to the
+                                                critical edition of his correspondence, see <hi
+                                                  rend="smallcap">Skolimowska–Turska</hi>
+                                                2010.</note></p>
                                 <p xml:id="p.2">[1.] Non sum nescius, quibus semper beneficiis ac
                                         ornamentis affeceris eos, qui tui nominis fuerunt
                                         observantes, et non eos <choice>
@@ -273,7 +273,7 @@
                                         factum esse dissimilem, et </p>
                                 <pb facs="15310215_1_2.jpg"/>
                                 <p xml:id="p.3">te consuetudinis humanae esse oblitum.</p>
-                                <p xml:id="p.4">[2.] <persName>Iodocus</persName><note type="critic"
+                                <p xml:id="p.4">[2.] <persName>Iodocus</persName><note
                                                 xml:id="note.2">Probably Justus Ludwik Decjusz or
                                                 Jakob Ludwig Dietz (ca. 1485–1545), royal envoy to
                                                 Italy, merchant, historian, reformer of the Polish

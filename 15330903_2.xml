@@ -241,8 +241,8 @@
                 </floatingText>
                 <pb facs="15330903_2_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem Cegledinum provisorem.</p>
-                <p xml:id="p.2">[1.] Quaternas tuas litteras,<note type="critic" xml:id="note.1"
-                        >These letters are not extant.</note> quas XVII., XV., XVIII. die Iunii ex
+                <p xml:id="p.2">[1.] Quaternas tuas litteras,<note xml:id="note.1">These letters are
+                        not extant.</note> quas XVII., XV., XVIII. die Iunii ex
                         <placeName>Vienna</placeName> et ex <placeName>Posonio</placeName> XXIII.
                     eiusdem mensis ad me dedisti, XXVI. huius mensis Augusti simul accepi. Postremas
                     vero, quas <placeName>Posonio</placeName> XII. Iunii praeteriti scripsisti,
@@ -267,10 +267,9 @@
                     potes? Non ego aut tu solum patimur nunc miseriam, egestatem et exilium durius
                     quodammodo morte, sed multos habemus horum malorum socios, quos tu ipse mihi
                     saepius in tuis litteris commemorasti, videlicet
-                        <persName>Strigoniensem</persName>,<note type="critic" xml:id="note.2">Pál
-                        Várday.</note><persName>Agriensem</persName>,<note type="critic"
-                        xml:id="note.3">Tamás
-                        Szalaházy.</note><persName>Transsylvaniensem</persName>,<note type="critic"
+                        <persName>Strigoniensem</persName>,<note xml:id="note.2">Pál
+                        Várday.</note><persName>Agriensem</persName>,<note xml:id="note.3">Tamás
+                        Szalaházy.</note><persName>Transsylvaniensem</persName>,<note
                         xml:id="note.4">Miklós Gerendi.</note> comites, barones, nobiles. An putas
                     me in hortum Hesperidum decidisse, dum hic sum? An mihi nihil deesse? Erras
                     certe, si hoc putas. Esto, nihil desit, deest tamen multum, cum absum a meis,
@@ -287,12 +286,11 @@
                     providere aliquo beneficio. Ubi est beneficium, quod nunc vere possideam? Omnia
                     fuerunt hactenus turbata. Si quaerimus, cuius culpa, nescio, voluntati ipsius
                     divinae tribuenda sint omnia, qui hac poenitentia et, ut uno verbo dicam, τῆ
-                        ἀνεξικακίᾳ<note type="critic" xml:id="note.5">‘with patience’.</note>
-                    nostros reatus diluere voluerit, deinde hominum facinorosorum nostrae aetatis τῆ
-                        πανουργίᾳ<note type="critic" xml:id="note.6">‘[it has to be ascribed to] his
-                        wickedness’.</note> et improbitati, qui carnificem Dei in aliorum
-                    cruciatibus et direptionibus agunt. At pro te non egi, dum captus eras? Quomodo
-                    potui pro <choice>
+                        ἀνεξικακίᾳ<note xml:id="note.5">‘with patience’.</note> nostros reatus
+                    diluere voluerit, deinde hominum facinorosorum nostrae aetatis τῆ πανουργίᾳ<note
+                        xml:id="note.6">‘[it has to be ascribed to] his wickedness’.</note> et
+                    improbitati, qui carnificem Dei in aliorum cruciatibus et direptionibus agunt.
+                    At pro te non egi, dum captus eras? Quomodo potui pro <choice>
                         <orig>tu agerem</orig>
                         <supplied>te agere</supplied>
                     </choice>, si ante emissus eras, quam te audivissem cum magno dolore meo captum,
@@ -314,28 +312,27 @@
                     damnum patiar. Damnum tuum ego non cupio, multo minus periculum, quod meo quoque
                     aliquali detrimento vitarem. Omnia, quae ad rem meam pertinuerunt, hinc quantum
                     potui procurari, regem et mihi rebusque meis et tibi feci faventem
-                        <persName>Tridentinum</persName>,<note type="critic" xml:id="note.7"
-                        >Bernhard von Cles.</note><persName>Lundensem</persName>,<note type="critic"
-                        xml:id="note.8">Johan Weze.</note><persName>Agriensem</persName> et alios,
-                    quos tu nosti patronos. Cura, ut sicuti in te confido, nihil in te deesse
-                    videatur, fac extreme non, quod non potes, sed quod potes. Spero, non
-                    frustraberis labore, tot patronis propitiis, modo non refrigescas in incoepta
-                    diligentia et in omnimoda </p>
+                        <persName>Tridentinum</persName>,<note xml:id="note.7">Bernhard von
+                        Cles.</note><persName>Lundensem</persName>,<note xml:id="note.8">Johan
+                        Weze.</note><persName>Agriensem</persName> et alios, quos tu nosti patronos.
+                    Cura, ut sicuti in te confido, nihil in te deesse videatur, fac extreme non,
+                    quod non potes, sed quod potes. Spero, non frustraberis labore, tot patronis
+                    propitiis, modo non refrigescas in incoepta diligentia et in omnimoda </p>
                 <pb facs="15330903_2_3.jpg"/>
                 <p xml:id="p.5">cura, ut bona mea, ex quibus et mihi et tibi benefacere possim,
-                    recuperes. Credo iam <persName>Cornelium</persName><note type="critic"
-                        xml:id="note.9">Cornelis de Schepper.</note> rediisse et finem rerum mearum
-                    retulisse, ut opinor et ut ex <placeName>Constantinopoli</placeName> nuper ad me
-                    scripsit, bonum et optatum. Erit, ut existimo, in eius reditu iam finis
-                    aliqualis laborum et miseriarum nostrorum omnium. Non cessa igitur praedictorum
-                    opera, consilio et auxilio rem nostram in optatum deducere finem; quod puto
-                    futurum ex Dei clementia. Nam <persName>Cornelius</persName> scripsit mihi,
-                    omnia mea esse tuta, nihilque me dubitare debere. Quam rem ab eo ipso intelliges
-                    clarius, si reversus est.</p>
+                    recuperes. Credo iam <persName>Cornelium</persName><note xml:id="note.9"
+                        >Cornelis de Schepper.</note> rediisse et finem rerum mearum retulisse, ut
+                    opinor et ut ex <placeName>Constantinopoli</placeName> nuper ad me scripsit,
+                    bonum et optatum. Erit, ut existimo, in eius reditu iam finis aliqualis laborum
+                    et miseriarum nostrorum omnium. Non cessa igitur praedictorum opera, consilio et
+                    auxilio rem nostram in optatum deducere finem; quod puto futurum ex Dei
+                    clementia. Nam <persName>Cornelius</persName> scripsit mihi, omnia mea esse
+                    tuta, nihilque me dubitare debere. Quam rem ab eo ipso intelliges clarius, si
+                    reversus est.</p>
                 <p xml:id="p.6">[3.] In aliis litteris, quas XXII. Iulii scripsisti, significas te
-                    personaliter apud <persName>Valentinum Theuvrek</persName><note type="critic"
-                        xml:id="note.10">Bálint Török.</note> egisse in restitutione bonorum
-                    praesente <persName>Gherendi</persName>, et quid tibi tam ipse, quam postea
+                    personaliter apud <persName>Valentinum Theuvrek</persName><note xml:id="note.10"
+                        >Bálint Török.</note> egisse in restitutione bonorum praesente
+                        <persName>Gherendi</persName>, et quid tibi tam ipse, quam postea
                         <persName>Ioannes Bodo</persName> responderit, mihi describis. Probo tuam
                     diligentiam. Melius est te solum expertum esse illorum animum. Arbitror has
                     cavillosas illorum responsiones eo tendere, ut ipsi hoc anno vindemient.
@@ -346,8 +343,8 @@
                     mori vellet. Ergo <persName>Ioannes</persName> est <persName>rex</persName>
                     illius verus! Quod petis, ut tibi procuratorium mitterem, etsi nescio, an
                     aliquid proficiat nunc contra illum iure agere, qui nec regem curat, nec τὸν
-                        κακοδαίμονα.<note type="critic" xml:id="note.11">‘the goddamn’.</note> Tamen
-                    mittam ad te brevi manum meam procuratores constituentem eos, quos optasti. Si
+                        κακοδαίμονα.<note xml:id="note.11">‘the goddamn’.</note> Tamen mittam ad te
+                    brevi manum meam procuratores constituentem eos, quos optasti. Si
                         <persName>Cornelius</persName> bonum responsum retulerit, sine processu
                     iuris res transigi poterit, attamen ne id quoque tibi deesset, satisfeci
                     voluntati tuae. Tenta rem in omnes partes. In primis autem si contigerit, ut

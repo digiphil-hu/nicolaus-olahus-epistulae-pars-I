@@ -230,8 +230,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15301127_1_1.jpg"/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Venimus magnis certe affecti laboribus et lassitudine trium dierum
                     equitatione ex <placeName>Augusta</placeName> huc
                         <placeName>Ratisponam</placeName>. Gaudium erat ingens nostrum nos liberatos

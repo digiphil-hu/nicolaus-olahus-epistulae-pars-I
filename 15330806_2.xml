@@ -243,8 +243,8 @@
                 <pb facs="15330806_2_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem archiepiscopum Lundensem oratorem Caroli
                     caesaris epistola.</p>
-                <p xml:id="p.2">[1.] Binas his diebus accepi tuas litteras.<note type="critic"
-                        xml:id="note.1">These letters are not extant.</note> Alteras
+                <p xml:id="p.2">[1.] Binas his diebus accepi tuas litteras.<note xml:id="note.1"
+                        >These letters are not extant.</note> Alteras
                         <placeName>Bruxellis</placeName> 25. Iulii cum fere nos itineri
                     accingeremus, alteras hic <placeName>Brugis</placeName> die hesterna. Ad priores
                     respondere antea non potui, non negligentia aliqua, sed partim quod laborabam
@@ -255,21 +255,21 @@
                 <p xml:id="p.3">Te liberatum esse ab infirmitate, qua laborabas, est mihi
                     iucundissimum, faxit Deus, ut diu fruaris adepta incolumitate. De tua apud
                         <persName>regem</persName> et <persName>Tridentinum</persName><note
-                        type="critic" xml:id="note.2">Bernhard von Cles.</note> rerum mearum
-                    sollicitatione ago gratias immortales, referam servitiis meis, quotiescumque
-                    opportunitas accesserit. Nihil dubito in clementia regia et favore
+                        xml:id="note.2">Bernhard von Cles.</note> rerum mearum sollicitatione ago
+                    gratias immortales, referam servitiis meis, quotiescumque opportunitas
+                    accesserit. Nihil dubito in clementia regia et favore
                         <persName>Tridentini</persName>, quandoquidem ego quoque pro mea virili ita
                     me ab initio imperii regii tenui, ut non omnino indignum me existimem, <del
                         corresp="Olahus">cui</del><add corresp="Olahus" type="corr">in quem</add>
                     rex benignus esse velit. De exemplo litterarum <persName>Lasky</persName><note
-                        type="critic" xml:id="note.3">Hieronymus Łaski.</note> habeo gratias, illud
-                    mox <persName>reginae</persName> dedi legendum <del corresp="Olahus"
+                        xml:id="note.3">Hieronymus Łaski.</note> habeo gratias, illud mox
+                        <persName>reginae</persName> dedi legendum <del corresp="Olahus"
                         >ulterius</del>. Illius factionis homines solent saepe iacticare inania et
                     se talibus recreare; verum exitus demonstrabit rerum.
-                        <persName>Cornelii</persName>que<note type="critic" xml:id="note.4">Cornelis
-                        de Schepper.</note> nostri exitus discernet, quid in his sit verum.
-                        <persName>Dominus Sirmiensis</persName>,<note type="critic" xml:id="note.5"
-                        >István Brodarics.</note> cuius olim familiaritas </p>
+                        <persName>Cornelii</persName>que<note xml:id="note.4">Cornelis de
+                        Schepper.</note> nostri exitus discernet, quid in his sit verum.
+                        <persName>Dominus Sirmiensis</persName>,<note xml:id="note.5">István
+                        Brodarics.</note> cuius olim familiaritas </p>
                 <pb facs="15330806_2_2.jpg"/>
                 <p xml:id="p.4">mihi intima et domestica erat, nisi factus sit rerum mutatione sui
                     dissimilis, vana olim iactare non solebat, et ob hoc miror eum quoque talia
@@ -277,29 +277,28 @@
                     cur mihi gratias agas. Iampridem suscepi me tuis rebus omnibus, si quae erit mea
                     exigua facultas, obsecundaturum et inserviturum, hoc susceptum officii
                     continuabo et quantum in me erit, non praetermittam. Saepius magistrum
-                        <persName>Ioannem Stanshart</persName><note type="critic" xml:id="note.6">We
-                        do not know him more closely, see Ep. 375. Note
-                            9.<ref>olahus.tei.15330605_4</ref></note> et solus et per nuntium
-                    admonui, ut me certum redderet, ubi quando et in quibus rebus tibi inservire
-                    possem; quod antea non fecit, quam uno die antequam
-                        <placeName>Bruxella</placeName> abiremus. Ego vero mox accessi praepositum
-                        <del corresp="Olahus">Segedinorum</del><add corresp="Olahus" type="corr"
-                            ><placeName>Frigidi Montis</placeName></add><note type="critic"
-                        xml:id="note.7">Abbey Froidmont.</note> admonens, ut in causa tua finem
-                    faceret, pollicitus est se primo quoque tempore id facturum, immo plus promisit,
-                    quam ego exspectassem, id est nihil esse, quod non libenter esset mei causa
-                    facturus. Dedi ei memoriale, ne rei oblivisceretur, adiunxit se <del
-                        corresp="Olahus">solum</del> quoque procuratores sollicitaturum, ut
-                    compareant et causam prosequantur, hoc animo affectum eum dimisi. Eodem die
-                    conveni etiam <persName>cancellarium Brabantiae</persName>,<note type="critic"
-                        xml:id="note.8">Jeroen van der Noot of Brussels (1463–1541) was Chancellor
-                        of Brabant until January of 1532 and Ducal Chamberlain, see <hi
-                            rend="smallcap">De Ridder-Symoens</hi> 1987b.</note> quem et ipsum et
-                    rogavi et sollicitavi. Idem quoque fere eadem, quae praepositus retulit, et se
-                    operamque suam omnem in hac causa quam in aliis rebus, quatenus iustitia ferre
-                    posset, mihi, ut est vir humanus, liberaliter obtulit. Dedi ei τὸ
-                        μνημόσυνον,<note type="critic" xml:id="note.9">‘memo’, the translation of
-                        Latin <hi rend="italic">memorale</hi>.</note> quod admoneret eum meae
+                        <persName>Ioannem Stanshart</persName><note xml:id="note.6">We do not know
+                        him more closely, see Ep. 375. Note
+                        9.<ref>olahus.tei.15330605_4</ref></note> et solus et per nuntium admonui,
+                    ut me certum redderet, ubi quando et in quibus rebus tibi inservire possem; quod
+                    antea non fecit, quam uno die antequam <placeName>Bruxella</placeName> abiremus.
+                    Ego vero mox accessi praepositum <del corresp="Olahus">Segedinorum</del><add
+                        corresp="Olahus" type="corr"><placeName>Frigidi
+                        Montis</placeName></add><note xml:id="note.7">Abbey Froidmont.</note>
+                    admonens, ut in causa tua finem faceret, pollicitus est se primo quoque tempore
+                    id facturum, immo plus promisit, quam ego exspectassem, id est nihil esse, quod
+                    non libenter esset mei causa facturus. Dedi ei memoriale, ne rei oblivisceretur,
+                    adiunxit se <del corresp="Olahus">solum</del> quoque procuratores
+                    sollicitaturum, ut compareant et causam prosequantur, hoc animo affectum eum
+                    dimisi. Eodem die conveni etiam <persName>cancellarium
+                        Brabantiae</persName>,<note xml:id="note.8">Jeroen van der Noot of Brussels
+                        (1463–1541) was Chancellor of Brabant until January of 1532 and Ducal
+                        Chamberlain, see <hi rend="smallcap">De Ridder-Symoens</hi> 1987b.</note>
+                    quem et ipsum et rogavi et sollicitavi. Idem quoque fere eadem, quae praepositus
+                    retulit, et se operamque suam omnem in hac causa quam in aliis rebus, quatenus
+                    iustitia ferre posset, mihi, ut est vir humanus, liberaliter obtulit. Dedi ei τὸ
+                        μνημόσυνον,<note xml:id="note.9">‘memo’, the translation of Latin <hi
+                            rend="italic">memorale</hi>.</note> quod admoneret eum meae
                     sollicitationis et ipsius oblationis. Haec omnia quomodo acta per me essent,
                     retuli <persName>Stanshardo</persName> et admonui eum, ut rem prosequeretur,
                     atque si opus esse videret, me admoneret absentem per litteras. Ego vero
@@ -307,11 +306,11 @@
                     promotionem negotiorum tuorum. Credo illum non futurum aut negligentem aut
                     tardum.</p>
                 <p xml:id="p.5">[2.] De rebus Danicis accipe ea, quae intelligere potui.
-                        <persName>Dux Fridericus</persName><note type="critic" xml:id="note.10">King
-                        Frederick I of Denmark (1471–1533) died on 10
+                        <persName>Dux Fridericus</persName><note xml:id="note.10">King Frederick I
+                        of Denmark (1471–1533) died on 10
                         April.</note><placeName>Holsatiae</placeName> obiit mortem, in vita eius
                     erat actio, ut patre consentiente eligeretur <persName>filius</persName> eius
-                    maior natu<note type="critic" xml:id="note.11">King Christian III of Denmark
+                    maior natu<note xml:id="note.11">King Christian III of Denmark
                         (1503–1559).</note> in regem. </p>
                 <pb facs="15330806_2_3.jpg"/>
                 <p xml:id="p.6">Is tunc electionem non admiserat non admodum cupidus regni, postea
@@ -319,10 +318,10 @@
                     regnum, contulerunt animum ad alterum minorem filium in regem eligendum. Eratque
                     spes, ut is patri succederet, qui propterea miserat huc ad
                         <persName>reginam</persName> et hos provinciales nuntium, ut cum his pacem
-                    iniret, nolletque se iungere Lubecensium<note type="critic" xml:id="note.12"
-                        >Lübeck.</note> moliminibus. Cui hic responsum fuit pacem hos accepturos sub
-                    certis conditionibus, cum quibus nuntium ad dominum suum remiserunt, ut illis,
-                    si placeret ei, relatis rediret pro pacis conclusione. Interea dum haec fierent,
+                    iniret, nolletque se iungere Lubecensium<note xml:id="note.12">Lübeck.</note>
+                    moliminibus. Cui hic responsum fuit pacem hos accepturos sub certis
+                    conditionibus, cum quibus nuntium ad dominum suum remiserunt, ut illis, si
+                    placeret ei, relatis rediret pro pacis conclusione. Interea dum haec fierent,
                     ducis maior natu filius, qui antea electionem non admiserat, facti sui poenitens
                     coepit ambire regnum, ne iunior ei praeferretur. Res versa est in dubium.
                     Regnicolae scissi in contrarium, ut saepe fit in rebus huiuscemodi. Nunc
@@ -332,13 +331,13 @@
                     etiam antea nihil de matrimonio, de quo scribis, ut mihi regina dixit, egerat.
                     Res igitur est in hoc statu. Videbimus, quid sequetur. <persName>Christiernus
                         rex</persName> dicitur adhuc esse sub custodia. Eius minor
-                        <persName>filia</persName>,<note type="critic" xml:id="note.13">Christina of
-                        Denmark (1521–1590) married Francesco II Sforza, Duke of Milan on 23
-                        September, 1533.</note> quae hic est, est promissa duci Mediolanensi in
-                    matrimonium. Si concordia futura est, contingere potest inter fratres Danos, ut
-                    maior futuro regi despondeatur. Est tamen id nunc incertum, sed haec agentur
-                    imperatoris voluntate. Cuius rei causa meo iudicio non videretur mihi
-                    inconsultum esse, si caesar a te praemoneretur in rei eventum.</p>
+                        <persName>filia</persName>,<note xml:id="note.13">Christina of Denmark
+                        (1521–1590) married Francesco II Sforza, Duke of Milan on 23 September,
+                        1533.</note> quae hic est, est promissa duci Mediolanensi in matrimonium. Si
+                    concordia futura est, contingere potest inter fratres Danos, ut maior futuro
+                    regi despondeatur. Est tamen id nunc incertum, sed haec agentur imperatoris
+                    voluntate. Cuius rei causa meo iudicio non videretur mihi inconsultum esse, si
+                    caesar a te praemoneretur in rei eventum.</p>
                 <p xml:id="p.7">In rebus tuis <persName>reginam</persName> ego hic sum allocutus
                     aliquoties, quae semper benevole respondit, et dixit se libenter tuarum rerum
                     curam habituram, si quando negotium ita ferat, opportunitasque fiat. Quam si ego
@@ -349,7 +348,7 @@
                     anno nihil agetur. Si non intervenerit pax, cogitatur, ut sequenti anno ius
                         <placeName>Zelandiae</placeName> et navigatio defendatur armis. Inter
                     fasciculum litterarum ad reginam datarum a <persName>rege</persName>, ego quoque
-                    habui litteras<note type="critic" xml:id="note.14">See Ep.
+                    habui litteras<note xml:id="note.14">See Ep.
                             378.<ref>olahus.tei.15330620_1</ref></note> a
                         <persName>Cornelio</persName>, quibus scribit se pacem et firmam et
                     perpetuam confecisse in <placeName>Turcia</placeName>. Tamen conditiones pacis
@@ -366,27 +365,26 @@
                     regis, qui impune nunc omnia faciunt, maiorem et potiorem partem bonorum et
                     possessionum mearum vi occuparunt, quibus rex mandavit, ut ea remitterent, tamen
                     hactenus id non fecerunt, quod magister <persName>Ioannes
-                        Cegledinus</persName><note type="critic" xml:id="note.15">János
-                        Czeglédi.</note> scit. Residuam partem bonorum gubernant vaivodani, si
-                        <persName>rex</persName> noster serenissimus authoritatem in <del
-                        corresp="Olahus">eas</del><add corresp="Olahus" type="corr">suos</add>
-                    exercere suam poterit, bona mea, quae illi habent, ad me revertentur. Cum
-                    vaivodanis nescio, quid fiet, si regnum dividetur. Credo
-                        <persName>Sirmiensem</persName> interpositurum partes, si res ita contingat,
-                    ne illis quoque destituar. Alterum negotium est, quod maiestas regia me sub
-                    verbo regio <del corresp="Olahus">assecravit</del><add corresp="Olahus"
-                        type="corr">assecuravit</add> non unis, sed ternis credo litteris, quas
-                    etiam confirmavit, dum huc venirem <del corresp="Olahus">in</del><add
-                        corresp="Olahus" type="corr">cum</add><persName>regina</persName>, ut si
-                    quis episcopatus Hungaricus <add corresp="Olahus" type="insert">ex his</add>
-                    vacaret <del corresp="Olahus">ex his</del>, scilicet Agriensis, <del
-                        corresp="Olahus">Zagadiensis</del><add corresp="Olahus" type="corr"
-                        >Zagrabiensis</add>, Transsylvaniensis, Varadiensis, Wesprimiensis<note
-                        type="critic" xml:id="note.16">Bishoprics of Eger, Zagreb, Transylvania,
-                        Oradea, and Veszprém.</note> mox eum mihi conferret. Credo
-                        <persName>maiestatem</persName> suam ut bonum principem observaturam, quod
-                    pollicitus sit. Si quis casus acciderit, velis rem hanc meam scire et
-                    commendatam habere, et dum revertetur </p>
+                        Cegledinus</persName><note xml:id="note.15">János Czeglédi.</note> scit.
+                    Residuam partem bonorum gubernant vaivodani, si <persName>rex</persName> noster
+                    serenissimus authoritatem in <del corresp="Olahus">eas</del><add
+                        corresp="Olahus" type="corr">suos</add> exercere suam poterit, bona mea,
+                    quae illi habent, ad me revertentur. Cum vaivodanis nescio, quid fiet, si regnum
+                    dividetur. Credo <persName>Sirmiensem</persName> interpositurum partes, si res
+                    ita contingat, ne illis quoque destituar. Alterum negotium est, quod maiestas
+                    regia me sub verbo regio <del corresp="Olahus">assecravit</del><add
+                        corresp="Olahus" type="corr">assecuravit</add> non unis, sed ternis credo
+                    litteris, quas etiam confirmavit, dum huc venirem <del corresp="Olahus"
+                        >in</del><add corresp="Olahus" type="corr"
+                        >cum</add><persName>regina</persName>, ut si quis episcopatus Hungaricus
+                        <add corresp="Olahus" type="insert">ex his</add> vacaret <del
+                        corresp="Olahus">ex his</del>, scilicet Agriensis, <del corresp="Olahus"
+                        >Zagadiensis</del><add corresp="Olahus" type="corr">Zagrabiensis</add>,
+                    Transsylvaniensis, Varadiensis, Wesprimiensis<note xml:id="note.16">Bishoprics
+                        of Eger, Zagreb, Transylvania, Oradea, and Veszprém.</note> mox eum mihi
+                    conferret. Credo <persName>maiestatem</persName> suam ut bonum principem
+                    observaturam, quod pollicitus sit. Si quis casus acciderit, velis rem hanc meam
+                    scire et commendatam habere, et dum revertetur </p>
                 <pb facs="15330806_2_5.jpg"/>
                 <p xml:id="p.10"><persName>Cornelius</persName>, cum eo communicare. Velim tamen, ne
                     nostri Hungari et etiam alii hanc regis mihi factam promissionem sciant, nolo
@@ -399,7 +397,7 @@
                         <persName>rex</persName> noster habebit <placeName>Hungariae</placeName>
                     integram possessionem, aures et memoriae principum refricandae sunt, ne
                     promissorum obliviscantur. Haec scripsi, ut scires mearum rerum τὸ
-                        θεμέλιον.<note type="critic" xml:id="note.17">‘base, fundus’.</note> Quod et
+                        θεμέλιον.<note xml:id="note.17">‘base, fundus’.</note> Quod et
                         <persName>Cornelio</persName>, dum redierit, communices huic, si opus
                     fuerit, et litterae <persName>reginae</persName> commendantes rem et meae
                     supplicationes apud <persName>regem</persName> non deerunt. Haec ex mea in te
@@ -407,14 +405,13 @@
                     erga me humanitate, quam mihi litteris declaraverunt. Nova hic nulla.
                         <persName>Regina</persName> peragratura est oppida
                         <placeName>Flandriae</placeName>. Nunc est hic, dein ibimus
-                        <placeName>Gandavum</placeName>,<note type="critic" xml:id="note.18">
-                        Ghent.</note> illinc fortasse in <placeName>Artesiam</placeName><note
-                        type="critic" xml:id="note.19">Artois.</note> et
-                        <placeName>Holandiam</placeName>. Si quid erit, iube mihi. Curavi, ut
+                        <placeName>Gandavum</placeName>,<note xml:id="note.18"> Ghent.</note> illinc
+                    fortasse in <placeName>Artesiam</placeName><note xml:id="note.19">Artois.</note>
+                    et <placeName>Holandiam</placeName>. Si quid erit, iube mihi. Curavi, ut
                         <persName>regina</persName> ex <persName>caesaris</persName> voluntate
                     revocaret <persName>Erasmum Roterodamum</persName> conditionibus honestis, ad
-                    quem iamdiu misi <persName>Levinum</persName><note type="critic"
-                        xml:id="note.20">Lieven Algoet. Oláh sent him to Erasmus, see Ep.
+                    quem iamdiu misi <persName>Levinum</persName><note xml:id="note.20">Lieven
+                        Algoet. Oláh sent him to Erasmus, see Ep.
                             379.<ref>olahus.tei.15330621_1</ref></note> meum illius alumnum, quos
                     exspecto in horas vel saltem responsum. Vale.</p>
                 <p xml:id="p.11"><placeName>Brugis</placeName> sexta Augusti 1533.</p>

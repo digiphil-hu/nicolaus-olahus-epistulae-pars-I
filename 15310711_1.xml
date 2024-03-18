@@ -233,38 +233,38 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad S. doctorem amicum.<note type="critic" xml:id="note.1">Probably
-                        István Brodarics, because Oláh often calls him “Stephanus doctor”, see Ep.
-                        338, and Ep.
+                <p xml:id="p.1">Ad S. doctorem amicum.<note xml:id="note.1">Probably István
+                        Brodarics, because Oláh often calls him “Stephanus doctor”, see Ep. 338, and
+                        Ep.
                         312.<ref>olahus.tei.15330927_1</ref></note><ref>/o:olahus.tei.15330309_2</ref></p>
                 <p xml:id="p.2"><quote xml:id="quote.1">Varium et mutabile semper</quote><note
                         type="quote" xml:id="note.quote.1">Verg. <hi rend="italic">Aen.</hi>
                         IV,569–570.</note> τὴν <choice>
                         <orig>γυνεκὰ</orig>
                         <supplied>γυναῖκὰ</supplied>
-                    </choice> εἶναι<note type="critic" xml:id="note.2">Oláh translated Vergil’s
-                        sentence (<hi rend="italic">Aen.</hi> IV,569–70) with a modification of the
-                        Greek based on Hom. <hi rend="italic">Od.</hi> XV,20 which was Vergil’s
-                        model. The accusative of the <hi rend="italic">woman</hi> would be <hi
-                            rend="italic">γυναῖκα</hi>; the wrong <hi rend="italic">ε</hi> mirrors
-                        the contemporary Greek pronunciation, and the accentuation error derives
-                        from that.</note> credo te saepe legisse, hoc certe dictum non sine ratione
+                    </choice> εἶναι<note xml:id="note.2">Oláh translated Vergil’s sentence (<hi
+                            rend="italic">Aen.</hi> IV,569–70) with a modification of the Greek
+                        based on Hom. <hi rend="italic">Od.</hi> XV,20 which was Vergil’s model. The
+                        accusative of the <hi rend="italic">woman</hi> would be <hi rend="italic"
+                            >γυναῖκα</hi>; the wrong <hi rend="italic">ε</hi> mirrors the
+                        contemporary Greek pronunciation, and the accentuation error derives from
+                        that.</note> credo te saepe legisse, hoc certe dictum non sine ratione
                     impositum esse ταῖς γυναιξί arbitror. Quandoquidem in multis iam rebus adeo mihi
                     mores et naturae femineae cognitae fuerunt, ut velim ne eas tam crebro et tam
                     diu cognossem. Quantum enim ea res mihi attulerit calamitatis, quantumque rebus
                     meis detrimenti et iacturae, non possum, mi Frater, nunc tibi litteris
-                    declarare. Nec te ea moveat cogitatio τὰς θεὰς τῶν γυναικῶν<note type="critic"
-                        xml:id="note.3">The plural dative form of <hi rend="italic">woman</hi> as a
-                        complement of <hi rend="italic">impositum</hi>. ‘Goddesses compared to the
-                        mortal women’.</note> multum a vulgaribus esse dissimiles. Dissimiles,
-                    fateor, sunt facultatibus, opibus, deliciis, sed non moribus, non conditione
-                    naturae. Non possunt hae quoque sexum suum mentiri, ut illae, immo tanto <del
+                    declarare. Nec te ea moveat cogitatio τὰς θεὰς τῶν γυναικῶν<note xml:id="note.3"
+                        >The plural dative form of <hi rend="italic">woman</hi> as a complement of
+                            <hi rend="italic">impositum</hi>. ‘Goddesses compared to the mortal
+                        women’.</note> multum a vulgaribus esse dissimiles. Dissimiles, fateor, sunt
+                    facultatibus, opibus, deliciis, sed non moribus, non conditione naturae. Non
+                    possunt hae quoque sexum suum mentiri, ut illae, immo tanto <del
                         corresp="Olahus">peius</del> sunt illis inconstantiores et mutabiliores, quo
                     ditiores, quo facultatibus affluentiores. <add corresp="Olahus" type="insert"
-                        >Dominam <persName>Margaretham</persName><note type="critic" xml:id="note.4"
-                            >Archduchess Margaret of Austria.</note> nosti.</add> Haec, cur ad te
-                    scripserim, est causa, quam scies apertius, cum te convenero, et meas apud te
-                    querelas iustas certe apud te deposuero. Vale et me ama.</p>
+                        >Dominam <persName>Margaretham</persName><note xml:id="note.4">Archduchess
+                            Margaret of Austria.</note> nosti.</add> Haec, cur ad te scripserim, est
+                    causa, quam scies apertius, cum te convenero, et meas apud te querelas iustas
+                    certe apud te deposuero. Vale et me ama.</p>
                 <p xml:id="p.3">Ex <placeName>Bruxellis</placeName> XI. Iulii anno Domini <choice>
                         <orig>MQXXXI</orig>
                         <supplied>MDXXXI</supplied>

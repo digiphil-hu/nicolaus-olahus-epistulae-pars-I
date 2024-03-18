@@ -243,37 +243,35 @@
                 <pb facs="15330601_1_1.jpg"/>
                 <p xml:id="p.1">Erasmus Roterodamus Nicolao Olao secretario serenissimae
                     reginae.</p>
-                <p xml:id="p.2">Si hic <persName>Petrus a Montfort</persName><note type="critic"
-                        xml:id="note.1">Pieter van Montfoort of Harlem, documented 1530–1537.
-                        Erasmus recommended him both to Queen Mary (Ep. 2812, see <hi
-                            rend="smallcap">Allen</hi> 1941, 229–231, or <hi rend="smallcap"
-                            >Ipolyi</hi> 1875, 369–371.) and to Oláh too, see <hi rend="smallcap"
-                            >Leijenhorst</hi> 1986b.</note> tibi aeque ac mihi notus est, non
-                    dubito, quin sit aeque carus. Nam mihi quidem ob eximias virtutes fortunae
-                    naturaeque, quas in eo domestica consuetudine perspexi, longe carissimus est.
-                    Eas tibi, quo vir es oculatior, hoc penitius esse perspectas arbitror, ac
-                    proinde quo vir es humanior et virtutum amantior, hoc reor abs te pluris fieri.
-                    Videtur et <persName>caesar</persName> hominem introspexisse, qui praeclarum
-                    illi munus ultro gratisque detulit, sed meo iudicio dignus erat splendidiore
-                    dono. Sed nosti rerum aulicarum non imperitus talibus praedis multas inhiare
-                    harpyas, nec raro fieri, ut virtutem superet improbitas. Habet ille et
-                        <persName>caesarem</persName> et <persName>Mariam</persName> caesaris
+                <p xml:id="p.2">Si hic <persName>Petrus a Montfort</persName><note xml:id="note.1"
+                        >Pieter van Montfoort of Harlem, documented 1530–1537. Erasmus recommended
+                        him both to Queen Mary (Ep. 2812, see <hi rend="smallcap">Allen</hi> 1941,
+                        229–231, or <hi rend="smallcap">Ipolyi</hi> 1875, 369–371.) and to Oláh too,
+                        see <hi rend="smallcap">Leijenhorst</hi> 1986b.</note> tibi aeque ac mihi
+                    notus est, non dubito, quin sit aeque carus. Nam mihi quidem ob eximias virtutes
+                    fortunae naturaeque, quas in eo domestica consuetudine perspexi, longe
+                    carissimus est. Eas tibi, quo vir es oculatior, hoc penitius esse perspectas
+                    arbitror, ac proinde quo vir es humanior et virtutum amantior, hoc reor abs te
+                    pluris fieri. Videtur et <persName>caesar</persName> hominem introspexisse, qui
+                    praeclarum illi munus ultro gratisque detulit, sed meo iudicio dignus erat
+                    splendidiore dono. Sed nosti rerum aulicarum non imperitus talibus praedis
+                    multas inhiare harpyas, nec raro fieri, ut virtutem superet improbitas. Habet
+                    ille et <persName>caesarem</persName> et <persName>Mariam</persName> caesaris
                     germanam pari studio faventes, ut nihil addubitem, quin negotium eius et vento
                     et aestu secundo feratur. Celerius tamen in portum optatum appellitur, si
                     tempestiva admonitio veluti remigis opera accedat. Quas partes, ut suscipias,
                     magnopere rogarem, nisi confiderem eas abs te iamdudum sponte susceptas esse.
                     Erasmi tui miserias melius e <persName>Montfortii</persName> nostri sermone
-                    cognosces. Per <persName>Quirinum</persName><note type="critic" xml:id="note.2"
-                        >Quirinus Hagius.</note> meum exspecto πάντα περὶ πάντων.<note type="critic"
-                        xml:id="note.3">‘everything about everything’.</note> Ἐρρώσο φιλτάτη μοὶ
-                    κεφαλή, ὡς πρὸς τὸν <choice>
+                    cognosces. Per <persName>Quirinum</persName><note xml:id="note.2">Quirinus
+                        Hagius.</note> meum exspecto πάντα περὶ πάντων.<note xml:id="note.3"
+                        >‘everything about everything’.</note> Ἐρρώσο φιλτάτη μοὶ κεφαλή, ὡς πρὸς
+                    τὸν <choice>
                         <orig>φιλελληνά</orig>
                         <supplied>φιλέλληνά</supplied>
-                    </choice> τι ἀνθελληνίζω.<note type="critic" xml:id="note.4">‘I hope you are in
-                        a good health, my best friend, to say something in Greek for a
-                        Greek-fan’.</note></p>
-                <p xml:id="p.3">Die Pentecostes 1533.<note type="critic" xml:id="note.5">We only
-                        presume that Erasmus was in Freiburg im Breisgau.</note></p>
+                    </choice> τι ἀνθελληνίζω.<note xml:id="note.4">‘I hope you are in a good health,
+                        my best friend, to say something in Greek for a Greek-fan’.</note></p>
+                <p xml:id="p.3">Die Pentecostes 1533.<note xml:id="note.5">We only presume that
+                        Erasmus was in Freiburg im Breisgau.</note></p>
             </div>
         </body>
     </text>

@@ -239,17 +239,16 @@
                     litteras dare soleam: faciunt me assiduae curae et occupationes non quidem
                     immemorem officii, sed adeo anxium, ut non semper possim, quod maxime cuperem
                     amicis vel scribendo gratificari. <placeName>Agria</placeName><note
-                        type="critic" xml:id="note.1">Eger.</note> iampridem vehementissime
-                    periclitatur. <persName>Ioannes</persName>, quas potuit vires omnes Hungaricas,
-                    Polonicas, infernas et superas in illius loci expugnationem, id est ad fideles
+                        xml:id="note.1">Eger.</note> iampridem vehementissime periclitatur.
+                        <persName>Ioannes</persName>, quas potuit vires omnes Hungaricas, Polonicas,
+                    infernas et superas in illius loci expugnationem, id est ad fideles
                         <persName>regis</persName>, qui a <placeName>Cassovia</placeName><note
-                        type="critic" xml:id="note.2">Košice.</note> usque
-                        <placeName>Agriam</placeName> in illius arcis defensionem convenerunt
-                    debellandos. Exercitus <persName>regis</persName> dici vix potest, quam sit <add
-                        corresp="Olahus" type="insert">timidus, dicere volebam</add> cautus, omnia
-                    circumspicit, omnia etiam, quae fieri non possint, futura existimat. Sic fiet
-                    nos etc. <persName>Maiestati reginali</persName> servitutem meam commendes,
-                    rogo. </p>
+                        xml:id="note.2">Košice.</note> usque <placeName>Agriam</placeName> in illius
+                    arcis defensionem convenerunt debellandos. Exercitus <persName>regis</persName>
+                    dici vix potest, quam sit <add corresp="Olahus" type="insert">timidus, dicere
+                        volebam</add> cautus, omnia circumspicit, omnia etiam, quae fieri non
+                    possint, futura existimat. Sic fiet nos etc. <persName>Maiestati
+                        reginali</persName> servitutem meam commendes, rogo. </p>
                 <p xml:id="p.3">[2.] Tricesimator duo vasa vini dedit tam exigua, ut utrumque
                     quinque, aut sex diebus sit exhaustum, negat se daturum plura,
                         <placeName>Posonii</placeName> deputat quibusdam in locis, unde vix iusto
@@ -258,22 +257,21 @@
                         corresp="Olahus">ade perma</del><add corresp="Olahus" type="corr">adeo
                         parva</add>. </p>
                 <p xml:id="p.4">[3.] Ad maiestatem reginalem nihil est, quod scribere possim aliud,
-                    quam quod audio <persName>Habardanecz</persName><note type="critic"
-                        xml:id="note.3">János Habardanecz, see Ep.
-                            5.<ref>/o:olahus.tei.15290111_1</ref></note> in
+                    quam quod audio <persName>Habardanecz</persName><note xml:id="note.3">János
+                        Habardanecz, see Ep. 5.<ref>/o:olahus.tei.15290111_1</ref></note> in
                         <persName>Ioannis</persName> captivitatem deductum. </p>
                 <pb facs="15300102_1_2.jpg"/>
-                <p xml:id="p.5"><persName>Georgius de Bathor</persName><note type="critic"
-                        xml:id="note.4">Probably György I Báthori (†1531), he was Master of Stables
-                            <hi rend="italic">(magister agazonum regalium)</hi> from 1505, and <hi
+                <p xml:id="p.5"><persName>Georgius de Bathor</persName><note xml:id="note.4"
+                        >Probably György I Báthori (†1531), he was Master of Stables <hi
+                            rend="italic">(magister agazonum regalium)</hi> from 1505, and <hi
                             rend="italic">ispán</hi> of Szatmár, Zaránd, Zala, and Somogy counties,
                         for more see <hi rend="smallcap">C. Tóth</hi> 2009, 21–32.</note> et
-                        <persName>episcopus Quinqueeclesiensis</persName><note type="critic"
-                        xml:id="note.5">György II Sulyok (†1538) was Bishop of Pécs between
-                        1526–1535 and 1537–1538.</note> ad <persName>Ioannem</persName> miserunt
-                    oratores, impetrataque gratia se fideles fore promiserunt, ficte, ut nobis
-                    significant. Sed talia figmenta non libenter audio, utinam non deteriora
-                    audiamus. Sumus tardi, lenti, timidi. Vale. </p>
+                        <persName>episcopus Quinqueeclesiensis</persName><note xml:id="note.5"
+                        >György II Sulyok (†1538) was Bishop of Pécs between 1526–1535 and
+                        1537–1538.</note> ad <persName>Ioannem</persName> miserunt oratores,
+                    impetrataque gratia se fideles fore promiserunt, ficte, ut nobis significant.
+                    Sed talia figmenta non libenter audio, utinam non deteriora audiamus. Sumus
+                    tardi, lenti, timidi. Vale. </p>
                 <p xml:id="p.6"><placeName>Posonii</placeName> secundo Ianuarii 1530. </p>
             </div>
         </body>

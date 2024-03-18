@@ -247,14 +247,13 @@
                 <p xml:id="p.1">Ioannes Anthonius baro Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Sunt multi dies transacti, quod nihil intellexi de Dominationis Tuae
                     prosperitate, quod cum summopere desiderarem, obtulit se mihi <persName>dominus
-                        de Rosumbos</persName><note type="critic" xml:id="note.1">Probably
-                        Peter/Pierre Equitis Lord of Rosimboz, or Rosunbos, or Rossynbose was
-                        Emperor Charles V’s Chamberlain in Flanders, see <hi rend="smallcap"
-                            >Gairdner</hi> 1882, passim, and <hi rend="smallcap">Gorter-van
-                            Royen</hi> 2009, 136. Another Rosimbos, François de Rosimbos was
-                        Councillor of Margaret of Austria, Duchess of Savoy, see <hi rend="smallcap"
-                            >Gorter-van Royen</hi> 1995, 115.</note> orator
-                        <persName>caesaris</persName> ad <persName>regem Scotiae</persName>, quem
+                        de Rosumbos</persName><note xml:id="note.1">Probably Peter/Pierre Equitis
+                        Lord of Rosimboz, or Rosunbos, or Rossynbose was Emperor Charles V’s
+                        Chamberlain in Flanders, see <hi rend="smallcap">Gairdner</hi> 1882, passim,
+                        and <hi rend="smallcap">Gorter-van Royen</hi> 2009, 136. Another Rosimbos,
+                        François de Rosimbos was Councillor of Margaret of Austria, Duchess of
+                        Savoy, see <hi rend="smallcap">Gorter-van Royen</hi> 1995, 115.</note>
+                    orator <persName>caesaris</persName> ad <persName>regem Scotiae</persName>, quem
                     diligentissime de te percontatus sum, is mihi retulit non solum de tua prospera
                     valetudine, id quod optaveram, verum de tua humanitate, probitate et morum
                     facilitate ea, quae mihi iampridem nota erant. Laetatus sum maximopere de te

@@ -236,23 +236,22 @@
                 <pb facs="15300213_1_2.jpg"/>
                 <p xml:id="p.3">cognoscas.
                         <placeName>Vesprimium</placeName><persName>Choron</persName><note
-                        type="critic" xml:id="note.1">András Choron of Devecser was Szalaházy’s
-                        Castellan of Sümeg, see <hi rend="smallcap">Varga</hi> 2001a.</note> die
-                        Iovis<note type="critic" xml:id="note.2">10 February.</note> recuperavit,
-                    cum paucis ante diebus intellexisset movisse regis exercitum ad
-                        <placeName>Budam</placeName> recuperandam. Vereor, ne rursus, et quidem
-                    subito amittamus. Dabo operam, quoad fieri possit, ne id eveniat, retinere tamen
-                    huiuscemodi arcem contra multitudinem oppugnantium non est certe mearum virium.
-                    Vale.</p>
-                <p xml:id="p.4">[2.] Litterae de vinis heri sunt allatae,<note type="critic"
-                        xml:id="note.3">See Ep. 22. and the previous letter of Szalaházy, in which
-                        he asked to get more wine from the
-                        Queen.<ref>olahus.tei.15290000_1</ref></note> habeo magnam gratiam. Nisi
-                    statim comparabit rex exercitum navalem ac terrestrem iusto numero, iacturam
-                    maiorem, quam credit, patietur, et nos in fine gememus ac laborabimus. Vale
-                    iterum dominae magistrae curiae, <persName>Lucretiae</persName><note
-                        type="critic" xml:id="note.4">Lucretia Caballis (vom Ross).</note> etc.,
-                    camerario <persName>Sebastiano Pemflinger</persName> commendabis.</p>
+                        xml:id="note.1">András Choron of Devecser was Szalaházy’s Castellan of
+                        Sümeg, see <hi rend="smallcap">Varga</hi> 2001a.</note> die Iovis<note
+                        xml:id="note.2">10 February.</note> recuperavit, cum paucis ante diebus
+                    intellexisset movisse regis exercitum ad <placeName>Budam</placeName>
+                    recuperandam. Vereor, ne rursus, et quidem subito amittamus. Dabo operam, quoad
+                    fieri possit, ne id eveniat, retinere tamen huiuscemodi arcem contra
+                    multitudinem oppugnantium non est certe mearum virium. Vale.</p>
+                <p xml:id="p.4">[2.] Litterae de vinis heri sunt allatae,<note xml:id="note.3">See
+                        Ep. 22. and the previous letter of Szalaházy, in which he asked to get more
+                        wine from the Queen.<ref>olahus.tei.15290000_1</ref></note> habeo magnam
+                    gratiam. Nisi statim comparabit rex exercitum navalem ac terrestrem iusto
+                    numero, iacturam maiorem, quam credit, patietur, et nos in fine gememus ac
+                    laborabimus. Vale iterum dominae magistrae curiae,
+                        <persName>Lucretiae</persName><note xml:id="note.4">Lucretia Caballis (vom
+                        Ross).</note> etc., camerario <persName>Sebastiano Pemflinger</persName>
+                    commendabis.</p>
                 <p xml:id="p.5"><placeName>Posonii</placeName> 13. Februarii 1530.</p>
             </div>
         </body>

@@ -254,8 +254,8 @@
                 <pb facs="15330202_1_2.jpg"/>
                 <p xml:id="p.3">huc nova scribere in eisdem rebus <placeName>Hungariae</placeName>
                     posses. Gratius nihil nobis hoc tempore continget. Vale.</p>
-                <p xml:id="p.4">Secunda Februarii 1533.<note type="critic" xml:id="note.1">Probably
-                        Oláh was in Brussels.</note></p>
+                <p xml:id="p.4">Secunda Februarii 1533.<note xml:id="note.1">Probably Oláh was in
+                        Brussels.</note></p>
             </div>
         </body>
     </text>

@@ -228,8 +228,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
                 <p xml:id="p.2">Volui ad te nova perscribere, quae habebam. <persName>Turcarum
                         caesar</persName> hoc die <placeName>Constantinopolim</placeName>, ut ex
                     amicorum meorum litteris coniicere licet, intrare deliberavit. Intrabit autem

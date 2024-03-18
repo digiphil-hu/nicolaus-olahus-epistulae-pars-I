@@ -229,18 +229,17 @@
                 </floatingText>
                 <pb facs="15300225_5_1.jpg"/>
                 <p xml:id="p.1">Ad eundem.</p>
-                <p xml:id="p.2">Qua mecum <persName>Logus</persName><note type="critic"
-                        xml:id="note.1">Georg von Logau (ca. 1500–1553), humanist, protégé of the
-                        Thurzós, and Royal Secretary of Ferdinand I from 1527. First Canon, later
-                        Provost of Wrocław, see more <hi rend="smallcap">Erbe</hi> 1986, 338–339;
-                            <hi rend="smallcap">Grimm</hi> 1987, 117; <hi rend="smallcap"
-                            >Lakatos</hi> 2007, 78–79, and <hi rend="smallcap">Kasza</hi> 2012,
-                        128.</note> noster sit iunctus familiaritate, tu imprimis non ignoras. Is ea
-                    est morum suavitate, verborum ubertate,<note type="critic" xml:id="note.2">About
-                        his eloquence and poetry see <hi rend="smallcap">Kasza</hi> 2014,
-                        157–165.</note> facetiarum lepore praeditus, ut non solum mihi, sed etiam
-                    omnibus aliis, qui eius usi sunt familiaritate, merito debeat esse carissimus;
-                    et <choice>
+                <p xml:id="p.2">Qua mecum <persName>Logus</persName><note xml:id="note.1">Georg von
+                        Logau (ca. 1500–1553), humanist, protégé of the Thurzós, and Royal Secretary
+                        of Ferdinand I from 1527. First Canon, later Provost of Wrocław, see more
+                            <hi rend="smallcap">Erbe</hi> 1986, 338–339; <hi rend="smallcap"
+                            >Grimm</hi> 1987, 117; <hi rend="smallcap">Lakatos</hi> 2007, 78–79, and
+                            <hi rend="smallcap">Kasza</hi> 2012, 128.</note> noster sit iunctus
+                    familiaritate, tu imprimis non ignoras. Is ea est morum suavitate, verborum
+                        ubertate,<note xml:id="note.2">About his eloquence and poetry see <hi
+                            rend="smallcap">Kasza</hi> 2014, 157–165.</note> facetiarum lepore
+                    praeditus, ut non solum mihi, sed etiam omnibus aliis, qui eius usi sunt
+                    familiaritate, merito debeat esse carissimus; et <choice>
                         <orig>hac</orig>
                         <supplied>hanc</supplied>
                     </choice> ob causam bene ei esse volo, et si qua possum aut munificentia, aut

@@ -230,34 +230,34 @@
                     </body>
                 </floatingText>
                 <pb facs="15301218_1_1.jpg"/>
-                <p xml:id="p.1"> Ad comitem Paulum.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1"> Ad comitem Paulum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Mirum certe nos nihil certi a tanto tempore de Budensium rerum
                     progressu audivisse, pendemus animo aliquid in horas certi exspectantes. Attamen
                     nescio, quid sane rei certae adhuc audire possemus. Dicuntur nostri instare
                     vehementius, quam quisquam cogitare posset, aliquot vexillorum pedites se terra
-                    defodisse sub moenibus ipsis prope Portam Sabati.<note type="critic"
-                        xml:id="note.2">Sabbatical Portal, or the so-called Bécsi kapu (Viennese
-                        Portal), which is located at the northern side of the Buda Castle.</note> Ex
-                    alia parte murum similiter fortissima quati iaculatione. Illos etiam obsessos
-                    strenuiter rem suam agere audimus. Sunt inclusi cum <persName>Ioanne
-                        rege</persName><note type="critic" xml:id="note.3">It is very unusual that
-                        Oláh calls Szapolyai king.</note><persName>episcopus
-                        Zagrabiensis</persName>,<note type="critic" xml:id="note.4">Simon Erdődy
-                        (ca.1489–1543) was Bishop of Zagreb (1519–1543). He participated in the
-                        battle of Mohács and later joined King John I. In 1527, he changed sides
-                        because King Ferdinand I occupied the Slavonian fields. King Ferdinand I
-                        appointed him Ban of Slavonia and let him stay as Bishop of Zagreb. For more
-                        see <hi rend="smallcap">Lukinović</hi> 1995, 233–237, and <hi
-                            rend="smallcap">Kasza</hi> 2012, 205.</note><persName>Czyback</persName>
-                    electus Varadiensis<note type="critic" xml:id="note.5">Imre Czibak (†1534) was
-                        Bishop of Oradea from 1526, and he was loyal to King John I. He participated
-                        in the battle of Mohács, on the side of Pál Tomori, Archbishop of Kalocsa.
-                        After Mohács, King John I appointed him Captain of Timișoara and <hi
-                            rend="italic">ispán</hi> of Temes county.</note> et multi suae factionis
-                    strenui viri. Turci infra <placeName>Budam</placeName> ad decem millia esse
-                    dicuntur et quotidie cum nostris manus conserere. Quid futurum sit, incertum
-                    est. Exspectamus in horas laeta nova. Vale.</p>
+                    defodisse sub moenibus ipsis prope Portam Sabati.<note xml:id="note.2"
+                        >Sabbatical Portal, or the so-called Bécsi kapu (Viennese Portal), which is
+                        located at the northern side of the Buda Castle.</note> Ex alia parte murum
+                    similiter fortissima quati iaculatione. Illos etiam obsessos strenuiter rem suam
+                    agere audimus. Sunt inclusi cum <persName>Ioanne rege</persName><note
+                        xml:id="note.3">It is very unusual that Oláh calls Szapolyai
+                        king.</note><persName>episcopus Zagrabiensis</persName>,<note
+                        xml:id="note.4">Simon Erdődy (ca.1489–1543) was Bishop of Zagreb
+                        (1519–1543). He participated in the battle of Mohács and later joined King
+                        John I. In 1527, he changed sides because King Ferdinand I occupied the
+                        Slavonian fields. King Ferdinand I appointed him Ban of Slavonia and let him
+                        stay as Bishop of Zagreb. For more see <hi rend="smallcap">Lukinović</hi>
+                        1995, 233–237, and <hi rend="smallcap">Kasza</hi> 2012,
+                        205.</note><persName>Czyback</persName> electus Varadiensis<note
+                        xml:id="note.5">Imre Czibak (†1534) was Bishop of Oradea from 1526, and he
+                        was loyal to King John I. He participated in the battle of Mohács, on the
+                        side of Pál Tomori, Archbishop of Kalocsa. After Mohács, King John I
+                        appointed him Captain of Timișoara and <hi rend="italic">ispán</hi> of Temes
+                        county.</note> et multi suae factionis strenui viri. Turci infra
+                        <placeName>Budam</placeName> ad decem millia esse dicuntur et quotidie cum
+                    nostris manus conserere. Quid futurum sit, incertum est. Exspectamus in horas
+                    laeta nova. Vale.</p>
                 <p xml:id="p.3">Ex <placeName>Cremps</placeName> XVIII. Decembris MDXXX.</p>
             </div>
         </body>

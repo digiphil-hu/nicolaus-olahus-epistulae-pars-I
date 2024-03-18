@@ -239,15 +239,15 @@
                     </body>
                 </floatingText>
                 <pb facs="15300218_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Stephanum Brodericum</persName><note type="critic"
-                        xml:id="note.1">István Brodarics (ca. 1471–1539) was one of the most
-                        important envoys of this time, a humanist, Bishop of Pécs, then Bishop of
-                        Vác, Chancellor of King Louis II. He wrote his chronicle on the battle of
-                        Mohács as a witness. After Mohács, he did not want to take part in the civil
-                        war and went to Poland to Piotr Tomicki. Later he joined King John I, as a
-                        result of which the friendship between Oláh and him broke. See more <hi
-                            rend="smallcap">Kasza</hi> 2012, and <hi rend="smallcap">Kasza</hi>
-                        2015.</note> episcopum Sirmiensem.</p>
+                <p xml:id="p.1">Ad <persName>Stephanum Brodericum</persName><note xml:id="note.1"
+                        >István Brodarics (ca. 1471–1539) was one of the most important envoys of
+                        this time, a humanist, Bishop of Pécs, then Bishop of Vác, Chancellor of
+                        King Louis II. He wrote his chronicle on the battle of Mohács as a witness.
+                        After Mohács, he did not want to take part in the civil war and went to
+                        Poland to Piotr Tomicki. Later he joined King John I, as a result of which
+                        the friendship between Oláh and him broke. See more <hi rend="smallcap"
+                            >Kasza</hi> 2012, and <hi rend="smallcap">Kasza</hi> 2015.</note>
+                    episcopum Sirmiensem.</p>
                 <p xml:id="p.2">Multi sunt, qui tibi succenseant, quod a tua constantia, probitate
                     et integritate si non omnino deflexeris, at aberrasse videaris, et illum, quem
                     prius habueris animum, nescio, quo pacto quibusve tuis cogitationibus immutaris.

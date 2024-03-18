@@ -253,7 +253,7 @@
                 <p xml:id="p.1">Salutem.</p>
                 <p xml:id="p.2">Vix dici potest, Praestantissime Domine Doctor, an plus longoribus
                     tuis quam his brevioribus litteris, quas mihi <persName>Felix</persName><note
-                        type="critic" xml:id="note.1">Felix Rex, see Ep. 10. Note
+                        xml:id="note.1">Felix Rex, see Ep. 10. Note
                             2.<ref>olahus.tei.15290528_2</ref></note> reddidit, fuissem delectatus.
                     Nam ex eis quoque illud intellexi, quod ex longioribus poteram cognovisse animum
                     scilicet et humanitatem tuam singularem in me futuram. Gratissimum igitur mihi
@@ -263,15 +263,15 @@
                     habiturum. Enitar ego quoque, ut meae amicitiae te non poeniteat. Regina est ea
                     nunc quoque in te clementia ac pietate, qua antea propter excellentes tuas
                     virtutes semper fuit. Quae ut fiat cumulatior, quantum in me erit, curabo
-                    diligenter. <persName>Quirinus</persName><note type="critic" xml:id="note.2"
-                        >Quirinus Hagius of The Hague matriculated at the University of Leuven, then
-                        became one of the most important messengers of Erasmus, see <hi
-                            rend="smallcap">Bierlaire–Bietenholz</hi> 1987, 127.</note> tuus cum ad
-                    te reverteretur et mihi valedixisset, nolui enim vacuis, ut dicunt, reverti
-                    manibus, ut dum prandes coenasque mei memineris.<note type="critic"
-                        xml:id="note.3">The gift was a silver spoon and fork, see Ep. 92. (Erasm.
-                        Ep. 2393, lines 23–25)<ref>olahus.tei.15301007_1</ref></note> Vale et me ama
-                    tuumque existima.</p>
+                    diligenter. <persName>Quirinus</persName><note xml:id="note.2">Quirinus Hagius
+                        of The Hague matriculated at the University of Leuven, then became one of
+                        the most important messengers of Erasmus, see <hi rend="smallcap"
+                            >Bierlaire–Bietenholz</hi> 1987, 127.</note> tuus cum ad te reverteretur
+                    et mihi valedixisset, nolui enim vacuis, ut dicunt, reverti manibus, ut dum
+                    prandes coenasque mei memineris.<note xml:id="note.3">The gift was a silver
+                        spoon and fork, see Ep. 92. (Erasm. Ep. 2393, lines
+                            23–25)<ref>olahus.tei.15301007_1</ref></note> Vale et me ama tuumque
+                    existima.</p>
                 <p xml:id="p.3">Ex <placeName>Augusta</placeName> XXI. Septembris anno Domini
                     1530.</p>
                 <p xml:id="p.4">Tuus Nicolaus Olah, custos Albensis secretarius et consiliarus

@@ -251,12 +251,11 @@
                     gravem, multis tamen ex causis animo prompto suscipere debes. Tua enim, ut
                         <persName>coniugis</persName> tuae amanitissimae res in illius locatione
                     agitur. Quod mei respectu in illius rebus te omnia facturum et paratam
-                        <persName>Levino</persName>,<note type="critic" xml:id="note.1">Lieven
-                        Algoet.</note> vel mihi in <persName>Levini</persName> tamen usum
-                        uxorem<note type="critic" xml:id="note.2">See Ep. 237. Note
-                            1.<ref>olahus.tei.15320705_1</ref></note> scribis, habeo tibi gratias,
-                    qui his quoque in rebus declares, quo sis in me animo. Matrimonium ut perpetuum
-                    est, ita consulto </p>
+                        <persName>Levino</persName>,<note xml:id="note.1">Lieven Algoet.</note> vel
+                    mihi in <persName>Levini</persName> tamen usum uxorem<note xml:id="note.2">See
+                        Ep. 237. Note 1.<ref>olahus.tei.15320705_1</ref></note> scribis, habeo tibi
+                    gratias, qui his quoque in rebus declares, quo sis in me animo. Matrimonium ut
+                    perpetuum est, ita consulto </p>
                 <pb facs="15320711_1_2.jpg"/>
                 <p xml:id="p.3">tractandum ac <del corresp="Olahus">perseverandum</del><add
                         corresp="Olahus" type="corr">perficiendum</add>, utpote quod postea

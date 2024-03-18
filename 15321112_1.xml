@@ -232,20 +232,20 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Posteaquam exemplum litterarum <persName>Cocianeri</persName>,<note
-                        type="critic" xml:id="note.2">Hans Katzianer.</note><add corresp="editor">de
-                        quibus</add> ad te proximus<note type="critic" xml:id="note.3">Ep.
-                            294.<ref>olahus.tei.15321110_1</ref></note> scripseram, perlegissemus,
-                    venit alius nuntius, qui dixit ipsum relicto consilio Budensis oppugnationis,
-                    decrevisse <placeName>Cassoviam</placeName><note type="critic" xml:id="note.4"
-                        >Košice.</note> versus proficisci, et tentata duarum vel trium istic arcium,
-                    quas hostes nostri incolunt, expugnatione, si id minus succedat, velle recta
-                        <placeName>Scepusium</placeName><note type="critic" xml:id="note.5">Szepes
-                        county.</note> tendere, et animos illorum, qui fide sunt regis, confirmare.
-                    Hoc illius propositum et factum quid nobis conducat, quidve rebus meis afferat
-                    utilitatis, cogitare tu ipse poteris. Quandoquidem mea bona infra
+                        xml:id="note.2">Hans Katzianer.</note><add corresp="editor">de quibus</add>
+                    ad te proximus<note xml:id="note.3">Ep.
+                        294.<ref>olahus.tei.15321110_1</ref></note> scripseram, perlegissemus, venit
+                    alius nuntius, qui dixit ipsum relicto consilio Budensis oppugnationis,
+                    decrevisse <placeName>Cassoviam</placeName><note xml:id="note.4">Košice.</note>
+                    versus proficisci, et tentata duarum vel trium istic arcium, quas hostes nostri
+                    incolunt, expugnatione, si id minus succedat, velle recta
+                        <placeName>Scepusium</placeName><note xml:id="note.5">Szepes county.</note>
+                    tendere, et animos illorum, qui fide sunt regis, confirmare. Hoc illius
+                    propositum et factum quid nobis conducat, quidve rebus meis afferat utilitatis,
+                    cogitare tu ipse poteris. Quandoquidem mea bona infra
                         <placeName>Budam</placeName> iacent, <placeName>Scepusium</placeName> autem,
                     quo <persName>Cocianer</persName> tendere videtur, multarum dierum abest a
                         <placeName>Buda</placeName> spatio; antea sperabam res nostras meliores

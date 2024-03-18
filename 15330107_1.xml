@@ -242,19 +242,18 @@
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao thesaurario Albensi secretario reginae
                     Mariae.</p>
                 <p xml:id="p.2">Perlibenter admisissem in aedes meas <persName>Ioannem</persName>
-                        tuum,<note type="critic" xml:id="note.1">Johann Henckel the Younger, see <hi
+                        tuum,<note xml:id="note.1">Johann Henckel the Younger, see <hi
                             rend="smallcap">Pallos</hi> 2010, 172–173.</note> si aliquo pacto locum
                     habuissem. Rogatu enim amicorum plures suscepi alendos, quam domus mea commode
                     capere possit. Rogavi dominum <persName>Petrum canonicum
-                        Moguntinum</persName>,<note type="critic" xml:id="note.2">We do not know
-                        this Canon of Mainz.</note> ut ipse admitteret illum in contubernium suum,
-                    id quod et tui et nostri causa non gravate fecit. Erit ibi optime. Habent
-                    contubernales ipsius domus doctum praeceptorem magistrum <persName>Nicolaum
-                        Mermillanum</persName><note type="critic" xml:id="note.3">Nicolas Wary of
-                        Marville or Nicolaus Marvillanus (†1529) studied at the University of Leuven
-                        and later officially represented the University in many cases, see <hi
-                            rend="smallcap">Guenther</hi> 1987.</note> mihi ab hinc multos annos
-                    notum. <choice>
+                        Moguntinum</persName>,<note xml:id="note.2">We do not know this Canon of
+                        Mainz.</note> ut ipse admitteret illum in contubernium suum, id quod et tui
+                    et nostri causa non gravate fecit. Erit ibi optime. Habent contubernales ipsius
+                    domus doctum praeceptorem magistrum <persName>Nicolaum
+                        Mermillanum</persName><note xml:id="note.3">Nicolas Wary of Marville or
+                        Nicolaus Marvillanus (†1529) studied at the University of Leuven and later
+                        officially represented the University in many cases, see <hi rend="smallcap"
+                            >Guenther</hi> 1987.</note> mihi ab hinc multos annos notum. <choice>
                         <orig>Nam</orig>
                         <supplied>Non</supplied>
                     </choice> fuit <del corresp="Olahus">convictor</del><add corresp="Olahus"
@@ -266,18 +265,17 @@
                 <p xml:id="p.3">susceperim. Paulo maiores emit <choice>
                         <orig>victum</orig>
                         <supplied>victuum</supplied>
-                    </choice>, quam tuus <persName>Iacobus</persName><note type="critic"
-                        xml:id="note.4">Probably Jakob Jespersen.</note> asseruerat morem esse
-                        <placeName>Lovanii</placeName> victum emi. Vix credo usquam tali summa
-                    convictores ali. Ipse autem solvet pro victu 42 florenos Brabanticos. In multis
-                    aedibus solvunt quinquaginta. Solent olim 36 tantum florenos solvi pro victu. De
-                    eo tempore fortassis Iacobus cogitabat, cum illam summam nominaret. Cum per
-                    negotia tibi vacaverit huc venire, erit nobis adventus Dominationis Tuae
-                    gratissimus. Bene vale, Domine Secretarie, in primis Colende.</p>
+                    </choice>, quam tuus <persName>Iacobus</persName><note xml:id="note.4">Probably
+                        Jakob Jespersen.</note> asseruerat morem esse <placeName>Lovanii</placeName>
+                    victum emi. Vix credo usquam tali summa convictores ali. Ipse autem solvet pro
+                    victu 42 florenos Brabanticos. In multis aedibus solvunt quinquaginta. Solent
+                    olim 36 tantum florenos solvi pro victu. De eo tempore fortassis Iacobus
+                    cogitabat, cum illam summam nominaret. Cum per negotia tibi vacaverit huc
+                    venire, erit nobis adventus Dominationis Tuae gratissimus. Bene vale, Domine
+                    Secretarie, in primis Colende.</p>
                 <p xml:id="p.4"><placeName>Lovanii</placeName> postridie regum anno XXXII.<note
-                        type="critic" xml:id="note.5">Obviously, the scribe used the so-called
-                        Easter style by the dating. See <hi rend="smallcap">Tournoy</hi> 2006, 130.
-                        n. 5.</note></p>
+                        xml:id="note.5">Obviously, the scribe used the so-called Easter style by the
+                        dating. See <hi rend="smallcap">Tournoy</hi> 2006, 130. n. 5.</note></p>
             </div>
         </body>
     </text>

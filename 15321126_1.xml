@@ -246,29 +246,29 @@
                 <pb facs="15321126_1_1.jpg"/>
                 <p xml:id="p.1">Ad Erasmum Roterodanum.</p>
                 <p xml:id="p.2">Adeo turbato animo ferebam <placeName>mansionem nostram
-                        Binsiensem</placeName>,<note type="critic" xml:id="note.1">Binche.</note>
-                    tum propter multas causas, tum maxime propter hospitii mei incommoditatem ac
-                    hospitis temulentiam, vel potius insaniam, ut vix exspectaverim nos ab illa
-                    molestia liberari </p>
+                        Binsiensem</placeName>,<note xml:id="note.1">Binche.</note> tum propter
+                    multas causas, tum maxime propter hospitii mei incommoditatem ac hospitis
+                    temulentiam, vel potius insaniam, ut vix exspectaverim nos ab illa molestia
+                    liberari </p>
                 <pb facs="15321126_1_2.jpg"/>
-                <p xml:id="p.3">ac huc <placeName>Bergas</placeName>,<note type="critic"
-                        xml:id="note.2">Mons.</note> oppidum et amoenissimum et hominibus humanis
-                    refertum, commigrare. Venimus huc nudiustertius cum quanta popularium laetitia,
-                    qua puerorum, adolescentium et matrum familias alacritate, non opus esse
-                    arbitror me tibi declarare, quandoquidem <persName>Quirinus</persName><note
-                        type="critic" xml:id="note.3">Quirinus Hagius of The Hague. “The exact day
-                        at which Quirinus set out for England is not known. Erasmus was writing
-                        letters for him to carry with him in the last days of August 1532; and from
-                        Ep. 2759. 37–8, it appears that in Sept. he was in Brussels”, see <hi
-                            rend="smallcap">Allen</hi> 1941, 129.</note> tuus, qui negotiorum tuorum
-                    per agendorum causa ad reginam venerit, reversus ea omnia referre potuit. Quare,
-                    mi Erasme, noli putare nos tuarum rerum fuisse immemores, vidit et ipse
-                        <persName>Quirinus</persName>, viderunt et omnes tui, qui adsunt, nos nihil
-                    praetermisisse tuarum rerum, quantum a nobis fieri potuit, aut vel negotii
-                    magnitudo, vel principis occupatio visae sunt admittere. Nihil igitur de nobis
-                    dubita! Ad id, quod nunc tuus <persName>Quirinus</persName> ad te detulit, uti
-                    credo non tibi omnino ingratum, propediem adiiciemus uberiora, si te bono nunc
-                    animo responsum tibi datum accepisse intellexerimus. Vale.</p>
+                <p xml:id="p.3">ac huc <placeName>Bergas</placeName>,<note xml:id="note.2"
+                        >Mons.</note> oppidum et amoenissimum et hominibus humanis refertum,
+                    commigrare. Venimus huc nudiustertius cum quanta popularium laetitia, qua
+                    puerorum, adolescentium et matrum familias alacritate, non opus esse arbitror me
+                    tibi declarare, quandoquidem <persName>Quirinus</persName><note xml:id="note.3"
+                        >Quirinus Hagius of The Hague. “The exact day at which Quirinus set out for
+                        England is not known. Erasmus was writing letters for him to carry with him
+                        in the last days of August 1532; and from Ep. 2759. 37–8, it appears that in
+                        Sept. he was in Brussels”, see <hi rend="smallcap">Allen</hi> 1941,
+                        129.</note> tuus, qui negotiorum tuorum per agendorum causa ad reginam
+                    venerit, reversus ea omnia referre potuit. Quare, mi Erasme, noli putare nos
+                    tuarum rerum fuisse immemores, vidit et ipse <persName>Quirinus</persName>,
+                    viderunt et omnes tui, qui adsunt, nos nihil praetermisisse tuarum rerum,
+                    quantum a nobis fieri potuit, aut vel negotii magnitudo, vel principis occupatio
+                    visae sunt admittere. Nihil igitur de nobis dubita! Ad id, quod nunc tuus
+                        <persName>Quirinus</persName> ad te detulit, uti credo non tibi omnino
+                    ingratum, propediem adiiciemus uberiora, si te bono nunc animo responsum tibi
+                    datum accepisse intellexerimus. Vale.</p>
                 <p xml:id="p.4"><placeName>Bergis Hannoniae</placeName> 26. Novembris 1532.</p>
             </div>
         </body>

@@ -231,8 +231,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15321106_1_1.jpg"/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
                 <p xml:id="p.2">Imperatoris <persName>Caroli</persName> animum itinerisque rationem
                     iampridem te arbitror intellexisse: nulla facta in
                         <placeName>Hungariam</placeName>, uti sperabamus, expeditione profectus <choice>

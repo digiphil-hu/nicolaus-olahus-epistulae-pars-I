@@ -252,14 +252,13 @@
                     animo, si malevolentiam <choice>
                         <orig>τὼν πονιρὼν ἀνθρόπων</orig>
                         <supplied>τῶν πονηρῶν ἀνθρώπων</supplied>
-                    </choice><note type="critic" xml:id="note.1">‘[the malevolence] of malignant
-                        people’.</note> vitare non poteris, hoc saltem cave, ne quid vere iusteque
-                    te accusare possint. Nam ἡ δικαιοσύνη<note type="critic" xml:id="note.2">‘the
-                        truth’.</note> parum temporis latere solet, sed paulatim fit φάνερα<note
-                        type="critic" xml:id="note.3">‘obvious’.</note>, suumque splendorem emittet,
-                    ita ut omnes cognoscant malevoles illos homines sua malitia non sibi magis, quam
-                        <del corresp="editor">sibi</del> odium ac inimicitias parasse. Vale. Et me
-                    ama.</p>
+                    </choice><note xml:id="note.1">‘[the malevolence] of malignant people’.</note>
+                    vitare non poteris, hoc saltem cave, ne quid vere iusteque te accusare possint.
+                    Nam ἡ δικαιοσύνη<note xml:id="note.2">‘the truth’.</note> parum temporis latere
+                    solet, sed paulatim fit φάνερα<note xml:id="note.3">‘obvious’.</note>, suumque
+                    splendorem emittet, ita ut omnes cognoscant malevoles illos homines sua malitia
+                    non sibi magis, quam <del corresp="editor">sibi</del> odium ac inimicitias
+                    parasse. Vale. Et me ama.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> ultima Augusti 1532.</p>
             </div>
         </body>

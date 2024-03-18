@@ -236,72 +236,70 @@
                     </body>
                 </floatingText>
                 <pb facs="15300207_1_1.jpg"/>
-                <p xml:id="p.1">Idem Nicolao Olao.<note type="critic" xml:id="note.1">About his
-                        letter, see <hi rend="smallcap">Békefi</hi> 1913, 11.</note></p>
+                <p xml:id="p.1">Idem Nicolao Olao.<note xml:id="note.1">About his letter, see <hi
+                            rend="smallcap">Békefi</hi> 1913, 11.</note></p>
                 <p xml:id="p.2">[1.] Credo iam te certius cognovisse, quod nuper ignorabas, ut
                     exercitus regius retrocesserit etc. piget meminisse. Facis mentionem
-                        <placeName>Agriae</placeName>,<note type="critic" xml:id="note.2">After 28
-                        October, 1529, the army of Ferdinand I followed the withdrawing Turks and
-                        occupied the castles of Western Hungary, even parts of Upper Hungary, as far
-                        as the lines between Eger and Košice.</note> quae iampridem in hostium venit
-                    potestatem, cum prius mensem unum et dies aliquot omnibus viribus equestribus,
-                    pedestribus, quas habebat <persName>Ioannes</persName>,<note type="critic"
-                        xml:id="note.3">King John I.</note> fuisset acerrime oppugnata et per meos
-                    strenue item et fortiter defensa. <persName>Hieronimus Lasko</persName><note
-                        type="critic" xml:id="note.4">Hieronymus Łaski (1496–1541) was a Polish
-                        aristocrat and diplomat. After Mohács, he entered King John I’s service and
-                        became his legate to Paris, Coppenhagen, and Munich. He was King John I’s
-                        most important diplomat, especially to the Sublime Porta. Between 1528–1531,
-                        he was <hi rend="italic">ispán</hi> of Szepes county and Voivode of
-                        Transylvania from 1530. Even though Łaski conspired with Gritti against King
-                        John I, their plan was discovered, and Łaski became an ally and a diplomat
-                        of King Ferdinand I.</note> cum Polonis, <persName>Cozka</persName><note
-                        type="critic" xml:id="note.5">Péter Koczka or his brother Miklós Koczka,
-                        both were King John I’s loyal captains.</note> cum Bohaemis et tormentis
-                    bellicis, <persName>Ioannes Tahy</persName>,<note type="critic" xml:id="note.6"
+                        <placeName>Agriae</placeName>,<note xml:id="note.2">After 28 October, 1529,
+                        the army of Ferdinand I followed the withdrawing Turks and occupied the
+                        castles of Western Hungary, even parts of Upper Hungary, as far as the lines
+                        between Eger and Košice.</note> quae iampridem in hostium venit potestatem,
+                    cum prius mensem unum et dies aliquot omnibus viribus equestribus, pedestribus,
+                    quas habebat <persName>Ioannes</persName>,<note xml:id="note.3">King John
+                        I.</note> fuisset acerrime oppugnata et per meos strenue item et fortiter
+                    defensa. <persName>Hieronimus Lasko</persName><note xml:id="note.4">Hieronymus
+                        Łaski (1496–1541) was a Polish aristocrat and diplomat. After Mohács, he
+                        entered King John I’s service and became his legate to Paris, Coppenhagen,
+                        and Munich. He was King John I’s most important diplomat, especially to the
+                        Sublime Porta. Between 1528–1531, he was <hi rend="italic">ispán</hi> of
+                        Szepes county and Voivode of Transylvania from 1530. Even though Łaski
+                        conspired with Gritti against King John I, their plan was discovered, and
+                        Łaski became an ally and a diplomat of King Ferdinand I.</note> cum Polonis,
+                        <persName>Cozka</persName><note xml:id="note.5">Péter Koczka or his brother
+                        Miklós Koczka, both were King John I’s loyal captains.</note> cum Bohaemis
+                    et tormentis bellicis, <persName>Ioannes Tahy</persName>,<note xml:id="note.6"
                         >János Tahy, Prior of Vrana, from 1525 Ban of Croatia, see <hi
                             rend="smallcap">Varga</hi> 2008, 1110.</note><persName> Ioannes
-                        Zerechen</persName>,<note type="critic" xml:id="note.7">János Szerecsen
-                        (†1532), <hi rend="italic">familiaris</hi> of the Szapolyai family, see <hi
+                        Zerechen</persName>,<note xml:id="note.7">János Szerecsen (†1532), <hi
+                            rend="italic">familiaris</hi> of the Szapolyai family, see <hi
                             rend="smallcap">Kubinyi</hi> 2008, 229.</note><persName>Caspar
-                        Raskay</persName>,<note type="critic" xml:id="note.8">Gáspár Ráskay was a
-                        Hungarian poet, and Chief Chamberlain of King Louis II. He participated in
-                        the battle of Mohács, later he became loyal to King John I. For his merits,
-                        King John I appointed him <hi rend="italic">ispán</hi> of Nógrád county,
-                        later <hi rend="italic">ispán</hi> of Temes county, see [<hi rend="smallcap"
+                        Raskay</persName>,<note xml:id="note.8">Gáspár Ráskay was a Hungarian poet,
+                        and Chief Chamberlain of King Louis II. He participated in the battle of
+                        Mohács, later he became loyal to King John I. For his merits, King John I
+                        appointed him <hi rend="italic">ispán</hi> of Nógrád county, later <hi
+                            rend="italic">ispán</hi> of Temes county, see [<hi rend="smallcap"
                             >Szilády</hi>] 1893.</note><persName>Petrus Bodo</persName>,<note
-                        type="critic" xml:id="note.9">Péter Bodó.</note><persName>Thomas
-                        Nadasdi</persName>, <persName>Pazthay</persName>,<note type="critic"
-                        xml:id="note.10">He is either Zsigmond Pásztói or Ferenc Pásztói, son of
-                        György Pásztói, possessors of Pásztó, see <hi rend="smallcap">Kubinyi</hi>
-                        2000, 324–325.</note><persName>Puthmoky</persName>,<note type="critic"
-                        xml:id="note.11">Imre Putnoki, former Master Cupbearer of King Louis II,
-                        then King John I’s Marshal, and <hi rend="italic">ispán</hi> of Borsod
-                        county.</note> denique omnis turba perfidorum ad illius arcis expugnationem
-                    concurrerat.</p>
+                        xml:id="note.9">Péter Bodó.</note><persName>Thomas Nadasdi</persName>,
+                        <persName>Pazthay</persName>,<note xml:id="note.10">He is either Zsigmond
+                        Pásztói or Ferenc Pásztói, son of György Pásztói, possessors of Pásztó, see
+                            <hi rend="smallcap">Kubinyi</hi> 2000,
+                        324–325.</note><persName>Puthmoky</persName>,<note xml:id="note.11">Imre
+                        Putnoki, former Master Cupbearer of King Louis II, then King John I’s
+                        Marshal, and <hi rend="italic">ispán</hi> of Borsod county.</note> denique
+                    omnis turba perfidorum ad illius arcis expugnationem concurrerat.</p>
                 <p xml:id="p.3">[2.] Vesprimiensis arx recuperata nuper fuit per <persName>Andream
                         Choron</persName> et alios familiares meos et mox per <persName>Ioannem <del
                             corresp="Olahus">Thagy</del><add corresp="Olahus" type="corr"
                             >Thahy</add></persName>, <persName>Franciscum Somogy</persName>,<note
-                        type="critic" xml:id="note.12">Probably Ferenc Somogyi of Endréd, <hi
-                            rend="italic">viceispán</hi> of Somogy county. He was Captain of Tata
-                        and Komárom until 1526.</note><persName>Petrum Emresy</persName>,<note
-                        type="critic" xml:id="note.13">Péter Imreffy. In 1534, he occurs in Bálint
-                        Török’s letter, see <hi rend="smallcap">Bessenyei</hi> 1994, 85 (Ep.
-                        120).</note> et quosdam pedites Bohemos, et per aliquot millia rusticorum
-                    fuit obsessa et oppugnata violentissime, sed Deo et fidelissimis castellanis
-                    meis propugnantibus servata. Ioannes Tahy cum suis turpissime depulsus occisis
-                    et vulneratis hominibus circiter quadringentis, amisso etiam fratre et plerisque
-                    familiaribus; negant de Bohemis superfuisse decem, quin saucii fuerint aut
-                    mortui. Erant et autem, ut intelligo, <del corresp="Olahus">trecentis</del><add
-                        corresp="Olahus" type="corr">trecenti</add> de meis duo levissime vulnerati.
-                        <persName>Piskey</persName><note type="critic" xml:id="note.14">We do not
-                        know him more closely. The family possessed Piski in Bihar county and was
-                        loyal to King John I, see <hi rend="smallcap">Csánki</hi> 1890, 638, and <hi
+                        xml:id="note.12">Probably Ferenc Somogyi of Endréd, <hi rend="italic"
+                            >viceispán</hi> of Somogy county. He was Captain of Tata and Komárom
+                        until 1526.</note><persName>Petrum Emresy</persName>,<note xml:id="note.13"
+                        >Péter Imreffy. In 1534, he occurs in Bálint Török’s letter, see <hi
+                            rend="smallcap">Bessenyei</hi> 1994, 85 (Ep. 120).</note> et quosdam
+                    pedites Bohemos, et per aliquot millia rusticorum fuit obsessa et oppugnata
+                    violentissime, sed Deo et fidelissimis castellanis meis propugnantibus servata.
+                    Ioannes Tahy cum suis turpissime depulsus occisis et vulneratis hominibus
+                    circiter quadringentis, amisso etiam fratre et plerisque familiaribus; negant de
+                    Bohemis superfuisse decem, quin saucii fuerint aut mortui. Erant et autem, ut
+                    intelligo, <del corresp="Olahus">trecentis</del><add corresp="Olahus"
+                        type="corr">trecenti</add> de meis duo levissime vulnerati.
+                        <persName>Piskey</persName><note xml:id="note.14">We do not know him more
+                        closely. The family possessed Piski in Bihar county and was loyal to King
+                        John I, see <hi rend="smallcap">Csánki</hi> 1890, 638, and <hi
                             rend="smallcap">Jakó</hi> 1940, 324.</note> his diebus ad
-                        <placeName>Ugrot</placeName><note type="critic" xml:id="note.15"
-                        >Uhrovec.</note> per nostros est profligatus.</p>
-                <p xml:id="p.4">Hispani civitatem Strigoniensem<note type="critic" xml:id="note.16"
+                        <placeName>Ugrot</placeName><note xml:id="note.15">Uhrovec.</note> per
+                    nostros est profligatus.</p>
+                <p xml:id="p.4">Hispani civitatem Strigoniensem<note xml:id="note.16"
                         >Esztergom.</note> nuper diripuerant. Turcarum nasadistae capitulum
                     diripuerunt, e civitate quicquid erat hominum abductum. Hic nulli fiunt
                     apparatus. Vale.</p>

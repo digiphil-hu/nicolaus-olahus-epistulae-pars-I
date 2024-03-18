@@ -240,8 +240,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15320829_2_1.jpg"/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Arguis me fortasse imprudentiae, quod hisdem de rebus varia ad te
                     scribam, non te hoc movere debeat, nec aliquid de me, oro, suspiceris alienum
                     meo nomini. Nam tam varia dubiaque ad nos quotidie afferuntur, ut in
@@ -253,7 +253,7 @@
                     quoque diebus hoc idem mihi contigit. <choice>
                         <orig>nan</orig>
                         <supplied>Nam</supplied>
-                    </choice> si recordaris, scripseram<note type="critic" xml:id="note.2">See Ep.
+                    </choice> si recordaris, scripseram<note xml:id="note.2">See Ep.
                             251.<ref>olahus.tei.15320827_1</ref></note> ad te Turcam obsedisse
                         <placeName>Wiennam</placeName> et in illius eum occupatum fuisse obsidione.
                     Id <choice>
@@ -264,24 +264,24 @@
                     dicunt Turcam cum esset in itinere <placeName>Wiennam</placeName> veniendi, cum
                     omnibus suis viribus divertisse ad <placeName>Gencz</placeName> arcem oppidumque
                     mediocriter munitum, nostro Hungarico vocabulo
-                        <placeName>Kewzeegh</placeName><note type="critic" xml:id="note.3">Kőszeg.
-                        About the siege of Kőszeg, see <hi rend="smallcap">Bariska</hi> 1982.</note>
-                    dictam, illicque exspectasse in hunc diem suas machinas bellicas et impedimenta,
-                    ut curribus ad eum ex <placeName>Buda</placeName>, ubi ea reliquerat, quoquo
-                    modo possent, afferentur, quibus adductis mox <placeName>Wiennam</placeName>
-                    obsidere cogitat. Et ut accepimus, hoc fortasse die est in obsidione Wiennensi.
-                    Id quoque nobis significatum est <persName>imperatorem</persName> nostrum
-                    misisse iam <persName>comitem palatinum Rheni, Fridericum</persName><note
-                        type="critic" xml:id="note.4">Friedrich II, Count Palatine of the
-                        Rhine.</note> cum quinquaginta hominum militibus ad pontem usque Wiennensem,
-                    ut illum, ne a Turcis disrumperetur, defenderent et custodirent, ipsum vero
+                        <placeName>Kewzeegh</placeName><note xml:id="note.3">Kőszeg. About the siege
+                        of Kőszeg, see <hi rend="smallcap">Bariska</hi> 1982.</note> dictam,
+                    illicque exspectasse in hunc diem suas machinas bellicas et impedimenta, ut
+                    curribus ad eum ex <placeName>Buda</placeName>, ubi ea reliquerat, quoquo modo
+                    possent, afferentur, quibus adductis mox <placeName>Wiennam</placeName> obsidere
+                    cogitat. Et ut accepimus, hoc fortasse die est in obsidione Wiennensi. Id quoque
+                    nobis significatum est <persName>imperatorem</persName> nostrum misisse iam
+                        <persName>comitem palatinum Rheni, Fridericum</persName><note
+                        xml:id="note.4">Friedrich II, Count Palatine of the Rhine.</note> cum
+                    quinquaginta hominum militibus ad pontem usque Wiennensem, ut illum, ne a Turcis
+                    disrumperetur, defenderent et custodirent, ipsum vero
                         <persName>imperatorem</persName> nostrum prima sequentis Septembris die se
-                    ex <placeName>Ratispona</placeName><note type="critic" xml:id="note.5"
-                        >Regensburg.</note> moturum pedetentimque cum suis ita progessurum
-                        <placeName>Wiennam</placeName> versus, ut ad quintumdecimum Septembris
-                    futuri diem sit prope <placeName>Cremps</placeName> oppidum cum omni suo
-                    exercitu in castris constiturus. Haec ad te scripsi non ficta, sed quae ex
-                    litteris heri allatis putavi esse vera. Si secus </p>
+                    ex <placeName>Ratispona</placeName><note xml:id="note.5">Regensburg.</note>
+                    moturum pedetentimque cum suis ita progessurum <placeName>Wiennam</placeName>
+                    versus, ut ad quintumdecimum Septembris futuri diem sit prope
+                        <placeName>Cremps</placeName> oppidum cum omni suo exercitu in castris
+                    constiturus. Haec ad te scripsi non ficta, sed quae ex litteris heri allatis
+                    putavi esse vera. Si secus </p>
                 <pb facs="15320829_2_2.jpg"/>
                 <p xml:id="p.3">res acciderit, id non mihi, sed his, qui rem dubiam pro vera et
                     nuntiunt et scribunt, te tribuere oportebit. Vale.</p>

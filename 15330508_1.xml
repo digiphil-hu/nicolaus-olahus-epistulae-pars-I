@@ -236,7 +236,7 @@
                 <pb facs="15330508_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Tridentinum cardinalem.</p>
                 <pb facs="15330508_1_2.jpg"/>
-                <p xml:id="p.2">Ex litteris<note type="critic" xml:id="note.1">See Ep.
+                <p xml:id="p.2">Ex litteris<note xml:id="note.1">See Ep.
                             317.<ref>olahus.tei.15330208_1</ref></note><persName>Cornelii
                         Scepperi</persName> amici mei intellexi te, Reverendissime Domine, singulari
                     fovere res meas patrocinio, pro quo nihil aliud est nunc mihi, quod tibi
@@ -255,10 +255,10 @@
                     initio electionis ipsius in <persName>regem</persName> obivi, fac commendatas,
                     et tua effice authoritate, ut bona mea, quae pro parte maiore servitores regii
                     Hungari, qui rapinam potius quam alia curant, contra <persName>regis</persName>
-                    mandatum iam biennio vi detinent,<note type="critic" xml:id="note.2">His
-                        possessions in Somogy county were usurped by Bálint Török and János
-                        Bodó.</note> ad manus mei hominis remittantur; qua re facies me ex obligato
-                    tuis mandatis obligatissimum. Valere te feliciter cupio.</p>
+                    mandatum iam biennio vi detinent,<note xml:id="note.2">His possessions in Somogy
+                        county were usurped by Bálint Török and János Bodó.</note> ad manus mei
+                    hominis remittantur; qua re facies me ex obligato tuis mandatis obligatissimum.
+                    Valere te feliciter cupio.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> VIII. Maii 1533.</p>
             </div>
         </body>

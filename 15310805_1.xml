@@ -231,11 +231,10 @@
                     </body>
                 </floatingText>
                 <pb facs="15310805_1_1.jpg"/>
-                <p xml:id="p.1">Ad comitem Ioannem.<note type="critic" xml:id="note.1">Probably
-                        János Szalay, <hi rend="italic">ispán</hi> of Pozsony county, loyal to King
-                        Ferdinand I, or Johann von Hadelburg, or Joannes comes Ferentinus, see Ep.
-                        120, and Ep.
-                        121.<ref>olahus.tei.15301122_1</ref></note><ref>/o:olahus.tei.15301123_1</ref></p>
+                <p xml:id="p.1">Ad comitem Ioannem.<note xml:id="note.1">Probably János Szalay, <hi
+                            rend="italic">ispán</hi> of Pozsony county, loyal to King Ferdinand I,
+                        or Johann von Hadelburg, or Joannes comes Ferentinus, see Ep. 120, and Ep.
+                            121.<ref>olahus.tei.15301122_1</ref></note><ref>/o:olahus.tei.15301123_1</ref></p>
                 <p xml:id="p.2">Pudet me tibi referre, quas concursationes quotidie inanes faciamus.
                     Bona omnia tempora sine aliqua vel ingenii, vel corporis cura turpiter
                     negligentes. Ad omnem cuiuslibet nebulonis et impurissimi nuntii praedictionem

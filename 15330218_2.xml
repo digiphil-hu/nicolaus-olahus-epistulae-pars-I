@@ -251,7 +251,7 @@
                 <p xml:id="p.2">[1.] Sicuti proxime ad te scripsi, habeo spem, quod in rebus
                     communibus Hungaricis, ex quibus meae pendent, propediem rex noster
                         <persName>Ferdinandus</persName> finem sit facturus. Nam certo intelligo hoc
-                    ipso die in <placeName>Altemburga</placeName><note type="critic" xml:id="note.1"
+                    ipso die in <placeName>Altemburga</placeName><note xml:id="note.1"
                         >Magyaróvár.</note> commissaros utriusque partis convenire debuisse pro pace
                     tractanda. Regia autem <persName>maiestas</persName> descendet, vel iam
                     descendit <placeName>Lincium</placeName> aut fortasse
@@ -289,32 +289,31 @@
                         <persName>Ferdinandum</persName>. Quare accedendum tibi erit
                         <placeName>Altemburgam</placeName> in omnem eventum, vel fortasse ita
                     contingere poterit, quod <persName>dominus Agriensis</persName><note
-                        type="critic" xml:id="note.2">Tamás Szalaházy.</note> ex parte
-                        <persName>regis</persName> nostri unus erit istic commissarius, cum quo eo
-                    facilius istic adesse potestis. Si tamen etiam ipse illuc non proficisceretur.
-                    Tu nihilominus eo accede, habes istic <persName>Iacobum Stampcz</persName><note
-                        type="critic" xml:id="note.3">Jakob Stamp was Master of Stables to King
-                        Louis II, and also Castellan of Magyaróvár and <hi rend="italic">ispán</hi>
-                        of Zólyom county, see <hi rend="smallcap">Hatvani</hi> 1858, 216.</note>
-                    bonum, ut saepe ad me scripsisti, amicum meum. Ex altera parte, uti cogito,
-                    inter alios erit aut <persName>Brodericus</persName> aut
-                        <persName>Nadasdi</persName>, uterque mihi magna olim familiaritate
-                    coniunctus. Scripsi ad utrumque litteras credentiae in personam tuam, quas ad te
-                    misi, ut actiones tuas melius his accommodare scias, cum quibus aut altero eorum
-                    in praemisso casu (fide mea in regem et reginam salva) agere potes. Ut si
-                    viderent esse opus, <del corresp="Olahus">effecerent</del><add corresp="Olahus"
-                        type="corr">efficerent</add>, quod custodia<note type="critic"
-                        xml:id="note.4">Custos of the Chapter of Székesfehérvár.</note> ipsa <add
-                        corresp="Olahus" type="insert">quae</add> per translationem
-                        <persName>Gherendi</persName> ad episcopatum Transsilvaniensem, legitime
-                    mihi collata erat, ex pacto et vigore concordiae mihi reliquatur. Et nunc <del
-                        corresp="Olahus">quoque</del> ostendant veterem eorum <del corresp="Olahus"
-                        >illam</del> in me <del corresp="Olahus">veterem</del> illam benevolentiam,
-                    alia item plurima, quae in rem facere videbuntur <del corresp="Olahus"
-                        >meam</del><add corresp="Olahus" type="corr">meam</add>, ex tua industria
-                    ei, qui adfuerit praesenti dicere ex te poteris, quae scilicet videris eis et
-                    tempori esse apta ac convenientia. Si <persName>Cornelius
-                        Scepperus</persName><add corresp="Olahus" type="insert"
+                        xml:id="note.2">Tamás Szalaházy.</note> ex parte <persName>regis</persName>
+                    nostri unus erit istic commissarius, cum quo eo facilius istic adesse potestis.
+                    Si tamen etiam ipse illuc non proficisceretur. Tu nihilominus eo accede, habes
+                    istic <persName>Iacobum Stampcz</persName><note xml:id="note.3">Jakob Stamp was
+                        Master of Stables to King Louis II, and also Castellan of Magyaróvár and <hi
+                            rend="italic">ispán</hi> of Zólyom county, see <hi rend="smallcap"
+                            >Hatvani</hi> 1858, 216.</note> bonum, ut saepe ad me scripsisti, amicum
+                    meum. Ex altera parte, uti cogito, inter alios erit aut
+                        <persName>Brodericus</persName> aut <persName>Nadasdi</persName>, uterque
+                    mihi magna olim familiaritate coniunctus. Scripsi ad utrumque litteras
+                    credentiae in personam tuam, quas ad te misi, ut actiones tuas melius his
+                    accommodare scias, cum quibus aut altero eorum in praemisso casu (fide mea in
+                    regem et reginam salva) agere potes. Ut si viderent esse opus, <del
+                        corresp="Olahus">effecerent</del><add corresp="Olahus" type="corr"
+                        >efficerent</add>, quod custodia<note xml:id="note.4">Custos of the Chapter
+                        of Székesfehérvár.</note> ipsa <add corresp="Olahus" type="insert"
+                        >quae</add> per translationem <persName>Gherendi</persName> ad episcopatum
+                    Transsilvaniensem, legitime mihi collata erat, ex pacto et vigore concordiae
+                    mihi reliquatur. Et nunc <del corresp="Olahus">quoque</del> ostendant veterem
+                    eorum <del corresp="Olahus">illam</del> in me <del corresp="Olahus"
+                        >veterem</del> illam benevolentiam, alia item plurima, quae in rem facere
+                    videbuntur <del corresp="Olahus">meam</del><add corresp="Olahus" type="corr"
+                        >meam</add>, ex tua industria ei, qui adfuerit praesenti dicere ex te
+                    poteris, quae scilicet videris eis et tempori esse apta ac convenientia. Si
+                        <persName>Cornelius Scepperus</persName><add corresp="Olahus" type="insert"
                             ><persName>caesaris</persName></add> orator, <choice>
                         <orig>sumus</orig>
                         <supplied>summus</supplied>
@@ -328,22 +327,21 @@
                         <persName>regem</persName><persName>regina</persName> proximis </p>
                 <pb facs="15330218_2_3.jpg"/>
                 <p xml:id="p.6">diebus scripsit in his rebus commendandis. Scripserat etiam ad
-                    dominum <persName>cardinalem Tritentinum</persName>,<note type="critic"
-                        xml:id="note.5">Bernhard von Cles.</note> sed illum nunc intelligo esse
+                    dominum <persName>cardinalem Tritentinum</persName>,<note xml:id="note.5"
+                        >Bernhard von Cles.</note> sed illum nunc intelligo esse
                         <placeName>Bononiae</placeName>. Omnem rem meam novit <persName>Gabriel
-                        Xantus</persName><note type="critic" xml:id="note.6">Gabriel Sanchez.</note>
-                    secretarius regis, ad quem de te quoque scripsi. Tu ipse in hoc casu agere
-                    debebis apud <persName>regem</persName> medio <persName>domini
-                        Agriensis</persName> et etiam medio aliorum <del corresp="Olahus"
-                        >denum</del><add corresp="Olahus" type="corr">dominorum</add>, de quibus
-                    tibi frequenter scripsi; vel etiam per tuipse meo <del corresp="Olahus"
-                        >quoque</del> nomine, ut bona mea Simigiensia<note type="critic"
-                        xml:id="note.7">Somogy county.</note> meo nomine ad manus tuas remittantur.
-                    In <del corresp="Olahus">hacque</del><add corresp="Olahus" type="corr">hac</add>
-                    re omnem adhibeas diligentiam ac operam, quam poteris. Si allegatum fuerit
-                        <persName>Valentinum Thewrek</persName>,<note type="critic" xml:id="note.8"
-                        >Bálint Török.</note> tamquam capitaneum regis, fecisse gratiam
-                        <persName>Ioanni Bodo</persName>,<note type="critic" xml:id="note.9">János
+                        Xantus</persName><note xml:id="note.6">Gabriel Sanchez.</note> secretarius
+                    regis, ad quem de te quoque scripsi. Tu ipse in hoc casu agere debebis apud
+                        <persName>regem</persName> medio <persName>domini Agriensis</persName> et
+                    etiam medio aliorum <del corresp="Olahus">denum</del><add corresp="Olahus"
+                        type="corr">dominorum</add>, de quibus tibi frequenter scripsi; vel etiam
+                    per tuipse meo <del corresp="Olahus">quoque</del> nomine, ut bona mea
+                        Simigiensia<note xml:id="note.7">Somogy county.</note> meo nomine ad manus
+                    tuas remittantur. In <del corresp="Olahus">hacque</del><add corresp="Olahus"
+                        type="corr">hac</add> re omnem adhibeas diligentiam ac operam, quam poteris.
+                    Si allegatum fuerit <persName>Valentinum Thewrek</persName>,<note
+                        xml:id="note.8">Bálint Török.</note> tamquam capitaneum regis, fecisse
+                    gratiam <persName>Ioanni Bodo</persName>,<note xml:id="note.9">János
                         Bodó.</note> et bona Simigiensia, vel potius custodiam et donasse ac
                     confirmasse donationem <persName>Ioannis</persName> regis <del corresp="Olahus"
                         >facta</del><add corresp="Olahus" type="corr">factam</add> super <del
@@ -357,8 +355,8 @@
                     fuerat <add corresp="Olahus" type="insert">partes</add> regis
                         <persName>Ferdinandi</persName>, vi itaque ipse
                         <persName>Gherendi</persName> fuit ea custodia spoliatus ad illud usque
-                    tempus, quo rex noster fuit in <placeName>Alba</placeName><note type="critic"
-                        xml:id="note.10">Székesfehérvár.</note> coronatus. Quo tempore ipse
+                    tempus, quo rex noster fuit in <placeName>Alba</placeName><note xml:id="note.10"
+                        >Székesfehérvár.</note> coronatus. Quo tempore ipse
                         <persName>Gherendi</persName> recuperata custodia, fuit postea translatus,
                     ut scis, ad episcopatum Transsilvaniensem, et custodia mihi data. Quomodo autem
                         <persName>Valentinus Thwrek</persName> me spoliando meis bonis, in quibus
@@ -368,15 +366,15 @@
                     statim mandavit <persName>Valentino</persName> ex <placeName>Lincz</placeName>
                     primum per litteras, quas tu illi praesentari curasti, deinde <add
                         corresp="Olahus" type="insert">per</add><persName>Stephanum
-                        Swliok</persName>,<note type="critic" xml:id="note.11">István Sulyok.</note>
-                    qui tunc negotium ipsius apud regem agebat, et hanc gratiam, <persName>Ioanni
+                        Swliok</persName>,<note xml:id="note.11">István Sulyok.</note> qui tunc
+                    negotium ipsius apud regem agebat, et hanc gratiam, <persName>Ioanni
                         Bodo</persName> per eundem <del corresp="Olahus">affinem suam</del><add
                         corresp="Olahus" type="corr">affini suo</add> factam, medio
-                        <persName>Ladislai Macedonis</persName><note type="critic" xml:id="note.12"
-                        >László Macedóniai.</note> episcopi Waradiensis patefecerat, <add
-                        corresp="Olahus" type="insert">cui</add> per eundem episcopum, si bene
-                    memini, et <persName>Stephanum Pemfflinger</persName><note type="critic"
-                        xml:id="note.13">István Pemfflinger.</note></p>
+                        <persName>Ladislai Macedonis</persName><note xml:id="note.12">László
+                        Macedóniai.</note> episcopi Waradiensis patefecerat, <add corresp="Olahus"
+                        type="insert">cui</add> per eundem episcopum, si bene memini, et
+                        <persName>Stephanum Pemfflinger</persName><note xml:id="note.13">István
+                        Pemfflinger.</note></p>
                 <pb facs="15330218_2_4.jpg"/>
                 <p xml:id="p.7">respondit commisitque, ut domino suo nomine regio referret, quo
                     omnia mea omnino <del corresp="Olahus">remissurus esset</del><add
@@ -412,25 +410,23 @@
                 <p xml:id="p.8">[3.] In bonis Zaladiensibus, uti spero, minus erit tibi laborandum.
                     Nam illa de manibus tuis <del corresp="Olahus">dedistis</del><add
                         corresp="Olahus" type="corr">dedisti</add><persName>episcopo
-                        Tininiensi</persName><note type="critic" xml:id="note.14">András Tuskanics
-                        of Klis, Bishop of Knin.</note> gubernanda et defendenda; dominus etiam
+                        Tininiensi</persName><note xml:id="note.14">András Tuskanics of Klis, Bishop
+                        of Knin.</note> gubernanda et defendenda; dominus etiam
                         <persName>Agriensis</persName> saepius hoc ad me scripsit:
-                        <persName>Ieronimium</persName><note type="critic" xml:id="note.15">Jeromos
-                        Horváth, see Szalaházy’s letter: Ep.
-                        222.<ref>olahus.tei.15320405_1</ref></note> illa mihi remissurum, quando
-                    voluero, cogetque eum etiam de emolumentis satisfacere. Haec igitur bona et
-                    etiam alia, quae <persName>Ladislaus More</persName><note type="critic"
+                        <persName>Ieronimium</persName><note xml:id="note.15">Jeromos Horváth, see
+                        Szalaházy’s letter: Ep. 222.<ref>olahus.tei.15320405_1</ref></note> illa
+                    mihi remissurum, quando voluero, cogetque eum etiam de emolumentis satisfacere.
+                    Haec igitur bona et etiam alia, quae <persName>Ladislaus More</persName><note
                         xml:id="note.16">László Móré.</note> ac dominus <persName>Andreas
-                        Chorom</persName><note type="critic" xml:id="note.17">András Choron.</note>
-                    habet, si pax erit firma, redibunt, ut </p>
+                        Chorom</persName><note xml:id="note.17">András Choron.</note> habet, si pax
+                    erit firma, redibunt, ut </p>
                 <pb facs="15330218_2_5.jpg"/>
                 <p xml:id="p.9">spero, sine magno labore. Quaeris, ubi sunt expensae <del
                         corresp="Olahus">minima</del><add corresp="Olahus" type="corr">ad haec</add>
                     exsequenda? Hinc ego tibi mittere non possum, immo potius exspectavi a te. Neque
                     dominus <persName>Agriensis</persName> illos ducentum aureos remisit.<note
-                        type="critic" xml:id="note.18">See Ep.
-                        235.<ref>olahus.tei.15320531_2</ref></note> Attamen expensione mea
-                    Posoniensi <persName>Andreas Sarson</persName>,<note type="critic"
+                        xml:id="note.18">See Ep. 235.<ref>olahus.tei.15320531_2</ref></note> Attamen
+                    expensione mea Posoniensi <persName>Andreas Sarson</persName>,<note
                         xml:id="note.19">Around 1527, Andreas Sarson was Steward <hi rend="italic"
                             >(provisor curiae) </hi>and <hi rend="italic">servitor</hi> of Queen
                         Mary, sent to arrange matters regarding Csepel and Óbuda, which were the

@@ -243,50 +243,49 @@
                 </floatingText>
                 <pb facs="15320225_1_1.jpg"/>
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao secretario reginae Mariae.</p>
-                <p xml:id="p.2">[1.] <persName>Guido</persName><note type="critic" xml:id="note.1"
-                        >Probably Grudius, or Nicolaas Everarts, who was Royal Secretary to Emperor
-                        Charles V, see <hi rend="smallcap">Leijenhorst</hi> 1986a, 139.</note>
-                    caesareae maiestatis secretarius ad tempus <placeName>Lovanii</placeName>
-                    habitaturus in gratiam meam scripsit litteras ad dominum audientiarium, quem
-                    confidit brevi expediturum privilegium nostrum. Petimus autem id solum in tres
-                        libros<note type="critic" xml:id="note.2">See <hi rend="italic">Historica
-                            Hadriani Barlandi rhetoris Lovaniensis</hi>, Coloniae, Sumptibus
-                        Bernardi Gualtheri, 1603, 13–65.</note><persName>Adriani
-                        Barlandi</persName><note type="critic" xml:id="note.3">Adriaan van Baerland
-                        (1486–1538) was a Dutch historian and elected Professor of eloquence <hi
-                            rend="italic">(rhetor publicus)</hi> at the Collegium Trilingue in 1526,
-                        see <hi rend="smallcap">Leijenhorst</hi> 1985a.</note> rhetoris academiae
-                        Lovaniensis<note type="critic" xml:id="note.4">Collegium Trilingue
-                        Lovaniense, see <hi rend="smallcap">Vocht</hi> 1955.</note><hi rend="italic"
-                        >De rebus gestis ducum Brabantiae</hi><note type="critic" xml:id="note.5"
-                            ><hi rend="italic">Hist. Hadr.</hi>, 107–232, see Note 2.</note> et in
-                    eiusdem librum <hi rend="italic">De ducibus Venetorum</hi><note type="critic"
-                        xml:id="note.6"><hi rend="italic">Hist. Hadr.</hi>, 66–106, see Note
-                        2.</note>, quod opus praeter primum quaternionem totum absolutum est. Ipse
-                    secretarius dominus <persName>Guido</persName> conscriptam formulam privilegii
-                    mittit domino audientiario; si per negotia tua vacaverit, Domine Olae, rogo, non
-                    graveris domino audientiario loqui, ut eo citius negotium conficiatur. Theologi
-                    ipsi sollicitabunt pro privilegio suo.</p>
-                <p xml:id="p.3">[2.] Dominus <persName>Mirbricanus</persName>,<note type="critic"
-                        xml:id="note.7">We do not know him more closely.</note> praeses quondam
-                    collegii nostri, <persName>Conradus Goclenius</persName><note type="critic"
-                        xml:id="note.8">Conrad Wackers (†1539) Latinized his alternative surname,
-                        Gockelen, to Goclenius. He studied at the University of Cologne and at the
-                        University of Leuven, then he became private teacher. He was one of the best
-                        friends of Erasmus and was admired as a teacher for educating a whole
-                        generation of Latin scholars, who dedicated many poems to him. For more see
-                            <hi rend="smallcap">Tournoy–Thoen</hi> 1985.</note> ac alii summi amici
-                    domini <persName>Erasmi</persName> asserunt <persName>Levinum</persName><note
-                        type="critic" xml:id="note.9">Lieven Algoet.</note> parum gratiae initurum
-                    apud dominum <persName>Erasmum</persName>, cum rescierit, qualem patronum ac
-                    defensorem nominis ipsius se <persName>Levinus</persName> praestiterit,
-                    qualesque litteras de libris <persName>dominus Turnout</persName><note
-                        type="critic" xml:id="note.10">Jan Driedo of Turnhout (ca. 1480–1535) was
-                        Professor of theology at the University of Leuven, see <hi rend="smallcap"
-                            >Gunderson–Bietenholz</hi> 1985.</note> et <add corresp="editor"
-                        >ad</add> me scripserit, cum ipse <persName>Erasmus</persName> non semel
-                    praedictum <persName>dominum Turnout</persName> hortatus sit ad operum suorum
-                    editionem, quemadmodum videre est in opere epistolarum ipsius. Certe poterat
+                <p xml:id="p.2">[1.] <persName>Guido</persName><note xml:id="note.1">Probably
+                        Grudius, or Nicolaas Everarts, who was Royal Secretary to Emperor Charles V,
+                        see <hi rend="smallcap">Leijenhorst</hi> 1986a, 139.</note> caesareae
+                    maiestatis secretarius ad tempus <placeName>Lovanii</placeName> habitaturus in
+                    gratiam meam scripsit litteras ad dominum audientiarium, quem confidit brevi
+                    expediturum privilegium nostrum. Petimus autem id solum in tres libros<note
+                        xml:id="note.2">See <hi rend="italic">Historica Hadriani Barlandi rhetoris
+                            Lovaniensis</hi>, Coloniae, Sumptibus Bernardi Gualtheri, 1603,
+                        13–65.</note><persName>Adriani Barlandi</persName><note xml:id="note.3"
+                        >Adriaan van Baerland (1486–1538) was a Dutch historian and elected
+                        Professor of eloquence <hi rend="italic">(rhetor publicus)</hi> at the
+                        Collegium Trilingue in 1526, see <hi rend="smallcap">Leijenhorst</hi>
+                        1985a.</note> rhetoris academiae Lovaniensis<note xml:id="note.4">Collegium
+                        Trilingue Lovaniense, see <hi rend="smallcap">Vocht</hi> 1955.</note><hi
+                        rend="italic">De rebus gestis ducum Brabantiae</hi><note xml:id="note.5"><hi
+                            rend="italic">Hist. Hadr.</hi>, 107–232, see Note 2.</note> et in
+                    eiusdem librum <hi rend="italic">De ducibus Venetorum</hi><note xml:id="note.6"
+                            ><hi rend="italic">Hist. Hadr.</hi>, 66–106, see Note 2.</note>, quod
+                    opus praeter primum quaternionem totum absolutum est. Ipse secretarius dominus
+                        <persName>Guido</persName> conscriptam formulam privilegii mittit domino
+                    audientiario; si per negotia tua vacaverit, Domine Olae, rogo, non graveris
+                    domino audientiario loqui, ut eo citius negotium conficiatur. Theologi ipsi
+                    sollicitabunt pro privilegio suo.</p>
+                <p xml:id="p.3">[2.] Dominus <persName>Mirbricanus</persName>,<note xml:id="note.7"
+                        >We do not know him more closely.</note> praeses quondam collegii nostri,
+                        <persName>Conradus Goclenius</persName><note xml:id="note.8">Conrad Wackers
+                        (†1539) Latinized his alternative surname, Gockelen, to Goclenius. He
+                        studied at the University of Cologne and at the University of Leuven, then
+                        he became private teacher. He was one of the best friends of Erasmus and was
+                        admired as a teacher for educating a whole generation of Latin scholars, who
+                        dedicated many poems to him. For more see <hi rend="smallcap"
+                            >Tournoy–Thoen</hi> 1985.</note> ac alii summi amici domini
+                        <persName>Erasmi</persName> asserunt <persName>Levinum</persName><note
+                        xml:id="note.9">Lieven Algoet.</note> parum gratiae initurum apud dominum
+                        <persName>Erasmum</persName>, cum rescierit, qualem patronum ac defensorem
+                    nominis ipsius se <persName>Levinus</persName> praestiterit, qualesque litteras
+                    de libris <persName>dominus Turnout</persName><note xml:id="note.10">Jan Driedo
+                        of Turnhout (ca. 1480–1535) was Professor of theology at the University of
+                        Leuven, see <hi rend="smallcap">Gunderson–Bietenholz</hi> 1985.</note> et
+                        <add corresp="editor">ad</add> me scripserit, cum ipse
+                        <persName>Erasmus</persName> non semel praedictum <persName>dominum
+                        Turnout</persName> hortatus sit ad operum suorum editionem, quemadmodum
+                    videre est in opere epistolarum ipsius. Certe poterat
                         <persName>Levinus</persName> me amice monere. Quid opus erat statim sic in
                     me invehi ac debachari, quid <quote xml:id="quote.1">non mortalia pectora cogis
                         auri sacra fames</quote><note type="quote" xml:id="note.quote.1">Verg. <hi
@@ -302,20 +301,19 @@
                         243.</note>,<quote xml:id="quote.3"> καὶ κακὸν φέρουσιν καρπὸν οἱ κακοὶ
                         φίλοι</quote>.<note type="quote" xml:id="note.quote.3">Menandros <hi
                             rend="italic">Sententiae</hi> Maxims Nr. 292. or linea 412.</note><note
-                        type="critic" xml:id="note.11">‘All men forget a good turn they ‘ve been
-                        done’ and ‘The crop that bad friends bear is bad as they’ Ressen combined
-                        two sentences by Menandros (Nr. 243., and Nr. 412). See <hi rend="smallcap"
-                            >Jaekel</hi> 1964, 46 and 56, and Nr. 170 and 292, see <hi
-                            rend="smallcap">Edmond</hi> 1961, 916–917, and 926–927.</note> Verum cum
-                    et iuvenis et homo humano more egerit, libenter et ipse homo illi ignosco. Velim
-                    tamen deinceps circumspectius agat et eo usque suspendat iudicium, donec partem
-                    alteram audierit. Mitto tibi <persName>Basilii</persName><note type="critic"
-                        xml:id="note.12">Basil of Caesarea, also called St. Basil the Great (ca.
-                        330–379).</note> ὁμιλίαν<note type="critic" xml:id="note.13">‘homily’, i.e.
-                        Basil’s commentary on the Bible.</note> non illepidam, quam rogatu domini
-                        <persName>Erasmi</persName> brevi sum hic publice praelecturus. Cum primum
-                        <persName>Barlandi</persName> opus absolutum fuerit, transvolabit ad te.
-                    Bene vale.</p>
+                        xml:id="note.11">‘All men forget a good turn they ‘ve been done’ and ‘The
+                        crop that bad friends bear is bad as they’ Ressen combined two sentences by
+                        Menandros (Nr. 243., and Nr. 412). See <hi rend="smallcap">Jaekel</hi> 1964,
+                        46 and 56, and Nr. 170 and 292, see <hi rend="smallcap">Edmond</hi> 1961,
+                        916–917, and 926–927.</note> Verum cum et iuvenis et homo humano more
+                    egerit, libenter et ipse homo illi ignosco. Velim tamen deinceps circumspectius
+                    agat et eo usque suspendat iudicium, donec partem alteram audierit. Mitto tibi
+                        <persName>Basilii</persName><note xml:id="note.12">Basil of Caesarea, also
+                        called St. Basil the Great (ca. 330–379).</note> ὁμιλίαν<note
+                        xml:id="note.13">‘homily’, i.e. Basil’s commentary on the Bible.</note> non
+                    illepidam, quam rogatu domini <persName>Erasmi</persName> brevi sum hic publice
+                    praelecturus. Cum primum <persName>Barlandi</persName> opus absolutum fuerit,
+                    transvolabit ad te. Bene vale.</p>
                 <p xml:id="p.5"><placeName>Lovanii</placeName> V. Kalendae Martii anno 1532.</p>
             </div>
         </body>

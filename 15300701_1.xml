@@ -252,21 +252,20 @@
                 <pb facs="15300701_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus thesaurarius Albensis secretarius et consiliaris
                     serenissimae reginae Mariae <persName>Erasmo Roterodamo</persName><note
-                        type="critic" xml:id="note.1">Erasmus of Rotterdam or Desiderius Erasmus
-                        Roterodamus (1466–1536) was a Dutch Renaissance humanist, Catholic priest,
-                        social critic, teacher, and theologian. More on his correspondence and
-                        contacts see <hi rend="smallcap">Allen</hi> 1934, <hi rend="smallcap"
-                            >Allen</hi> 1938, and <hi rend="smallcap">Allen</hi> 1941.</note>
-                    salutem.</p>
+                        xml:id="note.1">Erasmus of Rotterdam or Desiderius Erasmus Roterodamus
+                        (1466–1536) was a Dutch Renaissance humanist, Catholic priest, social
+                        critic, teacher, and theologian. More on his correspondence and contacts see
+                            <hi rend="smallcap">Allen</hi> 1934, <hi rend="smallcap">Allen</hi>
+                        1938, and <hi rend="smallcap">Allen</hi> 1941.</note> salutem.</p>
                 <p xml:id="p.2">[1.] Licet non dubitem, quin et antea ex tuorum amicorum litteris
                     plane cognoveras, quantum voluptatis et delectationis serenissimae reginae meae
                     Mariae et nobis omnibus attulerit tuus <hi rend="italic">De vidua
-                        Christiana</hi><note type="critic" xml:id="note.2">Erasmus dedicated this
-                        book to Queen Mary at Henckel’s advice, see <hi rend="smallcap"
-                            >O’Malley</hi> 1988, 179.</note> editus et nomini suo dicatus libellus,
-                    tamen ex me quoque, licet ignoto amico, velim intelligas opus illud tuum tam
-                    gratum illi fuisse, ut gratius accidere nihil potuerit. Nam et animum eius
-                    amantissimi sui coniugis desiderio plurimum <choice>
+                        Christiana</hi><note xml:id="note.2">Erasmus dedicated this book to Queen
+                        Mary at Henckel’s advice, see <hi rend="smallcap">O’Malley</hi> 1988,
+                        179.</note> editus et nomini suo dicatus libellus, tamen ex me quoque, licet
+                    ignoto amico, velim intelligas opus illud tuum tam gratum illi fuisse, ut
+                    gratius accidere nihil potuerit. Nam et animum eius amantissimi sui coniugis
+                    desiderio plurimum <choice>
                         <orig>exacerbatam</orig>
                         <supplied>exacerbatum</supplied>
                     </choice> mirifice recreavit, et quibus artibus viduitas regenda instituendaque
@@ -275,28 +274,28 @@
                         type="corr">augeretur</add>, quod te nuper ex litteris ipsius ad te propria </p>
                 <pb facs="15300701_1_2.jpg"/>
                 <p xml:id="p.3">manu scriptis arbitror plane cognovisse.</p>
-                <p xml:id="p.4">[2.] Magno tenemur videndi tui<note type="critic" xml:id="note.3"
-                        >“There was a rumour that the Emperor had invited him.” <hi rend="smallcap"
-                            >Allen</hi> 1934, 469.</note> desiderio, qui hoc praesertim tempore, dum
-                    multorum cum pernicie in rebus fidei disceptatur, maxime hic esses necessarius,
-                    ut <del corresp="Olahus">tum</del><add corresp="Olahus" type="corr">tuum</add>
-                    quod in rebus esset his dubiis praesens, proferres iudicium.<note type="critic"
-                        xml:id="note.4">Cf. <hi rend="smallcap">Allen</hi> 1934, 512. (Ep. 2328.
-                        62n.)</note> Speramus igitur te huc venturum, si non amicorum tuorum
-                    hortatibus, <add corresp="Olahus" type="insert">at</add> publicae
-                    tranquillitatis causa, ob quam rem plura ad te in praesentia non scripsi. Hoc
-                    tamen unum praeterire non sum arbitratus τὸν Πολύφημον τὸν σὸν,<note
-                        type="critic" xml:id="note.5">’the illustrious’, i.e. Felix Rex, see Ep. 10.
-                        Note 2.<ref>olahus.tei.15290528_2</ref></note> satellitem regium, qui tuo
-                    nomine libellum a te missum reginae praesentarat, nihil praetermisisse, quod ad
-                    bonum, fidum et diligentem tuum clientem pertinuerit, omniaque, quae a te ei
-                    fuerant demandata tam apud reginam, quam apud alios tibi deditos, accurate
-                    fuisse exsecutum. Ego licet ex facie sum tibi ignotus, tamen tam tu es mihi
-                    carus et cognitus ex tuorum librorum, quos in horas manibus meis tracto
-                    frequenti lectione, ut etiam his, qui tecum cottidie versentur, tuaque fruantur
-                    suavi consuetudine, hac una re nequaquam sim cessurus. Cuius mei in te amoris et
-                    studii, Ursinus Velius, Henkellus, idem ὁ Πολύφημος, qui has tibi reddidit, ac
-                    quam plures alii tui et mei familiares optimi sunt testes.</p>
+                <p xml:id="p.4">[2.] Magno tenemur videndi tui<note xml:id="note.3">“There was a
+                        rumour that the Emperor had invited him.” <hi rend="smallcap">Allen</hi>
+                        1934, 469.</note> desiderio, qui hoc praesertim tempore, dum multorum cum
+                    pernicie in rebus fidei disceptatur, maxime hic esses necessarius, ut <del
+                        corresp="Olahus">tum</del><add corresp="Olahus" type="corr">tuum</add> quod
+                    in rebus esset his dubiis praesens, proferres iudicium.<note xml:id="note.4">Cf.
+                            <hi rend="smallcap">Allen</hi> 1934, 512. (Ep. 2328. 62n.)</note>
+                    Speramus igitur te huc venturum, si non amicorum tuorum hortatibus, <add
+                        corresp="Olahus" type="insert">at</add> publicae tranquillitatis causa, ob
+                    quam rem plura ad te in praesentia non scripsi. Hoc tamen unum praeterire non
+                    sum arbitratus τὸν Πολύφημον τὸν σὸν,<note xml:id="note.5">’the illustrious’,
+                        i.e. Felix Rex, see Ep. 10. Note 2.<ref>olahus.tei.15290528_2</ref></note>
+                    satellitem regium, qui tuo nomine libellum a te missum reginae praesentarat,
+                    nihil praetermisisse, quod ad bonum, fidum et diligentem tuum clientem
+                    pertinuerit, omniaque, quae a te ei fuerant demandata tam apud reginam, quam
+                    apud alios tibi deditos, accurate fuisse exsecutum. Ego licet ex facie sum tibi
+                    ignotus, tamen tam tu es mihi carus et cognitus ex tuorum librorum, quos in
+                    horas manibus meis tracto frequenti lectione, ut etiam his, qui tecum cottidie
+                    versentur, tuaque fruantur suavi consuetudine, hac una re nequaquam sim
+                    cessurus. Cuius mei in te amoris et studii, Ursinus Velius, Henkellus, idem ὁ
+                    Πολύφημος, qui has tibi reddidit, ac quam plures alii tui et mei familiares
+                    optimi sunt testes.</p>
                 <p xml:id="p.5">Si Deus optimus maximus incolumem te, ut spero, huc advexerit, vel
                     aliqua alia mihi dabitur occasio te videndi, tu ipse id experieris, et meam in
                     te observantiam, qua iampridem propter divinum tuum ingenium et virtutes

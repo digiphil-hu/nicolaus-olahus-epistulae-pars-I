@@ -252,71 +252,68 @@
                 <p xml:id="p.3">mea et ingravescens aetas facit, ut verear, ne munus pastorale, quod
                     ad mandatum regiae maiestatis domini mei clementissimi et vocationem senatus et
                     communitatis <placeName>Schveidniciae</placeName> administro relinquere et
-                        <placeName>Vratislaviam</placeName><note type="critic" xml:id="note.1"
-                        >Wrocław.</note> redire cogar, ubi quam aegre et difficulter sumptus
-                    tollerare potero, cum praebendam istic meam curtisanus<note type="critic"
-                        xml:id="note.2">It means ’courtier’, and was used from the 15<hi
-                            rend="super">th</hi>-century, see <hi rend="smallcap">Ramminger</hi>
-                        2008.</note> quidam, pontificia nescio qua gratia, oppugnet et controversam
-                    faciat. Pensio etiam illa, qua mihi reginalis maiestas domina mea gratiosissima
-                    ex Hungaria providit, ad proximum divi Michaelis diem<note type="critic"
-                        xml:id="note.3">29 September.</note> de integro anno soluta et propter
-                    praesentium temporum difficultatem repraesentata non sit. Bona insuper pars
-                    debiti mei, nempe septuaginta duo floreni debeantur, facile Dominatio Vestra
-                    colligere potest. Ceterum cum secundum Deum omnes spes opesque meae in
-                    serenissima principe domina <persName>Maria</persName> regina, utpote fidelis
-                    ministri et clientis maiestatis suae, sint positae, Dominatio Vestra pro mutuo
-                    inter nos et veteri amore, summo studio oro atque obsecro, ut me sacrae suae
-                    maiestati fideliter ac diligenter commendet, quo maiestas sua, pro innata sibi
-                    reginali munificentia et liberalitate, mihi aliunde gratiose providere dignetur.
-                    Id quod maiestas sua non difficulter aut incommode meo iudicio ex
+                        <placeName>Vratislaviam</placeName><note xml:id="note.1">Wrocław.</note>
+                    redire cogar, ubi quam aegre et difficulter sumptus tollerare potero, cum
+                    praebendam istic meam curtisanus<note xml:id="note.2">It means ’courtier’, and
+                        was used from the 15<hi rend="super">th</hi>-century, see <hi
+                            rend="smallcap">Ramminger</hi> 2008.</note> quidam, pontificia nescio
+                    qua gratia, oppugnet et controversam faciat. Pensio etiam illa, qua mihi
+                    reginalis maiestas domina mea gratiosissima ex Hungaria providit, ad proximum
+                    divi Michaelis diem<note xml:id="note.3">29 September.</note> de integro anno
+                    soluta et propter praesentium temporum difficultatem repraesentata non sit. Bona
+                    insuper pars debiti mei, nempe septuaginta duo floreni debeantur, facile
+                    Dominatio Vestra colligere potest. Ceterum cum secundum Deum omnes spes opesque
+                    meae in serenissima principe domina <persName>Maria</persName> regina, utpote
+                    fidelis ministri et clientis maiestatis suae, sint positae, Dominatio Vestra pro
+                    mutuo inter nos et veteri amore, summo studio oro atque obsecro, ut me sacrae
+                    suae maiestati fideliter ac diligenter commendet, quo maiestas sua, pro innata
+                    sibi reginali munificentia et liberalitate, mihi aliunde gratiose providere
+                    dignetur. Id quod maiestas sua non difficulter aut incommode meo iudicio ex
                         <placeName>Antwerpia</placeName> per procuratores seu factores mercatorum
                     Vratislaviensium facere posset. Bona me spes habet id maiestatem suam non
                     gravate facturam, fidelissimorum servitiorum meorum et aegritudinis meae ratione
                     habita, praesertim si legitima Dominatio Vestra apud eam mei commendatio, pro ut
                     spero, accesserit. </p>
                 <p xml:id="p.4">[2.] Adolescens vero, qui hasce Dominationi Vestrae litteras
-                    reddidit <persName>Ioannes Henckellus iunior</persName>,<note type="critic"
-                        xml:id="note.4">Johann Henckel the Younger.</note> nepos ex fratre meo, ab
-                    ineunte aetate virtutis et bonarum litte­rarum studiis, quam feliciter nescio,
-                    diligenter certe semper navavit operam. Quapropter maximam optimamque de ingenio
-                    suo apud multos concitavit spem atque exspectationem, quam ut eum sustinere
-                    posse confidam, ingenita naturae eius bonitas ac indoles mihi persuadet. Cum
-                    isto ad <persName>reginalem maiestatem</persName> mittendum putavi, ut
-                    maiestatis suae liberalitate ac patrocinio <placeName>Lovanii</placeName><note
-                        type="critic" xml:id="note.5">He matriculated at the University of Leuven in
-                        1532.</note> aut <placeName>Coloniae</placeName> sub bonis praeceptoribus
-                    inchoata, coeptaque sua studia absolvat, quo commodius rectiusque deinde
-                    maestati suae servire valeat. Nam famulatio eius plane a me est destinatus.
-                    Quemadmodum id quoque in litteris meis maiestati suae insinuavi. Carissime
-                    Domine et Frater Observandissime, adiuvet me in hac etiam causa Dominationis
-                    Vestrae et ipsum adolescentem reginae de meliore nota commendet, ut id cuius
-                    gratia isto venit, eo facilius consequatur. Quicquid studii aut officiorum in me
-                    aut illum Dominationi Vestrae contulerit, id eidem ab utroque nostrum pulchre
+                    reddidit <persName>Ioannes Henckellus iunior</persName>,<note xml:id="note.4"
+                        >Johann Henckel the Younger.</note> nepos ex fratre meo, ab ineunte aetate
+                    virtutis et bonarum litte­rarum studiis, quam feliciter nescio, diligenter certe
+                    semper navavit operam. Quapropter maximam optimamque de ingenio suo apud multos
+                    concitavit spem atque exspectationem, quam ut eum sustinere posse confidam,
+                    ingenita naturae eius bonitas ac indoles mihi persuadet. Cum isto ad
+                        <persName>reginalem maiestatem</persName> mittendum putavi, ut maiestatis
+                    suae liberalitate ac patrocinio <placeName>Lovanii</placeName><note
+                        xml:id="note.5">He matriculated at the University of Leuven in 1532.</note>
+                    aut <placeName>Coloniae</placeName> sub bonis praeceptoribus inchoata, coeptaque
+                    sua studia absolvat, quo commodius rectiusque deinde maestati suae servire
+                    valeat. Nam famulatio eius plane a me est destinatus. Quemadmodum id quoque in
+                    litteris meis maiestati suae insinuavi. Carissime Domine et Frater
+                    Observandissime, adiuvet me in hac etiam causa Dominationis Vestrae et ipsum
+                    adolescentem reginae de meliore nota commendet, ut id cuius gratia isto venit,
+                    eo facilius consequatur. Quicquid studii aut officiorum in me aut illum
+                    Dominationi Vestrae contulerit, id eidem ab utroque nostrum pulchre
                     foenerabitur, ut memores et gratos esse Dominatio Vestra experiatur, reipsa
                     praestabimus. De novis rebus illud Dominationi Vestrae scribere habeo. </p>
                 <p xml:id="p.5">Rumoribus multorum ad nos esse perlatum, Turcam cum innumerabilibus
                     copiis oppidum <placeName>Austriae</placeName><placeName>Goncz</placeName><note
-                        type="critic" xml:id="note.6">Kőszeg.</note> obsidione cinxisse, et
-                    aliquoties frustra oppugnatione tentata, ubi nostros milites
-                        <placeName>Viennae</placeName> congregari audiit, in
-                        <placeName>Hungariam</placeName> retrocessisse, vastatis tamen prius
-                    circumcirca ferro et igne pagis, qui ex priore clade supererant, omnibus. Sunt,
-                    qui eum <placeName>Budae</placeName> restitisse, isticque nostrorum adventum et
-                    congressum </p>
+                        xml:id="note.6">Kőszeg.</note> obsidione cinxisse, et aliquoties frustra
+                    oppugnatione tentata, ubi nostros milites <placeName>Viennae</placeName>
+                    congregari audiit, in <placeName>Hungariam</placeName> retrocessisse, vastatis
+                    tamen prius circumcirca ferro et igne pagis, qui ex priore clade supererant,
+                    omnibus. Sunt, qui eum <placeName>Budae</placeName> restitisse, isticque
+                    nostrorum adventum et congressum </p>
                 <pb facs="15320924_2_3.jpg"/>
                 <p xml:id="p.6">exspectare velle nuntiant. Nostris partibus ne cunctatio incommodet,
                     periculum est. <persName>Carolus</persName> caesar, qui in horas
                         <placeName>Viennae</placeName> exspectatur, adhuc
-                        <placeName>Ratisbonae</placeName><note type="critic" xml:id="note.7"
-                        >Regensburg.</note>, <persName>Ferdinandus</persName> rex
-                        <placeName>Lincii</placeName>, ut aiunt, morantur. Apparatus belli
-                        <placeName>Viennae</placeName> instructissimus esse perhibetur. Boni omnes
-                    optime sperant, optimorum principum et fratrum concordissimorum virtute,
-                    pietate, diligentia, industria, alterius etiam felicitate admirabili confisi.
-                    Quid tamen futurum sit, magis sperare, quam certo coniicere licet. Precamur
-                    quidem et optamus prospera una voce universi Deus Dominationem Vestram servet
-                    incolumem. </p>
+                        <placeName>Ratisbonae</placeName><note xml:id="note.7">Regensburg.</note>,
+                        <persName>Ferdinandus</persName> rex <placeName>Lincii</placeName>, ut
+                    aiunt, morantur. Apparatus belli <placeName>Viennae</placeName> instructissimus
+                    esse perhibetur. Boni omnes optime sperant, optimorum principum et fratrum
+                    concordissimorum virtute, pietate, diligentia, industria, alterius etiam
+                    felicitate admirabili confisi. Quid tamen futurum sit, magis sperare, quam certo
+                    coniicere licet. Precamur quidem et optamus prospera una voce universi Deus
+                    Dominationem Vestram servet incolumem. </p>
                 <p xml:id="p.7"> Datum <placeName>Schveidnicii</placeName> die Martis post Mauritii
                     1532. </p>
                 <p xml:id="p.8"> Haec in lecto recumbens, coactus sum manu alterius scribi facere,

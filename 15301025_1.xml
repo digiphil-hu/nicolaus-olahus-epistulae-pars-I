@@ -267,16 +267,15 @@
                     voluptatis, ut eam cum thesauro nullius sim commutaturus.</p>
                 <p xml:id="p.3">Credo te cupere intelligere statum Hungariae olim magnis rebus
                     gestis florentissimae, nunc vero ultra quam dici potest oppressae. Quae nuper
-                    Turcae in ea fecerint, alias tibi abunde perscripsi.<note type="critic"
-                        xml:id="note.1">Ep. 97.<ref>olahus.tei.15301013_1</ref></note> Rex noster
-                    nuper expedivit eo exercitum, ut opinor, militum duodecim vel quattuordecem
-                    milium. Is cum omnibus rebus, quae ad expeditionem ipsius sunt necessariae, bene
-                    instructus et viribus etiam navalibus auctus progressus esse dicitur usque
-                        <placeName>Strigonium</placeName><note type="critic" xml:id="note.2"
-                        >Esztergom capitulated on 27 November.</note>. Quid istic iam fecerit, est
-                    adhuc incertum, unum hoc vereor, ne temporis asperitate debilitetur et
-                    frangatur, hostiumque vires utpote, quae in patria possunt esse et contra
-                    frigoris vim et contra <choice>
+                    Turcae in ea fecerint, alias tibi abunde perscripsi.<note xml:id="note.1">Ep.
+                            97.<ref>olahus.tei.15301013_1</ref></note> Rex noster nuper expedivit eo
+                    exercitum, ut opinor, militum duodecim vel quattuordecem milium. Is cum omnibus
+                    rebus, quae ad expeditionem ipsius sunt necessariae, bene instructus et viribus
+                    etiam navalibus auctus progressus esse dicitur usque
+                        <placeName>Strigonium</placeName><note xml:id="note.2">Esztergom capitulated
+                        on 27 November.</note>. Quid istic iam fecerit, est adhuc incertum, unum hoc
+                    vereor, ne temporis asperitate debilitetur et frangatur, hostiumque vires
+                    utpote, quae in patria possunt esse et contra frigoris vim et contra <choice>
                         <orig>alias</orig>
                         <supplied>alia</supplied>
                     </choice> impedimenta mitiores et magis <choice>
@@ -285,39 +284,38 @@
                     </choice> evadant (quod Deus optimus maximus evertat) superiores. Quod si fiet
                     et aliquid illis periculi contingeret, nullam deinde spem recuperandae Hungariae
                     habituri essemus. Nam Turcae, ut scis, praepotentes sunt hostes, eorum autem vis
-                    in celeritate<note type="critic" xml:id="note.3">See Ep. 97, and cf. <hi
-                            rend="smallcap">Allen</hi> 1938,
-                        69.<ref>olahus.tei.15301013_1</ref></note> maxime consistit. Interea dum
-                    principes imperii aliquid contra illos facere velint, ipse<note type="critic"
-                        xml:id="note.4">Singulare tantum, singular instead of plural <hi
+                    in celeritate<note xml:id="note.3">See Ep. 97, and cf. <hi rend="smallcap"
+                            >Allen</hi> 1938, 69.<ref>olahus.tei.15301013_1</ref></note> maxime
+                    consistit. Interea dum principes imperii aliquid contra illos facere velint,
+                        ipse<note xml:id="note.4">Singulare tantum, singular instead of plural <hi
                             rend="italic">(Turcae).</hi></note> totam igne et ferro devastare
                     poterit Germaniam, vereorque multum ne illud commune vaticinium ob principum
                     Christianorum et internam seditionem et negligentiam nostro hoc aevo verificetur </p>
                 <pb facs="15301025_1_2.jpg"/>
                 <p xml:id="p.4">Turcos scilicet ad <placeName>Coloniam</placeName> usque
-                        <placeName>Agripinam</placeName><note type="critic" xml:id="note.5"
-                        >Cologne.</note> ituros, et illic esse debellandos.</p>
+                        <placeName>Agripinam</placeName><note xml:id="note.5">Cologne.</note>
+                    ituros, et illic esse debellandos.</p>
                 <p xml:id="p.5">[2.] Spes erat maxima caesarem, regem et ceteros Germaniae principes
                     in hoc <choice>
                         <orig>imperali</orig>
                         <supplied>imperiali</supplied>
-                    </choice> conventu<note type="critic" xml:id="note.6">This imperial assembly was
-                        held in Augsburg.</note> ea deliberaturos, quae ad propellendos ex Hungaria
-                    Turcas pertinere viderentur. Secus tamen, quam opinabamur, contigit. Nam omnis
-                    fere tractatus in altercationibus est consumptus, et praetextu fidei
-                    religionisque nostrae conservandae<note type="critic" xml:id="note.7">The
-                        so-called Augustan Confession <hi rend="italic">(Confessio Augustana)</hi>
-                        was proclaimed at this Imperial Assembly. This document is the primary
-                        confession of faith of the Lutheran Church.</note>, alia omnia sunt neglecta
-                    ita, ut nihil penitus tractatum esse hoc in conventu, aut finitum dicere possis,
-                    quam promissa quadraginta millia peditum et octo millia equitum ad futuram
-                    contra Turcae generalem expeditionem, hac tamen lege, si caesar Germaniam
-                    pacaverit ac principes in negotio fidei concordes reddiderit. Id autem quando
-                    fiat et utrum nunc fieri possit, nemo est, qui sciat. Tanta est animorum
-                    diversitas, principum tam diversi animi. His igitur rebus ita stantibus et rebus
-                    omnibus potius ad intestinum bellum, quam pacem mutuam spectantibus, quid aliud
-                    exspectare possumus, quam reipublicae Christianae periculum et post Hungariam
-                    amissam, Germaniae totius excidium.</p>
+                    </choice> conventu<note xml:id="note.6">This imperial assembly was held in
+                        Augsburg.</note> ea deliberaturos, quae ad propellendos ex Hungaria Turcas
+                    pertinere viderentur. Secus tamen, quam opinabamur, contigit. Nam omnis fere
+                    tractatus in altercationibus est consumptus, et praetextu fidei religionisque
+                    nostrae conservandae<note xml:id="note.7">The so-called Augustan Confession <hi
+                            rend="italic">(Confessio Augustana)</hi> was proclaimed at this Imperial
+                        Assembly. This document is the primary confession of faith of the Lutheran
+                        Church.</note>, alia omnia sunt neglecta ita, ut nihil penitus tractatum
+                    esse hoc in conventu, aut finitum dicere possis, quam promissa quadraginta
+                    millia peditum et octo millia equitum ad futuram contra Turcae generalem
+                    expeditionem, hac tamen lege, si caesar Germaniam pacaverit ac principes in
+                    negotio fidei concordes reddiderit. Id autem quando fiat et utrum nunc fieri
+                    possit, nemo est, qui sciat. Tanta est animorum diversitas, principum tam
+                    diversi animi. His igitur rebus ita stantibus et rebus omnibus potius ad
+                    intestinum bellum, quam pacem mutuam spectantibus, quid aliud exspectare
+                    possumus, quam reipublicae Christianae periculum et post Hungariam amissam,
+                    Germaniae totius excidium.</p>
                 <p xml:id="p.6">Plura me scribere volentem intercepit tabellarii subita profectio.
                     Boni igitur consule, mi Erasme, si non quas velles elegantes legeris litteras.
                     Vale.</p>

@@ -263,19 +263,17 @@
                     pietate, humanitate et benevolentia plenis verbis ad haec principes ipsos fuit
                     exhortatus, inter quos duo fuere vel tres ad summum, aliquot praeterea
                     civitates, ut <placeName>Nurmberga</placeName>,
-                        <placeName>Argentina</placeName><note type="critic" xml:id="note.1"
-                        >Strasbourg.</note>, <placeName>Ulma</placeName>,
-                        <placeName>Francfordia</placeName> et pleraeque aliae quae tam piam non
-                    admitterent exhortationem, principes ipsi, qui contrarii fuerunt,
-                        <persName>Ioannes dux Saxoniae</persName><note type="critic" xml:id="note.2"
-                        >Johann Friedrich I, Elector of Saxony and his son, Johann Friedrich II, the
-                        later Duke of Saxony.</note> cum filio, <persName>Lanthgravius
-                        Hessiae</persName><note type="critic" xml:id="note.3">Philipp I, Landgrave
-                        of Hesse.</note> et <persName>Georgius marchio
-                        Brandenburgensis</persName><note type="critic" xml:id="note.4">George,
-                        Margrave of Brandenburg-Ansbach (1484–1543), known as George the
-                        Pious.</note> erant, qui non exspectato fine conventus, partim nescio,
-                    partim annuente caesare unus post alium discesserunt.<note type="critic"
+                        <placeName>Argentina</placeName><note xml:id="note.1">Strasbourg.</note>,
+                        <placeName>Ulma</placeName>, <placeName>Francfordia</placeName> et pleraeque
+                    aliae quae tam piam non admitterent exhortationem, principes ipsi, qui contrarii
+                    fuerunt, <persName>Ioannes dux Saxoniae</persName><note xml:id="note.2">Johann
+                        Friedrich I, Elector of Saxony and his son, Johann Friedrich II, the later
+                        Duke of Saxony.</note> cum filio, <persName>Lanthgravius
+                        Hessiae</persName><note xml:id="note.3">Philipp I, Landgrave of
+                        Hesse.</note> et <persName>Georgius marchio Brandenburgensis</persName><note
+                        xml:id="note.4">George, Margrave of Brandenburg-Ansbach (1484–1543), known
+                        as George the Pious.</note> erant, qui non exspectato fine conventus, partim
+                    nescio, partim annuente caesare unus post alium discesserunt.<note
                         xml:id="note.5">Oláh wrote about the same instance of leaving the assembly
                         in Ep. 90.<ref>olahus.tei.15301001_1</ref></note> Quorum discessu civitates
                     non parum confirmatae sunt in sua pertinacia. Caesar dum ita per eosdem

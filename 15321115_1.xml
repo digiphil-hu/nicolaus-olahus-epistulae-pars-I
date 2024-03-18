@@ -229,9 +229,9 @@
                     </body>
                 </floatingText>
                 <pb facs="15321115_1_1.jpg"/>
-                <p xml:id="p.1">[The superscription is missing.]<note type="critic" xml:id="note.1"
-                        >The location in the manuscript suggests that Oláh wrote this letter to his
-                        friend.</note></p>
+                <p xml:id="p.1">[The superscription is missing.]<note xml:id="note.1">The location
+                        in the manuscript suggests that Oláh wrote this letter to his
+                    friend.</note></p>
                 <p xml:id="p.2">Nominis tui <choice>
                         <orig>authoritatis</orig>
                         <supplied>authoritas</supplied>

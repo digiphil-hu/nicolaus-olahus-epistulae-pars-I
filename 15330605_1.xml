@@ -236,37 +236,36 @@
                 </floatingText>
                 <pb facs="15330605_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Sebastianum Pemfflinger.</p>
-                <p xml:id="p.2">Proximis meis litteris<note type="critic" xml:id="note.1">This
-                        letter is not extant.</note> scripseram abundantius, nunc sum brevior
-                    scribendo. <persName>Regina</persName> ex gratia Dei pristinae reddita est
-                    sanitati, quam spero diuturnam fore, si cautius deinceps ab immodestis
-                    equitationibus se continuerit. Abbatiae de <placeName>Thapolcza</placeName> et
-                    plebaniae de <placeName>Myskoltz</placeName><note type="critic" xml:id="note.2"
-                        >Abbey of Tapolca and parish of Miskolc, see Ep. 148. Note 2. and the
-                        correspondence between Oláh and
-                        Czeglédi.<ref>olahus.tei.15310512_1</ref></note> defensionem ac provisionem
-                    scio tibi curae esse,<note type="critic" xml:id="note.3">See Ep. 359. Because
+                <p xml:id="p.2">Proximis meis litteris<note xml:id="note.1">This letter is not
+                        extant.</note> scripseram abundantius, nunc sum brevior scribendo.
+                        <persName>Regina</persName> ex gratia Dei pristinae reddita est sanitati,
+                    quam spero diuturnam fore, si cautius deinceps ab immodestis equitationibus se
+                    continuerit. Abbatiae de <placeName>Thapolcza</placeName> et plebaniae de
+                        <placeName>Myskoltz</placeName><note xml:id="note.2">Abbey of Tapolca and
+                        parish of Miskolc, see Ep. 148. Note 2. and the correspondence between Oláh
+                        and Czeglédi.<ref>olahus.tei.15310512_1</ref></note> defensionem ac
+                    provisionem scio tibi curae esse,<note xml:id="note.3">See Ep. 359. Because
                         Sebestyén Pemfflinger was Castellan of Diósgyőr and <hi rend="italic"
                             >ispán</hi> of Borsod county, Oláh entrusted these possessions to
                             him.<ref>olahus.tei.15330501_2</ref></note> propterea non opus est me
                     multis in ea te rogare, nam non dubito, quin omnia sis facturus, quae possibilia
                     erunt, et quae ad commodum meum pertinere videbuntur; hoc primum a te peto,
                     cures, ut servitia divina non negligantur. Si monasterium destructum est per
-                    sacrilegum illum,<note type="critic" xml:id="note.4">Ferenc or Imre Bebek, see
-                            <hi rend="smallcap">Szakály</hi> 1998, 445.</note> monachi, quos
-                    ordinaveris interea, dum habitationes illis circa monasterium parabuntur, divina
-                    servitia in ecclesia de <placeName>Myskolcz</placeName> peragere possunt, ut
-                    proximis meis litteris ad te latius ea de re scripsi. Rogo deinde, ut constituas
-                    meo nomine fidum aliquem hominem, qui tibi placuerit, ad proventus Abbatiae pro
-                    ratione danda percipiendos, ex quibus fac etiam circa monasterium, si interea
-                    exire non potero, ruinas <choice>
+                    sacrilegum illum,<note xml:id="note.4">Ferenc or Imre Bebek, see <hi
+                            rend="smallcap">Szakály</hi> 1998, 445.</note> monachi, quos ordinaveris
+                    interea, dum habitationes illis circa monasterium parabuntur, divina servitia in
+                    ecclesia de <placeName>Myskolcz</placeName> peragere possunt, ut proximis meis
+                    litteris ad te latius ea de re scripsi. Rogo deinde, ut constituas meo nomine
+                    fidum aliquem hominem, qui tibi placuerit, ad proventus Abbatiae pro ratione
+                    danda percipiendos, ex quibus fac etiam circa monasterium, si interea exire non
+                    potero, ruinas <choice>
                         <orig>reparatori</orig>
                         <supplied>reparari</supplied>
-                    </choice>. <persName>Viceplebanus de Myskolcz</persName><note type="critic"
-                        xml:id="note.5">We do not know him more closely, see 15340111_2.</note>
-                    nihil unquam ad me scripsit. Cuperem ab eo, ut non modo scriberet aliquando, sed
-                    etiam significaret, quomodo res meae istic starent, de qua re illum, rogo, meo
-                    nomine <del corresp="Olahus">iube</del><add corresp="Olahus" type="corr"
+                    </choice>. <persName>Viceplebanus de Myskolcz</persName><note xml:id="note.5">We
+                        do not know him more closely, see 15340111_2.</note> nihil unquam ad me
+                    scripsit. Cuperem ab eo, ut non modo scriberet aliquando, sed etiam
+                    significaret, quomodo res meae istic starent, de qua re illum, rogo, meo nomine
+                        <del corresp="Olahus">iube</del><add corresp="Olahus" type="corr"
                         >admoneas</add>. Amici tui hic omnes bene valent. Vale tu quoque cum coniuge
                     tua carissima et liberis amantissimis.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> quinta Iunii anno 1533.</p>

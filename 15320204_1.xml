@@ -245,27 +245,27 @@
                     </body>
                 </floatingText>
                 <pb facs="15320204_1_1.jpg"/>
-                <p xml:id="p.1">Ioannis Campensis<note type="critic" xml:id="note.1">Jan van Campen
-                        of Kampen (1491–1538) studied at the University of Leuven, then became
-                        Professor of Hebrew at the Collegium Trilingue. In November 1531 he resigned
-                        his academic chair and entered the service of Jan Dantyszek. For more see
-                            <hi rend="smallcap">Bietenholz</hi> 1985a.</note> ad Nicolaum Olaum
+                <p xml:id="p.1">Ioannis Campensis<note xml:id="note.1">Jan van Campen of Kampen
+                        (1491–1538) studied at the University of Leuven, then became Professor of
+                        Hebrew at the Collegium Trilingue. In November 1531 he resigned his academic
+                        chair and entered the service of Jan Dantyszek. For more see <hi
+                            rend="smallcap">Bietenholz</hi> 1985a.</note> ad Nicolaum Olaum
                     secretarium et consiliarium serenissimae reginae responsio.</p>
                 <pb facs="15320204_1_2.jpg"/>
                 <p xml:id="p.2">[1.] Ingenii felicitatem, Vir modis omnibus Ornatissime, et summam
                     eruditionem, quam tribuis, adeo in me non agnosco, ut sciam illam a me abesse
                     quam longissime. Quod de meis laboribus tam multum effutiverim, praeter morem
-                    meum in causa dominus ille <persName>Hispanus</persName>,<note type="critic"
-                        xml:id="note.2">We do not know him more closely.</note> qui audierat, nescio
-                    a quo, mihi nonnihil fuisse contentionis cum theologis Lovaniensibus, quod quia
-                    falsum erat, volui sinistram illam suspicionem ex animo illius delere penitus,
-                    quare multa dixi, quae quamvis vera erant, nonnihil tamen et inter dicendum et
-                    finito colloquio multo me magis futilitatis meae poenituit. Tuum ergo erit
-                    dominum mi ignoscere, si quid amplius quam oportuit mihi imprudenter tum
-                    exciderit. Nunquam potui iurare in verbis hominis alicuius, sacrarum litterarum
-                    scriptores semper excipio, quare cum conflictationibus illis theologicis, quas
-                    scholasticas vocant, multis annis paene detritus essem; vidi in illis multa
-                    quidem esse non penitus contemnenda, sed quae ad intelligentiam <choice>
+                    meum in causa dominus ille <persName>Hispanus</persName>,<note xml:id="note.2"
+                        >We do not know him more closely.</note> qui audierat, nescio a quo, mihi
+                    nonnihil fuisse contentionis cum theologis Lovaniensibus, quod quia falsum erat,
+                    volui sinistram illam suspicionem ex animo illius delere penitus, quare multa
+                    dixi, quae quamvis vera erant, nonnihil tamen et inter dicendum et finito
+                    colloquio multo me magis futilitatis meae poenituit. Tuum ergo erit dominum mi
+                    ignoscere, si quid amplius quam oportuit mihi imprudenter tum exciderit. Nunquam
+                    potui iurare in verbis hominis alicuius, sacrarum litterarum scriptores semper
+                    excipio, quare cum conflictationibus illis theologicis, quas scholasticas
+                    vocant, multis annis paene detritus essem; vidi in illis multa quidem esse non
+                    penitus contemnenda, sed quae ad intelligentiam <choice>
                         <orig>geminam</orig>
                         <supplied>genuinam</supplied>
                     </choice> sacrarum litterarum facerent, admodum pauca, quare animum adieci ad
@@ -281,31 +281,30 @@
                     adeo nondum poenituit, ut optarim illos, qui sedandis huius temporis tumultibus
                     adhibentur, eandem libertatem in iudicando servare, et non potius affectibus
                     propriis indulgere, verum haec hactenus.</p>
-                <p xml:id="p.3">[2.] In <persName>Daniele</persName><note type="critic"
-                        xml:id="note.3">The Book of Daniel in the Old Testament.</note> et aliis
-                    multis, quia et tu et alii multi me orant, praestabo, quod potero, nec ullam
-                    praetermittam occasionem, quo id possum certius; consulam Iudaeos, qui in
-                        <placeName>Germania</placeName> sunt plurimi, sed unus est omnium, qui his
-                    proximis annis mille vixerunt doctissimus <persName>Elias</persName><note
-                        type="critic" xml:id="note.4">We do not know him more closely.</note>
-                    natione Germanus, sed qui </p>
+                <p xml:id="p.3">[2.] In <persName>Daniele</persName><note xml:id="note.3">The Book
+                        of Daniel in the Old Testament.</note> et aliis multis, quia et tu et alii
+                    multi me orant, praestabo, quod potero, nec ullam praetermittam occasionem, quo
+                    id possum certius; consulam Iudaeos, qui in <placeName>Germania</placeName> sunt
+                    plurimi, sed unus est omnium, qui his proximis annis mille vixerunt doctissimus
+                        <persName>Elias</persName><note xml:id="note.4">We do not know him more
+                        closely.</note> natione Germanus, sed qui </p>
                 <pb facs="15320204_1_3.jpg"/>
                 <p xml:id="p.4">tota fere vita sua versatus in Italia, nunc autem est in familia
                     reverendissimi patriarchae <persName>Aquilegiaensis</persName><note
-                        type="critic" xml:id="note.5">Marco II Grimani (†1544) was Patriarch of
-                        Aquileia between 1529–1533.</note> apud Venetos. Apud illum, si mihi
-                    contingere potuerit, mensibus aliquot versari beatissimum me iudicabo. Vale,
-                    Domine mi, si non ingratum fore <add corresp="Olahus" type="insert">tibi</add>
-                    iudicavero, scribam saepe, quocumque <choice>
+                        xml:id="note.5">Marco II Grimani (†1544) was Patriarch of Aquileia between
+                        1529–1533.</note> apud Venetos. Apud illum, si mihi contingere potuerit,
+                    mensibus aliquot versari beatissimum me iudicabo. Vale, Domine mi, si non
+                    ingratum fore <add corresp="Olahus" type="insert">tibi</add> iudicavero, scribam
+                    saepe, quocumque <choice>
                         <orig>pervero</orig>
                         <supplied>pervenero</supplied>
                     </choice>, candorem enim tuum amo vehementer. Dominus <persName>Iacobus
-                        Danus</persName><note type="critic" xml:id="note.6">Jakob Jespersen.</note>
-                    offert operam suam in conscribendo carmine, quo opusculum hoc psalmorum
-                    laudetur; habeo profecto gratias illi, sunt alii, qui et scripserunt et scribere
-                    iterum cupiunt, verum ego si efficere potuero, ne
-                        <persName>Dantisci</persName><note type="critic" xml:id="note.7">Jan
-                        Dantyszek.</note> quidem carmen libello adscribi patiar. Iterum vale.</p>
+                        Danus</persName><note xml:id="note.6">Jakob Jespersen.</note> offert operam
+                    suam in conscribendo carmine, quo opusculum hoc psalmorum laudetur; habeo
+                    profecto gratias illi, sunt alii, qui et scripserunt et scribere iterum cupiunt,
+                    verum ego si efficere potuero, ne <persName>Dantisci</persName><note
+                        xml:id="note.7">Jan Dantyszek.</note> quidem carmen libello adscribi patiar.
+                    Iterum vale.</p>
                 <p xml:id="p.5"><placeName>Lovanii</placeName> 4. Februarii 1532.</p>
             </div>
         </body>

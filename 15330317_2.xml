@@ -235,12 +235,11 @@
                     secretarium regis Ferdinandi.</p>
                 <pb facs="15330317_2_2.jpg"/>
                 <p xml:id="p.2">Ut aliquando etiam breves litteras, non semper longas ad te mittam,
-                    volo paucis ad tuas,<note type="critic" xml:id="note.1">This letter is not
-                        extant.</note> quas cum nuntio <persName>Cornelii</persName><note
-                        type="critic" xml:id="note.2">Cornelis de Schepper.</note> una nudiustertius
-                    accepi, respondere. Binas, ut arbitror, litteras meas<note type="critic"
-                        xml:id="note.3">Ep. 322, and Ep.
-                        339.<ref>olahus.tei.15330214_1</ref></note><ref>/o:olahus.tei.15330309_3</ref>
+                    volo paucis ad tuas,<note xml:id="note.1">This letter is not extant.</note> quas
+                    cum nuntio <persName>Cornelii</persName><note xml:id="note.2">Cornelis de
+                        Schepper.</note> una nudiustertius accepi, respondere. Binas, ut arbitror,
+                    litteras meas<note xml:id="note.3">Ep. 322, and Ep.
+                            339.<ref>olahus.tei.15330214_1</ref></note><ref>/o:olahus.tei.15330309_3</ref>
                     post meas per praefectum armariorum antea missas ad te dedi, quas omnes te iam
                     accepisse credo. Habeo gratias tibi cumulatas, quod rerum mearum communium
                     curam, ut scribis, habes. Ita fac et deinceps rogo, quoad bonum in illis finem
@@ -248,16 +247,15 @@
                     diligentia, si res ad partes Ioannis vaivodae declinari contigerit, multum rebus
                     illis afferet adiumenti. Si qua in re opus erit, tu quoque cures ex curia
                     favorem regis, quem mihi non denegatum iri puto. Illi si nondum dieta
-                        Altenburgensis<note type="critic" xml:id="note.4">Magyaróvár.</note>
-                    dissoluta est, eo, aut si res ad <placeName>Poloniam</placeName> devolvetur,
-                    illuc suppeditare. Modo pax in <placeName>Hungaria</placeName> fiat firma resque
-                    meae sint salvae, non cogitavi, neque cogito hic manere, meusque status
-                    Cornelio, si is illi placuerit, erit vacuus. Qua de re, uti voluisti, ad eum
-                    latius scripsi, quas rogo, cito ad eum mitte. Litteras regias ad me missas ea
-                    statim hora, qua ad me delatae fuerunt, per fidelem cursorem misi ad imperatoris
-                    oratorem in <placeName>Galliam</placeName>.<note type="critic" xml:id="note.5"
-                        >We do not know him more closely.</note> Si quid istic fuerit finitum, cura,
-                    ut sciam. Vale.</p>
+                        Altenburgensis<note xml:id="note.4">Magyaróvár.</note> dissoluta est, eo,
+                    aut si res ad <placeName>Poloniam</placeName> devolvetur, illuc suppeditare.
+                    Modo pax in <placeName>Hungaria</placeName> fiat firma resque meae sint salvae,
+                    non cogitavi, neque cogito hic manere, meusque status Cornelio, si is illi
+                    placuerit, erit vacuus. Qua de re, uti voluisti, ad eum latius scripsi, quas
+                    rogo, cito ad eum mitte. Litteras regias ad me missas ea statim hora, qua ad me
+                    delatae fuerunt, per fidelem cursorem misi ad imperatoris oratorem in
+                        <placeName>Galliam</placeName>.<note xml:id="note.5">We do not know him more
+                        closely.</note> Si quid istic fuerit finitum, cura, ut sciam. Vale.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 17. Martii 1533.</p>
             </div>
         </body>

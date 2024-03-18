@@ -251,8 +251,8 @@
                     secretario reginae Mariae.</p>
                 <p xml:id="p.2">[1.] Quamvis ea sint tempora, ut vix aliquid, quod delectet,
                     nuntiare alter alterutri possimus, tamen maxima laetitia me affecere litterae
-                        tuae.<note type="critic" xml:id="note.1">This letter is not extant.</note>
-                    Cognovi enim ex eis prosperam valetudinem tuam et quonam praesidio praeparet
+                        tuae.<note xml:id="note.1">This letter is not extant.</note> Cognovi enim ex
+                    eis prosperam valetudinem tuam et quonam praesidio praeparet
                         <persName>caesar</persName> noster contra <persName>Turcarum
                         tyrannum</persName> se defendere, quae etsi ex aliis intellexeram.
                     Gratissimum tamen fuit ex te etiam intellexisse, tum quia ex te certiora et
@@ -265,19 +265,18 @@
                     scribenda habeam, haec sunt.</p>
                 <p xml:id="p.3">[2.] Redditae mihi sunt litterae ex <placeName>Urbe</placeName> XXVI
                     die mensis praeteriti datae, ex quibus cognovi s<persName>anctissimum dominum
-                        nostrum</persName><note type="critic" xml:id="note.2">Pope Clement
-                        VII.</note> destinavisse legatum de latere ad caesarem in illam expeditionem
-                    Turcicam reverendissimum <persName>cardinalem de Medicis</persName> suae
-                    sanctitatis nepotem,<note type="critic" xml:id="note.3">Giovanni Angelo Medici
-                        (1499–1565), the later Pope Pius IV (1559–1565).</note> iuvenem strenuum et
-                    industrium ac prudentem supra aetatem; attigit enim vix tertium et vigesium. Is
-                    secum adducet peditum Italorum et Hispanorum non contemnendam manum, quam
-                    dominus <persName>marchio de Quasto</persName> cogit undique per
-                        <placeName>Italiam</placeName>, dicunt ad XX millia peditum. Dominum
-                        <persName>Andream Doriam</persName><note type="critic" xml:id="note.4"
-                        >Andrea Doria (1466–1560) was an Italian condottiero and admiral of the
-                        Republic of Genua.</note> scribunt etiam coegisse bonum numerum triremum ac
-                    navium onerariarum, quarum praesidio putat non solum se </p>
+                        nostrum</persName><note xml:id="note.2">Pope Clement VII.</note>
+                    destinavisse legatum de latere ad caesarem in illam expeditionem Turcicam
+                    reverendissimum <persName>cardinalem de Medicis</persName> suae sanctitatis
+                        nepotem,<note xml:id="note.3">Giovanni Angelo Medici (1499–1565), the later
+                        Pope Pius IV (1559–1565).</note> iuvenem strenuum et industrium ac prudentem
+                    supra aetatem; attigit enim vix tertium et vigesium. Is secum adducet peditum
+                    Italorum et Hispanorum non contemnendam manum, quam dominus <persName>marchio de
+                        Quasto</persName> cogit undique per <placeName>Italiam</placeName>, dicunt
+                    ad XX millia peditum. Dominum <persName>Andream Doriam</persName><note
+                        xml:id="note.4">Andrea Doria (1466–1560) was an Italian condottiero and
+                        admiral of the Republic of Genua.</note> scribunt etiam coegisse bonum
+                    numerum triremum ac navium onerariarum, quarum praesidio putat non solum se </p>
                 <pb facs="15320710_1_2.jpg"/>
                 <p xml:id="p.4">posse facillime a Turcica classe defendere, sed si res poposcerit,
                     ultro eam aggredi; audio et Siculos propria pecunia paravisse ad X millia
@@ -289,12 +288,12 @@
                     iure puniremur.</p>
                 <p xml:id="p.5">[3.] De <placeName>Hungaria</placeName> nihil certi habeo, quod ad
                     te scribam, exspecto propediem litteras ex meo <persName>Mario</persName>,<note
-                        type="critic" xml:id="note.5">We do not know him more closely.</note> qui
-                    fuerat M. a secretis, quem te nosse arbitror. Is mea intercessione et opera
-                    obtinuerat archidiaconatum Strigoniensem, et ab eo tempore fuit
-                        <placeName>Strigonii</placeName><note type="critic" xml:id="note.6"
-                        >Esztergom.</note> vacans divinis, suo beneficio inserviens prius, ut par
-                    erat, eum nunc audio ob pericula imminentia illi patriae inde recessisse et
+                        xml:id="note.5">We do not know him more closely.</note> qui fuerat M. a
+                    secretis, quem te nosse arbitror. Is mea intercessione et opera obtinuerat
+                    archidiaconatum Strigoniensem, et ab eo tempore fuit
+                        <placeName>Strigonii</placeName><note xml:id="note.6">Esztergom.</note>
+                    vacans divinis, suo beneficio inserviens prius, ut par erat, eum nunc audio ob
+                    pericula imminentia illi patriae inde recessisse et
                         <placeName>Italiam</placeName> pervenisse, a quo exspecto propemodum
                     litteras copiosiores, si ex eius litteris aliquid intellexero, quod putem tibi
                     non fore ingratum audire, curabo diligentissime tibi perferendum. Interea et

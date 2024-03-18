@@ -235,22 +235,22 @@
                 </floatingText>
                 <pb facs="15320918_1_1.jpg"/>
                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Idem</add> ad Ioannem
-                        Amandinum.<note type="critic" xml:id="note.1">Probably János (Várkonyi)
-                        Amadé, whose cousin was István Amadé, Castellan of Magyaróvár and Hungarian
-                        Fiscal Official of Queen Mary. János Amadé is mentioned in 1534 as getting
-                        25 gold florins, see <hi rend="smallcap">Bunyitay–Karácsonyi–Rapaics</hi>
-                        1904, 384, and <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi</hi>
-                        2016, 163 and <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi–W.
-                            Kovács</hi> 2017, 160.</note></p>
+                        Amandinum.<note xml:id="note.1">Probably János (Várkonyi) Amadé, whose
+                        cousin was István Amadé, Castellan of Magyaróvár and Hungarian Fiscal
+                        Official of Queen Mary. János Amadé is mentioned in 1534 as getting 25 gold
+                        florins, see <hi rend="smallcap">Bunyitay–Karácsonyi–Rapaics</hi> 1904, 384,
+                        and <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi</hi> 2016, 163
+                        and <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi–W. Kovács</hi>
+                        2017, 160.</note></p>
                 <p xml:id="p.2">Nullius te consilio indigere intelligo, idque te palam praedicasse,
                     non ab aliis, sed a tuo servitore, quem nuper ad me miseras, aperte cognovi.
                     Haec tua praedicatio et potius <choice>
                         <orig>ἥ</orig>
                         <supplied>ἡ</supplied>
-                    </choice> ὑψολαλία,<note type="critic" xml:id="note.2">‘haugthy speech’, this
-                        word was made up by Oláh connecting the words <hi rend="italic">ὕψος</hi>
-                        (elevation) and <hi rend="italic">λαλία</hi> (speech), similarly to the word
-                            <hi rend="italic">ὑψολόγος</hi>.</note> ut multa alia tua facta mihi <choice>
+                    </choice> ὑψολαλία,<note xml:id="note.2">‘haugthy speech’, this word was made up
+                        by Oláh connecting the words <hi rend="italic">ὕψος</hi> (elevation) and <hi
+                            rend="italic">λαλία</hi> (speech), similarly to the word <hi
+                            rend="italic">ὑψολόγος</hi>.</note> ut multa alia tua facta mihi <choice>
                         <orig>mine</orig>
                         <supplied>minime</supplied>
                     </choice> placet, potuisses modestioribus uti verbis, ne in vulgi venires

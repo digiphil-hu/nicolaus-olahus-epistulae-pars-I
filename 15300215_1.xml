@@ -253,25 +253,25 @@
                 <p xml:id="p.1">Ad papam <persName>Clementem VII.</persName></p>
                 <p xml:id="p.2">[1.] Magna affecti sumus laetitia, Pater Beatissime, cum te tuosque
                     omnes sacros cardinei coetus ordines ad extremas usque Italiae oras Germaniae
-                        propinquos,<note type="critic" xml:id="note.1">King Charles V and the Pope
-                        met on 24 February, 1530 in Bologna, see <hi rend="smallcap"
-                            >Eisenbichler</hi> 1999, 430.</note> salvos atque incolumes advenisse
-                    cognovissemus, quippe cum omnibus malorum generibus calamitatum saevissimarum
-                    turbinibus, tota laboraret Christianitas, hac una re, his malis provisum iri
-                    arbitrabamur, si tu, qui caput es Christiani populi et vicarius Ihesu in terris,
-                    propius accessisses, et conventu cum principibus Christianitatis habito, aliquid
-                    decerneres, quo tot malis mederi posset. Id nunc nobis, Pater Beatissime,
-                    omnibus votis optantibus contigisse ex Dei omnipotentis gratia videmus, nam tu
-                    nobis appropinquasti, convenisti cum Carolo caesare cum aliisque Italiae
-                    principibus in paterno amore, clementia, mansuetudine et benignitate,
-                    dissidentem multos iam annos populum redegisti in concordiam, et civitates ab
-                    oboedientia tua et caesaris iamdudum elapsas, ad veram reduxisti oboedientiam,
-                    et non reduxisti modo, sed foedus cum eis pepigisti perpetuum. Quo pie, sancte
-                    et religiose observato, communis Christianitatis hostibus resistere possetis
-                    viribus Christianorum coniunctis et firmiter connexis. Destinerant a te
-                    Florentini tui municipes, homines <del corresp="Olahus">facionibus</del><add
-                        corresp="Olahus" type="corr">factionibus</add> pessimis studentes, parere
-                    suo <del corresp="Olahus">volebat</del><add corresp="Olahus" type="corr"><choice>
+                        propinquos,<note xml:id="note.1">King Charles V and the Pope met on 24
+                        February, 1530 in Bologna, see <hi rend="smallcap">Eisenbichler</hi> 1999,
+                        430.</note> salvos atque incolumes advenisse cognovissemus, quippe cum
+                    omnibus malorum generibus calamitatum saevissimarum turbinibus, tota laboraret
+                    Christianitas, hac una re, his malis provisum iri arbitrabamur, si tu, qui caput
+                    es Christiani populi et vicarius Ihesu in terris, propius accessisses, et
+                    conventu cum principibus Christianitatis habito, aliquid decerneres, quo tot
+                    malis mederi posset. Id nunc nobis, Pater Beatissime, omnibus votis optantibus
+                    contigisse ex Dei omnipotentis gratia videmus, nam tu nobis appropinquasti,
+                    convenisti cum Carolo caesare cum aliisque Italiae principibus in paterno amore,
+                    clementia, mansuetudine et benignitate, dissidentem multos iam annos populum
+                    redegisti in concordiam, et civitates ab oboedientia tua et caesaris iamdudum
+                    elapsas, ad veram reduxisti oboedientiam, et non reduxisti modo, sed foedus cum
+                    eis pepigisti perpetuum. Quo pie, sancte et religiose observato, communis
+                    Christianitatis hostibus resistere possetis viribus Christianorum coniunctis et
+                    firmiter connexis. Destinerant a te Florentini tui municipes, homines <del
+                        corresp="Olahus">facionibus</del><add corresp="Olahus" type="corr"
+                        >factionibus</add> pessimis studentes, parere suo <del corresp="Olahus"
+                        >volebat</del><add corresp="Olahus" type="corr"><choice>
                             <orig>nolebat</orig>
                             <supplied>nolebant</supplied>
                         </choice></add> superiori privati commodi causa, quos caesar ipse Carolus
@@ -308,21 +308,21 @@
                     hostium <del corresp="Olahus">exiperent</del><add corresp="Olahus" type="corr"
                         >exciperent</add>, Christianos ab aliorum rapinis immunes conservarent;
                     arcibus quibusdam limitaneis praefecerat <persName>Paulum
-                        Thomorem</persName><note type="critic" xml:id="note.2">Pál Tomori,
-                        Archbishop of Kalocsa (ca. 1475–1526) died at the battle of Mohács.</note>
-                    Colocensem archiepiscopum virum bonae spectataeque probitatis et ob scientiam
-                    rei militaris omnibus probatissimum. Is assiduos hostium experiebatur insultus,
-                    non <del corresp="Olahus">parita</del><add corresp="Olahus" type="corr"
-                        >parva</add> mercede suos alebat milites, adiutus et redditibus sui
-                    archiepiscopatus et munificentia regis, qui menstruos illi suppeditabat sumptus.
-                    Is autem post multas acceptas clades, multos etiam conflictus, quos et ipse et
-                    sui milites cum Turcis saepenumero commiserant, certiorem fecit Ludovicum regem
-                    caesarem Turcarum cum suo omni exercitu et viribus iam a duobus aut tribus annis
-                    maximo studio comparatis velle invadere Hungariam eo praeposito, ut eam vel
-                    ditioni suae totam subigeret, vel sibi faceret tributariam; proinde rex
-                    cogitaret frequenti suo consilio de via et modo, quo tanto hosti, multis iam
-                    subactis nationibus praepotenti, plurimis victoriis et triumphis elato, resisti
-                    posset, viam autem eam </p>
+                        Thomorem</persName><note xml:id="note.2">Pál Tomori, Archbishop of Kalocsa
+                        (ca. 1475–1526) died at the battle of Mohács.</note> Colocensem
+                    archiepiscopum virum bonae spectataeque probitatis et ob scientiam rei militaris
+                    omnibus probatissimum. Is assiduos hostium experiebatur insultus, non <del
+                        corresp="Olahus">parita</del><add corresp="Olahus" type="corr">parva</add>
+                    mercede suos alebat milites, adiutus et redditibus sui archiepiscopatus et
+                    munificentia regis, qui menstruos illi suppeditabat sumptus. Is autem post
+                    multas acceptas clades, multos etiam conflictus, quos et ipse et sui milites cum
+                    Turcis saepenumero commiserant, certiorem fecit Ludovicum regem caesarem
+                    Turcarum cum suo omni exercitu et viribus iam a duobus aut tribus annis maximo
+                    studio comparatis velle invadere Hungariam eo praeposito, ut eam vel ditioni
+                    suae totam subigeret, vel sibi faceret tributariam; proinde rex cogitaret
+                    frequenti suo consilio de via et modo, quo tanto hosti, multis iam subactis
+                    nationibus praepotenti, plurimis victoriis et triumphis elato, resisti posset,
+                    viam autem eam </p>
                 <pb facs="15300215_1_3.jpg"/>
                 <p xml:id="p.5">esse, ut rex conscriptis suis, quas haberet, viribus, illi obviaret,
                     se interea illum suscepturum, et quatenus a se fieri posse, prohibiturum, ne tam
@@ -397,14 +397,14 @@
                     sermones, iam non occulte sed palam coepit agere de regno Hungariae consequendo;
                     indictisque primum comitiis ad arcem suam <placeName>Thokay</placeName>,
                     procerum primorumque regni Hungariae eo convocatorum consilio deliberatum istic
-                    est, ut in <placeName>Alba Regali</placeName>,<note type="critic"
-                        xml:id="note.3">Székesfehérvár.</note> quae civitas locus est coronationis
-                    regis, de creando novo rege consultaretur. Quod cum regina Maria regis Ludovici
-                    vidua et <persName>Stephanus Bathoreus</persName> regni Hungariae palatinus,
+                    est, ut in <placeName>Alba Regali</placeName>,<note xml:id="note.3"
+                        >Székesfehérvár.</note> quae civitas locus est coronationis regis, de
+                    creando novo rege consultaretur. Quod cum regina Maria regis Ludovici vidua et
+                        <persName>Stephanus Bathoreus</persName> regni Hungariae palatinus,
                         <persName>Stephanus Brodericus</persName> episcopus Sirmiensis cancellarius,
-                        <persName>Thomas Vesprimiensis</persName><note type="critic" xml:id="note.4"
-                        >Tamás Szalaházy.</note> antistes, <persName>Alexius Turzo</persName> iudex
-                    curiae regiae, ac dominorum Hungariae potior pars quae cum regina tunc
+                        <persName>Thomas Vesprimiensis</persName><note xml:id="note.4">Tamás
+                        Szalaházy.</note> antistes, <persName>Alexius Turzo</persName> iudex curiae
+                    regiae, ac dominorum Hungariae potior pars quae cum regina tunc
                         <placeName>Posonii</placeName> erat, certo intellexissent monere, hortari et
                     rogare Ioannem coeperunt, ne privatum publico commodum anteponeret et ne tam
                     novum pessimumque in regem creando exemplum in rempublicam Hungaricam induceret,
@@ -446,16 +446,16 @@
                         <placeName>Tokay</placeName> versus, ubi initia regni sui fuerat auspicatus,
                     profugit; in qua arce, dum aliquamdiu cum his, qui eum secuti erant, commoratus
                     est, misit rex Ferdinandus alium rursus contra eum exercitum, qui eum fugavit et
-                    coegit Tibiscum<note type="critic" xml:id="note.5">Tisza river.</note> traicere,
-                    deinde Poloniam migrare. Ipse vero rex Ferdinandus corona regni Hungariae
-                    accepta, quae concordibus dominorum Hungarorum animis ei fuerat decreta,
-                    reversus est <placeName>Wiennam</placeName>. Et cum annum et medium a regno
-                    Hungariae abfuisset, omnibus interea viis, modis et laboribus <del
-                        corresp="Olahus">ut regno Hungariae ad quod occupandum</del> apud exteras
-                    nationes, subditis etiam aliarum provinciarum <del corresp="Olahus">agens et
-                        laborans</del><add corresp="Olahus" type="corr">agebat et laborabat</add>,
-                    ut regno Hungariae ad quod occupandum caesar Turcarum cum suis omnibus viribus
-                    rursus exire statuerat, suppetias ferrent.</p>
+                    coegit Tibiscum<note xml:id="note.5">Tisza river.</note> traicere, deinde
+                    Poloniam migrare. Ipse vero rex Ferdinandus corona regni Hungariae accepta, quae
+                    concordibus dominorum Hungarorum animis ei fuerat decreta, reversus est
+                        <placeName>Wiennam</placeName>. Et cum annum et medium a regno Hungariae
+                    abfuisset, omnibus interea viis, modis et laboribus <del corresp="Olahus">ut
+                        regno Hungariae ad quod occupandum</del> apud exteras nationes, subditis
+                    etiam aliarum provinciarum <del corresp="Olahus">agens et laborans</del><add
+                        corresp="Olahus" type="corr">agebat et laborabat</add>, ut regno Hungariae
+                    ad quod occupandum caesar Turcarum cum suis omnibus viribus rursus exire
+                    statuerat, suppetias ferrent.</p>
                 <p xml:id="p.11">[6.] Ab eo tempore in eum usque diem, quo caesar Turcarum hortatu
                     vel potius ductu nonnullorum Christianorum fines Hungariae attigerat, non
                     destitit rex Ferdinandus omnes principes Christianos urgere, monere et
@@ -472,10 +472,10 @@
                         <placeName>Wiennam</placeName> ingressi. Qui nisi adventum Turcarum
                     praeripuissent, actum iam omnium iudicio erat de <placeName>Wienna</placeName>.
                     Quam cum frustra diu oppugnassent, viginti vel circiter dierum curriculo,<note
-                        type="critic" xml:id="note.6">The siege of Vienna lasted from 27 September
-                        to 16 October, 1529.</note> caesar magna ignominia ab illius obsidione
-                    discessit, praeteritarumque rerum a se praeclare gestarum gloriam hoc suo conatu
-                    frustra tentato non parum imminuit. Interea autem dum ipse in <choice>
+                        xml:id="note.6">The siege of Vienna lasted from 27 September to 16 October,
+                        1529.</note> caesar magna ignominia ab illius obsidione discessit,
+                    praeteritarumque rerum a se praeclare gestarum gloriam hoc suo conatu frustra
+                    tentato non parum imminuit. Interea autem dum ipse in <choice>
                         <orig>Wiennesi</orig>
                         <supplied>Wiennensi</supplied>
                     </choice> obsidione magno conatu occuparetur, procursores sui aliquot millia

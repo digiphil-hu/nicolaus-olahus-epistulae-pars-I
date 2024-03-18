@@ -232,9 +232,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15321003_2_1.jpg"/>
-                <p xml:id="p.1">[The superscription is missing.]<note type="critic" xml:id="note.1"
-                        >The location in the manuscript suggests that Oláh wrote this letter to
-                        Kálnai.</note></p>
+                <p xml:id="p.1">[The superscription is missing.]<note xml:id="note.1">The location
+                        in the manuscript suggests that Oláh wrote this letter to Kálnai.</note></p>
                 <p xml:id="p.2">Mirabile dictu est, a vigesimo fere iam die nihil certi ab
                     imperatore nostro nos audire potuisse, nec venit aliquis, qui nos certos
                     redderet de rebus, quas aut nostri aut Turcae agant. Adeo autem et
@@ -246,9 +245,9 @@
                     utramque partem plurima cogitamus, quid aut imperatori nostro contingere aut
                     quomodo Turcis resisti potuisset, sed inter spem metumque sumus animo turbato,
                     et nihil est, quod non vereamur. Addidit etiam non minimum cumulum nostro timori
-                        cometes<note type="critic" xml:id="note.2">See a contemporary account of the
-                        comet by Peter Apian, <hi rend="italic">Ein kurtzer bericht der Observation
-                            unnd urtels des Jüngst erschinnen Cometen im weinmon und wintermon dises
+                        cometes<note xml:id="note.2">See a contemporary account of the comet by
+                        Peter Apian, <hi rend="italic">Ein kurtzer bericht der Observation unnd
+                            urtels des Jüngst erschinnen Cometen im weinmon und wintermon dises
                             XXXII. Jars</hi>, Ingolstadt, 1532. </note> hic a quattuor fere iam
                     diebus continue inter quartam et quintam noctis horam <choice>
                         <orig>visa</orig>
@@ -256,16 +255,15 @@
                     </choice>, qui multos ita metu exanimavit, ut etiam illa, quae fortasse non
                     contingunt, suspicemur. Exemplum a morte
                         <persName>matris</persName><persName>regis Franciae</persName><note
-                        type="critic" xml:id="note.3">Louise of Savoy died on 22 September
-                        1531.</note> capientes, quae fuerat anno exacto, post cometam<note
-                        type="critic" xml:id="note.4">In 1705, Edmond Halley claimed in his book <hi
-                            rend="italic">(Synopsis of the Astronomy of Comets)</hi> that there is a
-                        comet that returns periodically. According to him, the comet in 1532 was the
-                        return of the 1531 one.</note> hic visum secuta. Quare <quote
-                        xml:id="quote.1">beatus tu esse videris prae omnibus malis, qui procul
-                        es</quote><note type="quote" xml:id="note.quote.1">Cf. Hor.<hi rend="italic"
-                            > Epod. </hi>2,1: “Beatus ille, qui procul negotiis”.</note> ab his
-                    terroribus vale. </p>
+                        xml:id="note.3">Louise of Savoy died on 22 September 1531.</note> capientes,
+                    quae fuerat anno exacto, post cometam<note xml:id="note.4">In 1705, Edmond
+                        Halley claimed in his book <hi rend="italic">(Synopsis of the Astronomy of
+                            Comets)</hi> that there is a comet that returns periodically. According
+                        to him, the comet in 1532 was the return of the 1531 one.</note> hic visum
+                    secuta. Quare <quote xml:id="quote.1">beatus tu esse videris prae omnibus malis,
+                        qui procul es</quote><note type="quote" xml:id="note.quote.1">Cf. Hor.<hi
+                            rend="italic"> Epod. </hi>2,1: “Beatus ille, qui procul
+                        negotiis”.</note> ab his terroribus vale. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 3. Octobris 1532. </p>
             </div>
         </body>

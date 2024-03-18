@@ -190,11 +190,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>a friend</persName>
                 </correspAction>
             </correspDesc>
@@ -246,9 +244,9 @@
                     fefellissent, neque me in <app xml:id="app.4">
                         <lem wit="#CE #I" xml:id="lem.4">hanc</lem>
                         <rdg wit="#II" xml:id="rdg.4"/>
-                    </app> Charibdim<note type="critic" xml:id="note.1">Charybdis was a sea monster
-                        or whirlpool, considered a shipping hazard in Greek mythology. Oláh often
-                        used this ship-allegory.</note><app xml:id="app.5">
+                    </app> Charibdim<note xml:id="note.1">Charybdis was a sea monster or whirlpool,
+                        considered a shipping hazard in Greek mythology. Oláh often used this
+                        ship-allegory.</note><app xml:id="app.5">
                         <lem wit="#CE #I" xml:id="lem.5">intrusissem</lem>
                         <rdg wit="#II" xml:id="rdg.5">immisissem</rdg>
                     </app>, si hortatus amicorum meorum pluris non fecissem, quam meum consilium.

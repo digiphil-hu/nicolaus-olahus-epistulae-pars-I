@@ -271,11 +271,11 @@
                                         etiam periculi suspicione Budam usque descendere, et
                                         trepidantibus Ioanne rege et suis, qui cum eo sunt, omnibus
                                         amissas quasque arces libere recuperare poterant, circum
-                                                <placeName>Tiraniam</placeName><note type="critic"
-                                                xml:id="note.1">Trnava.</note> sine utilitate agit,
-                                        colonos miseros praedatur, tempus terit <del
-                                                corresp="Olahus">utiliter</del><add corresp="Olahus"
-                                                type="corr">inutiliter</add>, <choice>
+                                                <placeName>Tiraniam</placeName><note xml:id="note.1"
+                                                >Trnava.</note> sine utilitate agit, colonos miseros
+                                        praedatur, tempus terit <del corresp="Olahus"
+                                                >utiliter</del><add corresp="Olahus" type="corr"
+                                                >inutiliter</add>, <choice>
                                                 <orig>stipedium</orig>
                                                 <supplied>stipendium</supplied>
                                         </choice> tuum consumit sine commodo. Imperator illius nihil

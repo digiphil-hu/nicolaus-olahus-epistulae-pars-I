@@ -248,33 +248,31 @@
                         <orig>sis</orig>
                         <supplied>si</supplied>
                     </choice> praesto tibi fui, ita etiam in nuptiis tuis praesentia mea tuo et
-                        <persName>Vissenaci</persName><note type="critic" xml:id="note.1">Damiaan
-                        van Vissenaken.</note> honori non deessem. Vicit tamen meam in te et illum
-                    voluntatem necessitas, dura rerum humanarum ἡ ἐριννύς.<note type="critic"
-                        xml:id="note.2">‘Erinys’, infernal goddess, metaphoricaly, meaning
-                        ‘damn’.</note> Nam ultra ea, quae in horas nunc ex
-                        <placeName>Austria</placeName> et finibus <placeName>Hungariae</placeName>
-                    negotia afferuntur, emersit etiam in <placeName>Italiam</placeName> quaedam
-                    hodie non patria expeditio, quae non modo nolentem me retinuit, sed nisi res tua
-                    tam </p>
+                        <persName>Vissenaci</persName><note xml:id="note.1">Damiaan van
+                        Vissenaken.</note> honori non deessem. Vicit tamen meam in te et illum
+                    voluntatem necessitas, dura rerum humanarum ἡ ἐριννύς.<note xml:id="note.2"
+                        >‘Erinys’, infernal goddess, metaphoricaly, meaning ‘damn’.</note> Nam ultra
+                    ea, quae in horas nunc ex <placeName>Austria</placeName> et finibus
+                        <placeName>Hungariae</placeName> negotia afferuntur, emersit etiam in
+                        <placeName>Italiam</placeName> quaedam hodie non patria expeditio, quae non
+                    modo nolentem me retinuit, sed nisi res tua tam </p>
                 <pb facs="15320805_1_2.jpg"/>
                 <p xml:id="p.3">ardua nunc istic ageretur, tuam quoque expeteret hic operam, quam
                     tamen <del corresp="Olahus">hic</del> ego sum confecturus. Boni igitur et tu et
                         <persName>Vissenacus</persName> vestraque omnis familia consulat meam
                     absentiam, quam non meus animus honoris vestri cupidus, sed res necessariae ita
                     ferentes certe faciunt. Misi tamen istic ad vos <persName>Iacobum meum
-                        Danum</persName>,<note type="critic" xml:id="note.3">Jakob Jespersen.</note>
-                    tum ut choreas ducat saltationis peritus et cupidissimus, tum ut <add
-                        corresp="Olahus" type="insert">lepore</add> suo ac salibus laetum convivium
-                    vestrum magis exhilaret, tum praeterea ut poenas <persName>Vissenaco</persName>
-                    nostro pendat. Alia tu, quae ad meum quoque pertinere videbuntur, honorem, ut
-                    spero, curabis. Quod nunc rebus tuis mea absentia videbitur deesse, id suo
-                    tempore rependam cumulatius. Dominum <persName>decanum Brugensem</persName><note
-                        type="critic" xml:id="note.4">Mark Lauwerijns.</note> mihi amicissimum, si
-                    aderit, <persName>Vissenacum</persName>, sponsam et
-                        <persName>socrum</persName><note type="critic" xml:id="note.5">The widow of
-                        Antonius Clava, called Margareta, see Ep. 243. Note
-                            6.<ref>olahus.tei.15320726_1</ref></note> tuam meo nomine salvere
+                        Danum</persName>,<note xml:id="note.3">Jakob Jespersen.</note> tum ut
+                    choreas ducat saltationis peritus et cupidissimus, tum ut <add corresp="Olahus"
+                        type="insert">lepore</add> suo ac salibus laetum convivium vestrum magis
+                    exhilaret, tum praeterea ut poenas <persName>Vissenaco</persName> nostro pendat.
+                    Alia tu, quae ad meum quoque pertinere videbuntur, honorem, ut spero, curabis.
+                    Quod nunc rebus tuis mea absentia videbitur deesse, id suo tempore rependam
+                    cumulatius. Dominum <persName>decanum Brugensem</persName><note xml:id="note.4"
+                        >Mark Lauwerijns.</note> mihi amicissimum, si aderit,
+                        <persName>Vissenacum</persName>, sponsam et <persName>socrum</persName><note
+                        xml:id="note.5">The widow of Antonius Clava, called Margareta, see Ep. 243.
+                        Note 6.<ref>olahus.tei.15320726_1</ref></note> tuam meo nomine salvere
                     iubeto, neque illis et maxime domino decano commendato. Cuius solius consuetudo
                     me illuc, si res etiam tua nam honorifica non ageretur, pertraxisset, nisi id
                     regina volente mihi fuisset integrum. Vale.</p>

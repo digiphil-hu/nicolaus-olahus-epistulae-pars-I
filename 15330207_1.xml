@@ -259,8 +259,8 @@
                     reginae.</p>
                 <p xml:id="p.2">[1.] Oro, ut hanc epistolam legas solus, nec huic tabellioni
                     quicquam arcani committas, praeterquam obsignatis litteris.
-                        <persName>Danus</persName><note type="critic" xml:id="note.1">Jakob
-                        Jespersen.</note> ne quid sciat harum rerum.</p>
+                        <persName>Danus</persName><note xml:id="note.1">Jakob Jespersen.</note> ne
+                    quid sciat harum rerum.</p>
                 <p xml:id="p.3">Multa sunt, quae mihi suadent, ut relinquam
                         <placeName>Germaniam</placeName>, etiamsi contingat esse quietam. Multa
                     rursus sunt, quae istinc deterrent. Illud caput est, mi Olae, ea est corporis et
@@ -268,40 +268,38 @@
                     Corpusculum cribro rarius ne aestivum quidem fert caelum. Quod si aula vellet me
                     ab hac quiete revocare, mors esset certissima, certum scio. Si quid queam
                     praestare domi manens, perlubens fecero. Amo reverendissimum <persName>dominum
-                        Panormitanum</persName><note type="critic" xml:id="note.2">Jean II
-                        Carondelet.</note> non vulgariter, sed est χρηστολόγος<note type="critic"
-                        xml:id="note.3">‘with eloquence’.</note> affatim. Etsi satis novi istius
-                    aulae ingenium vix praesenti quicquam numeraretur. Velim in primis hoc abs te
-                    curari, ut huc veniret epistola vel domini cancellarii, vel reginae nomine
-                    scripta, quae me revocaret, ut habeam hic honestam occasionem vertendi solum, ne
-                    videar odio cuiusquam discedere. Deinde mitteretur aliquod viaticum honestum.
-                    Debetur mihi iam pensio decem annis aut eo amplius. Nihil magni facerent, si
-                    unius anni pensio mitteretur. Quodsi non putas sollicitandos finantiarios,
-                    posset munus mitti reginae nomine. Cum peteretur a me libellus <hi rend="italic"
-                            ><title>De vidua</title></hi><note type="critic" xml:id="note.4"><hi
-                            rend="italic">De vidua Christiana</hi> see Ep. 77. Note
+                        Panormitanum</persName><note xml:id="note.2">Jean II Carondelet.</note> non
+                    vulgariter, sed est χρηστολόγος<note xml:id="note.3">‘with eloquence’.</note>
+                    affatim. Etsi satis novi istius aulae ingenium vix praesenti quicquam
+                    numeraretur. Velim in primis hoc abs te curari, ut huc veniret epistola vel
+                    domini cancellarii, vel reginae nomine scripta, quae me revocaret, ut habeam hic
+                    honestam occasionem vertendi solum, ne videar odio cuiusquam discedere. Deinde
+                    mitteretur aliquod viaticum honestum. Debetur mihi iam pensio decem annis aut eo
+                    amplius. Nihil magni facerent, si unius anni pensio mitteretur. Quodsi non putas
+                    sollicitandos finantiarios, posset munus mitti reginae nomine. Cum peteretur a
+                    me libellus <hi rend="italic"><title>De vidua</title></hi><note xml:id="note.4"
+                            ><hi rend="italic">De vidua Christiana</hi> see Ep. 77. Note
                             2.<ref>olahus.tei.15300701_1</ref></note> sex epistolae eodem argumento
                     ad me venerunt, ubi praestita sunt omnia, refrixit
-                        <persName>Henkellus</persName>.<note type="critic" xml:id="note.5">Johann
-                        Henckel.</note> Migratio mihi magno constabit, tum ob supellectilem, tum ob
-                    vitream valetudinem. Sed ante omnia cuperem eam honorificam esse.</p>
+                        <persName>Henkellus</persName>.<note xml:id="note.5">Johann Henckel.</note>
+                    Migratio mihi magno constabit, tum ob supellectilem, tum ob vitream valetudinem.
+                    Sed ante omnia cuperem eam honorificam esse.</p>
                 <p xml:id="p.4">[2.] Quodsi litterae per hunc nuntium Friburgensem expediri non
                     possunt, mittantur nundinis vernis per <persName>Erasmum
-                        Schaetum</persName><note type="critic" xml:id="note.6">Erasmus Schets
-                        (†1550), see <hi rend="smallcap">Nauwelaerts–Bietenholz</hi> 1987.</note> ad
-                        <persName>Hieronimum Frobenium</persName>,<note type="critic"
-                        xml:id="note.7">Hieronymus Froben (1501–1563), see <hi rend="smallcap"
-                            >Bietenholz</hi> 1986a.</note> eodem mittatur munus
-                        <persName>reginae</persName>, si dabitur. Sed utcunque res habebit, fac, ut
-                    sciam in tempore, ut possim meis consulere rebus. Ad patriam aspirat animus.
-                    Rogo, ne in vulgus erumpat me parare reditum, quo mihi tutius sit iter. Variae
-                    sunt hominum insidiae. Etiam atque etiam oro, ut hac in re declares istum animi
-                    tui candorem, quem litterae tuae prae se ferunt.</p>
+                        Schaetum</persName><note xml:id="note.6">Erasmus Schets (†1550), see <hi
+                            rend="smallcap">Nauwelaerts–Bietenholz</hi> 1987.</note> ad
+                        <persName>Hieronimum Frobenium</persName>,<note xml:id="note.7">Hieronymus
+                        Froben (1501–1563), see <hi rend="smallcap">Bietenholz</hi> 1986a.</note>
+                    eodem mittatur munus <persName>reginae</persName>, si dabitur. Sed utcunque res
+                    habebit, fac, ut sciam in tempore, ut possim meis consulere rebus. Ad patriam
+                    aspirat animus. Rogo, ne in vulgus erumpat me parare reditum, quo mihi tutius
+                    sit iter. Variae sunt hominum insidiae. Etiam atque etiam oro, ut hac in re
+                    declares istum animi tui candorem, quem litterae tuae prae se ferunt.</p>
                 <p xml:id="p.5">
                     <persName>Levinum</persName>
-                    <note type="critic" xml:id="note.8">Lieven Algoet. Erasmus must have heard about
-                        the marriage, see his previous letter, Ep. 252. Cf. <hi rend="smallcap"
-                            >Allen</hi> 1941, 152.</note>
+                    <note xml:id="note.8">Lieven Algoet. Erasmus must have heard about the marriage,
+                        see his previous letter, Ep. 252. Cf. <hi rend="smallcap">Allen</hi> 1941,
+                        152.</note>
                     <ref>/o:olahus.tei.15320829_1</ref>
                 </p>
                 <pb facs="15330207_1_2.jpg"/>

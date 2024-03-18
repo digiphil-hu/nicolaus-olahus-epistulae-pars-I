@@ -247,43 +247,43 @@
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem.</p>
                 <p xml:id="p.2">Reverende et Excellens Domine et Amice Honorande! Post ultimas meas
                     de data secunda huius per <placeName>Hungariam</placeName> missas<note
-                        type="critic" xml:id="note.1">This letter is not extant.</note> nihil novi
-                    occurrit scriptu dignum. Scripsi autem tunc et ad serenissimam
-                        <persName>maiestatem reginalem</persName> et ad Dominationem Vestram nos
-                    conclusisse bonam firmam et perpetuam pacem<note type="critic" xml:id="note.2"
-                        >See Ep. 378.<ref>olahus.tei.15330620_1</ref></note> cum potentissimo
+                        xml:id="note.1">This letter is not extant.</note> nihil novi occurrit
+                    scriptu dignum. Scripsi autem tunc et ad serenissimam <persName>maiestatem
+                        reginalem</persName> et ad Dominationem Vestram nos conclusisse bonam firmam
+                    et perpetuam pacem<note xml:id="note.2">See Ep.
+                            378.<ref>olahus.tei.15330620_1</ref></note> cum potentissimo
                         <persName>caesare Turcarum</persName> ex parte <persName>regiae
                         maiestatis</persName> Romanorum, Hungariae etc. Idque a nobis factum est
                     XXIII. Iunii praeteriti, quo die pransi sumus in palatio magni caesaris cum
-                    tribus bassis, <persName>Imbrahimo</persName>,<note type="critic"
-                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> penes quem summa est rerum,
-                        <persName>Aiam</persName><note type="critic" xml:id="note.4">Ayas Mehmed
-                        Pasha (1483–1539).</note> et <persName>Cassum</persName>,<note type="critic"
-                        xml:id="note.5">Güzelce Kasım Pasha (†1532) participated in the battle of
-                        Mohács and the siege of Vienna in 1529. He also participated in the siege of
-                        Kőszeg in 1532 and broke into Lower Austria, causing substantial damage, see
-                            <hi rend="smallcap">Bessenyei</hi> 1994, XVI, and <hi rend="smallcap"
+                    tribus bassis, <persName>Imbrahimo</persName>,<note xml:id="note.3">Ibrahim
+                        Pargalı Pasha.</note> penes quem summa est rerum,
+                        <persName>Aiam</persName><note xml:id="note.4">Ayas Mehmed Pasha
+                        (1483–1539).</note> et <persName>Cassum</persName>,<note xml:id="note.5"
+                        >Güzelce Kasım Pasha (†1532) participated in the battle of Mohács and the
+                        siege of Vienna in 1529. He also participated in the siege of Kőszeg in 1532
+                        and broke into Lower Austria, causing substantial damage, see <hi
+                            rend="smallcap">Bessenyei</hi> 1994, XVI, and <hi rend="smallcap"
                             >Babinger</hi> 1993, 799.</note> posteaque cum ipso potentissimo caesare
                     tractavimus eodem die horis tribus fere. Scripsi praeterea eundem potentissimum
                     caesarem dono dedisse serenissimae <persName>reginali maiestati</persName> dotem
                     suam et bona omnia, quae habuit in regno <placeName>Hungariae</placeName>, et ob
-                    id missurum dominum <persName>Aloisium Griti</persName><note type="critic"
-                        xml:id="note.6">Ludovico Gritti.</note> in <placeName>Hungariam</placeName>,
-                    qui iubeat <persName>Ioanni</persName> vaivodae ea, uti bona restituat. Reliqua
-                    neque tunc, neque nunc scribo. Id scito bonam, honestam et dignam pacem nos
+                    id missurum dominum <persName>Aloisium Griti</persName><note xml:id="note.6"
+                        >Ludovico Gritti.</note> in <placeName>Hungariam</placeName>, qui iubeat
+                        <persName>Ioanni</persName> vaivodae ea, uti bona restituat. Reliqua neque
+                    tunc, neque nunc scribo. Id scito bonam, honestam et dignam pacem nos
                     confecisse. Cum pervenissem <placeName>Constantinopolim</placeName>, omnia erant
                     confusa. Nihil enim, nisi verba quaedam erant data, plurimique suadebant, ne
                     quomodo pax fieret, sed modus agendi noster praevaluit ita volente Deo. Ego tibi
                         <persName>uxorem</persName> carissimam cum filio meo et familia commendo. Tu
                     illam absentem consolare. Serenissimae <persName>reginali maiestati</persName>
                     me humillime commenda, illustribus autem dominis et reverendissimo
-                        <persName>domino Panormitano</persName><note type="critic" xml:id="note.7"
-                        >Jean II Carondelet.</note> servitia mea offer. Ne mirere me in scribendo
-                    brevem esse, quia nescio, an hae sint istuc perventurae. Pestis grassatur
-                        <placeName>Rhagusii</placeName>.<note type="critic" xml:id="note.8"
-                        >Dubrovnik. Schepper mentioned on the way to Istanbul that there is a plague
-                        epidemic in Dubrovnik, see Ep. 363.<ref>olahus.tei.15330506_1</ref></note>
-                    In <placeName>Hungaria</placeName> latrones more suo saeviunt et per alterutram
+                        <persName>domino Panormitano</persName><note xml:id="note.7">Jean II
+                        Carondelet.</note> servitia mea offer. Ne mirere me in scribendo brevem
+                    esse, quia nescio, an hae sint istuc perventurae. Pestis grassatur
+                        <placeName>Rhagusii</placeName>.<note xml:id="note.8">Dubrovnik. Schepper
+                        mentioned on the way to Istanbul that there is a plague epidemic in
+                        Dubrovnik, see Ep. 363.<ref>olahus.tei.15330506_1</ref></note> In
+                        <placeName>Hungaria</placeName> latrones more suo saeviunt et per alterutram
                     provinciam litterae hae mitti debent. Nos iter per
                         <placeName>Boszinam</placeName> sumus facturi usque in
                         <placeName>Liburniam</placeName>. Tu autem, mi Nicolae, quam rectissime

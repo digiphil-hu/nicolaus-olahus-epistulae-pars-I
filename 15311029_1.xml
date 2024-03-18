@@ -243,23 +243,22 @@
                 </floatingText>
                 <pb facs="15311029_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem Antonium baronem.</p>
-                <p xml:id="p.2">Post eas litteras,<note type="critic" xml:id="note.1">Ep. 178, and
-                        Ep.
-                        179.<ref>olahus.tei.15311016_1</ref></note><ref>/o:olahus.tei.15311025_1.</ref>
+                <p xml:id="p.2">Post eas litteras,<note xml:id="note.1">Ep. 178, and Ep.
+                            179.<ref>olahus.tei.15311016_1</ref></note><ref>/o:olahus.tei.15311025_1.</ref>
                     quas ad te proxime dederam, venit fama <persName>Brodericum</persName><note
-                        type="critic" xml:id="note.2">István Brodarics.</note> nostrum <add
-                        corresp="Olahus" type="insert">huc</add> venire, nam ad caesarem a
-                        <persName>Ioanne</persName> suo missum.<note type="critic" xml:id="note.3"
-                        >Unfortunately, we do not know Brodarics’ legation to France more closely,
-                        see <hi rend="smallcap">Kasza</hi> 2015, 92.</note> Id si ita est, non
-                    possum non laetari, eum, quem iamdudum vidisse concupieram, ad nos
-                    appropinquare, verum hoc unum vereor, ne adventus ipsius plus mihi adferat
-                    tristitiae, quam voluptatis. Nam familiaritate, ut scis, non vulgari olim iuncti
-                    eramus, tamen ut nunc est hominum conditio et mores principumque nostrorum
-                    status, amici inimicorum loco sunt tenendi, et si bonae inter tuos principes vis
-                    esse famae, vix datur locus et conditio, ut talem amicum invisere possis. Nam ut
-                    principes sese inter se voluntate seiunctos esse sciunt, sic volunt subditos
-                    suos conversatione mutua procul abesse. Tamen nihilominus si fieri poterit et
+                        xml:id="note.2">István Brodarics.</note> nostrum <add corresp="Olahus"
+                        type="insert">huc</add> venire, nam ad caesarem a
+                        <persName>Ioanne</persName> suo missum.<note xml:id="note.3">Unfortunately,
+                        we do not know Brodarics’ legation to France more closely, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 92.</note> Id si ita est, non possum
+                    non laetari, eum, quem iamdudum vidisse concupieram, ad nos appropinquare, verum
+                    hoc unum vereor, ne adventus ipsius plus mihi adferat tristitiae, quam
+                    voluptatis. Nam familiaritate, ut scis, non vulgari olim iuncti eramus, tamen ut
+                    nunc est hominum conditio et mores principumque nostrorum status, amici
+                    inimicorum loco sunt tenendi, et si bonae inter tuos principes vis esse famae,
+                    vix datur locus et conditio, ut talem amicum invisere possis. Nam ut principes
+                    sese inter se voluntate seiunctos esse sciunt, sic volunt subditos suos
+                    conversatione mutua procul abesse. Tamen nihilominus si fieri poterit et
                     principis mei benevolentia permiserit, curabo, ut eum amicum, quem iam olim
                     tantopere desideravi, invisam. Vale et me habe commendatum.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 29. Octobris 1531.</p>

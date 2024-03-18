@@ -233,16 +233,16 @@
                     </body>
                 </floatingText>
                 <pb facs="15300225_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Paulum</persName><note type="critic" xml:id="note.1"
-                        >Pál Várday (1483–1549) was Royal Theasurer from 1519, then Bishop of
-                        Veszprém from 1521, and Bishop of Eger from 1523. He participated in the
-                        battle of Mohács. After Mohács, he joined King John I, who nominated him
-                        Archbishop of Esztergom, but in 1527 he changed sides and remained loyal to
-                        King Ferdinand I till the end. In 1542 Várday became Royal Governor (<hi
-                            rend="italic">locumtenens regius),</hi> and in 1543 he transferred the
-                        archbishop’s headquarters to Trnava because the Turks had occupied
-                        Esztergom, see <hi rend="smallcap">Laczlavik</hi> 2014.</note>
-                    archiepiscopum Strigoniensem.</p>
+                <p xml:id="p.1">Ad <persName>Paulum</persName><note xml:id="note.1">Pál Várday
+                        (1483–1549) was Royal Theasurer from 1519, then Bishop of Veszprém from
+                        1521, and Bishop of Eger from 1523. He participated in the battle of Mohács.
+                        After Mohács, he joined King John I, who nominated him Archbishop of
+                        Esztergom, but in 1527 he changed sides and remained loyal to King Ferdinand
+                        I till the end. In 1542 Várday became Royal Governor (<hi rend="italic"
+                            >locumtenens regius),</hi> and in 1543 he transferred the archbishop’s
+                        headquarters to Trnava because the Turks had occupied Esztergom, see <hi
+                            rend="smallcap">Laczlavik</hi> 2014.</note> archiepiscopum
+                    Strigoniensem.</p>
                 <p xml:id="p.2">Offensus sum graviter tuis malis artibus, quibus te conttourra tuum
                     et nostrum principem usum esse, non rumore ipso, sed certa omnium relatione
                     intellexi, utinam aliquando resipisceres et tuam aliis nocendi naturam in bonam
@@ -258,21 +258,21 @@
                     omne periculum pro tua fide, penes eos, qui illam defendunt, paratissimo animo
                     subires.</p>
                 <p xml:id="p.3">Propone <add corresp="Olahus" type="insert">tibi</add> eos, quos
-                    nominavi, tuos praecessores. <persName>Thomas</persName><note type="critic"
-                        xml:id="note.2">Tamás Bakócz (1442–1521) was a cardinal, a statesman, and
-                        Archbishop of Esztergom from 1497 until his death.</note> cardinalis
-                    Strigoniensis vir omnium cordatissimus, quoties omnes fere facultates suas in
-                    milites contra Turcos missos liberaliter elargitus fuit? Hunc secutus est
-                        <persName>Georgius a Sathmar</persName>,<note type="critic" xml:id="note.3"
-                        >György Szatmári (1457–1524) was Archbishop of Esztergom from 1522 until his
-                        death.</note> vir et animi et corporis dotibus, nec minus vitae sanctimonia
-                    illustris, qui ut Hungariae periculis subveniret, me sciente et vidente, omnes
-                    suas opes effudit. Postremo omnium <persName>Ladislaus Zalkanus</persName><note
-                        type="critic" xml:id="note.4">László Szalkai (1475–1526) was Archbishop of
-                        Esztergom from 1524 until his death.</note>, et ingenii et consilii viribus
-                    praestans, in campo Mohaacz Turcarum manibus necatus est. Horum igitur imitare
-                    facta, quae profecto ab omnibus, qui religionem hanc Christianam amplectuntur,
-                    sunt imitanda. Id si feceris, numquam a vera via aberrabis.</p>
+                    nominavi, tuos praecessores. <persName>Thomas</persName><note xml:id="note.2"
+                        >Tamás Bakócz (1442–1521) was a cardinal, a statesman, and Archbishop of
+                        Esztergom from 1497 until his death.</note> cardinalis Strigoniensis vir
+                    omnium cordatissimus, quoties omnes fere facultates suas in milites contra
+                    Turcos missos liberaliter elargitus fuit? Hunc secutus est <persName>Georgius a
+                        Sathmar</persName>,<note xml:id="note.3">György Szatmári (1457–1524) was
+                        Archbishop of Esztergom from 1522 until his death.</note> vir et animi et
+                    corporis dotibus, nec minus vitae sanctimonia illustris, qui ut Hungariae
+                    periculis subveniret, me sciente et vidente, omnes suas opes effudit. Postremo
+                    omnium <persName>Ladislaus Zalkanus</persName><note xml:id="note.4">László
+                        Szalkai (1475–1526) was Archbishop of Esztergom from 1524 until his
+                        death.</note>, et ingenii et consilii viribus praestans, in campo Mohaacz
+                    Turcarum manibus necatus est. Horum igitur imitare facta, quae profecto ab
+                    omnibus, qui religionem hanc Christianam amplectuntur, sunt imitanda. Id si
+                    feceris, numquam a vera via aberrabis.</p>
                 <p xml:id="p.4">Postremo nonne te monent tuae promissiones interveniente iuramento
                     sanctissimo fidelitatis observandae in frequenti consilio me et aliis multis
                     viris optimis praesentibus, regi nostro factae. Ea unica res, si non plures

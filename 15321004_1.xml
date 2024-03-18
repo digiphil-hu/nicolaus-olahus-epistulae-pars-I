@@ -235,35 +235,34 @@
                     </body>
                 </floatingText>
                 <pb facs="15321004_1_1.jpg"/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest </hi>1927, 202.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest </hi>1927, 202.</note></p>
                 <p xml:id="p.2">Miserum genus est tristitiae, cum aliter negotia caderent ac
                     exspectares aut sperares. Eramus in maxima spe imperatorem nostrum habiturum cum
                     Turcis conflictum et eos primum divino auxilio, deinde sua et suorum virtute
                     illum devicturum. Hodie autem intelleximus ex litteris
                         <persName>imperatoris</persName> nostri XV. Septembris praeteriti datis
                     Turcam combusis omnibus <placeName>Austriae</placeName> prope
-                        <placeName>Onasum</placeName><note type="critic" xml:id="note.2">The Enns
-                        river.</note> fluvium usque ad civitatem <placeName>Stiriam</placeName><note
-                        type="critic" xml:id="note.3">Steyr.</note></p>
+                        <placeName>Onasum</placeName><note xml:id="note.2">The Enns river.</note>
+                    fluvium usque ad civitatem <placeName>Stiriam</placeName><note xml:id="note.3"
+                        >Steyr.</note></p>
                 <pb facs="15321004_1_2.jpg"/>
                 <p xml:id="p.3">locis et pagis revertisse ad propria multis millibus Christianorum
                     abductis. </p>
                 <p xml:id="p.4"> Ex alia autem reversus parte allatum est
                         <persName>Ioannem</persName> vaivodam et <persName>Andream
-                        Gritti</persName><note type="critic" xml:id="note.4">Sometimes Oláh writes
-                        “Andrea” instead of “Ludovico”, see Ep. 244. Note
-                            7.<ref>olahus.tei.15320728_1</ref></note><placeName>Strigonium</placeName><note
-                        type="critic" xml:id="note.5">Esztergom. About the siege of Esztergom see
-                            <hi rend="smallcap">Kretschmayr</hi> 1901, chapter VI.</note> obsedisse
-                    iam ab aliquot temporibus et non parvam muri illius partem tormentis bellicis
+                        Gritti</persName><note xml:id="note.4">Sometimes Oláh writes “Andrea”
+                        instead of “Ludovico”, see Ep. 244. Note
+                        7.<ref>olahus.tei.15320728_1</ref></note><placeName>Strigonium</placeName><note
+                        xml:id="note.5">Esztergom. About the siege of Esztergom see <hi
+                            rend="smallcap">Kretschmayr</hi> 1901, chapter VI.</note> obsedisse iam
+                    ab aliquot temporibus et non parvam muri illius partem tormentis bellicis
                     deiecisse, timendumque esse, ne si diutius duret obsidio, arx in eorum deveniat
                     manus. Hanc igitur ob causam <persName>Wilhelmum a Rogendorff</persName> cum
-                    parte exercitus caesariani illuc esse iam missum,<note type="critic"
-                        xml:id="note.6">On 14 September, see Ep.
-                            284.<ref>olahus.tei.15321006_1</ref></note> ut arci et praesidiis
-                    Hispanis in ea laborantibus, primo quoque tempore subveniat. Non dubito, quin
-                    ipse <persName>Rogendorff</persName> peritus belli et rei militaris
+                    parte exercitus caesariani illuc esse iam missum,<note xml:id="note.6">On 14
+                        September, see Ep. 284.<ref>olahus.tei.15321006_1</ref></note> ut arci et
+                    praesidiis Hispanis in ea laborantibus, primo quoque tempore subveniat. Non
+                    dubito, quin ipse <persName>Rogendorff</persName> peritus belli et rei militaris
                     exercitatissimus, si bene sit a caesare et rege expeditus, aliquid istic boni
                     facere possit, <placeName>Strigonium</placeName>que ab obsidione liberare. Etsi
                     auxilio hostes debellaret, etiam <placeName>Budam</placeName> in ditionem regis

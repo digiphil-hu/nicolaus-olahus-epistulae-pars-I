@@ -236,25 +236,25 @@
                     </body>
                 </floatingText>
                 <pb facs="15320728_1_1.jpg"/>
-                <p xml:id="p.1">Ad Paulum comitem.<note type="critic" xml:id="note.1">We do not know
-                        him more closely.</note></p>
+                <p xml:id="p.1">Ad Paulum comitem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">[1.] Cupis fortasse scire, quae nova huc ex
                         <placeName>Hungaria</placeName> afferantur. Scias nos ex litteris hoc biduo
                     ad nos allatis intellexisse <persName>Turcarum tyrannum</persName> ante
                     vigesimum huius <choice>
                         <orig>diei</orig>
                         <supplied>mensis</supplied>
-                    </choice> diem in <placeName>Ezzek</placeName>,<note type="critic"
-                        xml:id="note.2">Osijek.</note> quod oppidum est ad ulteriorem
-                        <placeName>Dravi</placeName><note type="critic" xml:id="note.3">Drava
-                        river.</note> ripam situm, pervenisse. </p>
+                    </choice> diem in <placeName>Ezzek</placeName>,<note xml:id="note.2"
+                        >Osijek.</note> quod oppidum est ad ulteriorem
+                        <placeName>Dravi</placeName><note xml:id="note.3">Drava river.</note> ripam
+                    situm, pervenisse. </p>
                 <pb facs="15320728_1_2.jpg"/>
                 <p xml:id="p.3">Ex quo oppido distante, ut recordari possum, a
                         <placeName>Buda</placeName><choice>
                         <orig>vingintiquinque</orig>
                         <supplied>vigintiquinque</supplied>
-                    </choice> milliaribus<note type="critic" xml:id="note.4">About the distance see
-                        Ep. 17. Note 7.<ref>olahus.tei.15290901_1</ref></note> iam
+                    </choice> milliaribus<note xml:id="note.4">About the distance see Ep. 17. Note
+                            7.<ref>olahus.tei.15290901_1</ref></note> iam
                         <placeName>Budam</placeName> facile applicuit, ut autem ego eius progressum <choice>
                         <orig>ratiorinor</orig>
                         <supplied>ratiocinor</supplied>
@@ -271,20 +271,19 @@
                     praecursores suos omnia circum loca igne ferroque depopuletur, hanc et scribunt
                     et dicunt eius esse voluntatem.</p>
                 <p xml:id="p.4">[2.] Ex parte alia unica sola civitas Transilvania
-                        <placeName>Cibinium</placeName><note type="critic" xml:id="note.5"
-                        >Sibiu.</note> adhuc regis nostri <persName>Ferdinandi</persName> mandatis
-                    parebat. In ea fuerunt inclusi iam ab duobus annis <persName>Nicolaus
-                        Gerhendi</persName><note type="critic" xml:id="note.6">Miklós
-                        Gerendi.</note> meus maxime familiaris et nonulli illius provinciae nobiles;
-                    hos <persName>Andreas Gritthi</persName><note type="critic" xml:id="note.7"
-                        >Andrea Gritti (1455–1538) was the Doge of Venice from 1523, and Ludovico
-                        Gritti’s father. Oláh probably wrote Andrea instead of Ludovico.</note>
-                    sollicitare nunc dicitur, sicuti ex litteris <persName>Gerhendi</persName> ad
-                        <persName>regem</persName> missis cognovi, ut civitatem ei vel
-                        <persName>Ioanni</persName> regi traderent. Nihil eis, si hic facerent, mali
-                    perpessurus. Quod si facere mallent, paulo post tempore eos velint nolint
-                    deventuros in potestatem <persName>Gritthi</persName>. Nam <persName>Turcarum
-                        caesar</persName> totam esse propediem non modo
+                        <placeName>Cibinium</placeName><note xml:id="note.5">Sibiu.</note> adhuc
+                    regis nostri <persName>Ferdinandi</persName> mandatis parebat. In ea fuerunt
+                    inclusi iam ab duobus annis <persName>Nicolaus Gerhendi</persName><note
+                        xml:id="note.6">Miklós Gerendi.</note> meus maxime familiaris et nonulli
+                    illius provinciae nobiles; hos <persName>Andreas Gritthi</persName><note
+                        xml:id="note.7">Andrea Gritti (1455–1538) was the Doge of Venice from 1523,
+                        and Ludovico Gritti’s father. Oláh probably wrote Andrea instead of
+                        Ludovico.</note> sollicitare nunc dicitur, sicuti ex litteris
+                        <persName>Gerhendi</persName> ad <persName>regem</persName> missis cognovi,
+                    ut civitatem ei vel <persName>Ioanni</persName> regi traderent. Nihil eis, si
+                    hic facerent, mali perpessurus. Quod si facere mallent, paulo post tempore eos
+                    velint nolint deventuros in potestatem <persName>Gritthi</persName>. Nam
+                        <persName>Turcarum caesar</persName> totam esse propediem non modo
                         <placeName>Hungariam</placeName>, sed etiam <placeName>Germaniae</placeName>
                     partem maiorem occupaturus Cibiniensesque non possent diu durare sub rege
                         <persName>Ferdinando</persName>. Caesar enim <persName>Carolus</persName>

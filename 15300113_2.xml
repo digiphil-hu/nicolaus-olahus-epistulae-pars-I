@@ -229,15 +229,14 @@
                     </body>
                 </floatingText>
                 <pb facs="15300113_2_1.jpg"/>
-                <p xml:id="p.1"> Ad <persName>Andream Chasinensem</persName><note type="critic"
-                        xml:id="note.1">András Csézi († after 1539), Provost of Čazma since 1516,
-                        Provost of Esztergom and Royal Councillor from 1520. He was <hi
-                            rend="italic">utrisque iuris doctor</hi>, István Brodarics participated
-                        in his doctoral exam in Padua in 1501. In 1531, King Ferdinand I sent him to
-                        Košice to help the Franciscans and Dominicans against the Lutherans, see <hi
-                            rend="smallcap">Veress</hi> 1915, 23, and <hi rend="smallcap"
-                            >Kollányi</hi> 1900, 130–131.</note> praepositum, theologum et utriusque
-                    iuris doctorem.</p>
+                <p xml:id="p.1"> Ad <persName>Andream Chasinensem</persName><note xml:id="note.1"
+                        >András Csézi († after 1539), Provost of Čazma since 1516, Provost of
+                        Esztergom and Royal Councillor from 1520. He was <hi rend="italic">utrisque
+                            iuris doctor</hi>, István Brodarics participated in his doctoral exam in
+                        Padua in 1501. In 1531, King Ferdinand I sent him to Košice to help the
+                        Franciscans and Dominicans against the Lutherans, see <hi rend="smallcap"
+                            >Veress</hi> 1915, 23, and <hi rend="smallcap">Kollányi</hi> 1900,
+                        130–131.</note> praepositum, theologum et utriusque iuris doctorem.</p>
                 <p xml:id="p.2">Non possum multis exprobare tuam severitatem, qua in me iam
                     saepissime sine ulla causa es usus. Si tibi inofficiosior solito, si incivilior
                     sum <del corresp="Olahus">usus</del><add corresp="Olahus" type="corr"

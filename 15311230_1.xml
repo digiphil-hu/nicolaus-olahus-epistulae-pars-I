@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">196</title>
-                                                  <title key="body" n="196" type="main">Miklós Oláh
-                                                  to Imre Kálnai (Brussels, 30 December
-                                                  1531)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">196</title>
+                                        <title key="body" n="196" type="main">Miklós Oláh to Imre
+                                                  Kálnai (Brussels, 30 December 1531)</title>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -20,8 +19,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -29,8 +28,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -39,8 +38,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -48,40 +47,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15311230_1</idno>
-                                                  <idno type="ITIdata">Q472768</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15311230_1</idno>
+                                        <idno type="ITIdata">Q472768</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15311230_1.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -93,20 +91,20 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/I.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/I.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Copy.</p>
                                                   <p><hi rend="italic">Published:</hi><hi
                                                   rend="smallcap">Ipolyi </hi> 1875, 183–184.</p>
-                                                  </note>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </note>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Hungary</country>
                                                   <settlement>Budapest</settlement>
@@ -135,8 +133,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   I. 1523–1533</title>
                                                   <idno type="ISBN">978-615-5478-62-8</idno>
@@ -203,42 +201,42 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.10817873</idno><idno
                                                   type="ITIdata">Q469927</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <placeName>Brussels<idno type="ITIdata"
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <placeName>Brussels<idno type="ITIdata"
                                                   >Q361</idno></placeName>
-                                                  <date when="1531-12-30">30 December 1531</date>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
+                                        <date when="1531-12-30">30 December 1531</date>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <persName>Imre Kálnai<idno type="ITIdata"
                                                   >Q51566</idno></persName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div xml:id="d.1">
-                                                  <head type="title">Miklós Oláh to Imre Kálnai
-                                                  (Brussels, 30 December 1531)</head>
-                                                  <floatingText type="regesta">
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div xml:id="d.1">
+                                        <head type="title">Miklós Oláh to Imre Kálnai (Brussels, 30
+                                                  December 1531)</head>
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1"> 1. He cannot understand why
                                                   Kálnai has stayed at home for so long. If Kálnai
@@ -254,59 +252,58 @@
                                                   can, or he will go next time, as long as they can
                                                   meet.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb facs="15311230_1_1.jpg"/>
-                                                  <p xml:id="p.1">Ad Calnay.</p>
-                                                  <pb facs="15311230_1_2-jpg"/>
-                                                  <p xml:id="p.2">[1.] Quibus rebus adductus domi
-                                                  maneas tamdiu, non modo scire, sed ne cogitare
-                                                  quidem possum. Si domestico otio delectaris, aut
-                                                  alicui rei privatae deditus es, aut ideo abes, ne
-                                                  videas cum magno dolore, quod alii nequaquam
-                                                  aspicere in curia possunt, partim laudare, partim
-                                                  tuum propositum vituperare possum. Nam si
-                                                  occupatus es re domestica, ea occupatio et iucunda
-                                                  est, et non parum utilitatis homini plerumque
-                                                  afferre consuevit. Si vero otium te delectat
-                                                  patrium, idque seiunctum est a bonis studiis, non
-                                                  possum non reprehendere tuum consilium, qui natus
-                                                  sis ad aliquid agendum dignum viro bono et
-                                                  profecturo reipublicae. At vero si moveris curiae
-                                                  molestiis, mihi crede, multos habes huius rei
-                                                  socios, qui aeque ut tu his, quos quotidie inviti
-                                                  vident, maxime excruciantur. Verum ut nunc est et
-                                                  tempus et conditio hominum, omnia cum moderatione
-                                                  et patientia sunt tolleranda.</p>
-                                                  <p xml:id="p.3">[2.] Quare tua, mi Calnay,
-                                                  absentia, etsi potest esse multis molesta, mihi
-                                                  tamen, mihi crede, est molestisima, qui tibi
-                                                  tuaeque amicitiae iam olim a puero fuerim
-                                                  assuetus, et tu item singulari in me fueris
-                                                  observantia semper et coniunctione. Nihil ergo hoc
-                                                  tempore esse mihi tua absentia acerbius, quam
-                                                  tanto fero iniquiore animo, quo minor est bonorum
-                                                  in curia virorum copia et pauci sunt, quibus cum
-                                                  familiariter vivere possim. Non parum igitur mihi
-                                                  afferes voluptatis et laetitiae, si me quamprimum
+                                        </floatingText>
+                                        <pb facs="15311230_1_1.jpg"/>
+                                        <p xml:id="p.1">Ad Calnay.</p>
+                                        <pb facs="15311230_1_2-jpg"/>
+                                        <p xml:id="p.2">[1.] Quibus rebus adductus domi maneas
+                                                  tamdiu, non modo scire, sed ne cogitare quidem
+                                                  possum. Si domestico otio delectaris, aut alicui
+                                                  rei privatae deditus es, aut ideo abes, ne videas
+                                                  cum magno dolore, quod alii nequaquam aspicere in
+                                                  curia possunt, partim laudare, partim tuum
+                                                  propositum vituperare possum. Nam si occupatus es
+                                                  re domestica, ea occupatio et iucunda est, et non
+                                                  parum utilitatis homini plerumque afferre
+                                                  consuevit. Si vero otium te delectat patrium,
+                                                  idque seiunctum est a bonis studiis, non possum
+                                                  non reprehendere tuum consilium, qui natus sis ad
+                                                  aliquid agendum dignum viro bono et profecturo
+                                                  reipublicae. At vero si moveris curiae molestiis,
+                                                  mihi crede, multos habes huius rei socios, qui
+                                                  aeque ut tu his, quos quotidie inviti vident,
+                                                  maxime excruciantur. Verum ut nunc est et tempus
+                                                  et conditio hominum, omnia cum moderatione et
+                                                  patientia sunt tolleranda.</p>
+                                        <p xml:id="p.3">[2.] Quare tua, mi Calnay, absentia, etsi
+                                                  potest esse multis molesta, mihi tamen, mihi
+                                                  crede, est molestisima, qui tibi tuaeque amicitiae
+                                                  iam olim a puero fuerim assuetus, et tu item
+                                                  singulari in me fueris observantia semper et
+                                                  coniunctione. Nihil ergo hoc tempore esse mihi tua
+                                                  absentia acerbius, quam tanto fero iniquiore
+                                                  animo, quo minor est bonorum in curia virorum
+                                                  copia et pauci sunt, quibus cum familiariter
+                                                  vivere possim. Non parum igitur mihi afferes
+                                                  voluptatis et laetitiae, si me quamprimum
                                                   inviseris. Si curiam aspicere nolueris, modo
                                                   intelligam tuam voluntatem, advolabo propius te,
                                                   ut commode convenire possimus. Tuum negotium, de
-                                                  quo nuper ad me scripseras,<note type="critic"
-                                                  xml:id="note.1">We do not know the letter Kálnai
-                                                  is referring to.</note> fuit mihi et est cordi,
-                                                  non secus illius curam habeo diligentem, quantum
-                                                  mea est facultas ac mearum rerum. Sed quo sit in
-                                                  statu, intelliges a meo homine, qui has meas tibi
-                                                  reddet. Idem ille alia quoque de tuis aliis et
-                                                  meis rebus tibi loquetur, quae cum acceperis, fac
-                                                  quod e re utriusque nostrum fore arbitratus
-                                                  fueris. Id te prudenter fecisse putabo. Vale et si
-                                                  congressus noster tardius processerit, quam
-                                                  putarem, scribe ad me aliquid de tuis tuorumque
-                                                  rebus.</p>
-                                                  <p xml:id="p.4"><placeName>Bruxellae</placeName>
-                                                  XXX. Decembris anno a Christo nato MDXXXI.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                                  quo nuper ad me scripseras,<note xml:id="note.1"
+                                                  >We do not know the letter Kálnai is referring
+                                                  to.</note> fuit mihi et est cordi, non secus
+                                                  illius curam habeo diligentem, quantum mea est
+                                                  facultas ac mearum rerum. Sed quo sit in statu,
+                                                  intelliges a meo homine, qui has meas tibi reddet.
+                                                  Idem ille alia quoque de tuis aliis et meis rebus
+                                                  tibi loquetur, quae cum acceperis, fac quod e re
+                                                  utriusque nostrum fore arbitratus fueris. Id te
+                                                  prudenter fecisse putabo. Vale et si congressus
+                                                  noster tardius processerit, quam putarem, scribe
+                                                  ad me aliquid de tuis tuorumque rebus.</p>
+                                        <p xml:id="p.4"><placeName>Bruxellae</placeName> XXX.
+                                                  Decembris anno a Christo nato MDXXXI.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

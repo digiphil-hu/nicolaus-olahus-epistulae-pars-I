@@ -232,19 +232,18 @@
                     </body>
                 </floatingText>
                 <pb facs="15330415_1_1.jpg"/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
-                <p xml:id="p.2">Comitem <persName>Nicolaum a Salm</persName><note type="critic"
-                        xml:id="note.2">Niklas II, Count of Salm.</note> praefectum cubiculi regii
-                    bene te cognovisse arbitror. Is nuper a <persName>rege</persName>, dum
-                        <persName>orator Turcarum</persName> ad eum venisset pacem oraturus,<note
-                        type="critic" xml:id="note.3">See ep.
-                    347.<ref>olahus.tei.</ref></note>15330402_1 missus fuit ad
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.2">Comitem <persName>Nicolaum a Salm</persName><note xml:id="note.2"
+                        >Niklas II, Count of Salm.</note> praefectum cubiculi regii bene te
+                    cognovisse arbitror. Is nuper a <persName>rege</persName>, dum <persName>orator
+                        Turcarum</persName> ad eum venisset pacem oraturus,<note xml:id="note.3">See
+                        ep. 347.<ref>olahus.tei.</ref></note>15330402_1 missus fuit ad
                         <persName>imperatorem</persName>, ut animum Turcae illi significaret; qui
                     eas cupit ab <persName>imperatore</persName> modo arces, quae in
                         <placeName>Peloponesso</placeName> anno praeterito per <persName>Andream a
-                        Dorea</persName><note type="critic" xml:id="note.4">Andrea Doria.</note>
-                    illi sunt ademptae. Quod si fiet, pollicetur se facturum, ut
+                        Dorea</persName><note xml:id="note.4">Andrea Doria.</note> illi sunt
+                    ademptae. Quod si fiet, pollicetur se facturum, ut
                         <placeName>Hungariae</placeName> regnum <persName>Ioannis</persName>
                     remissurum <persName>regi Ferdinando</persName> esset
                         <placeName>Sclavonia</placeName> excepta, quam Ioannes sibi concedi cuperet.

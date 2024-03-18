@@ -235,8 +235,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15321006_1_1.jpg"/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
                 <p xml:id="p.2">Nova haec sunt audita his superioribus diebus: imperator noster
                     Turcae retrocessione decreverat, ut omnes omnium, quae, ex curia huc missae
                     sunt, litterae declarabant, ut ex <placeName>Lincio</placeName> ad
@@ -261,9 +261,9 @@
                     Septembris ex <placeName>Lincio</placeName> cum parte </p>
                 <pb facs="15321006_1_2.jpg"/>
                 <p xml:id="p.3">exercitus caesariani ad liberandum ab obsidione
-                        <placeName>Strigonium</placeName><note type="critic" xml:id="note.2"
-                        >Esztergom.</note> praemissum, an <placeName>Wiennae</placeName> eventum
-                    expeditionis eiusdem <persName>Rogendorff</persName><choice>
+                        <placeName>Strigonium</placeName><note xml:id="note.2">Esztergom.</note>
+                    praemissum, an <placeName>Wiennae</placeName> eventum expeditionis eiusdem
+                        <persName>Rogendorff</persName><choice>
                         <orig>praesolentur</orig>
                         <supplied>praestolentur</supplied>
                     </choice>, est adhuc incertum. Quicquid audicerimus, faciam te certiorem. Vale. </p>

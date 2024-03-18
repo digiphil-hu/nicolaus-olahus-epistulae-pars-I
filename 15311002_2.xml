@@ -232,25 +232,25 @@
                 </floatingText>
                 <pb facs="15311002_2_1.jpg"/>
                 <p xml:id="p.1"> Ad eundem.</p>
-                <p xml:id="p.2">Si meae litterae,<note type="critic" xml:id="note.1">Probably Ep.
+                <p xml:id="p.2">Si meae litterae,<note xml:id="note.1">Probably Ep.
                             175.<ref>olahus.tei.15311002_1</ref></note> quas proxime
-                        <persName>Ioanni Dantisco</persName><note type="critic" xml:id="note.2">Jan
-                        Dantyszek (1485–1548) was a Secretary and Notary at the Court of Poland from
-                        1507. He corresponded with the culturally and politically prominent
-                        representatives of all European countries, see the online publication of his
-                        texts and correspondence: <hi rend="smallcap">Skolimowska–Turska</hi> 2010.
-                        For more on his biography, see <hi rend="smallcap">Guenther</hi>
-                        1985b.</note> oratori hic apud <persName>caesarem</persName> agenti ad te
-                    mittendas dederam, sunt redditae, nihil dubito, quin meam iustam et rationabilem
-                    excusationem, cur tamdiu ad te nullas meas dare potuerim, ex tua singulari erga
-                    me benivolentia admiseris; pluribus enim verbis explicavi, quibus impedimentis
-                    tamdiu siluerim. Nunc quoque non multum sum scribendo prolixus. Nam eas omnes
-                    res, quae nunc hic aguntur, et de quibus possem ad te scribere, referre poterit
-                    is nuntius serenissimi regis tui, qui aliquot hic dies commoratus, multa
-                    paeneque omnia, quae hic fiunt, et vidit et audivit. Restat igitur, ut meam
-                    omnem operam, studium et obsequium tibi commendem. Quem tu non secus, quam unum
-                    ex tuis domesticis veteribusque familiaribus tenere et velis et debeas. Cui id
-                    erit maxime gratum, si obsequia studiave mea tibi grata fore intellexero. Vale
+                        <persName>Ioanni Dantisco</persName><note xml:id="note.2">Jan Dantyszek
+                        (1485–1548) was a Secretary and Notary at the Court of Poland from 1507. He
+                        corresponded with the culturally and politically prominent representatives
+                        of all European countries, see the online publication of his texts and
+                        correspondence: <hi rend="smallcap">Skolimowska–Turska</hi> 2010. For more
+                        on his biography, see <hi rend="smallcap">Guenther</hi> 1985b.</note>
+                    oratori hic apud <persName>caesarem</persName> agenti ad te mittendas dederam,
+                    sunt redditae, nihil dubito, quin meam iustam et rationabilem excusationem, cur
+                    tamdiu ad te nullas meas dare potuerim, ex tua singulari erga me benivolentia
+                    admiseris; pluribus enim verbis explicavi, quibus impedimentis tamdiu siluerim.
+                    Nunc quoque non multum sum scribendo prolixus. Nam eas omnes res, quae nunc hic
+                    aguntur, et de quibus possem ad te scribere, referre poterit is nuntius
+                    serenissimi regis tui, qui aliquot hic dies commoratus, multa paeneque omnia,
+                    quae hic fiunt, et vidit et audivit. Restat igitur, ut meam omnem operam,
+                    studium et obsequium tibi commendem. Quem tu non secus, quam unum ex tuis
+                    domesticis veteribusque familiaribus tenere et velis et debeas. Cui id erit
+                    maxime gratum, si obsequia studiave mea tibi grata fore intellexero. Vale
                     feliciter et me habe commendatum.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> II. Octobris MDXXXI.</p>
             </div>

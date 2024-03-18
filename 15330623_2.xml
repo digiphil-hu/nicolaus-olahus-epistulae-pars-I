@@ -243,10 +243,10 @@
                 </floatingText>
                 <pb facs="15330623_2_1.jpg"/>
                 <p xml:id="p.1">Ad eundem.</p>
-                <p xml:id="p.2">Scriptis iam et obsignatis litteris<note type="critic"
-                        xml:id="note.1">Ep. 380.<ref>olahus.tei.15330623_1</ref></note> venit postha
-                    nuntians Turcam indies appropinquare <placeName>Hungariae</placeName>, et hinc
-                    quoque non segniter a maiestatibus <persName>caesarea</persName> ac
+                <p xml:id="p.2">Scriptis iam et obsignatis litteris<note xml:id="note.1">Ep.
+                            380.<ref>olahus.tei.15330623_1</ref></note> venit postha nuntians Turcam
+                    indies appropinquare <placeName>Hungariae</placeName>, et hinc quoque non
+                    segniter a maiestatibus <persName>caesarea</persName> ac
                         <persName>rege</persName> Christianae salutis defensoribus rem tractari,
                     praemissis iam aliquot millibus hominum et capitaneis rerum bellicarum peritis
                     subsecuturum indies reliquum etiam exercitum talem, qualem a multis seculis
@@ -267,9 +267,9 @@
                     generoso in rem Christianam animo, ne ultimi sint in hanc sanctam expeditionem
                     futuri, et ut participes sint gloriae hostis ex Dei benignitate profligandi.
                     Vale.</p>
-                <p xml:id="p.3"><placeName>Gandavi</placeName>.<note type="critic" xml:id="note.2"
-                        >The previous letter, Ep. 380. was written that very day in Ghent, which
-                        explains the dating.<ref>olahus.tei.15330623_1</ref></note></p>
+                <p xml:id="p.3"><placeName>Gandavi</placeName>.<note xml:id="note.2">The previous
+                        letter, Ep. 380. was written that very day in Ghent, which explains the
+                            dating.<ref>olahus.tei.15330623_1</ref></note></p>
             </div>
         </body>
     </text>

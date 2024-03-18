@@ -259,15 +259,14 @@
                 <pb facs="15330131_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus thesaurarius Albensis Erasmo Roterodamo salutem.</p>
                 <p xml:id="p.2">[1.] In mense Iulii praeterito dederam ad te, mi Erasme, epistolam
-                    satis prolixam,<note type="critic" xml:id="note.1">See Ep.
+                    satis prolixam,<note xml:id="note.1">See Ep.
                             243.<ref>olahus.tei.15320726_1</ref></note> qua tibi pluribus
                     significaram, quid mihi et <persName>domino Panormitano</persName><note
-                        type="critic" xml:id="note.2">Jean II Carondelet.</note> in rebus tuis
-                    videretur, qui et ipse cum meis una litteris suas<note type="critic"
-                        xml:id="note.3">See <hi rend="smallcap">Allen</hi> 1941, 65–66 (Ep.
-                        2689).</note> ad te dederat. Quae causa sit, cur a tanto tempore nullum a te
-                        responsum<note type="critic" xml:id="note.4">In fact, Erasmus replied to his
-                        letter, although not his question, see Ep.
+                        xml:id="note.2">Jean II Carondelet.</note> in rebus tuis videretur, qui et
+                    ipse cum meis una litteris suas<note xml:id="note.3">See <hi rend="smallcap"
+                            >Allen</hi> 1941, 65–66 (Ep. 2689).</note> ad te dederat. Quae causa
+                    sit, cur a tanto tempore nullum a te responsum<note xml:id="note.4">In fact,
+                        Erasmus replied to his letter, although not his question, see Ep.
                             252.<ref>olahus.tei.15320829_1</ref></note> acceperimus, non satis
                     cogitare possumus, veremur, ne magistri veredariorum negligentia litterae tibi
                     non sint redditae. Quod si factum est, di homini illi maleficant. Summa
@@ -282,40 +281,38 @@
                     veredariorum magistro. Cura igitur, si id tibi est commodum, nobis tuam mentem
                     patefacere. Sed quid ego te hac in re sollicitem, cum vicarius eiusdem
                         <persName>Panormitani</persName>, qui est
-                        <placeName>Bisontii</placeName>,<note type="critic" xml:id="note.5"
-                        >Besançon. To Erasmus’s plan on migrating to Besançon, see <hi
-                            rend="smallcap">Allen</hi> 1941, 147.</note> his diebus huc veniens
-                    retulit se certo accepisse te et caesaris et regis
-                        <persName>Ferdinandi</persName> habere litteras ad cives Bizontinos, ut in
-                    eam civitatem te admitterent, ad quam migrare velles. Id si ita est, quid aliud
-                    agis, nisi ut nunquam patriam tuam, amicos, qui hic sunt, revisas. Unde haec tam
-                    subita mutatio? Vini fortasse Burgundiaci cupiditas te nobis abripuit, ut ex
-                    meis prioribus intellexisse potuisti, hic et Burgundiacum et Hungaricum ex penu
-                    reginae habere potuisses, quo aetatem tuam foveres. Quid igitur rei sit,
+                        <placeName>Bisontii</placeName>,<note xml:id="note.5">Besançon. To Erasmus’s
+                        plan on migrating to Besançon, see <hi rend="smallcap">Allen</hi> 1941,
+                        147.</note> his diebus huc veniens retulit se certo accepisse te et caesaris
+                    et regis <persName>Ferdinandi</persName> habere litteras ad cives Bizontinos, ut
+                    in eam civitatem te admitterent, ad quam migrare velles. Id si ita est, quid
+                    aliud agis, nisi ut nunquam patriam tuam, amicos, qui hic sunt, revisas. Unde
+                    haec tam subita mutatio? Vini fortasse Burgundiaci cupiditas te nobis abripuit,
+                    ut ex meis prioribus intellexisse potuisti, hic et Burgundiacum et Hungaricum ex
+                    penu reginae habere potuisses, quo aetatem tuam foveres. Quid igitur rei sit,
                     rescibe.</p>
-                <p xml:id="p.4">[2.] De <persName>Levini</persName><note type="critic"
-                        xml:id="note.6">Lieven Algoet.</note> matrimonio et ipsius praeter meam
-                    omnem sententiam consilio praecipitato ex ipsius <add corresp="Olahus"
-                        type="insert">et</add> meis aliis, quas in hunc usque diem arbitror tibi
-                    esse redditas, omnia te intellexisse non dubito. Qui si meis et consilis et
-                    mandatis paruisset, virginem ampla fortuna doteque ei brevi tempore
-                    reperissemus. Is nunc a nescio quo caesaris secretario sollicitatur, ut sit illi
-                    a manu. Eum ob uberiorem quaestum non dehortarer a proposito, nisi viderem, quam
-                    non Christianum et quam etiam periculosum sit uxorem iuvenculam iam utero
-                    tumentem maritum deserere ad unum aut alterum annum, ut hos tuos municipes video
-                    hoc facere ex more solitos.</p>
-                <p xml:id="p.5"><persName>Quirinus</persName><note type="critic" xml:id="note.7"
-                        >Quirinus Hagius.</note> tuus missus a te in <placeName>Angliam</placeName>
-                    diverterat in mense Septembri ad me cum litteris tuis breviusculis, properavit
-                        <del corresp="Olahus">huc</del> ad <placeName>Angliam</placeName>, ut ei
+                <p xml:id="p.4">[2.] De <persName>Levini</persName><note xml:id="note.6">Lieven
+                        Algoet.</note> matrimonio et ipsius praeter meam omnem sententiam consilio
+                    praecipitato ex ipsius <add corresp="Olahus" type="insert">et</add> meis aliis,
+                    quas in hunc usque diem arbitror tibi esse redditas, omnia te intellexisse non
+                    dubito. Qui si meis et consilis et mandatis paruisset, virginem ampla fortuna
+                    doteque ei brevi tempore reperissemus. Is nunc a nescio quo caesaris secretario
+                    sollicitatur, ut sit illi a manu. Eum ob uberiorem quaestum non dehortarer a
+                    proposito, nisi viderem, quam non Christianum et quam etiam periculosum sit
+                    uxorem iuvenculam iam utero tumentem maritum deserere ad unum aut alterum annum,
+                    ut hos tuos municipes video hoc facere ex more solitos.</p>
+                <p xml:id="p.5"><persName>Quirinus</persName><note xml:id="note.7">Quirinus
+                        Hagius.</note> tuus missus a te in <placeName>Angliam</placeName> diverterat
+                    in mense Septembri ad me cum litteris tuis breviusculis, properavit <del
+                        corresp="Olahus">huc</del> ad <placeName>Angliam</placeName>, ut ei
                     iusseras, cui iniunxeram, ut ad me rursus illinc rediret.
                         <persName>Regina</persName> abfuit <placeName>Bruxella</placeName> trimestri
-                        spatio<note type="critic" xml:id="note.8">According to Oláh’s letters, they
-                        left Brussels between 6 and 10 October, 1532 and returned on 8 January,
-                        1533, see Ep. 313. Cap. 3.<ref>olahus.tei.15330114_1</ref></note> omnemque
-                    interea <placeName>Hannoniam</placeName><note type="critic" xml:id="note.9"
-                        >County of Hainaut.</note> peragrati sumus. Credo illum hanc ob rem ad me
-                    non devertisse, sed recta ad te revertisse. Si igitur a </p>
+                        spatio<note xml:id="note.8">According to Oláh’s letters, they left Brussels
+                        between 6 and 10 October, 1532 and returned on 8 January, 1533, see Ep. 313.
+                        Cap. 3.<ref>olahus.tei.15330114_1</ref></note> omnemque interea
+                        <placeName>Hannoniam</placeName><note xml:id="note.9">County of
+                        Hainaut.</note> peragrati sumus. Credo illum hanc ob rem ad me non
+                    devertisse, sed recta ad te revertisse. Si igitur a </p>
                 <pb facs="15330131_1_3.jpg"/>
                 <p xml:id="p.6">me aliquid erratum est, quin ad te scripserim <del corresp="Olahus"
                         >huic rei</del>, adscribito, quod fuerim semper in exspectatione

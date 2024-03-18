@@ -234,7 +234,7 @@
                 <pb facs="15330501_3_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Franciscum Reway praesentiae regiae
                     locumtenentem.</p>
-                <p xml:id="p.2">Magister <persName>Ioannes Cegledinus</persName><note type="critic"
+                <p xml:id="p.2">Magister <persName>Ioannes Cegledinus</persName><note
                         xml:id="note.1">János Czeglédi.</note> provisor meus me certiorem reddidit
                     de tuo in me singulari amore, benevolentia, opera, studio, quo me absentem et
                     res meas istic prosequeris singulariter. Id tuum factum tam mihi gratum est, ut
@@ -248,22 +248,21 @@
                     benevolentia, favore et promotione. Non in ingratum conferes, quicquid
                     contuleris. Nuper scripseram ad te, credo litteras non fuisse redditas. Nihil
                     enim ad me rescripsisti. Commenda me reverendissimo <persName>domino
-                        Strigoniensi</persName>,<note type="critic" xml:id="note.2">Pál
-                        Várday.</note> cui et volui semper et volo etiam nunc ac deinceps in rebus
-                    omnibus, </p>
+                        Strigoniensi</persName>,<note xml:id="note.2">Pál Várday.</note> cui et
+                    volui semper et volo etiam nunc ac deinceps in rebus omnibus, </p>
                 <pb facs="15330501_3_2.jpg"/>
                 <p xml:id="p.3">quibus possum valeoque inservire. <persName>Valentinus
-                        Theurek</persName><note type="critic" xml:id="note.3">Bálint Török.</note>
-                    me unicum ex omnibus Hungaris habet, quem oderit, nescio, ob quod meum factum.
-                    Beneficium certe potius ab eo mererer, quam malevolentiam, si non propter mea
-                    multa officia in rebus illius aliquando exhibita, at propter meam operam, quam,
-                    dum opus fuit, apud principes nostros semper in illius utilitatem et commodum
-                    praestiti. Mea bona adhuc possidet medio <persName>Ioannis Bodo</persName>.<note
-                        type="critic" xml:id="note.4">János Bodó.</note> Faciat, ut vult, credo,
-                    aliquando resipiscet. Commenda me illi et bonum redde pro malo. Opto te et
-                        <persName>dominum Varadiensem</persName><note type="critic" xml:id="note.5"
-                        >László Macedóniai.</note> feliciter valere. Quos Deus faxit, ut pace in
-                    regno, ut non dubito, facta propediam videre possim incolumes.
+                        Theurek</persName><note xml:id="note.3">Bálint Török.</note> me unicum ex
+                    omnibus Hungaris habet, quem oderit, nescio, ob quod meum factum. Beneficium
+                    certe potius ab eo mererer, quam malevolentiam, si non propter mea multa officia
+                    in rebus illius aliquando exhibita, at propter meam operam, quam, dum opus fuit,
+                    apud principes nostros semper in illius utilitatem et commodum praestiti. Mea
+                    bona adhuc possidet medio <persName>Ioannis Bodo</persName>.<note
+                        xml:id="note.4">János Bodó.</note> Faciat, ut vult, credo, aliquando
+                    resipiscet. Commenda me illi et bonum redde pro malo. Opto te et
+                        <persName>dominum Varadiensem</persName><note xml:id="note.5">László
+                        Macedóniai.</note> feliciter valere. Quos Deus faxit, ut pace in regno, ut
+                    non dubito, facta propediam videre possim incolumes.
                         <persName>Provisorem</persName> meum tibi commendo.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> prima Maii 1533.</p>
             </div>

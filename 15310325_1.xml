@@ -253,19 +253,19 @@
                 <pb facs="15310325_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Erasmum Roterodamum responsio.</p>
                 <p xml:id="p.2">[1.] Noli mirari, mi Erasme, quod ad tuas litteras nuper
-                        <placeName>Augustae</placeName><note type="critic" xml:id="note.1"
-                        >Augsburg.</note> mihi redditas<note type="critic" xml:id="note.2">According
-                        to <hi rend="smallcap">Allen</hi> 1938, 202: “Not extant; though Olah’s
-                        letter seems to refer to matters touched in Ep. 2393.” That is Ep. 92 in
-                        this edition. Because of the next note, we can be certain that Oláh
-                        responded to Ep. 92.<ref>olahus.tei.15301007_1</ref></note> in hunc diem non
-                    responderim. Nam si cogitaris, quantis iactemur in aulis principum curis,
-                    laboribus et occupationibus, et quam incerta sit nostra in uno loco permansio,
-                    facile mihi veniam dabis de praeteriti temporis taciturnitate, praesertim si
-                    post hoc frequentius ad te scripsero. Scripseras seculum hoc multa gignere
-                    hominum portenta,<note type="critic" xml:id="note.3">See Ep. 92. Cap. 1: “hoc
-                        saeculo, quod nobis undique tot gignit, hominum
-                            portenta”.<ref>olahus.tei.15301007_1</ref></note> quae te plerumque in
+                        <placeName>Augustae</placeName><note xml:id="note.1">Augsburg.</note> mihi
+                        redditas<note xml:id="note.2">According to <hi rend="smallcap">Allen</hi>
+                        1938, 202: “Not extant; though Olah’s letter seems to refer to matters
+                        touched in Ep. 2393.” That is Ep. 92 in this edition. Because of the next
+                        note, we can be certain that Oláh responded to Ep.
+                            92.<ref>olahus.tei.15301007_1</ref></note> in hunc diem non responderim.
+                    Nam si cogitaris, quantis iactemur in aulis principum curis, laboribus et
+                    occupationibus, et quam incerta sit nostra in uno loco permansio, facile mihi
+                    veniam dabis de praeteriti temporis taciturnitate, praesertim si post hoc
+                    frequentius ad te scripsero. Scripseras seculum hoc multa gignere hominum
+                        portenta,<note xml:id="note.3">See Ep. 92. Cap. 1: “hoc saeculo, quod nobis
+                        undique tot gignit, hominum
+                        portenta”.<ref>olahus.tei.15301007_1</ref></note> quae te plerumque in
                     maximam duxerint turbationem, caritatem et humanitatem nunc frigere, simulatas
                     esse amicitias, multosque, quos fides putaveris amicos, et quibuscum
                     benefeceris, ac a quibus bene merebaris oblitos omnis humanitatis a te
@@ -280,11 +280,11 @@
                     esse, in quem etiam hi, quibus fuisti amicus, sint ingrati, et Deus per eos tuam
                         <del corresp="Olahus">experiri tentet</del><add corresp="Olahus" type="corr"
                         >aliis illustrem facere velit</add> patientiam.</p>
-                <p xml:id="p.4">[2.] De cocleari et fuscinula<note type="critic" xml:id="note.4">See
-                        Ep. 88, and Ep. 92. Cap.
+                <p xml:id="p.4">[2.] De cocleari et fuscinula<note xml:id="note.4">See Ep. 88, and
+                        Ep. 92. Cap.
                         1.<ref>olahus.tei.15300921_1</ref></note><ref>/o:olahus.tei.15301007_1</ref>
                     non est, quod mihi gratias agas. Non muneris loco ea accipe, sed ut mei
-                    memineris, dum prandes caenasque.<note type="critic" xml:id="note.5">See Ep.
+                    memineris, dum prandes caenasque.<note xml:id="note.5">See Ep.
                             88.<ref>olahus.tei.15300921_1</ref></note> Apud
                         <persName>reginam</persName> meam licet satis commendatum te tuae fecerunt
                     virtutes, tamen eo eris commendatior, quo in patriam tuam contendemus, ubi

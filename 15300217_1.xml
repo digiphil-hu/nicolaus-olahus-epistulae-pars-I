@@ -234,36 +234,33 @@
                     </body>
                 </floatingText>
                 <pb facs="15300217_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Stephanum Bathoreum</persName><note type="critic"
-                        xml:id="note.1">István Báthori of Ecsed (ca. 1485–1530) was <hi
-                            rend="italic">ispán</hi> of Zala county from 1507, and <hi rend="italic"
-                            >ispán</hi> of Temes county from 1511, Royal Councillor from 1518, then
-                        Palatine the following year. After Mohács he took the side of King Ferdinand
-                        I, who restored him to this title and donated him many possessions. For more
-                        on him, see <hi rend="smallcap">C. Tóth 2012.</hi></note> comitem palatinum
-                    regni Hungariae.</p>
+                <p xml:id="p.1">Ad <persName>Stephanum Bathoreum</persName><note xml:id="note.1"
+                        >István Báthori of Ecsed (ca. 1485–1530) was <hi rend="italic">ispán</hi> of
+                        Zala county from 1507, and <hi rend="italic">ispán</hi> of Temes county from
+                        1511, Royal Councillor from 1518, then Palatine the following year. After
+                        Mohács he took the side of King Ferdinand I, who restored him to this title
+                        and donated him many possessions. For more on him, see <hi rend="smallcap"
+                            >C. Tóth 2012.</hi></note> comitem palatinum regni Hungariae.</p>
                 <p xml:id="p.2">Adeo varii ad nos afferuntur nuntii, ut nescias, quid verum, quidve </p>
                 <pb facs="15300217_1_2.jpg"/>
                 <p xml:id="p.3">fictum sit cognoscere. Superioribus omnibus temporibus
                     constantissima erat apud omnes fama caesarem Carolum iam ex
-                        <placeName>Bononia</placeName><note type="critic" xml:id="note.2"
-                        >Bologna.</note> cum pontifice et aliis, qui cum eo sunt, principibus
-                    movisse, et <placeName>Romam</placeName> progessurum pro corona caesarea
-                    accipienda. Nihilque aliud iam suspicabamur, venerant enim nuntii et litterae
-                    frequentes constantesque tum ad regem Ferdinandum, tum ad reginam Mariam hac de
-                    re missae. Ecce autem subito nunc venit nuntius caesarem <del corresp="Olahus"
-                        >ad</del><add corresp="Olahus" type="corr"
-                        >adhuc</add><placeName>Bononiae</placeName> esse, coronationem ad festum
-                    Mathei Apostoli<note type="critic" xml:id="note.3">24 February fell on a
-                        Thursday.</note> ibi futuram. Id quam insperatum nobis fuerit, et quantam
-                    praeter omnium exspectationem omnibus admirationem attulerit, vix potest
+                        <placeName>Bononia</placeName><note xml:id="note.2">Bologna.</note> cum
+                    pontifice et aliis, qui cum eo sunt, principibus movisse, et
+                        <placeName>Romam</placeName> progessurum pro corona caesarea accipienda.
+                    Nihilque aliud iam suspicabamur, venerant enim nuntii et litterae frequentes
+                    constantesque tum ad regem Ferdinandum, tum ad reginam Mariam hac de re missae.
+                    Ecce autem subito nunc venit nuntius caesarem <del corresp="Olahus">ad</del><add
+                        corresp="Olahus" type="corr">adhuc</add><placeName>Bononiae</placeName>
+                    esse, coronationem ad festum Mathei Apostoli<note xml:id="note.3">24 February
+                        fell on a Thursday.</note> ibi futuram. Id quam insperatum nobis fuerit, et
+                    quantam praeter omnium exspectationem omnibus admirationem attulerit, vix potest
                     explicari. Licet ego crebris meis litteris de caesaris in
-                        <placeName>Urbem</placeName><note type="critic" xml:id="note.4">Rome.</note>
-                    progressu et te et meos alios certiores fecerim, feci tamen id non temere, sed
-                    quod ita res nuntiabatur et per omnium ora circumvolitabat. Ea si mutata est,
-                    hominum et temporum inconstantiae ascribendum est, et non ego sum merito a te
-                    accusandus, sed qui in horas mutantur, et nihil constantiae in se habent.
-                    Vale.</p>
+                        <placeName>Urbem</placeName><note xml:id="note.4">Rome.</note> progressu et
+                    te et meos alios certiores fecerim, feci tamen id non temere, sed quod ita res
+                    nuntiabatur et per omnium ora circumvolitabat. Ea si mutata est, hominum et
+                    temporum inconstantiae ascribendum est, et non ego sum merito a te accusandus,
+                    sed qui in horas mutantur, et nihil constantiae in se habent. Vale.</p>
                 <p xml:id="p.4">Ex <placeName>Lincio</placeName> 17. Februarii 1530.</p>
             </div>
         </body>

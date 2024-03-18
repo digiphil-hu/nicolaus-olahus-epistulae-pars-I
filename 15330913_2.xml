@@ -247,10 +247,10 @@
                 <pb facs="15330913_2_1.jpg"/>
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori caesareo salutem.</p>
                 <p xml:id="p.2">[1.] Accepi nudiustertius litteras tuas ad me XXIIII. Augusti
-                    praeteriti datas.<note type="critic" xml:id="note.1">This letter is not
-                        extant.</note> Ad priores omnes, quas ad me diversis temporibus dedisti,
-                    iampridem respondi;<note type="critic" xml:id="note.2">Ep. 400, and Ep.
-                            404.<ref>olahus.tei.15330827_1</ref></note><ref>/o:olahus.tei.15330906_1</ref>
+                    praeteriti datas.<note xml:id="note.1">This letter is not extant.</note> Ad
+                    priores omnes, quas ad me diversis temporibus dedisti, iampridem respondi;<note
+                        xml:id="note.2">Ep. 400, and Ep.
+                        404.<ref>olahus.tei.15330827_1</ref></note><ref>/o:olahus.tei.15330906_1</ref>
                     his prostremis videris meum officium scribendi desiderare et mecum expostulare,
                     quod raro respondere soleam. Profecto omnium, qui sunt, inhumanissimus et
                     incivilissimus essem, si ad tam humanas mei amici et mihi familiarissimi
@@ -270,17 +270,17 @@
                     crebriores scribam et faciam assiduitate, ne mecum sis expostulaturus, modo non
                     desit tabellarius.</p>
                 <p xml:id="p.3">[2.] Nunc redeo ad litteras tuas.
-                        <persName>Cornelium</persName><note type="critic" xml:id="note.3">Cornelis
-                        de Schepper.</note> nostrum tam diu tardavisse omnes miramur. Causam
-                    ignoramus. Multa coniicimus, inter alia Turcae vafriciem, cui gens illa est
-                    assueta, et <placeName>Coronis</placeName><note type="critic" xml:id="note.4"
-                        >Koroni, see Ep. 347. Note 28.<ref>olahus.tei.15330402_1</ref></note> urbis
-                    eventum, qui utinam felix sit et fortunatus. Qui si futurus etiam erit Deo
-                    concedente, nostrique superiores erunt, nescio, quam causam iustam haberet Turca
-                    pacem iam cum rege initam refrigendi, cum et antea in articulis pacis insertum
-                    sit, si caesar noster <placeName>Coronem</placeName> reddere et pacem iungere
-                    cum illo nollet, nihilominus rex cum illo in his, quae in
-                        <placeName>Hungaria</placeName> possidet, pacem </p>
+                        <persName>Cornelium</persName><note xml:id="note.3">Cornelis de
+                        Schepper.</note> nostrum tam diu tardavisse omnes miramur. Causam ignoramus.
+                    Multa coniicimus, inter alia Turcae vafriciem, cui gens illa est assueta, et
+                        <placeName>Coronis</placeName><note xml:id="note.4">Koroni, see Ep. 347.
+                        Note 28.<ref>olahus.tei.15330402_1</ref></note> urbis eventum, qui utinam
+                    felix sit et fortunatus. Qui si futurus etiam erit Deo concedente, nostrique
+                    superiores erunt, nescio, quam causam iustam haberet Turca pacem iam cum rege
+                    initam refrigendi, cum et antea in articulis pacis insertum sit, si caesar
+                    noster <placeName>Coronem</placeName> reddere et pacem iungere cum illo nollet,
+                    nihilominus rex cum illo in his, quae in <placeName>Hungaria</placeName>
+                    possidet, pacem </p>
                 <pb facs="15330913_2_2.jpg"/>
                 <p xml:id="p.4">sit habiturus. Cuius rei causa <placeName>Coronis</placeName>
                     negotium non videtur regis nostri pacem interrumpere posse, maxime cum ille
@@ -294,19 +294,17 @@
                         <placeName>Hungaria</placeName> firma pax fieri, nunquam etiam Turcae
                     imperium excludi posset. Adde, quod si <persName>vaivodae</persName> sequeretur
                     mors, mox Turcam haberemus, si non officialem, at regem.
-                        <persName>Griteum</persName><note type="critic" xml:id="note.5">Ludovico
-                        Gritti.</note> non aut <persName>regis</persName> nostri aut
-                        <persName>Ioannis</persName> vaivodae negotium agere puta, sed suum, ut si
-                    qua illi detur occasio, possit aliquando illi imperio manum imponere, hanc ob
-                    rem si <choice>
+                        <persName>Griteum</persName><note xml:id="note.5">Ludovico Gritti.</note>
+                    non aut <persName>regis</persName> nostri aut <persName>Ioannis</persName>
+                    vaivodae negotium agere puta, sed suum, ut si qua illi detur occasio, possit
+                    aliquando illi imperio manum imponere, hanc ob rem si <choice>
                         <orig>verba</orig>
                         <supplied>vera</supplied>
                     </choice> sunt, quae <persName>episcopus Sirmiensis</persName><note
-                        type="critic" xml:id="note.6">István Brodarics.</note> scripsit,<note
-                        type="critic" xml:id="note.7">Ep.
-                        334.<ref>olahus.tei.15330308_1</ref></note> miror oratores regios ad illius
-                    arbitrium consensisse et compromisisse. Quas quidem litteras licet non putem in
-                    omnibus esse veras, tamen potest in eis aliquid esse verum. Nam ex
+                        xml:id="note.6">István Brodarics.</note> scripsit,<note xml:id="note.7">Ep.
+                            334.<ref>olahus.tei.15330308_1</ref></note> miror oratores regios ad
+                    illius arbitrium consensisse et compromisisse. Quas quidem litteras licet non
+                    putem in omnibus esse veras, tamen potest in eis aliquid esse verum. Nam ex
                         <placeName>Venetis</placeName> quibusdam mercatoribus
                         <placeName>Constantinopoli</placeName> negotiantibus aliquid his fere
                     conforme his diebus accepimus. Velim tamen omnia esse vana, et ut serenissimus
@@ -336,36 +334,35 @@
                     imperium firmum, deinde omnium nostrum in regnum quieta reversio et quies futura
                     esset, et nostrae gentis nationisque permansio.</p>
                 <p xml:id="p.6">[3.] Nullae ad me datae sunt tuae litterae, quas <persName>Ioanni
-                        Stanshardo</persName><note type="critic" xml:id="note.8">See Ep. 375. Note
+                        Stanshardo</persName><note xml:id="note.8">See Ep. 375. Note
                             10.<ref>olahus.tei.15330605_4</ref></note> fideliter praesentari non
                     curassem. Non patior enim in similibus amicorum rebus quatenus a me fieri
                     poterit, errorem mea negligentia committi. <persName>Ioannes
-                        Cegledinus</persName> scripsit<note type="critic" xml:id="note.9">This
-                        letter is not extant.</note> et ad me se citare fecisse meum adversarium in
-                    curiam regiam, sed nescio, quid proficiat. Leges et iurium exquisitio nunc
-                    silet, neque rex refrenare illos potest, aut non vult. Si id vellet et malos
-                    suos a licentia cohiberet, melius res sua procederet, maioremque nostrorum sibi
-                    conciliaret amorem, si <persName>Cornelius</persName> redierit, agendum tibi
-                    postea cum eo apud regem erit, ut mea mihi iubeat reddi. Et si particularis erit
-                    conventus cum Ioannitis, quem omnino credo futurum, cum
-                        <persName>Sirmiensi</persName> agendum erit et aliis, ut ea bonorum meorum
-                    pars, quae est nunc in parte ipsorum, ad me redeat. Quod ipsum
-                        <persName>Sirmiensem</persName> non gravatim facturum arbitror. Si <del
-                        corresp="Olahus?">aut</del><add corresp="Olahus?" type="corr">autem</add> id
-                    effectum fuerit tua opera et <persName>Cornelii</persName>, reddetis me vobis
-                    obligatissimum.</p>
+                        Cegledinus</persName> scripsit<note xml:id="note.9">This letter is not
+                        extant.</note> et ad me se citare fecisse meum adversarium in curiam regiam,
+                    sed nescio, quid proficiat. Leges et iurium exquisitio nunc silet, neque rex
+                    refrenare illos potest, aut non vult. Si id vellet et malos suos a licentia
+                    cohiberet, melius res sua procederet, maioremque nostrorum sibi conciliaret
+                    amorem, si <persName>Cornelius</persName> redierit, agendum tibi postea cum eo
+                    apud regem erit, ut mea mihi iubeat reddi. Et si particularis erit conventus cum
+                    Ioannitis, quem omnino credo futurum, cum <persName>Sirmiensi</persName> agendum
+                    erit et aliis, ut ea bonorum meorum pars, quae est nunc in parte ipsorum, ad me
+                    redeat. Quod ipsum <persName>Sirmiensem</persName> non gravatim facturum
+                    arbitror. Si <del corresp="Olahus?">aut</del><add corresp="Olahus?" type="corr"
+                        >autem</add> id effectum fuerit tua opera et <persName>Cornelii</persName>,
+                    reddetis me vobis obligatissimum.</p>
                 <p xml:id="p.7">[4.] Res Danicas quomodo se in hunc diem habuerint, meis prioribus
-                    satis copiose descripseram.<note type="critic" xml:id="note.10">Ep.
-                            400.<ref>olahus.tei.15330827_1</ref></note> Oratores<note type="critic"
+                    satis copiose descripseram.<note xml:id="note.10">Ep.
+                            400.<ref>olahus.tei.15330827_1</ref></note> Oratores<note
                         xml:id="note.11">See Ep. 400. Notes
                         2–4.<ref>olahus.tei.15330827_1</ref></note> ante quatriduum sunt expediti,
                     heri abierunt, qui pacem cum his <persName>caesaris</persName> provinciis illius
                     vicinis transegerunt. Holandi et alii non molestabuntur amplius a Danis, liberam
                     et hi illuc et illi huc habebunt navigationem. Petebant prius Dani trecenta
                     millia florenorum pro damnis per <persName>Christiernum</persName><note
-                        type="critic" xml:id="note.12">King Christian II of Denmark.</note> illatis,
-                    sed postea ab hoc cessarunt. Lubecenses seiuncti sunt a Danis, contra quos, ut
-                    scripseram antea, missa est classis viginti navium expeditarum. Missuri sunt ex
+                        xml:id="note.12">King Christian II of Denmark.</note> illatis, sed postea ab
+                    hoc cessarunt. Lubecenses seiuncti sunt a Danis, contra quos, ut scripseram
+                    antea, missa est classis viginti navium expeditarum. Missuri sunt ex
                         <placeName>Dania</placeName> huc rursus oratorem, qui renuntiet regnum
                     confirmasse hos nunc actos pacis tractatus, similiter et caesar, ut spero, eos
                     confirmaturus est, ad quem illi mittentur sine mora. In negotio tuo
@@ -375,9 +372,9 @@
                 <pb facs="15330913_2_4.jpg"/>
                 <p xml:id="p.8">facienda. Non potuit ergo regina habere opportunum aditum ad tuas
                     res promovendas; cum autem viderem, nequaquam rem posse cum tua utilitate nunc
-                    procedere, rogavi <persName>Panormitanum</persName>,<note type="critic"
-                        xml:id="note.13">Jean II Carondelet.</note> rogavi etiam <persName>Erhardum
-                        Mweler</persName>,<note type="critic" xml:id="note.14">See Ep. 400. Note
+                    procedere, rogavi <persName>Panormitanum</persName>,<note xml:id="note.13">Jean
+                        II Carondelet.</note> rogavi etiam <persName>Erhardum
+                        Mweler</persName>,<note xml:id="note.14">See Ep. 400. Note
                             6.<ref>olahus.tei.15330827_1</ref></note> de quo proxime scripseram, ut
                     ex se ipsis facerent de te oratoribus mentionem, quod caesari scilicet et
                     reginae, apud quos in magna esse authoritate, quibusque grata exhiberes
@@ -448,11 +445,11 @@
                         <persName>regina</persName> et consiliarii eo cum Danis uti consueverunt
                     internuntio et collocutore. De <persName>Christierno</persName> nulla mentio.
                     Credo, nunquam evadet miseram suam sortem. Exspectantur huc oratores
-                        <persName>ducis Mediolani</persName><note type="critic" xml:id="note.15">See
-                        Ep. 390. Note 13.<ref>olahus.tei.15330806_2</ref></note> missi in negotio
-                    filiae minoris <persName>regis Christierni</persName>. <persName>Dominus a
-                        Prato</persName><note type="critic" xml:id="note.16">Jacobus a Flandria, see
-                            <hi rend="smallcap">Tourneur</hi> 1914, 284.</note> praemissus a
+                        <persName>ducis Mediolani</persName><note xml:id="note.15">See Ep. 390. Note
+                            13.<ref>olahus.tei.15330806_2</ref></note> missi in negotio filiae
+                    minoris <persName>regis Christierni</persName>. <persName>Dominus a
+                        Prato</persName><note xml:id="note.16">Jacobus a Flandria, see <hi
+                            rend="smallcap">Tourneur</hi> 1914, 284.</note> praemissus a
                         <persName>caesare</persName> iam hic agit alterum diem. Quamvis absim, tamen
                     curavi, ut per meos <persName>Ioannis Stanshart</persName> ad me veniant
                     litterae ad te mittendae, cuius binas rursus ad te mitto cum praesentibus. De

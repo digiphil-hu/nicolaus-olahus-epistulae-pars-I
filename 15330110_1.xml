@@ -242,20 +242,20 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Ad Rescium. </p>
-                <p xml:id="p.2">Salve! Tuum in <persName>Ioannem</persName><note type="critic"
-                        xml:id="note.1">Johann Henckel the Younger.</note> mea causa praestitum
-                    officium, mi Resci, gratissimum mihi fuit, nunquam non curas ea facere, quae
-                    indicas mihi grata fore. Hac re facis, ut et ego tui sim amantissimus, et
-                    percupiam in amore benevolentia ac officio vicem tibi cumulatam reprendere, si
-                    quando occasio erit, ut id ex sententia et viribus meis facere possim. Perge
-                    iuvenem hunc tuis monitis praeceptisque fovere, ne tirunculus et plane apud vos
-                    hospes in aliquam malam incidat societatem, adolescentibus pestem <choice>
+                <p xml:id="p.2">Salve! Tuum in <persName>Ioannem</persName><note xml:id="note.1"
+                        >Johann Henckel the Younger.</note> mea causa praestitum officium, mi Resci,
+                    gratissimum mihi fuit, nunquam non curas ea facere, quae indicas mihi grata
+                    fore. Hac re facis, ut et ego tui sim amantissimus, et percupiam in amore
+                    benevolentia ac officio vicem tibi cumulatam reprendere, si quando occasio erit,
+                    ut id ex sententia et viribus meis facere possim. Perge iuvenem hunc tuis
+                    monitis praeceptisque fovere, ne tirunculus et plane apud vos hospes in aliquam
+                    malam incidat societatem, adolescentibus pestem <choice>
                         <orig>peniciemque</orig>
                         <supplied>perniciemque</supplied>
-                    </choice>. Ego cum audivero academiam<note type="critic" xml:id="note.2"
-                        >Collegium Trilingue Lovaniense.</note> vestram istam insignem
-                    praelectionibus calere, si aliquid otii consequi potero, tui et aliorum
-                    amicorum, vestrique gymnasii videndi causa, istuc proficiscar.</p>
+                    </choice>. Ego cum audivero academiam<note xml:id="note.2">Collegium Trilingue
+                        Lovaniense.</note> vestram istam insignem praelectionibus calere, si aliquid
+                    otii consequi potero, tui et aliorum amicorum, vestrique gymnasii videndi causa,
+                    istuc proficiscar.</p>
                 <p xml:id="p.3">Vale et, ut coepisti, me ama tui amantissimum. Qua huc
                         <persName>regina</persName> inducta fuerit sollennitate et quam Bruxellenses
                     egerint et agant <choice>

@@ -249,10 +249,10 @@
                                         </body>
                                 </floatingText>
                                 <pb facs="15320924_1_1.jpg"/>
-                                <p xml:id="p.1">Ad Stephanum.<note type="critic" xml:id="note.1"
-                                                >Probably István Brodarics, because Oláh is speaking
-                                                about their rulers, i.e. King Ferdinand I and King
-                                                John I.</note></p>
+                                <p xml:id="p.1">Ad Stephanum.<note xml:id="note.1">Probably István
+                                                Brodarics, because Oláh is speaking about their
+                                                rulers, i.e. King Ferdinand I and King John
+                                                I.</note></p>
                                 <p xml:id="p.2">Non possum tibi perscribere, quis status sit noster
                                         futurus: </p>
                                 <pb facs="15320924_1_2.jpg"/>

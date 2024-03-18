@@ -235,22 +235,21 @@
                     </body>
                 </floatingText>
                 <pb facs="15321110_1_1.jpg"/>
-                <p xml:id="p.1">Ad Ioannem Ponderium.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1">Ad Ioannem Ponderium.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Exemplum litterarum <persName>Ioannis Kachyanes</persName>,<note
-                        type="critic" xml:id="note.2">Hans Katzianer.</note> quas ad regem dedit
+                        xml:id="note.2">Hans Katzianer.</note> quas ad regem dedit
                         <persName>Ferdinandum</persName>, vidimus hodie, quae significabat
                         <persName>Ioannem</persName> vaivodam et <persName>Andream
-                        Gritti</persName><note type="critic" xml:id="note.3">Sometimes Oláh writes
-                        “Andrea” instead of “Ludovico”, see Ep. 244. Note 7., and Ep. 283. Note
+                        Gritti</persName><note xml:id="note.3">Sometimes Oláh writes “Andrea”
+                        instead of “Ludovico”, see Ep. 244. Note 7., and Ep. 283. Note
                             4.<ref>olahus.tei.15320728_1</ref></note><ref>/o:olahus.tei.15321004_1</ref><placeName>Strigonium</placeName><note
-                        type="critic" xml:id="note.4">Esztergom.</note> obsidentes<note
-                        type="critic" xml:id="note.5">See Ep.
-                        283.<ref>olahus.tei.15321004_1</ref></note> audita ipsius <persName>Ioannis
-                        Kochyaner</persName> cum exercitu istuc profectione statim </p>
+                        xml:id="note.4">Esztergom.</note> obsidentes<note xml:id="note.5">See Ep.
+                            283.<ref>olahus.tei.15321004_1</ref></note> audita ipsius
+                        <persName>Ioannis Kochyaner</persName> cum exercitu istuc profectione statim </p>
                 <pb facs="15321110_1_2.jpg"/>
                 <p xml:id="p.3">obsidionem solvisse et aufugisse. <placeName>Budae</placeName> vero
-                    relictum <persName>filium</persName><note type="critic" xml:id="note.6">Ludovico
+                    relictum <persName>filium</persName><note xml:id="note.6">Ludovico
                         Gritti.</note> ipsius <persName>Gritti</persName> cum ducentis equitibus ac
                     quadringentis peditibus. Quodsi ita est, non ita quidem esset magni laboris
                         <placeName>Budam</placeName> ab illis recuperare, sed nostri milites

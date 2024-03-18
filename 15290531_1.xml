@@ -245,8 +245,8 @@
                 </floatingText>
                 <pb facs="15290531_1_1.jpg"/>
                 <p xml:id="p.1">Ad <persName>Emericum Kalnay</persName> archidiaconum
-                        Stransilvaniensem.<note type="critic" xml:id="note.1">Instead of <hi
-                            rend="italic">Transilvaniensem</hi>.</note></p>
+                        Stransilvaniensem.<note xml:id="note.1">Instead of <hi rend="italic"
+                            >Transilvaniensem</hi>.</note></p>
                 <p xml:id="p.2">[1.] Non possum non mirari, mi Kalnay, hanc tuam diuturnam, qua <del
                         corresp="Olahus">veteris</del><add corresp="Olahus" type="corr"
                     >uteris</add>, taciturnitatem, credo te omnino vel malam habere valetudinem, vel
@@ -268,21 +268,21 @@
                     parum a vero aberras. </p>
                 <p xml:id="p.3">[2.] Non novum est, quod fecisti, multi praeclari et sapientissimi
                     viri tempori cesserunt, et eam quisque secutus est partem, quae sibi visa est
-                    optima. Nonne legisti <persName>Marcum Tullium</persName><note type="critic"
-                        xml:id="note.2">Marcus Tullius Cicero (BC 106–43), Roman statesman,
-                        philosopher, and author.</note> parentem patriae suae partem
-                        <persName>Pompei</persName>,<note type="critic" xml:id="note.3">Cnaeus
-                        Pompeius Magnus (BC 106–48), member of the First Triumvirate.</note> cui
-                    multum ob illius in se beneficia debebat, deseruisse, cessisseque tempori, et in
-                    aliqua parte <persName>Iulio Caesari</persName><note type="critic"
-                        xml:id="note.4">Caius Julius Caesar (BC 100–44), another member of the First
-                        Triumvirate.</note> adhaesisse. Itidem multi etiam alii praestantissimi
-                    fecere viri, quos tibi nunc ideo non enumero, <del corresp="Olahus"
-                        >quia</del><add corresp="Olahus" type="corr">quod</add><del corresp="Olahus"
-                        >scio</del><add corresp="Olahus" type="corr">sciam</add> te illorum optime
-                    meminisse. Si igitur tu quoque lapsus es, secutus animi tui iudicium, et tempori
-                    non nihil tribueris, non ideo perpetuo tacere et maerere debes. Resipiscendum
-                    est aliquando, et post errorem commissum sanius consilium amplectendum, </p>
+                    optima. Nonne legisti <persName>Marcum Tullium</persName><note xml:id="note.2"
+                        >Marcus Tullius Cicero (BC 106–43), Roman statesman, philosopher, and
+                        author.</note> parentem patriae suae partem
+                        <persName>Pompei</persName>,<note xml:id="note.3">Cnaeus Pompeius Magnus (BC
+                        106–48), member of the First Triumvirate.</note> cui multum ob illius in se
+                    beneficia debebat, deseruisse, cessisseque tempori, et in aliqua parte
+                        <persName>Iulio Caesari</persName><note xml:id="note.4">Caius Julius Caesar
+                        (BC 100–44), another member of the First Triumvirate.</note> adhaesisse.
+                    Itidem multi etiam alii praestantissimi fecere viri, quos tibi nunc ideo non
+                    enumero, <del corresp="Olahus">quia</del><add corresp="Olahus" type="corr"
+                        >quod</add><del corresp="Olahus">scio</del><add corresp="Olahus" type="corr"
+                        >sciam</add> te illorum optime meminisse. Si igitur tu quoque lapsus es,
+                    secutus animi tui iudicium, et tempori non nihil tribueris, non ideo perpetuo
+                    tacere et maerere debes. Resipiscendum est aliquando, et post errorem commissum
+                    sanius consilium amplectendum, </p>
                 <pb facs="15290531_1_2.jpg"/>
                 <p xml:id="p.4">ne studiorum et rationis nostrae, qua a Deo optimo ornati sumus,
                     omnino obliti, in inhumanitatem quandam relabamur. Quod tu meo iudicio facere et

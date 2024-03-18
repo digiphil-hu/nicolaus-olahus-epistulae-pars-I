@@ -235,20 +235,19 @@
                 <pb facs="15330605_2_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem Cegledinum provisorem.</p>
                 <p xml:id="p.2">[1.] Posteaquam XXVIII. Maii praeteriti meas ad te litteras<note
-                        type="critic" xml:id="note.1">This letter is not extant, unless Oláh wrote
-                        28. instead of 18., see Ep. 366.<ref>olahus.tei.15330518_1</ref></note>
-                    dedissem, accepi tuas hodie <placeName>Viennae</placeName> XIIII. Maii
-                        datas.<note type="critic" xml:id="note.2">This letter is not extant.</note>
-                    Non multa in eis reperio, ad quae prius non responderim. Si <persName>Valentinus
-                        Thevrek</persName><note type="critic" xml:id="note.3">Bálint Török.</note>
-                    remisit bona, proficiscere illuc et possideas, defendasque te medio servitorum
-                    talium, de quibus tibi litteris meis prioribus satis copiose scripsi. Id tamen
-                    fac sine bonorum desolatione, dico <del corresp="Olahus">desolatione</del><add
-                        corresp="Olahus" type="corr">destructione</add>. <del corresp="Olahus">Nam
-                        in necessario casu</del><add corresp="Olahus" type="corr">Nam hoc tempore
-                        turbulento defensio</add> sine gravamine illorum <add corresp="Olahus"
-                        type="insert">aliquo</add> fieri non potest. Dominum
-                        <persName>Transsylvaniensem episcopum</persName><note type="critic"
+                        xml:id="note.1">This letter is not extant, unless Oláh wrote 28. instead of
+                        18., see Ep. 366.<ref>olahus.tei.15330518_1</ref></note> dedissem, accepi
+                    tuas hodie <placeName>Viennae</placeName> XIIII. Maii datas.<note
+                        xml:id="note.2">This letter is not extant.</note> Non multa in eis reperio,
+                    ad quae prius non responderim. Si <persName>Valentinus Thevrek</persName><note
+                        xml:id="note.3">Bálint Török.</note> remisit bona, proficiscere illuc et
+                    possideas, defendasque te medio servitorum talium, de quibus tibi litteris meis
+                    prioribus satis copiose scripsi. Id tamen fac sine bonorum desolatione, dico
+                        <del corresp="Olahus">desolatione</del><add corresp="Olahus" type="corr"
+                        >destructione</add>. <del corresp="Olahus">Nam in necessario casu</del><add
+                        corresp="Olahus" type="corr">Nam hoc tempore turbulento defensio</add> sine
+                    gravamine illorum <add corresp="Olahus" type="insert">aliquo</add> fieri non
+                    potest. Dominum <persName>Transsylvaniensem episcopum</persName><note
                         xml:id="note.4">Probably Miklós Gerendi, Bishop of Transylvania under King
                         Ferdinand I, but it might also be János Statileo, Bishop of Transylvania
                         under King John I, see <hi rend="smallcap">Kasza</hi> 2012, 471.</note> ad
@@ -257,8 +256,8 @@
                     litteras, cogito tamen illas non fuisse redditas, quia nihil </p>
                 <pb facs="15330605_2_2.jpg"/>
                 <p xml:id="p.3">rescripsit. Ex <persName>Cornelii</persName> legatione<note
-                        type="critic" xml:id="note.5">Cornelis de Schepper went to Constantinople,
-                        see his letters on this trip: Ep. 351, Ep. 352, Ep. 356, and Ep.
+                        xml:id="note.5">Cornelis de Schepper went to Constantinople, see his letters
+                        on this trip: Ep. 351, Ep. 352, Ep. 356, and Ep.
                             363.<ref>olahus.tei.15330412_1</ref></note><ref>/o:olahus.tei.15330412_2</ref><ref>/o:olahus.tei.15330426_1</ref><ref>/o:olahus.tei.15330506_1</ref>
                     et reditu pendere videtur episcopatus sui remissio et aliarum rerum finis.
                     Hominem illum, de quo scribis, ad me, nescio, quo sit animo, hoc tamen scio me
@@ -266,15 +265,14 @@
                     simulare et dissimulare sapientis est semper habitum. Tu fac, quod debes, si
                     volet, auxilietur, si noluerit, vi ab eo extorquere non possumus. Tempus nos
                     separabit. Modica bilis aliorum te non absterreat a rebus meis sollicitandis et
-                    curandis. Regias litteras <persName>Macedo</persName><note type="critic"
-                        xml:id="note.6">László Macedóniai.</note> vel
-                        <persName>Wilaky</persName><note type="critic" xml:id="note.7">Ferenc
-                        Újlaki.</note> subscribi facere potuissent, vel <persName>Maius</persName>
-                        secretarius,<note type="critic" xml:id="note.8">Johannes Maius of Sélestat
-                        (1502–1536), Royal Secretary of King Ferdinand I from 1526, and provost at
-                        the Cistercian abbey of Zwettl in Lower Austria, see <hi rend="smallcap"
-                            >Guenther</hi> 1986. Probably, he also was Archdeacon of Torna from
-                        1531, see <hi rend="smallcap">Kemény</hi>, 1915, 100.</note><del
+                    curandis. Regias litteras <persName>Macedo</persName><note xml:id="note.6"
+                        >László Macedóniai.</note> vel <persName>Wilaky</persName><note
+                        xml:id="note.7">Ferenc Újlaki.</note> subscribi facere potuissent, vel
+                        <persName>Maius</persName> secretarius,<note xml:id="note.8">Johannes Maius
+                        of Sélestat (1502–1536), Royal Secretary of King Ferdinand I from 1526, and
+                        provost at the Cistercian abbey of Zwettl in Lower Austria, see <hi
+                            rend="smallcap">Guenther</hi> 1986. Probably, he also was Archdeacon of
+                        Torna from 1531, see <hi rend="smallcap">Kemény</hi>, 1915, 100.</note><del
                         corresp="Olahus">misi</del><add corresp="Olahus" type="corr">nisi</add>
                     adhuc post tantas a Deo immissas nobis calamitates alius alteri invidere, et
                     malevolentia invicem uti malint, Deique afflictione eius moresque nostros
@@ -291,10 +289,10 @@
                     amicos degere posses, et quid de te omnes non modo cogitare, sed dicere possent.
                     De hoc tibi scribere aliud aut aliam informationem dare non possum, quam <del
                         corresp="editor">quam</del> tibi litteris meis XVIII. Maii ad te hinc
-                        datis<note type="critic" xml:id="note.9">Ep.
-                            366.<ref>olahus.tei.15330518_1</ref></note> satis copiose dedi. Cura ea,
-                    quae scripsi, facere et meis rebus interea, dum exivero, et diligenter et
-                    fideliter providere. Tempori servire ac dissimulare et fistula <choice>
+                        datis<note xml:id="note.9">Ep. 366.<ref>olahus.tei.15330518_1</ref></note>
+                    satis copiose dedi. Cura ea, quae scripsi, facere et meis rebus interea, dum
+                    exivero, et diligenter et fideliter providere. Tempori servire ac dissimulare et
+                    fistula <choice>
                         <orig>praecinente</orig>
                         <supplied>praecinenti</supplied>
                     </choice> more curiali <choice>
@@ -302,18 +300,17 @@
                         <supplied>assultare</supplied>
                     </choice> ac, ut ille noster comicus ait, dum aiunt probare, dum negant negare
                     verbis poteris, sed mea, uti teneris, reipsa non negligas, sed ut Graecum illud
-                    est πᾶσιν ἴχνεσιν ζήτει τὰ ἐμοῦ<note type="critic" xml:id="note.10">‘everyhow
-                        look for my interests’.</note> damnumque mihi non facias, pecunias, quas
-                    undique et collegisti et collegeris, conserva fideliter, postea scribam de his,
-                    quid sis facturus.</p>
-                <p xml:id="p.4">[2.] <persName>Domino Strigoniensi</persName><note type="critic"
-                        xml:id="note.11">Pál Várday.</note> commenda me et roga, ut proventus mei
-                    reddantur. Tu vero cura, ut missa <placeName>Strigonii</placeName><note
-                        type="critic" xml:id="note.12">Esztergom.</note> non negligatur. Direptores
-                    praeteritorum proventuum, dum tempus erit et si Deus voluerit, reperiam. Tu
-                    quoque interea vel prosis vel non sollicita ad satisfactionem.
-                        <persName>Vicearchidiacono</persName> de nassada scripsi. Quartam
-                        Camaronensem<note type="critic" xml:id="note.13">Komárom.</note><choice>
+                    est πᾶσιν ἴχνεσιν ζήτει τὰ ἐμοῦ<note xml:id="note.10">‘everyhow look for my
+                        interests’.</note> damnumque mihi non facias, pecunias, quas undique et
+                    collegisti et collegeris, conserva fideliter, postea scribam de his, quid sis
+                    facturus.</p>
+                <p xml:id="p.4">[2.] <persName>Domino Strigoniensi</persName><note xml:id="note.11"
+                        >Pál Várday.</note> commenda me et roga, ut proventus mei reddantur. Tu vero
+                    cura, ut missa <placeName>Strigonii</placeName><note xml:id="note.12"
+                        >Esztergom.</note> non negligatur. Direptores praeteritorum proventuum, dum
+                    tempus erit et si Deus voluerit, reperiam. Tu quoque interea vel prosis vel non
+                    sollicita ad satisfactionem. <persName>Vicearchidiacono</persName> de nassada
+                    scripsi. Quartam Camaronensem<note xml:id="note.13">Komárom.</note><choice>
                         <orig>arcenda</orig>
                         <supplied>arceas</supplied>
                     </choice> pecunia praesenti, ut poteris et commodum erit. Si bona custodiae
@@ -322,31 +319,28 @@
                     tractentur iampridem novi, ut id nec arendatori, nec arendanti </p>
                 <pb facs="15330605_2_3.jpg"/>
                 <p xml:id="p.5">est salutare; praeterea, quid tu faceres negotii, si illorum curam
-                    non haberes? <persName>Ioannes Zalay</persName><note type="critic"
-                        xml:id="note.14">János Szalay.</note> si vult facere amicitiam, poterit tibi
-                    etiam sine arendatione <choice>
+                    non haberes? <persName>Ioannes Zalay</persName><note xml:id="note.14">János
+                        Szalay.</note> si vult facere amicitiam, poterit tibi etiam sine arendatione <choice>
                         <orig>defensione</orig>
                         <supplied>defensioni</supplied>
                     </choice> esse. Hic annus vel finem belli et initium pacis dabit, vel tempora
-                    erunt deteriora. <persName>Domino Agriensi</persName><note type="critic"
-                        xml:id="note.15">Tamás Szalaházy.</note> fac mentionem de illis centum et
-                    quinquaginta ducatis, curabit fortasse, ut Croati eam summam reddant, de qua re
-                    ego quoque proxime scripseram. Scribe de omnibus et cito et frequenter. Dominis
-                        <persName>Bathyani</persName>,<note type="critic" xml:id="note.16">Ferenc
-                        Batthány.</note><persName>Horwath</persName>,<note type="critic"
-                        xml:id="note.17">Probably Ferenc Horváth or Jeromos
-                        Horváth.</note><persName>Zalay</persName>, <persName>Pemfflinger</persName>
-                    et aliis, qui ibi sunt, me commenda. <persName>Blasium
-                        praepositum</persName><note type="critic" xml:id="note.18">Probably Balázs
-                        Csézy, Provost of Szenttamás (Esztergom), later Archdeacon of Lutzmannsburg
-                        and Canon of Esztergom and Győr, see <hi rend="smallcap">Molnár</hi> 2017,
-                        202.</note> resaluta; coloni de <placeName>Tharz</placeName><note
-                        type="critic" xml:id="note.19">Nová Lipnica, see Ep. 338. Note
-                            5.<ref>olahus.tei.15330309_2</ref></note> quomodo sint, nihil scribis.
-                    Quid fiet per <persName>Czoron</persName><note type="critic" xml:id="note.20"
-                        >András Choron.</note> et <persName>Hyeronimum</persName>,<note
-                        type="critic" xml:id="note.21">Jeromos Horváth of Vásonkő.</note> scribe.
-                    Vale.</p>
+                    erunt deteriora. <persName>Domino Agriensi</persName><note xml:id="note.15"
+                        >Tamás Szalaházy.</note> fac mentionem de illis centum et quinquaginta
+                    ducatis, curabit fortasse, ut Croati eam summam reddant, de qua re ego quoque
+                    proxime scripseram. Scribe de omnibus et cito et frequenter. Dominis
+                        <persName>Bathyani</persName>,<note xml:id="note.16">Ferenc
+                        Batthány.</note><persName>Horwath</persName>,<note xml:id="note.17">Probably
+                        Ferenc Horváth or Jeromos Horváth.</note><persName>Zalay</persName>,
+                        <persName>Pemfflinger</persName> et aliis, qui ibi sunt, me commenda.
+                        <persName>Blasium praepositum</persName><note xml:id="note.18">Probably
+                        Balázs Csézy, Provost of Szenttamás (Esztergom), later Archdeacon of
+                        Lutzmannsburg and Canon of Esztergom and Győr, see <hi rend="smallcap"
+                            >Molnár</hi> 2017, 202.</note> resaluta; coloni de
+                        <placeName>Tharz</placeName><note xml:id="note.19">Nová Lipnica, see Ep.
+                        338. Note 5.<ref>olahus.tei.15330309_2</ref></note> quomodo sint, nihil
+                    scribis. Quid fiet per <persName>Czoron</persName><note xml:id="note.20">András
+                        Choron.</note> et <persName>Hyeronimum</persName>,<note xml:id="note.21"
+                        >Jeromos Horváth of Vásonkő.</note> scribe. Vale.</p>
                 <p xml:id="p.6"><placeName>Bruxellae</placeName> V. Iunii 1533.</p>
             </div>
         </body>

@@ -244,15 +244,15 @@
                 <p xml:id="p.1">Nicolaus Olaus Francisco Vylaky praeposito Posoniensi, secretario et
                     consiliario Ferdinandi regis Romanorum.</p>
                 <p xml:id="p.2">[1.] Proximis diebus redditae sunt mihi tuae litterae<note
-                        type="critic" xml:id="note.1">We do not know the letter Oláh is referring
-                        to.</note> cum litteris regiis, quas in negotio
-                        <persName>Bartholomaei</persName><note type="critic" xml:id="note.2">We do
-                        not know him more closely.</note> mei opera tua expediendas summis rogaveram
-                    precibus. Habeo tibi gratias cumulatas, qui in rebus absentium tuorum fratrum
-                    tam diligentem te semper praestes, quam in praesentium. Si quae unquam dabitur
-                    occasio tibi gratificandi, <del corresp="Olahus">rursus</del> meis <add
-                        corresp="Olahus" type="insert">rursus</add> omnibus viribus faciam, ut vicem
-                    rependam officii et fraternitatis et gratitudinis.</p>
+                        xml:id="note.1">We do not know the letter Oláh is referring to.</note> cum
+                    litteris regiis, quas in negotio <persName>Bartholomaei</persName><note
+                        xml:id="note.2">We do not know him more closely.</note> mei opera tua
+                    expediendas summis rogaveram precibus. Habeo tibi gratias cumulatas, qui in
+                    rebus absentium tuorum fratrum tam diligentem te semper praestes, quam in
+                    praesentium. Si quae unquam dabitur occasio tibi gratificandi, <del
+                        corresp="Olahus">rursus</del> meis <add corresp="Olahus" type="insert"
+                        >rursus</add> omnibus viribus faciam, ut vicem rependam officii et
+                    fraternitatis et gratitudinis.</p>
                 <p xml:id="p.3">Casus miserandus fratris tui unici tam mihi gravis fuit, quam
                     alicuius ex meis mihi arctissima iunctis fraternitate. Nam ex meipso possum
                     diiudicare, quantum tibi </p>
@@ -270,21 +270,21 @@
                     quicquid aut boni aut mali nobis obvenerit, omniaque illius providentiae
                     tribuenda. Quod si fecerimus, dolor et animi nostri molestia non parum
                     sedabitur.</p>
-                <p xml:id="p.5">[2.] <persName>Marcum Pemfflyngerum</persName><note type="critic"
-                        xml:id="note.3">Márk Pemfflinger (†1537) was Count of Sibiu <hi
-                            rend="italic">(comes Cibiensis),</hi> Royal Judge <hi rend="italic"
-                            >(iudex curiae regiae)</hi> of Sibiu, and brother of János Pemfflinger,
-                        merchant and Royal Judge of Buda. After János’ death Márk became guardian of
-                        his nephews Sebestyén, István, and Kristóf. For more on Márk and the other
-                        Pemfflingers, see <hi rend="smallcap">Kubinyi</hi> 1978, and <hi
-                            rend="smallcap">V. Kovács</hi> 1971, 652.</note> et <persName>Nicolaum
-                        Apaffy</persName><note type="critic" xml:id="note.4">Miklós (III) Apaffy (†
-                        before 1535), see <hi rend="smallcap">Jakó</hi> 1990, 580.</note> salvos
-                    esse gaudeo, utinam fortuna ita tulisset, ut ambos maxime vero
+                <p xml:id="p.5">[2.] <persName>Marcum Pemfflyngerum</persName><note xml:id="note.3"
+                        >Márk Pemfflinger (†1537) was Count of Sibiu <hi rend="italic">(comes
+                            Cibiensis),</hi> Royal Judge <hi rend="italic">(iudex curiae
+                            regiae)</hi> of Sibiu, and brother of János Pemfflinger, merchant and
+                        Royal Judge of Buda. After János’ death Márk became guardian of his nephews
+                        Sebestyén, István, and Kristóf. For more on Márk and the other Pemfflingers,
+                        see <hi rend="smallcap">Kubinyi</hi> 1978, and <hi rend="smallcap">V.
+                            Kovács</hi> 1971, 652.</note> et <persName>Nicolaum
+                        Apaffy</persName><note xml:id="note.4">Miklós (III) Apaffy († before 1535),
+                        see <hi rend="smallcap">Jakó</hi> 1990, 580.</note> salvos esse gaudeo,
+                    utinam fortuna ita tulisset, ut ambos maxime vero
                         <persName>Pemflyngerum</persName> videre potuissem, credo eos quoque, ut
                     omnes nos non parum esse pertaesos morae liberationis nostrae et tam diuturnae
                     exspectationis, quae utinam iam iam habitura sit finem; qui nisi caesaris ad
-                    conventum Ratisbonensem<note type="critic" xml:id="note.5">Imperial Assembly in
+                    conventum Ratisbonensem<note xml:id="note.5">Imperial Assembly in
                         Regensburg.</note> profectione et rerum Hungaricarum diligenti istic
                     tractatione sequatur, nescio, postea an tam facile res Hungarica transigi
                     possit. Verum quid ego de his rebus praesagio, quae tibi notiores esse debent.
@@ -293,43 +293,42 @@
                         type="corr">hominum moribus</add> constituerat caesar novo huius mensis die
                     hinc abire, sed profectionem distulit ad diem sedecimum, an ab eo quoque ad
                     longiorem differat diem, nescio. Video enim saepe etiam certa mutari, vellem
-                        <persName>Lasky</persName><note type="critic" xml:id="note.6">Hieronymus
-                        Łaski.</note> et alii oratores <add corresp="Olahus" type="insert"
-                        >apud</add> vaivodam aliquid boni facerent, ne miserum regnum Hungariae
-                    magis ac magis nostra aetate <del corresp="Olahus">collaberetur</del><add
-                        corresp="Olahus" type="corr">in periculum laberetur</add>. Nisi igitur ut
-                    repetam priora, praesentia caesaris aliquid boni Ratisbonae concludatur, in
-                    absentia postea illius vix aliquid <del corresp="Olahus">boni</del><add
-                        corresp="Olahus" type="corr">egregii</add> secuturum confido.</p>
-                <p xml:id="p.6">[3.] <persName>Waradiensis</persName><note type="critic"
-                        xml:id="note.7">The Bishop of Oradea was László Macedóniai. According to
-                        this sentence, he had a child.</note> τῇ εἰκόνι <note type="critic"
-                        xml:id="note.8">‘to the effigy’.</note> vive gratulor. Credo infantulum hunc
-                    relaturum parentes suos. Quis enim ex sacris initiatis <del corresp="Olahus"
-                        >religiosus</del><add corresp="Olahus" type="corr">irreligiosus</add>
-                    procreari potest? Si enim bene recordor, <del corresp="Olahus">illa</del><add
-                        corresp="Olahus" type="corr">mater</add> dicebatur <add corresp="Olahus"
-                        type="insert">ex</add> coenobio <placeName>Augustam</placeName><note
-                        type="critic" xml:id="note.9">Augsburg, but it is not clear why she came to
-                        Augsburg.</note> venisse, fieri itaque nequaquam poterit, quin ex hoc
-                    infantulo magnus quispiam exsurgat ὁ προφήτης<note type="critic"
+                        <persName>Lasky</persName><note xml:id="note.6">Hieronymus Łaski.</note> et
+                    alii oratores <add corresp="Olahus" type="insert">apud</add> vaivodam aliquid
+                    boni facerent, ne miserum regnum Hungariae magis ac magis nostra aetate <del
+                        corresp="Olahus">collaberetur</del><add corresp="Olahus" type="corr">in
+                        periculum laberetur</add>. Nisi igitur ut repetam priora, praesentia
+                    caesaris aliquid boni Ratisbonae concludatur, in absentia postea illius vix
+                    aliquid <del corresp="Olahus">boni</del><add corresp="Olahus" type="corr"
+                        >egregii</add> secuturum confido.</p>
+                <p xml:id="p.6">[3.] <persName>Waradiensis</persName><note xml:id="note.7">The
+                        Bishop of Oradea was László Macedóniai. According to this sentence, he had a
+                        child.</note> τῇ εἰκόνι <note xml:id="note.8">‘to the effigy’.</note> vive
+                    gratulor. Credo infantulum hunc relaturum parentes suos. Quis enim ex sacris
+                    initiatis <del corresp="Olahus">religiosus</del><add corresp="Olahus"
+                        type="corr">irreligiosus</add> procreari potest? Si enim bene recordor, <del
+                        corresp="Olahus">illa</del><add corresp="Olahus" type="corr">mater</add>
+                    dicebatur <add corresp="Olahus" type="insert">ex</add> coenobio
+                        <placeName>Augustam</placeName><note xml:id="note.9">Augsburg, but it is not
+                        clear why she came to Augsburg.</note> venisse, fieri itaque nequaquam
+                    poterit, quin ex hoc infantulo magnus quispiam exsurgat ὁ προφήτης<note
                         xml:id="note.10">‘the prophet’.</note> tam sacris orto parentibus. Mearum
                     non est virium <choice>
                         <orig>τήν θησίαν αὐτών</orig>
                         <supplied>τὴν θυσίαν αὐτῶν</supplied>
-                    </choice>,<note type="critic" xml:id="note.11">‘their sacrifice’ that is ‘their
-                        nuptials’. The mixup of the letters <hi rend="italic">υ</hi><hi
-                            rend="italic"> </hi> and <hi rend="italic">η</hi> could be explained by
-                        their contemporary use, i.e. both were pronounced as <hi rend="italic"
-                            >i</hi>.</note><add corresp="Olahus" type="insert">ut scribis</add>,
-                    imitari posse, sed curabo ne frustra consenuisse videar; haec ioco. Dum auxilio
-                    Dei reversus fuero, feram tibi huius patriae tabellam imagine pictam, si non
-                    spirantem at spiranti <del corresp="Olahus">magica</del><add corresp="Olahus"
-                        type="corr">aliqua</add> ex parte similem. Saluta meo nomine
-                        <persName>Marcum Pemfflyngerum</persName> et <persName>Nicolaum
-                        Apaffy</persName>, si fata mihi restiterunt, quominus cum eis praesens esse
-                    potuerim (quod maxime voluissem), brevi tamen litteris apud eos agam. De rebus
-                    meis Hungaricis ne iotam quidem scio, et in magna sum anxietate, si quid tu </p>
+                    </choice>,<note xml:id="note.11">‘their sacrifice’ that is ‘their nuptials’. The
+                        mixup of the letters <hi rend="italic">υ</hi><hi rend="italic"> </hi> and
+                            <hi rend="italic">η</hi> could be explained by their contemporary use,
+                        i.e. both were pronounced as <hi rend="italic">i</hi>.</note><add
+                        corresp="Olahus" type="insert">ut scribis</add>, imitari posse, sed curabo
+                    ne frustra consenuisse videar; haec ioco. Dum auxilio Dei reversus fuero, feram
+                    tibi huius patriae tabellam imagine pictam, si non spirantem at spiranti <del
+                        corresp="Olahus">magica</del><add corresp="Olahus" type="corr">aliqua</add>
+                    ex parte similem. Saluta meo nomine <persName>Marcum Pemfflyngerum</persName> et
+                        <persName>Nicolaum Apaffy</persName>, si fata mihi restiterunt, quominus cum
+                    eis praesens esse potuerim (quod maxime voluissem), brevi tamen litteris apud
+                    eos agam. De rebus meis Hungaricis ne iotam quidem scio, et in magna sum
+                    anxietate, si quid tu </p>
                 <pb facs="15320111_1_3.jpg"/>
                 <p xml:id="p.7">vel intellexisti vel adhuc intelligere de his poteris, rogo fac me
                     certiorem. Dum <placeName>Ratisbonae</placeName> aliquid boni finiatur, puto me

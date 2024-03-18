@@ -234,10 +234,10 @@
                     </body>
                 </floatingText>
                 <pb facs="15301223_1_1.jpg"/>
-                <p xml:id="p.1">Ad Paulum Iovium.<note type="critic" xml:id="note.1">Paolo Giovio
-                        (1483–1552) was an Italian historian, prelate, and physician. In 1528, he
-                        became Bishop of Nocera de’ Pagani, in 1549, Bishop of Como. He is respected
-                        as the chronicler of the Italian Wars because he witnessed many battles and
+                <p xml:id="p.1">Ad Paulum Iovium.<note xml:id="note.1">Paolo Giovio (1483–1552) was
+                        an Italian historian, prelate, and physician. In 1528, he became Bishop of
+                        Nocera de’ Pagani, in 1549, Bishop of Como. He is respected as the
+                        chronicler of the Italian Wars because he witnessed many battles and
                         corresponded with many humanists (e.g. with István Brodarics) to get
                         first-hand information. At this time, he was a Papal Courtier, see his
                         biography by <hi rend="smallcap">Price Zimmermann</hi> 1995, particularly
@@ -247,14 +247,14 @@
                     conturbarunt: discessum est re infecta a Budensi obsidione, regressae classes
                     cum tormentis et aliis <del corresp="Olahus">ornamentis</del><add
                         corresp="Olahus" type="corr">instrumentis
-                        bellicis</add><placeName>Strigonium</placeName>,<note type="critic"
-                        xml:id="note.2">Esztergom.</note> secutus est exercitus et peditum et
-                    equitum tam levis quam gravis armaturae. Nihil incommodius accidere rebus
-                    nostris potuisset, nam si diutius in obsidione nostri durassent, spes erat
-                    omnibus, propter inediam obsessorum <placeName>Buda</placeName> omnino
-                    potiremur. Nunc frustra istic consumptis diebus et rebus nostris, quid futurum
-                    suspicari possimus, non satis intelligo. Certum quidem est hanc nostrorum
-                    discessionem non omnino esse sine ratione. Dicunt enim </p>
+                        bellicis</add><placeName>Strigonium</placeName>,<note xml:id="note.2"
+                        >Esztergom.</note> secutus est exercitus et peditum et equitum tam levis
+                    quam gravis armaturae. Nihil incommodius accidere rebus nostris potuisset, nam
+                    si diutius in obsidione nostri durassent, spes erat omnibus, propter inediam
+                    obsessorum <placeName>Buda</placeName> omnino potiremur. Nunc frustra istic
+                    consumptis diebus et rebus nostris, quid futurum suspicari possimus, non satis
+                    intelligo. Certum quidem est hanc nostrorum discessionem non omnino esse sine
+                    ratione. Dicunt enim </p>
                 <pb facs="15301223_1_2.jpg"/>
                 <p xml:id="p.3">tantam fuisse temporis tempestatem omnibus, quibus ibi fuerunt
                     diebus, ut vix tres dies habuerint nostri serenos, sed semper aut nivium aut

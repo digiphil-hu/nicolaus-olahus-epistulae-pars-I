@@ -231,9 +231,9 @@
                     </body>
                 </floatingText>
                 <pb facs="19320926_1_1.jpg"/>
-                <p xml:id="p.1">[The superscription is missing.]<note type="critic" xml:id="note.1"
-                        >The location in the manuscript suggests that Oláh wrote this letter to
-                        Gerendi.</note></p>
+                <p xml:id="p.1">[The superscription is missing.]<note xml:id="note.1">The location
+                        in the manuscript suggests that Oláh wrote this letter to
+                    Gerendi.</note></p>
                 <p xml:id="p.2">Non possum non mirari, quid tibi proposueris faciendum, et quid de
                     te ipso cogites, curque non tuis provideris rebus. At fortasse est, cur in rebus
                     propriis sis tam causa aliqua negligens? Scio <quote xml:id="quote.1">τὴν
@@ -242,17 +242,17 @@
                             <supplied>οὐδενός</supplied>
                         </choice> ἔχειν τὸν νόμον</quote>,<note type="quote" xml:id="note.quote.1"
                         >Cf. Stobaios 1.4.2e: “ο ὐδεὶς ἀνάγκης μεῖζον ἰσχύει νόμος”.</note><note
-                        type="critic" xml:id="note.2">‘necessity is never law’. The meaning of this
-                        phrase is not clear, and it is incorrect grammatically as well. Oláh might
-                        have wanted to use the saying ‘necessity knows no law’. Or he could have
-                        misquoted the saying attributed to Menandros (Stobaios 1.4.2e): ο ὐδεὶς
-                        ἀνάγκης μεῖζον ἰσχύει νόμος, meaning: ‘no law is more important than
-                        necessity’.</note> sed certe rebus tuis consulere potuisses, si quempiam τὴν
-                        φροντίδα<note type="critic" xml:id="note.3">‘attention’.</note> illis
-                    inpendisses. Attamen non omnino tuae negligentiae ascribo te his esse moribus,
-                    sed potius temporum iniquitati. Quare si aliquid unquam erravi te accusando,
-                    oro, ignosce mihi. Nam omnis mea obiurgatio non aliunde, quam ex meo in te amore
-                    processit. Vale, et me, ut soles, ama. </p>
+                        xml:id="note.2">‘necessity is never law’. The meaning of this phrase is not
+                        clear, and it is incorrect grammatically as well. Oláh might have wanted to
+                        use the saying ‘necessity knows no law’. Or he could have misquoted the
+                        saying attributed to Menandros (Stobaios 1.4.2e): ο ὐδεὶς ἀνάγκης μεῖζον
+                        ἰσχύει νόμος, meaning: ‘no law is more important than necessity’.</note> sed
+                    certe rebus tuis consulere potuisses, si quempiam τὴν φροντίδα<note
+                        xml:id="note.3">‘attention’.</note> illis inpendisses. Attamen non omnino
+                    tuae negligentiae ascribo te his esse moribus, sed potius temporum iniquitati.
+                    Quare si aliquid unquam erravi te accusando, oro, ignosce mihi. Nam omnis mea
+                    obiurgatio non aliunde, quam ex meo in te amore processit. Vale, et me, ut
+                    soles, ama. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 26. Septembris 1532. </p>
             </div>
         </body>

@@ -255,8 +255,8 @@
                     daturum litterario, et molestiam temporis, quam ex patriae meae periculo maximam
                     et paene intollerabilem accepi, ut cumque fieri posset devorare. Idque cum
                     facere vellem, <persName>caesar</persName> paravit profectionem
-                        <placeName>Tornacum</placeName>,<note type="critic" xml:id="note.1">Tournai,
-                        Ep. 187. Cap. 2.<ref>olahus.tei.15311123_1</ref></note> cum quo et
+                        <placeName>Tornacum</placeName>,<note xml:id="note.1">Tournai, Ep. 187. Cap.
+                            2.<ref>olahus.tei.15311123_1</ref></note> cum quo et
                         <persName>regina</persName> eo venit. Equidem licet ex meo instituto plurima
                     sim usus excusatione, ut <del corresp="Olahus?">ad</del> me ab hoc labore
                     liberare possem et <placeName>Bruxellae</placeName> manere. Tamen
@@ -271,29 +271,28 @@
                 <p xml:id="p.4">[2.] Caesar ut cives honorare ornareque propter eorum in eum veterem
                     fidem et merita videretur, nullum hactenus praetermisit hic diem, quo non
                     aliquid ederet spectaculi. Tertio statim, postquam ingressi sumus, die dominica
-                    nempe festum Divi Andreae<note type="critic" xml:id="note.2">Sunday following 30
-                        November, i.e. 3 December.</note> sequenti ingressus est ecclesiam
-                    cathedralem cum magna pompa, insignibus et habitu rubro Ordinis Velleris
-                        Gedeonis<note type="critic" xml:id="note.3">See Ep. 187. Note
-                            9.<ref>olahus.tei.15311123_1</ref></note> indutus. Quem praecedebant
-                    duodecem ex ordine dominorum et comitum similem gestantes habitum, missaque die
-                    eo sollenniter peracta, secundo die inferiae celebratae sunt his, qui sunt ex eo
-                    ordine demortui. Qui ad numerum sese extendunt vigintiquattuor. Cui
-                        <persName>caesar</persName> cum suis in habitu pulchro interfuit, sub
-                    offertorio <persName>secretarius</persName> caesaris lingua sua Gallica, ut
-                    dicebatur disertissimus et facundus prolixam habuit de laudibus maiorum caesaris
-                    orationem. In qua enumeravit eos quoque, qui fuissent authores et postea
-                    commilitiones huius ordinis. Tertio deinde die <persName>caesar</persName> cum
-                    superstitibus fratribus eiusdem ordinis habitum ferens album ingressus est
-                    iterum ecclesiam maiorem, in qua in agendis divinis rebus magna erat omnium
-                    ordinum frequentia. Quarto die celebrati sunt in civitatis theatro<note
-                        type="critic" xml:id="note.4">In contemporary texts, it means a marketplace
-                        for the representation of a king or a prince, see <hi rend="smallcap"
-                            >Kovács</hi> 2008, 210.</note> lusus hastarum, qui dicuntur rumpere
-                    lanceas. Nunc exspectatur, ut nomina eorum, qui in locum demortuorum fratrum
-                    electi sunt, pronuntientur. Caesar diebus singulis cum militibus eius ordinis
-                    est in consilio. Nam illorum arbitrio eligi novi debent, nondum tamen aliquid ab
-                    eis est conclusum.</p>
+                    nempe festum Divi Andreae<note xml:id="note.2">Sunday following 30 November,
+                        i.e. 3 December.</note> sequenti ingressus est ecclesiam cathedralem cum
+                    magna pompa, insignibus et habitu rubro Ordinis Velleris Gedeonis<note
+                        xml:id="note.3">See Ep. 187. Note 9.<ref>olahus.tei.15311123_1</ref></note>
+                    indutus. Quem praecedebant duodecem ex ordine dominorum et comitum similem
+                    gestantes habitum, missaque die eo sollenniter peracta, secundo die inferiae
+                    celebratae sunt his, qui sunt ex eo ordine demortui. Qui ad numerum sese
+                    extendunt vigintiquattuor. Cui <persName>caesar</persName> cum suis in habitu
+                    pulchro interfuit, sub offertorio <persName>secretarius</persName> caesaris
+                    lingua sua Gallica, ut dicebatur disertissimus et facundus prolixam habuit de
+                    laudibus maiorum caesaris orationem. In qua enumeravit eos quoque, qui fuissent
+                    authores et postea commilitiones huius ordinis. Tertio deinde die
+                        <persName>caesar</persName> cum superstitibus fratribus eiusdem ordinis
+                    habitum ferens album ingressus est iterum ecclesiam maiorem, in qua in agendis
+                    divinis rebus magna erat omnium ordinum frequentia. Quarto die celebrati sunt in
+                    civitatis theatro<note xml:id="note.4">In contemporary texts, it means a
+                        marketplace for the representation of a king or a prince, see <hi
+                            rend="smallcap">Kovács</hi> 2008, 210.</note> lusus hastarum, qui
+                    dicuntur rumpere lanceas. Nunc exspectatur, ut nomina eorum, qui in locum
+                    demortuorum fratrum electi sunt, pronuntientur. Caesar diebus singulis cum
+                    militibus eius ordinis est in consilio. Nam illorum arbitrio eligi novi debent,
+                    nondum tamen aliquid ab eis est conclusum.</p>
                 <p xml:id="p.5">Ego ut non libenter ad hanc civitatem veni, ita magno aestuo
                     desiderio regrediendi <placeName>Bruxellas</placeName>, non ut istic quoque
                     meliorem animi quitem habeam, sed quod videor istic commodius me expensis, quae

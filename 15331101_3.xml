@@ -246,8 +246,7 @@
                                 <pb/>
                                 <p xml:id="p.1">Nicolai Olai ad Nicolaum Gherendi episcopum
                                         Transsilvaniensem.</p>
-                                <p xml:id="p.2">Ex litteris<note type="critic" xml:id="note.1">This
-                                                letter is not
+                                <p xml:id="p.2">Ex litteris<note xml:id="note.1">This letter is not
                                                 extant.</note><persName>Cegledini</persName>
                                         provisoris mei iam olim te incolumem ex
                                                 <placeName>Transsylvania</placeName> ad
@@ -260,8 +259,8 @@
                                         est, praesertim huic tuo, qui tuus est, <choice>
                                                 <orig>ψυχήτε καὶ σόματι</orig>
                                                 <supplied>ψυχῇ τε καὶ σώματι</supplied>
-                                        </choice>.<note type="critic" xml:id="note.2">‘for your body
-                                                and soul’.</note> Gratulor prospero felicique tuo
+                                        </choice>.<note xml:id="note.2">‘for your body and
+                                                soul’.</note> Gratulor prospero felicique tuo
                                         adventui, faxit Deus, ut incolumis vivas, teque et sanum et
                                         felicem videre possim. Si quid spei est in libertate
                                                 <placeName>Hungariae</placeName> et pacis alicuius

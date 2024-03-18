@@ -233,24 +233,23 @@
                 </floatingText>
                 <pb facs="15330910_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad eundem.</p>
-                <p xml:id="p.2">Ad priores litteras tuas respondi<note type="critic" xml:id="note.1"
-                        >See ep. 403.<ref>olahus.tei.15330903_2</ref></note> per postham proximum,
-                    heri accepi alias litteras tuas XX. Augusti <placeName>Viennae</placeName>
-                        datas.<note type="critic" xml:id="note.2">This letter is not extant.</note>
-                    Placet mihi, quod <placeName>Vesprimii</placeName> laboraveris pro bonorum
-                    meorum restitutione per episcopum <persName>Gherendi</persName><note
-                        type="critic" xml:id="note.3">See Ep. 403. Cap.
-                            3.<ref>olahus.tei.15330903_2</ref></note> et alios amicos meos,
-                    gratiasque tibi ago. Ad scitum regis dare poteris illorum difficultatem. Citatio
-                    illius si non proderit, non oberit. Tenta negotium. Litteras procuratorias misi,
-                    si hae non sufficerent, poteris has ostendendo <persName>domino
-                        Agriensi</persName><note type="critic" xml:id="note.4">Tamás
+                <p xml:id="p.2">Ad priores litteras tuas respondi<note xml:id="note.1">See ep.
+                            403.<ref>olahus.tei.15330903_2</ref></note> per postham proximum, heri
+                    accepi alias litteras tuas XX. Augusti <placeName>Viennae</placeName>
+                        datas.<note xml:id="note.2">This letter is not extant.</note> Placet mihi,
+                    quod <placeName>Vesprimii</placeName> laboraveris pro bonorum meorum
+                    restitutione per episcopum <persName>Gherendi</persName><note xml:id="note.3"
+                        >See Ep. 403. Cap. 3.<ref>olahus.tei.15330903_2</ref></note> et alios amicos
+                    meos, gratiasque tibi ago. Ad scitum regis dare poteris illorum difficultatem.
+                    Citatio illius si non proderit, non oberit. Tenta negotium. Litteras
+                    procuratorias misi, si hae non sufficerent, poteris has ostendendo
+                        <persName>domino Agriensi</persName><note xml:id="note.4">Tamás
                         Szalaházy.</note> cancellario regias litteras excipere, quae non
                     denegabuntur, dum meam manum videbit. Procuratoribus ego satisfaciam.
                     Scripsissem ad eos, sed nescio, quem elegeris in procurationem. Schedam
                     praesentibus inclusam ostende illi, quem elegeris, credet manui meae pro
-                    satisfactione. Si in reditu <persName>Cornelii</persName><note type="critic"
-                        xml:id="note.5">Cornelis de Schepper.</note> aliquis particularis </p>
+                    satisfactione. Si in reditu <persName>Cornelii</persName><note xml:id="note.5"
+                        >Cornelis de Schepper.</note> aliquis particularis </p>
                 <pb facs="15330910_1_2.jpg"/>
                 <p xml:id="p.3">tractatus sequetur cum vaivodanis, cura cum <persName>Stephano
                         Broderico</persName> et <persName>Nadasdy</persName>, si opus erit,

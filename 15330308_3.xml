@@ -236,18 +236,18 @@
                 <p xml:id="p.2">Post scripta venerunt litterae ad dominos regentes Vienenses ex
                         <placeName>Constantinopoli</placeName> 21. Ianuarii scriptae, quibus
                     significatur aperte pacem, concordiam et, ut litterae continent, bonum
-                    convicinium transactum<note type="critic" xml:id="note.1">The conclusion of
-                        paece was on 4 July, 1533, see <hi rend="smallcap">Petritsch</hi> 1991,
-                        26–27.</note> inter <persName>Turcarum caesarem</persName> et serenissimum
+                    convicinium transactum<note xml:id="note.1">The conclusion of paece was on 4
+                        July, 1533, see <hi rend="smallcap">Petritsch</hi> 1991, 26–27.</note> inter
+                        <persName>Turcarum caesarem</persName> et serenissimum
                         <persName>regem</persName> nostrum medio <persName>Hieronymi de
-                        Sara</persName>,<note type="critic" xml:id="note.2">Hieronymus of Zara
-                        (†1541) was legate of King Ferdinand I to Suleiman I in 1533.</note> qui
-                    alias maiestatis regiae nautico apparatui praefectus fuerat, et quod
+                        Sara</persName>,<note xml:id="note.2">Hieronymus of Zara (†1541) was legate
+                        of King Ferdinand I to Suleiman I in 1533.</note> qui alias maiestatis
+                    regiae nautico apparatui praefectus fuerat, et quod
                         <persName>caesaris</persName> illius orator non parvae existimationis cum
                         <persName>filio</persName><persName>Hyeronimi</persName> esse ad
                         <persName>principem</persName> nostrum dimissus versus
-                        <placeName>Rhagusium</placeName>,<note type="critic" xml:id="note.3"
-                        >Dubrovnik.</note> et eas partes <placeName>Carinthiae</placeName> aut
+                        <placeName>Rhagusium</placeName>,<note xml:id="note.3">Dubrovnik.</note> et
+                    eas partes <placeName>Carinthiae</placeName> aut
                         <placeName>Carniolae</placeName>. Iubet <persName>Hyeronimus</persName> ille
                     universos <persName>maiestatis regiae</persName> subditos bona spe esse. Immo
                     addit iubilare et Deo gratias agere nec levi verbo. Nam dicit <persName>caesarem
@@ -258,9 +258,9 @@
                         regiam</persName> significaturam serenissimae dominae
                         <persName>reginae</persName> omnem rerum statum lucidius, ex qua et
                     Dominatio Vestra intelliget. Utinam iam tandem Domini misericordia respiciat, ut
-                    finis flagelli et vexationis fiat.<note type="critic" xml:id="note.4">According
-                        to its opening words, this letter was written immediately after the previous
-                        one, Ep. 335.<ref>olahus.tei.15330308_2</ref></note></p>
+                    finis flagelli et vexationis fiat.<note xml:id="note.4">According to its opening
+                        words, this letter was written immediately after the previous one, Ep.
+                            335.<ref>olahus.tei.15330308_2</ref></note></p>
             </div>
         </body>
     </text>

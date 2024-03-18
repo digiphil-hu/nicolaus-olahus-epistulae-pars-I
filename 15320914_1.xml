@@ -230,30 +230,29 @@
                     </body>
                 </floatingText>
                 <pb facs="15320914_1_1.jpg"/>
-                <p xml:id="p.1">Mathias Auctus doctor<note type="critic" xml:id="note.1">Maciej
-                        Przybyło (ca. 1490–1543) was a humanist and physician of the city of Wrocław
-                            <hi rend="italic">(Stadtarzt)</hi>. He corresponded with many humanists,
+                <p xml:id="p.1">Mathias Auctus doctor<note xml:id="note.1">Maciej Przybyło (ca.
+                        1490–1543) was a humanist and physician of the city of Wrocław <hi
+                            rend="italic">(Stadtarzt)</hi>. He corresponded with many humanists,
                         e.g. Miklós Oláh and Philipp Melanchthon and supported Protestantism in
                         Wrocław. For more see <hi rend="smallcap">Bauch</hi> 1905, 184–191.</note>
                     Nicolao Olao secretario serenissimae Mariae.</p>
                 <p xml:id="p.2">Opportunitate iam iam nacta continere nequivi, quin te hominem mihi
                     observandum ac amantissimum scriptis meis inviserem. Id quidem per me iamdudum
                     fuerat constitutum, modo copia tabellionis ad loca tam longinqua adfuisset.
-                        <placeName>Vratislaviae</placeName><note type="critic" xml:id="note.2"
-                        >Wrocław.</note> physicum publicum honesto stipendio ago, ubi omnia ex animi
-                    sententia gratia domini mihi succedunt. Res in <placeName>Hungaria</placeName>
-                    et <placeName>Austria</placeName> ut se habeant, penitius longe novisti. Ex
-                    Hungaris solus doctor <persName>Henkel</persName><note type="critic"
-                        xml:id="note.3">Johann Henckel lived in Wrocław from 1531.</note> mihi
-                    consuetudine extat, quem una cum eius nepote<note type="critic" xml:id="note.4"
-                        >Johann Henckel the Younger (1513–1565) was the nephew of the Elder Henckel.
-                        Supported by his uncle, he studied at the University of Leuven from 1532,
-                        see <hi rend="smallcap">Pallos</hi> 2010.</note><persName>serenissimae
-                        maiestati</persName> commendabis, si per occasionem licebit, Aucti servitia
-                    suae maiestati etiam commendabis. <persName>Lucretiam Virginem</persName><note
-                        type="critic" xml:id="note.5">Lucretia Caballis (vom Ross).</note>
-                    pudicissimam salutari opto. Faxit dominus, ut aliquando conveniamus, valeat
-                    Dominatio Tua felix in longum.</p>
+                        <placeName>Vratislaviae</placeName><note xml:id="note.2">Wrocław.</note>
+                    physicum publicum honesto stipendio ago, ubi omnia ex animi sententia gratia
+                    domini mihi succedunt. Res in <placeName>Hungaria</placeName> et
+                        <placeName>Austria</placeName> ut se habeant, penitius longe novisti. Ex
+                    Hungaris solus doctor <persName>Henkel</persName><note xml:id="note.3">Johann
+                        Henckel lived in Wrocław from 1531.</note> mihi consuetudine extat, quem una
+                    cum eius nepote<note xml:id="note.4">Johann Henckel the Younger (1513–1565) was
+                        the nephew of the Elder Henckel. Supported by his uncle, he studied at the
+                        University of Leuven from 1532, see <hi rend="smallcap">Pallos</hi>
+                        2010.</note><persName>serenissimae maiestati</persName> commendabis, si per
+                    occasionem licebit, Aucti servitia suae maiestati etiam commendabis.
+                        <persName>Lucretiam Virginem</persName><note xml:id="note.5">Lucretia
+                        Caballis (vom Ross).</note> pudicissimam salutari opto. Faxit dominus, ut
+                    aliquando conveniamus, valeat Dominatio Tua felix in longum.</p>
                 <p xml:id="p.3"><placeName>Vratislaviae</placeName> 14. Septembris anno 1532.</p>
             </div>
         </body>

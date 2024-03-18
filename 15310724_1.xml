@@ -232,7 +232,7 @@
                     </body>
                 </floatingText>
                 <pb facs="15310724_1_1.jpg"/>
-                <p xml:id="p.1">Ad S. doctorem.<note type="critic" xml:id="note.1">See Ep. 159. Note
+                <p xml:id="p.1">Ad S. doctorem.<note xml:id="note.1">See Ep. 159. Note
                             1.<ref>olahus.tei.15310711_1</ref></note></p>
                 <p xml:id="p.2">Scito me nunquam fuisse animo perturbatiore, quam nunc sum. Quaeris
                     causam, cur? Multae sunt, mihi crede. Inter multas tamen ea est potissima, quod
@@ -240,19 +240,18 @@
                     consuetudinis fieri potest familiaritas, qua absente nihil in vita potest esse
                     homini suave, tum excrutior adversitate rerum mearum domesticarum, quarum
                     conditionem, statum et fortunam adversam ex tuis et aliorum amicorum meorum,
-                    quam domini <persName>Agriensis</persName><note type="critic" xml:id="note.2"
-                        >Tamás Szalaházy.</note> litteris satis clare iampridem intellexi. Deinde
-                    quod non ea mihi proponi hic videatur vivendi et manendi conditio, quam
-                    sperabam, et cuius spe promissis suavibus speciosisque verbis fretus meas
-                    domesticas res turbatas deserveram. Postremo nescio, quid alieni animum meum
-                    sentio praesagire de futura regni Hungariae aut mutatione aut emersione.
-                    Accepisti nunc causas, cur sim animo anxio, vide pro nostra mutua amicitia, quid
-                    mihi praestare possis auxilii et consilii, utriusque essem indigens, maxima in
-                    tanta amicorum non dicam perversitate, sed infidelitate. Si igitur vis rem
-                    gratam, qua gratiorem nunquam feceris, mihi nunc ostendere fac, ut si qua in re,
-                    vel praestare auxilium, vel mihi consilium, vel mihi consulere poteris, operam
-                    et officium tum mihi impartire. Ita amicitiae nostrae mutuae satisfacies.
-                    Vale.</p>
+                    quam domini <persName>Agriensis</persName><note xml:id="note.2">Tamás
+                        Szalaházy.</note> litteris satis clare iampridem intellexi. Deinde quod non
+                    ea mihi proponi hic videatur vivendi et manendi conditio, quam sperabam, et
+                    cuius spe promissis suavibus speciosisque verbis fretus meas domesticas res
+                    turbatas deserveram. Postremo nescio, quid alieni animum meum sentio praesagire
+                    de futura regni Hungariae aut mutatione aut emersione. Accepisti nunc causas,
+                    cur sim animo anxio, vide pro nostra mutua amicitia, quid mihi praestare possis
+                    auxilii et consilii, utriusque essem indigens, maxima in tanta amicorum non
+                    dicam perversitate, sed infidelitate. Si igitur vis rem gratam, qua gratiorem
+                    nunquam feceris, mihi nunc ostendere fac, ut si qua in re, vel praestare
+                    auxilium, vel mihi consilium, vel mihi consulere poteris, operam et officium tum
+                    mihi impartire. Ita amicitiae nostrae mutuae satisfacies. Vale.</p>
                 <p xml:id="p.3"><placeName>Bruxellis</placeName> XXIIII. Iulii <choice>
                         <orig>MQXXXI</orig>
                         <supplied>MDXXXI</supplied>

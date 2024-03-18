@@ -233,8 +233,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad Paulum Comagenum.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1">Ad Paulum Comagenum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Non dubitavi unquam, quin tu mearum rerum eam curam haberes, quam
                     mihi te suo tempore habiturum frequentibus es pollicitus litteris, neque putavi
                     te aliud facturum in illis conficiendis, si se tempus offerret opportunum, quam

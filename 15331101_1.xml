@@ -236,7 +236,7 @@
                 <pb facs="15331101_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Paulum Strigoniensem Archiepiscopum primatem et
                     supremum Hungariae cancellarium.</p>
-                <p xml:id="p.2">Commiseram<note type="critic" xml:id="note.1">See Ep.
+                <p xml:id="p.2">Commiseram<note xml:id="note.1">See Ep.
                             373.<ref>olahus.tei.15330605_2</ref></note> magistro <persName>Ioanni
                         Cegledino</persName>, provisori meo, ut si quae res mea authoritatem ac
                     patrocinium tuum desideraret, eam tibi referret, qui scripsit nuper ad me se id
@@ -245,11 +245,10 @@
                     immortales, relaturus omni genere officiorum, si quando usus se praestiterit,
                     scio te nova hinc a me exspectare. Nulla certe sunt digna significatu. De summo
                         <persName>pontificis</persName> cum <persName>rege Galliae</persName><note
-                        type="critic" xml:id="note.2">King Francis I.</note> conventu, de
-                    excommunicato <persName>rege Angliae</persName><note type="critic"
-                        xml:id="note.3">King Henry VIII.</note> propter repudiatam legitimam
-                        <persName>reginam</persName> et inductam illam
-                        <persName>pellicem</persName>,<note type="critic" xml:id="note.4">About the
+                        xml:id="note.2">King Francis I.</note> conventu, de excommunicato
+                        <persName>rege Angliae</persName><note xml:id="note.3">King Henry
+                        VIII.</note> propter repudiatam legitimam <persName>reginam</persName> et
+                    inductam illam <persName>pellicem</persName>,<note xml:id="note.4">About the
                         divorce of King Henry VIII see Ep. 358. Cap.
                             3.<ref>olahus.tei.15330501_1</ref></note> deque aliis rebus similibus
                     credo te iampridem certiorem factum. De quibus omnibus ego quoque suo tempore ad
@@ -258,12 +257,12 @@
                     praeteritum est, tribuere te id velim his peregrinationibus nostris molestis,
                     non meae negligentiae. Pacem factam esse inter serenissimum
                         <persName>regem</persName> nostrum et Turcam, ex litteris primum, deinde et
-                    ex sermone <persName>Cornelii</persName><note type="critic" xml:id="note.5"
-                        >Cornelis de Schepper was with Oláh between 25 and 27 October.</note>
-                    intellexi, utinam firmam etc. et <placeName>Hungariae</placeName> profuturam,
-                    vellem non modo cum Turca, sed etiam cum alia parte confectam esse; sic putarem
-                    eam quietiorem et firmiorem fore. Nam si divisio aliqua (quod multi suspicantur)
-                    fiet, sequetur paulo post totius regni periculum. Credo tamen te et </p>
+                    ex sermone <persName>Cornelii</persName><note xml:id="note.5">Cornelis de
+                        Schepper was with Oláh between 25 and 27 October.</note> intellexi, utinam
+                    firmam etc. et <placeName>Hungariae</placeName> profuturam, vellem non modo cum
+                    Turca, sed etiam cum alia parte confectam esse; sic putarem eam quietiorem et
+                    firmiorem fore. Nam si divisio aliqua (quod multi suspicantur) fiet, sequetur
+                    paulo post totius regni periculum. Credo tamen te et </p>
                 <pb facs="15331101_1_2.jpg"/>
                 <p xml:id="p.3">alios dominos tale medium cum rege reperturum, ut huic malo arceri
                     possit, et non passuros, ut tam nobile regnum, cuius non est simile aliud, si ad

@@ -253,9 +253,9 @@
                 <pb facs="15320302_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus secretarius Arnoldo Oridryo Hangiensi.</p>
                 <p xml:id="p.2">[1.] Cum nuper post nostrum ex <placeName>Tornaco</placeName><note
-                        type="critic" xml:id="note.1">Tournai.</note> huc reditum aliquantisper, mi
-                    Doctissime Oridri, respirassem, redditae mihi fuerunt litterae tuae et elegantes
-                    et doctissimae, quibus plane declarasti, quo in me esses amore, humanitate et
+                        xml:id="note.1">Tournai.</note> huc reditum aliquantisper, mi Doctissime
+                    Oridri, respirassem, redditae mihi fuerunt litterae tuae et elegantes et
+                    doctissimae, quibus plane declarasti, quo in me esses amore, humanitate et
                     benevolentia. Nec te temperasti, quin mihi eas tribueres virtutum laudes, quas
                     in me minores esse, quam tu de me amicissime praedicas, arbitror. Agis tamen tu
                     amantium exemplo, qui etiam eas res, quae fortasse non tam dignae <del
@@ -271,12 +271,12 @@
                     non amico in te esse animo declarare posset. Nam non rescripsi hactenus tum
                     propter tabellionum raritatem, tum propter mea et <persName>reginae</persName>
                     meae pleraque negotia, cuius rei optimus testis esse poterit
-                        <persName>Danus</persName>,<note type="critic" xml:id="note.2">Jakob
-                        Jespersen.</note><add corresp="Olahus" type="insert">qui</add> indies meas
-                    videt occupationes. Boni igitur consule, si tardius ad te rescripserim, quam vel
-                    tuus in me amor, vel meum in te officium exposcebat. Si quid est hac re erratum,
-                    crebrioribus meis ad te litteris posthac resarciam, modo tabellarios ad te
-                    profecturos nancisci possim.</p>
+                        <persName>Danus</persName>,<note xml:id="note.2">Jakob Jespersen.</note><add
+                        corresp="Olahus" type="insert">qui</add> indies meas videt occupationes.
+                    Boni igitur consule, si tardius ad te rescripserim, quam vel tuus in me amor,
+                    vel meum in te officium exposcebat. Si quid est hac re erratum, crebrioribus
+                    meis ad te litteris posthac resarciam, modo tabellarios ad te profecturos
+                    nancisci possim.</p>
                 <p xml:id="p.3">[2.] Tua illa Graecae grammatices editione, etiamsi non hortareris,
                     ut facis amicissime, tamen pro meo commodo uterer quam libentissime. Nam ipse
                     quoque </p>

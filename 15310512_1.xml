@@ -239,31 +239,30 @@
                 <p xml:id="p.2"><del corresp="Olahus">Egregie</del><add corresp="Olahus"
                         type="insert">Reverende</add> Domine, Amice nobis honorande! Postquam
                     Dominatio Vestra ex hac patria nostra communi in regna ac provincias
-                        externas<note type="critic" xml:id="note.1">Thurzó means that after Oláh had
-                        left Hungary and Austria. Oláh sent him several letters from Linz and
-                        Augsburg, see the letters Ep. 32, Ep. 47, Ep. 48, Ep., 59, Ep. 80, Ep. 81,
-                        Ep. 106, and Ep.
-                        107.<ref>olahus.tei.15300130_1</ref></note><ref>/o:olahus.tei.15300225_2</ref><ref>/o:olahus.tei.15300225_3</ref><ref>/o:olahus.tei.15300308_2</ref><ref>/o:olahus.tei.15300714_1</ref><ref>/o:olahus.tei.15300723_1</ref><ref>/o:olahus.tei.15301030_1</ref><ref>/o:olahus.tei.15301031_1</ref>
+                        externas<note xml:id="note.1">Thurzó means that after Oláh had left Hungary
+                        and Austria. Oláh sent him several letters from Linz and Augsburg, see the
+                        letters Ep. 32, Ep. 47, Ep. 48, Ep., 59, Ep. 80, Ep. 81, Ep. 106, and Ep.
+                            107.<ref>olahus.tei.15300130_1</ref></note><ref>/o:olahus.tei.15300225_2</ref><ref>/o:olahus.tei.15300225_3</ref><ref>/o:olahus.tei.15300308_2</ref><ref>/o:olahus.tei.15300714_1</ref><ref>/o:olahus.tei.15300723_1</ref><ref>/o:olahus.tei.15301030_1</ref><ref>/o:olahus.tei.15301031_1</ref>
                     se recepit et nostri et officii sui immemor, raras eius accepimus litteras. Non
                     fuisset alienum a nostra amicitia, ut Dominatio Vestra more suo alias consueto
                     frequentiores de rebus omnibus, praesertim de iis, quae dignae fuissent ad nos
                     perferre, fecisset nos certiores. Sed ita usu venit, ut absentia oblivionem
                     eorum, quorum consuetudo intermittitur, adferat. Ceterum meminit Dominatio
                     Vestra, quod alias quoque locuti sumus Dominationi Vestrae de negotio plebaniae
-                    de <placeName>Myskolcz</placeName>,<note type="critic" xml:id="note.2">The
-                        parish of Miskolc was donated to Soklyóssy by Queen Mary in 1524, but later
-                        she retracted the donation, and so it remained with Oláh, see <hi
-                            rend="smallcap">Erdélyi</hi> 2005, 236. Note 291. About the debate on
-                        the parish of Miskolc, see Ep. 147. Cap. 2.; <hi rend="smallcap">Huszti</hi>
-                        1998, 624–626, and <hi rend="smallcap">Dobrossy</hi> 2000,
-                            172.<ref>olahus.tei.15310502_2</ref></note> quae ut Dominatio Vestra non
+                    de <placeName>Myskolcz</placeName>,<note xml:id="note.2">The parish of Miskolc
+                        was donated to Soklyóssy by Queen Mary in 1524, but later she retracted the
+                        donation, and so it remained with Oláh, see <hi rend="smallcap">Erdélyi</hi>
+                        2005, 236. Note 291. About the debate on the parish of Miskolc, see Ep. 147.
+                        Cap. 2.; <hi rend="smallcap">Huszti</hi> 1998, 624–626, and <hi
+                            rend="smallcap">Dobrossy</hi> 2000,
+                        172.<ref>olahus.tei.15310502_2</ref></note> quae ut Dominatio Vestra non
                     ignorat, fuit capellano etiam nostro, videlicet magistro <persName>Ladislao de
-                        Soklyos</persName>,<note type="critic" xml:id="note.3">László Soklyóssy,
-                        Canon of Bratislava between 1525–1533, from 1543 Canon of Esztergom, see
-                        Esztergom, PL, AR AS, Classis O, 596; <hi rend="smallcap">Kenyeres</hi>
-                        2002, 72, and <hi rend="smallcap">Kollányi</hi> 1900, 144.</note> canonico
-                    ecclesiae Posoniensis collata, quod Dominatio Vestra cum alioquin non indigeat
-                    in praesentia eiusmodi beneficio, amicitiae nostrae causa plebaniam illam eidem
+                        Soklyos</persName>,<note xml:id="note.3">László Soklyóssy, Canon of
+                        Bratislava between 1525–1533, from 1543 Canon of Esztergom, see Esztergom,
+                        PL, AR AS, Classis O, 596; <hi rend="smallcap">Kenyeres</hi> 2002, 72, and
+                            <hi rend="smallcap">Kollányi</hi> 1900, 144.</note> canonico ecclesiae
+                    Posoniensis collata, quod Dominatio Vestra cum alioquin non indigeat in
+                    praesentia eiusmodi beneficio, amicitiae nostrae causa plebaniam illam eidem
                     capellano nostro dare, remittere et resignare curaret, protraxit tamen Dominatio
                     Vestra idipsum usque in hoc tempus, et cum quidam <persName>Martinus</persName>
                     presbyter, qui Dominationem Vestram in ea plebania vicem gessit, iam sit vita

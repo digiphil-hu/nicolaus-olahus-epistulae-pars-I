@@ -229,8 +229,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15300113_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Nicolaum Feretanum</persName><note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note> praepositum.</p>
+                <p xml:id="p.1">Ad <persName>Nicolaum Feretanum</persName><note xml:id="note.1">We
+                        do not know him more closely.</note> praepositum.</p>
                 <p xml:id="p.2">[1.] Reversis nuper sine responso nuntiis tuis, qui ad me urbem hanc
                     ingredientem celeri itinere venerant, coactus sum meum proprium ad te cum his
                     litteris mittere, ut intelligeres, quam mihi cordi curaeque </p>
@@ -255,11 +255,11 @@
                     memineris, scies profecto, quid sit tibi faciendum, nam ex re consilium capere
                     poteris. Quod ita tibi erit commodum et utile, si accepta occasione cito ad nos
                     veneris.</p>
-                <p xml:id="p.5"><persName>Nicolaus</persName><note type="critic" xml:id="note.2">We
-                        do not know him more closely.</note> tuus quibus rationibus se et tuas omnes
-                    res fidei suae creditas palam sit tutatus, accepisti iam ex proximis meis
-                    litteris. Non est opus me illas nunc replicare, ne solito molestior tibi esse
-                    videar. Vale.</p>
+                <p xml:id="p.5"><persName>Nicolaus</persName><note xml:id="note.2">We do not know
+                        him more closely.</note> tuus quibus rationibus se et tuas omnes res fidei
+                    suae creditas palam sit tutatus, accepisti iam ex proximis meis litteris. Non
+                    est opus me illas nunc replicare, ne solito molestior tibi esse videar.
+                    Vale.</p>
                 <p xml:id="p.6">Ex <placeName>Lincio</placeName> 13. Ianuarii 1530.</p>
             </div>
         </body>

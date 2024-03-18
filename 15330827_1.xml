@@ -236,91 +236,89 @@
                 </floatingText>
                 <pb facs="15330827_1_1.jpg"/>
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori caesareo salutem.</p>
-                <p xml:id="p.2">[1.] Superioribus diebus pluribus descripsi<note type="critic"
-                        xml:id="note.1">See Ep. 390. Cap. 2.<ref>olahus.tei.15330806_2</ref></note>
-                    rerum Danicarum statum, quatenus a fide dignis viris intelligere poteram. Res
-                    est adhuc in eodem statu: interregnum ibi est. Consiliarii regni sunt
-                    interreges, dum inter fratres de imperio concernantes, et dum eorum aliquis
-                    legitime eligetur ex regnicolarum voluntate, concordatum fuerit. Nudiustertius
-                    hoc est XXV. huius mensis venerunt ex <placeName>Dania</placeName> huc oratores
-                        <persName>Wolffgangus ad Wtenhouven</persName><note type="critic"
-                        xml:id="note.2">Wolfgang von Utenhof (Utenhoven) (ca. 1495–1542) was a
-                        Chancellor. In the beginning, he entered the service of King Frederick I of
-                        Denmark, then he changed sides to King Christian II and later returned to
-                        King Frederick I. For more see <hi rend="smallcap">Venge</hi>
-                        1979–1984b.</note> cancellarius, <persName>Otthomarus
-                        Krompey</persName><note type="critic" xml:id="note.3">Otte Krumpen
-                        (1480–1569) was a Danish bureaucrat and later Marshal of Denmark from 1554
-                        to 1567. Making a proposal for a treaty between the Netherlands and Denmark,
-                        Krumpen, Wolfgang Utenhof, and Melchior Rantzau became delegates of the
-                        Council of Governors and concluded the final treaty in Ghent. For more see
-                            <hi rend="smallcap">Colding</hi> 1979–1984.</note> et <persName>Melchior
-                        Rantzo</persName><note type="critic" xml:id="note.4">Melchior Rantzau
-                        (1496–1539) was Count of Holstein and one of the most important councillors
-                        of the Dukes of Holstein and the King of Denmark. In May 1533 he set up an
-                        arrangement between Emperor Charles V and Denmark which imparted the throne
-                        to King Christian II. See more <hi rend="smallcap">Venge</hi> 1979–1984a,
-                        and <hi rend="smallcap">Venge</hi> 1985.</note> regni illius et regnicolarum
+                <p xml:id="p.2">[1.] Superioribus diebus pluribus descripsi<note xml:id="note.1">See
+                        Ep. 390. Cap. 2.<ref>olahus.tei.15330806_2</ref></note> rerum Danicarum
+                    statum, quatenus a fide dignis viris intelligere poteram. Res est adhuc in eodem
+                    statu: interregnum ibi est. Consiliarii regni sunt interreges, dum inter fratres
+                    de imperio concernantes, et dum eorum aliquis legitime eligetur ex regnicolarum
+                    voluntate, concordatum fuerit. Nudiustertius hoc est XXV. huius mensis venerunt
+                    ex <placeName>Dania</placeName> huc oratores <persName>Wolffgangus ad
+                        Wtenhouven</persName><note xml:id="note.2">Wolfgang von Utenhof (Utenhoven)
+                        (ca. 1495–1542) was a Chancellor. In the beginning, he entered the service
+                        of King Frederick I of Denmark, then he changed sides to King Christian II
+                        and later returned to King Frederick I. For more see <hi rend="smallcap"
+                            >Venge</hi> 1979–1984b.</note> cancellarius, <persName>Otthomarus
+                        Krompey</persName><note xml:id="note.3">Otte Krumpen (1480–1569) was a
+                        Danish bureaucrat and later Marshal of Denmark from 1554 to 1567. Making a
+                        proposal for a treaty between the Netherlands and Denmark, Krumpen, Wolfgang
+                        Utenhof, and Melchior Rantzau became delegates of the Council of Governors
+                        and concluded the final treaty in Ghent. For more see <hi rend="smallcap"
+                            >Colding</hi> 1979–1984.</note> et <persName>Melchior
+                        Rantzo</persName><note xml:id="note.4">Melchior Rantzau (1496–1539) was
+                        Count of Holstein and one of the most important councillors of the Dukes of
+                        Holstein and the King of Denmark. In May 1533 he set up an arrangement
+                        between Emperor Charles V and Denmark which imparted the throne to King
+                        Christian II. See more <hi rend="smallcap">Venge</hi> 1979–1984a, and <hi
+                            rend="smallcap">Venge</hi> 1985.</note> regni illius et regnicolarum
                     nomine, quibus hodie secreto consilio audientia praebita est; agunt de quibusdam
                     pacis conditionibus.</p>
                 <p xml:id="p.3">Heri vesperi <persName>reginam</persName> accessi, et in memoriam
                     eius reduxi pristinam ac benevolam ipsius in rebus tuis responsionem orans, ut
                     et nunc eo animo rebus tuis auxiliaretur, quo prius, postquam tu beneficia tua
-                    omnia in provinciis <persName>regis Christierni</persName><note type="critic"
-                        xml:id="note.5">King Christian II of Denmark.</note> et prolium suarum
-                    amiseris, et summam rei tuae penes illos in discrimen posueris; respondit se
-                    curam tui tuarumque rerum habituram, et libenter tibi, dum tempus adfuerit,
-                    auxiliaturam. Haec ipsius fuerunt verba. Quia tamen scio principum </p>
+                    omnia in provinciis <persName>regis Christierni</persName><note xml:id="note.5"
+                        >King Christian II of Denmark.</note> et prolium suarum amiseris, et summam
+                    rei tuae penes illos in discrimen posueris; respondit se curam tui tuarumque
+                    rerum habituram, et libenter tibi, dum tempus adfuerit, auxiliaturam. Haec
+                    ipsius fuerunt verba. Quia tamen scio principum </p>
                 <pb facs="15330827_1_2.jpg"/>
                 <p xml:id="p.4">eam esse saepe conditionem, ut inter alia maiora rerum talium
                     obliviscantur, quendam amicum meum rogavi e numero consiliariorum
                         <persName>caesaris</persName>, huic nomen est <persName>Erhardus
-                        Mweler</persName>,<note type="critic" xml:id="note.6">Erhart Müller was
-                        assistant of Oecolampadius from 1528, see <hi rend="smallcap"
-                            >Wackernagel</hi> 1924, III, 473.</note> qui pollicitus est mihi amice
-                    se proculdubio me admoniturum, quando viderit esse opportunitatem in rebus tuis
-                    agendi. Qui postquam me admonuerit, statim reginam sollicite in rebus tuis
-                    urgebo, et quid futurum sit, faciam te certiorem. Attamen ut ego libere meam
-                    sententiam exponam, quam habeo: quia hi oratores nomine totius regni
-                        <placeName>Daniae</placeName> venerunt, et rem reipublicae nomine agunt,
-                    videtur non commode posse habere locum rem nunc tuam. Quia arbitror primariam
-                    esse ecclesiam Lundensem<note type="critic" xml:id="note.7">Lund.</note> in
-                        <placeName>Dania</placeName> et <persName>archiepiscopum</persName> non
-                    infimae istic esse authoritati, cuius quidem <persName>archiepiscopi</persName>
-                    et etiam <persName>episcopi Rosuldensis</persName><note type="critic"
-                        xml:id="note.8">Probably Joachim Rønnow, Bishop of Roskilde.</note> aeque,
-                    ut aliorum dominorum Danorum hi oratores agunt legationem; quid igitur finiri
-                    nunc in re tua possit, nescio. Equidem nihil sum praetermissurus, quod ad rem
-                    tuam etiam omnibus viis curandam pertinuerit. Si unquam ageretur de
-                        <persName>Christierno</persName> liberando, qui adhuc captus est, vel de
-                    filia locanda futuro regi, tunc videretur meo iudicio esse locus rerum tuarum
-                    agendarum. Nihilominus in omnem eventum ego nunc quoque nihil negligam. Et
-                    rescribam, quid sit secuturum.</p>
-                <p xml:id="p.5">[2.] <persName>Cornelium</persName><note type="critic"
-                        xml:id="note.9">Cornelis de Schepper.</note> nostrum credo iam revertisse,
-                    utinam optata relatione ac regi, regno <placeName>Hungariae</placeName> et nobis
-                    omnibus proficua! Quas pacis conditiones reportavit, rogo, faciat me certiorem,
-                    pariter et de rebus aliis mihi scribat. Ad eum nunc scribere non potui, propter
-                    veredarii celerem abitum, scribam tamen propediem. Nunc significa ei uxorem suam
-                    cum filiolo feliciter valere. Quae mihi etiam hic existenti nudiustertius
-                        scripserat<note type="critic" xml:id="note.10">This letter is not
-                        extant.</note> intimans suam et suorum incolumitatem et vicissim sciscitata
-                    fuit de conditione et adventu <persName>Cornelii</persName>, cui et spem et
-                    verba dedi. Litteris meis proximis scripseram Holandos et Zelandos expeditionem </p>
+                        Mweler</persName>,<note xml:id="note.6">Erhart Müller was assistant of
+                        Oecolampadius from 1528, see <hi rend="smallcap">Wackernagel</hi> 1924, III,
+                        473.</note> qui pollicitus est mihi amice se proculdubio me admoniturum,
+                    quando viderit esse opportunitatem in rebus tuis agendi. Qui postquam me
+                    admonuerit, statim reginam sollicite in rebus tuis urgebo, et quid futurum sit,
+                    faciam te certiorem. Attamen ut ego libere meam sententiam exponam, quam habeo:
+                    quia hi oratores nomine totius regni <placeName>Daniae</placeName> venerunt, et
+                    rem reipublicae nomine agunt, videtur non commode posse habere locum rem nunc
+                    tuam. Quia arbitror primariam esse ecclesiam Lundensem<note xml:id="note.7"
+                        >Lund.</note> in <placeName>Dania</placeName> et
+                        <persName>archiepiscopum</persName> non infimae istic esse authoritati,
+                    cuius quidem <persName>archiepiscopi</persName> et etiam <persName>episcopi
+                        Rosuldensis</persName><note xml:id="note.8">Probably Joachim Rønnow, Bishop
+                        of Roskilde.</note> aeque, ut aliorum dominorum Danorum hi oratores agunt
+                    legationem; quid igitur finiri nunc in re tua possit, nescio. Equidem nihil sum
+                    praetermissurus, quod ad rem tuam etiam omnibus viis curandam pertinuerit. Si
+                    unquam ageretur de <persName>Christierno</persName> liberando, qui adhuc captus
+                    est, vel de filia locanda futuro regi, tunc videretur meo iudicio esse locus
+                    rerum tuarum agendarum. Nihilominus in omnem eventum ego nunc quoque nihil
+                    negligam. Et rescribam, quid sit secuturum.</p>
+                <p xml:id="p.5">[2.] <persName>Cornelium</persName><note xml:id="note.9">Cornelis de
+                        Schepper.</note> nostrum credo iam revertisse, utinam optata relatione ac
+                    regi, regno <placeName>Hungariae</placeName> et nobis omnibus proficua! Quas
+                    pacis conditiones reportavit, rogo, faciat me certiorem, pariter et de rebus
+                    aliis mihi scribat. Ad eum nunc scribere non potui, propter veredarii celerem
+                    abitum, scribam tamen propediem. Nunc significa ei uxorem suam cum filiolo
+                    feliciter valere. Quae mihi etiam hic existenti nudiustertius scripserat<note
+                        xml:id="note.10">This letter is not extant.</note> intimans suam et suorum
+                    incolumitatem et vicissim sciscitata fuit de conditione et adventu
+                        <persName>Cornelii</persName>, cui et spem et verba dedi. Litteris meis
+                    proximis scripseram Holandos et Zelandos expeditionem </p>
                 <pb facs="15330827_1_3.jpg"/>
-                <p xml:id="p.6">huius anni contra Lubecenses<note type="critic" xml:id="note.11"
-                        >Lübeck, see Ep. 390. Note 12.<ref>olahus.tei.15330806_2</ref></note>
-                    distulisse in sequentem annum. Tamen his octo diebus venerunt litterae a
-                        <persName>Hosthratio</persName><note type="critic" xml:id="note.12">Antoine
-                        I de Lalaing.</note> nunc in <placeName>Holandia</placeName> agente, quibus
-                    ille significat se cum aliis classem viginti navium bene instructam comparasse
-                    et misisse contra Lubecenses; haec de ea re scribere possum. Litteras omnes,
-                    quae ad me venerunt, proxime per fidum nuntium <placeName>Bruxellas</placeName>
-                    ad <persName>Ioannem Stanshardum</persName><note type="critic" xml:id="note.13"
-                        >We do not know him more closely, see ep. 375. Note
-                            10.<ref>olahus.tei.15330605_4</ref></note> misi, qui ad eas respondit,
-                    quas cum praesentibus ad te mitto. Saluta <persName>Cornelium</persName>, ad
-                    quem propediem scribam, si est reversus. Commendo <choice>
+                <p xml:id="p.6">huius anni contra Lubecenses<note xml:id="note.11">Lübeck, see Ep.
+                        390. Note 12.<ref>olahus.tei.15330806_2</ref></note> distulisse in sequentem
+                    annum. Tamen his octo diebus venerunt litterae a
+                        <persName>Hosthratio</persName><note xml:id="note.12">Antoine I de
+                        Lalaing.</note> nunc in <placeName>Holandia</placeName> agente, quibus ille
+                    significat se cum aliis classem viginti navium bene instructam comparasse et
+                    misisse contra Lubecenses; haec de ea re scribere possum. Litteras omnes, quae
+                    ad me venerunt, proxime per fidum nuntium <placeName>Bruxellas</placeName> ad
+                        <persName>Ioannem Stanshardum</persName><note xml:id="note.13">We do not
+                        know him more closely, see ep. 375. Note
+                        10.<ref>olahus.tei.15330605_4</ref></note> misi, qui ad eas respondit, quas
+                    cum praesentibus ad te mitto. Saluta <persName>Cornelium</persName>, ad quem
+                    propediem scribam, si est reversus. Commendo <choice>
                         <orig>utriusque</orig>
                         <supplied>utrumque</supplied>
                     </choice> meum negotium, quod quale sit, ex meis prioribus intellexistis.

@@ -234,10 +234,10 @@
                     </body>
                 </floatingText>
                 <pb facs="15320302_2_1.jpg"/>
-                <p xml:id="p.1"> Ad Ioannem Rocenum.<note type="critic" xml:id="note.1">We do not
-                        know exactly who he is. He might be Johannes Rocetus, see Ep. 180, or John
-                        Fisher (Johannes Rofferius) Ep. 123, and Ep.
-                            124.<ref>olahus.tei.15311026_1</ref></note><ref>/o:olahus.tei.15301030_1</ref><ref>/o:olahus.tei.15301202_1</ref></p>
+                <p xml:id="p.1"> Ad Ioannem Rocenum.<note xml:id="note.1">We do not know exactly who
+                        he is. He might be Johannes Rocetus, see Ep. 180, or John Fisher (Johannes
+                        Rofferius) Ep. 123, and Ep.
+                        124.<ref>olahus.tei.15311026_1</ref></note><ref>/o:olahus.tei.15301030_1</ref><ref>/o:olahus.tei.15301202_1</ref></p>
                 <p xml:id="p.2">Desedit maestitia paulisper mei animi nuper ex tuorum morte non
                     vulgariter concepta, quae tibi explicare vix possum, quam me multos dies acriter
                     torserat ita, ut parum abfuerit, quin in aliquod malum prolapsus fuerim et
@@ -266,9 +266,9 @@
                     quamobrem? Propter rerum mearum amissionem, et quod tamdiu absum a patria inter
                     nationes exteras, denique quod nescio, an Dei voluntate vel quo meo infortunio
                     reginae animum quotidie video mutari. Vale.</p>
-                <p xml:id="p.3">II. Martii MDXXXII.<note type="critic" xml:id="note.2">The previous
-                        letter, Ep. 217 was written that very day in Brussels, and that is the
-                        motivation for this dating.<ref>olahus.tei.15320302_1</ref></note></p>
+                <p xml:id="p.3">II. Martii MDXXXII.<note xml:id="note.2">The previous letter, Ep.
+                        217 was written that very day in Brussels, and that is the motivation for
+                        this dating.<ref>olahus.tei.15320302_1</ref></note></p>
             </div>
         </body>
     </text>

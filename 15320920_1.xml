@@ -230,19 +230,19 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad Ioannem Rutenum.<note type="critic" xml:id="note.1">Johannes
-                        Ruthenus (Gnostipolitanus) (†1565) studied with Luther in Wittenberg and
-                        became a schoolmaster in Augsburg. He is known for the edition of the Latin
+                <p xml:id="p.1">Ad Ioannem Rutenum.<note xml:id="note.1">Johannes Ruthenus
+                        (Gnostipolitanus) (†1565) studied with Luther in Wittenberg and became a
+                        schoolmaster in Augsburg. He is known for the edition of the Latin
                         curriculum made by Thomas Linacre, see <hi rend="italic">Corpus emendatae
                             structurae Latini sermonis, lib. sex, authore Th. Linacro Britanno, in
                             typos aliquot luculentissimos contractum, per Ioannem Ruthenum
                             Constadianum</hi>, Basilae, per Ioannem Oporinum, 1553.</note></p>
-                <p xml:id="p.2">Quaeris a me causam, cur aedificationis consilium<note type="critic"
+                <p xml:id="p.2">Quaeris a me causam, cur aedificationis consilium<note
                         xml:id="note.2">See Ep. 261.<ref>olahus.tei.15320908_1</ref></note>
                     praetermiserim, si ab initio rationem mei consilii enumerare vellem. Non possem
                     tibi non taedium afferre, verum quae res me moverit, ut id facerem, intelliges a
-                        <persName>Demetrio</persName><note type="critic" xml:id="note.3">We do not
-                        know him more closely.</note> meo, quem nunc ad te misi <choice>
+                        <persName>Demetrio</persName><note xml:id="note.3">We do not know him more
+                        closely.</note> meo, quem nunc ad te misi <choice>
                         <orig>hunc</orig>
                         <supplied>cum</supplied>
                     </choice> iussu, ut omnem rationem mei facti tibi explicet, si quid postea ultra

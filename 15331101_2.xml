@@ -231,20 +231,19 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Thomam episcopum Agriensem cancellarium.</p>
-                <p xml:id="p.2"><persName>Cornelii</persName><note type="critic" xml:id="note.1"
-                        >Cornelis de Schepper.</note> reditum scio non minimam spem attulisse
-                    futurae pacis, quae utinam integra sit, vera et firma. Exitus hiemis vel vernum
-                    tempus declarabit, quid sit sperandum. Ego et spero et timeo. Spero, quia et
-                    alii sperant, timeo, quod expertus iam sim, quid fidendum sit hostibus. De meis
-                    rebus nihil hactenus factum esse intelligo, spes mea est in te, cuius optatis
-                    semper me paratum praestiti et praestiturus sum etiam deinceps, hoc animo erga
-                    te affectum iuvare debes, ut mea bona recuperet magister
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.2">János
-                        Czeglédi.</note>. In <persName>rege</persName> nihil deesse puto, modo
-                    demonstraretur ei via, qua violenti meorum tentores cogi possint. Sum aere
-                    gravatus alieno et eo gravius, quo sum in extrema regione. Si aliquid pecuniarum
-                    ad me mittere volueris, eam ad manus <persName>camerarii</persName><note
-                        type="critic" xml:id="note.3">Bernard
+                <p xml:id="p.2"><persName>Cornelii</persName><note xml:id="note.1">Cornelis de
+                        Schepper.</note> reditum scio non minimam spem attulisse futurae pacis, quae
+                    utinam integra sit, vera et firma. Exitus hiemis vel vernum tempus declarabit,
+                    quid sit sperandum. Ego et spero et timeo. Spero, quia et alii sperant, timeo,
+                    quod expertus iam sim, quid fidendum sit hostibus. De meis rebus nihil hactenus
+                    factum esse intelligo, spes mea est in te, cuius optatis semper me paratum
+                    praestiti et praestiturus sum etiam deinceps, hoc animo erga te affectum iuvare
+                    debes, ut mea bona recuperet magister <persName>Ioannes</persName><note
+                        xml:id="note.2">János Czeglédi.</note>. In <persName>rege</persName> nihil
+                    deesse puto, modo demonstraretur ei via, qua violenti meorum tentores cogi
+                    possint. Sum aere gravatus alieno et eo gravius, quo sum in extrema regione. Si
+                    aliquid pecuniarum ad me mittere volueris, eam ad manus
+                        <persName>camerarii</persName><note xml:id="note.3">Bernard
                         Beheim.</note><persName>reginae</persName> iube consignari, cuius opera a
                     mensariis eam levare hic potero. Vale.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 1. Novembris 1533.</p>

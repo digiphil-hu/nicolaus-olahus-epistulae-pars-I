@@ -233,15 +233,14 @@
                 <p xml:id="p.1">Ad Ioannem baronem.</p>
                 <p xml:id="p.2">Ex litteris quibusdam ex Hungaria ad me allatis et ex quorundam
                     exploratorum certa relatione in scriptis huc perlata certo certius intellexi
-                        <persName>Petrum Pereny</persName><note type="critic" xml:id="note.1">Péter
-                        Perényi.</note> in festo divae Margarethae virginis,<note type="critic"
-                        xml:id="note.2">On 20 July, we celebrate Margaret the Virgin, or Margaret of
-                        Antioch.</note> quod erat vigesima secunda Iulii praeteriti, cum mille et
-                    ducentis equitibus levis armaturae ex arce sua
-                        <placeName>Sothyas</placeName><note type="critic" xml:id="note.3">Probably,
-                        Siklós.</note> obviam Turco venisse ad <placeName>Ezzek</placeName>.<note
-                        type="critic" xml:id="note.4">Osijek.</note> Hoc tibi significavi, ut illius
-                    statum tibi amicissimi cognosceres.</p>
+                        <persName>Petrum Pereny</persName><note xml:id="note.1">Péter
+                        Perényi.</note> in festo divae Margarethae virginis,<note xml:id="note.2">On
+                        20 July, we celebrate Margaret the Virgin, or Margaret of Antioch.</note>
+                    quod erat vigesima secunda Iulii praeteriti, cum mille et ducentis equitibus
+                    levis armaturae ex arce sua <placeName>Sothyas</placeName><note xml:id="note.3"
+                        >Probably, Siklós.</note> obviam Turco venisse ad
+                        <placeName>Ezzek</placeName>.<note xml:id="note.4">Osijek.</note> Hoc tibi
+                    significavi, ut illius statum tibi amicissimi cognosceres.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> prima Augusti 1532.</p>
             </div>
         </body>

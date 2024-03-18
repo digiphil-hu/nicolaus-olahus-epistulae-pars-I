@@ -240,43 +240,42 @@
                 <pb facs="15310910_1_1.jpg"/>
                 <p xml:id="p.1">Caspar Ursinus Velius Nicolao Olao thesaurario Albensi secretario
                     reginae Mariae.</p>
-                <p xml:id="p.2">Εἰκόνα<note type="critic" xml:id="note.1">Effigy or portrait.</note>
-                    sive effigiem meam adhuc apud te esse arbitror. Proinde mihi pergratum feceris,
-                    si primo quoque tempore miseris <placeName>Spiram</placeName><note type="critic"
-                        xml:id="note.2">Speyer.</note>. Nos fruimur induciis annuis, quas tamen
-                    adversarii non admodum sancte observant. Ego <placeName>Viennae</placeName>
-                    totos sex menses fui, illic et quartum historiae librum<note type="critic"
-                        xml:id="note.3"><hi rend="italic">De bello Pannonico libri decem.</hi>
-                        Edition and Hungarian translation: <hi rend="smallcap">Kollar</hi> 1762, and
-                            <hi rend="smallcap">Szebelédi</hi> 2013. According to Szebelédi, Ursinus
-                        wrote this book between 1531–1537, see <hi rend="smallcap">Szebelédi</hi>
-                        2015, 197.</note> absolvi, et libellum confeci de interitu Ludovici regis et
-                    clade Hungariae.<note type="critic" xml:id="note.4"><hi rend="italic">De
-                            interitu Ludovici regis et clade Hungariae</hi> was dormant until Spring
-                        2018, when Péter Kasza discovered its manuscript. See <hi rend="smallcap"
-                            >Kasza</hi> 2018.</note> Praeterea versu elegiaco composui <hi
-                        rend="italic">Querelam <del corresp="Olahus?">Austriam</del><add
-                            corresp="Olahus?" type="corr">Austriae</add> ad reliquam
-                        Germaniam</hi>,<note type="critic" xml:id="note.5"><hi rend="italic">Querela
-                            Austriae sive epistola ad reliquam Germaniam</hi> C. Vrsino Velio R. H.
-                        Authore, Augsburg, MDXXXI.</note> in qua utriusque
+                <p xml:id="p.2">Εἰκόνα<note xml:id="note.1">Effigy or portrait.</note> sive effigiem
+                    meam adhuc apud te esse arbitror. Proinde mihi pergratum feceris, si primo
+                    quoque tempore miseris <placeName>Spiram</placeName><note xml:id="note.2"
+                        >Speyer.</note>. Nos fruimur induciis annuis, quas tamen adversarii non
+                    admodum sancte observant. Ego <placeName>Viennae</placeName> totos sex menses
+                    fui, illic et quartum historiae librum<note xml:id="note.3"><hi rend="italic">De
+                            bello Pannonico libri decem.</hi> Edition and Hungarian translation: <hi
+                            rend="smallcap">Kollar</hi> 1762, and <hi rend="smallcap">Szebelédi</hi>
+                        2013. According to Szebelédi, Ursinus wrote this book between 1531–1537, see
+                            <hi rend="smallcap">Szebelédi</hi> 2015, 197.</note> absolvi, et
+                    libellum confeci de interitu Ludovici regis et clade Hungariae.<note
+                        xml:id="note.4"><hi rend="italic">De interitu Ludovici regis et clade
+                            Hungariae</hi> was dormant until Spring 2018, when Péter Kasza
+                        discovered its manuscript. See <hi rend="smallcap">Kasza</hi> 2018.</note>
+                    Praeterea versu elegiaco composui <hi rend="italic">Querelam <del
+                            corresp="Olahus?">Austriam</del><add corresp="Olahus?" type="corr"
+                            >Austriae</add> ad reliquam Germaniam</hi>,<note xml:id="note.5"><hi
+                            rend="italic">Querela Austriae sive epistola ad reliquam Germaniam</hi>
+                        C. Vrsino Velio R. H. Authore, Augsburg, MDXXXI.</note> in qua utriusque
                         <placeName>Pannoniae</placeName> laus in primis enitescit. Simulatque
                         <placeName>Spiram</placeName> ventum fuerit, typographis excudendam mature
-                    tradam una cum <hi rend="italic">Epistola itineraria</hi>,<note type="critic"
-                        xml:id="note.6">Velius addressed his Hodoeporicon to Dantyszek, see <hi
-                            rend="smallcap">Bauch</hi> 1886, 65.</note> in qua descriptum est iter
-                    in <placeName>Ubiis</placeName><note type="critic" xml:id="note.7">Udine.</note>
-                    usque in <placeName>Austriam</placeName>. Die VII. Augusti suscepi ex uxore
-                    filiam satis scitam viro puellulam. Etiam atque etiam Tuam Dominationem rogo et
-                    oro, ut illustrissimae atque excellentissimae feminae ac reginae clarissimae de
-                    optima nota me subinde commendet. Ego amori tuo ac fidei me penitus trado et
+                    tradam una cum <hi rend="italic">Epistola itineraria</hi>,<note xml:id="note.6"
+                        >Velius addressed his Hodoeporicon to Dantyszek, see <hi rend="smallcap"
+                            >Bauch</hi> 1886, 65.</note> in qua descriptum est iter in
+                        <placeName>Ubiis</placeName><note xml:id="note.7">Udine.</note> usque in
+                        <placeName>Austriam</placeName>. Die VII. Augusti suscepi ex uxore filiam
+                    satis scitam viro puellulam. Etiam atque etiam Tuam Dominationem rogo et oro, ut
+                    illustrissimae atque excellentissimae feminae ac reginae clarissimae de optima
+                    nota me subinde commendet. Ego amori tuo ac fidei me penitus trado et
                     committo.</p>
                 <p xml:id="p.3"><placeName>Stutgardiae</placeName> die X. Septembris anno 1531.</p>
                 <p xml:id="p.4">Utor suavissima consuetudine <persName>Francisci Posoniensis
-                        praepositi</persName>,<note type="critic" xml:id="note.8">Ferenc
-                        Újlaki.</note> ac quoties per assignatores licet, eodem cum eo diversorio
-                    accipior, garrimus invicem, interdum etiam de te, et nonnunquam libris, sed
-                    frequentius libero operam damus.</p>
+                        praepositi</persName>,<note xml:id="note.8">Ferenc Újlaki.</note> ac quoties
+                    per assignatores licet, eodem cum eo diversorio accipior, garrimus invicem,
+                    interdum etiam de te, et nonnunquam libris, sed frequentius libero operam
+                    damus.</p>
             </div>
         </body>
     </text>

@@ -255,28 +255,27 @@
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao salutem. Reverende et Excellens
                     Domine, Maior et Amice Carissime et Honorandissime!</p>
                 <p xml:id="p.2">[1.] Nolo longa praefatione tecum uti, cuius perspecta est mihi
-                    integritas, proinde ad rem. Post novissimas litteras meas<note type="critic"
-                        xml:id="note.1">Ep. 317.<ref>olahus.tei.15330208_1</ref></note> tam in re
-                    sacrae <persName>reginalis maiestatis</persName>, quam Reverendissimae
-                    Dominationis Vestrae conveni serenissimum <persName>regem Romanorum</persName>
-                    non tam anxius de re praefatae <persName>reginalis maiestatis</persName>, quam
-                    sciebam <persName>fratri</persName> curae esse, quam de iis, quae ad
-                    Reverendissimam Dominationem Vestram attinent. Respondit in rem
-                        <persName>maiestatis reginalis</persName> facturum, ut
-                        <persName>fratrem</persName> decet, adiunxit illam esse optime de se meritam
-                    et replicavit bis idipsum, tandem subiunxit et sororem postea iterum talem, et
-                    tam bene meritam. Nosti hunc affectum esse magnum. De re Dominationis Vestrae
-                    Reverendissimae dixit se recordari et minime obliturum. Itaque tum ipsius
-                    maiestatis benevolentia, tum officio et sedulitate domini <persName>Gabrielis
-                        Xanthi</persName><note type="critic" xml:id="note.2">Gabriel Sanchez.</note>
-                    nihil non debet boni sperare Reverendissima Dominatio Vestra.</p>
+                    integritas, proinde ad rem. Post novissimas litteras meas<note xml:id="note.1"
+                        >Ep. 317.<ref>olahus.tei.15330208_1</ref></note> tam in re sacrae
+                        <persName>reginalis maiestatis</persName>, quam Reverendissimae Dominationis
+                    Vestrae conveni serenissimum <persName>regem Romanorum</persName> non tam anxius
+                    de re praefatae <persName>reginalis maiestatis</persName>, quam sciebam
+                        <persName>fratri</persName> curae esse, quam de iis, quae ad Reverendissimam
+                    Dominationem Vestram attinent. Respondit in rem <persName>maiestatis
+                        reginalis</persName> facturum, ut <persName>fratrem</persName> decet,
+                    adiunxit illam esse optime de se meritam et replicavit bis idipsum, tandem
+                    subiunxit et sororem postea iterum talem, et tam bene meritam. Nosti hunc
+                    affectum esse magnum. De re Dominationis Vestrae Reverendissimae dixit se
+                    recordari et minime obliturum. Itaque tum ipsius maiestatis benevolentia, tum
+                    officio et sedulitate domini <persName>Gabrielis Xanthi</persName><note
+                        xml:id="note.2">Gabriel Sanchez.</note> nihil non debet boni sperare
+                    Reverendissima Dominatio Vestra.</p>
                 <p xml:id="p.3">[2.] Quod ad me attinet, quae superioribus litteris<note
-                        type="critic" xml:id="note.3">Ep.
-                        317.<ref>olahus.tei.15330208_1</ref></note> ad te scripsi, illa facturum
-                    esse, iamque pro parte fecisse ne dubita. Cras hinc sumus abituri collega meus
-                    et ego cum aequali potestate. Deus faxit, ut bonum ad finem res haec perduci
-                    possit. Primi tractatus nostri erunt, ut adhortemur tam regios, quam vaivodanos
-                    ad pacem. Neque nescimus a regiis propositum iri principio, ut
+                        xml:id="note.3">Ep. 317.<ref>olahus.tei.15330208_1</ref></note> ad te
+                    scripsi, illa facturum esse, iamque pro parte fecisse ne dubita. Cras hinc sumus
+                    abituri collega meus et ego cum aequali potestate. Deus faxit, ut bonum ad finem
+                    res haec perduci possit. Primi tractatus nostri erunt, ut adhortemur tam regios,
+                    quam vaivodanos ad pacem. Neque nescimus a regiis propositum iri principio, ut
                         <persName>vaivoda</persName> cedat ea parte regni, quam habet; vicissim
                         <persName>maiestatem regiam</persName> sese ita gesturam erga eum, ut
                     apparere possit minime illum poenitere debere huius cessionis. Tum quid sint
@@ -285,45 +284,44 @@
                     quas litteras, quia scio Reverendissimae Dominationis Vestrae communes fore, non
                     amplius addam illis de rebus. Venturi sunt ex parte
                         <persName>vaivodae</persName><persName>Franciscus de
-                        Frangipanibus</persName> archiepiscopus Collocensis,<note type="critic"
-                        xml:id="note.4">Ferenc Frangepán.</note> item <persName>Stephanus
-                        Brodericus</persName> et <persName>Stephanus Verbetzy</persName><note
-                        type="critic" xml:id="note.5">István Werbőczy.</note> et
-                        <persName>Nadasdy</persName> et alii. </p>
+                        Frangipanibus</persName> archiepiscopus Collocensis,<note xml:id="note.4"
+                        >Ferenc Frangepán.</note> item <persName>Stephanus Brodericus</persName> et
+                        <persName>Stephanus Verbetzy</persName><note xml:id="note.5">István
+                        Werbőczy.</note> et <persName>Nadasdy</persName> et alii. </p>
                 <pb facs="15330218_1_2.jpg"/>
                 <p xml:id="p.4">Ex parte serenissimi <persName>regis</persName> praeter duos
-                        <persName>Sigismundos de Dieteristain</persName><note type="critic"
-                        xml:id="note.6">Sigismund von Dietrichstein (1484–1533) was an Austrian
-                        nobleman and Imperial Councilor, and from 1515 to 1529 also the Governor <hi
+                        <persName>Sigismundos de Dieteristain</persName><note xml:id="note.6"
+                        >Sigismund von Dietrichstein (1484–1533) was an Austrian nobleman and
+                        Imperial Councilor, and from 1515 to 1529 also the Governor <hi
                             rend="italic">(Landeshauptmann)</hi> of Styria, see <hi rend="smallcap"
                             >Varga</hi> 2008, 1105.</note> et <persName>de
-                        Herbestain</persName><note type="critic" xml:id="note.7">Sigismund von
-                        Herberstein (1486–1566) was a Carniolan diplomat, writer, and member of the
-                        Holy Roman Empire’s Imperial Council. For his life and his diplomatical
-                        relations, see <hi rend="smallcap">Picard</hi> 1967, 166–174.</note> erunt
-                    ex omnibus provinciis legati et oratores, sed illi primi. Polonorum nemo vocatus
-                    est ad hunc conventum, sed nihil id refert. Semper sunt nobis integra omnia eo
-                    genere, quo ad Reverendissimam Dominationem Vestram nuper scripsi, praetera
-                    valde vicini sumus <placeName>Poloniae</placeName>, ut ad omnes casus illic
-                    possit nobis esse recursus.</p>
+                        Herbestain</persName><note xml:id="note.7">Sigismund von Herberstein
+                        (1486–1566) was a Carniolan diplomat, writer, and member of the Holy Roman
+                        Empire’s Imperial Council. For his life and his diplomatical relations, see
+                            <hi rend="smallcap">Picard</hi> 1967, 166–174.</note> erunt ex omnibus
+                    provinciis legati et oratores, sed illi primi. Polonorum nemo vocatus est ad
+                    hunc conventum, sed nihil id refert. Semper sunt nobis integra omnia eo genere,
+                    quo ad Reverendissimam Dominationem Vestram nuper scripsi, praetera valde vicini
+                    sumus <placeName>Poloniae</placeName>, ut ad omnes casus illic possit nobis esse
+                    recursus.</p>
                 <p xml:id="p.5">[3.] Serenissimus <persName>rex Romanorum</persName> haeret
                         <placeName>Lincii</placeName> dubitans in <placeName>Bohemiam</placeName>ne,
                     an in <placeName>Moraviam</placeName> sese sit collaturus, et vicinus esse
                     possit his tractatibus. Quid actum sit <placeName>Peterkoviae</placeName><note
-                        type="critic" xml:id="note.8">Piotrków.</note> in comitiis Polonorum, nondum
-                    scimus. Exspecto ego de die in diem litteras, per quas certior de omnibus sum
-                    futurus. Tum nihil Reverendissimae Dominationi Vestrae celavero. De
-                        <persName>Ludovico Gritti</persName> nihil audimus; abiit trans
-                        <placeName>Dravum</placeName>. Si qui inter nominatos Hungaros amici sunt,
-                    Reverendissima Dominatio Vestra et ad eos quicquam scribere velit, mittat ad me
-                    litteras per <persName>Gabrielem Xantum</persName>. Uni primum aliquid tractare
-                    coeperimus, confestim et reginalem maiestatem et Dominationem Vestram
-                    Reverendissimam de hoc faciam certiorem. Interim dignetur me reginali maiestati
-                    humillime commendare, si sese obtulerit occasio Dominationi Vestrae
-                    Reverendissimae scribendi <placeName>Brugas</placeName>, nuntiet
-                        <persName>uxori</persName> et amicis rectissime me valere. Mitto ad illos
-                    nunc etiam litteras, sed in omnem eventum poterit eam operam amico praestare. Et
-                    rectissime valeat Reverendissima Dominatio Vestra, cui me ex animo commendo.</p>
+                        xml:id="note.8">Piotrków.</note> in comitiis Polonorum, nondum scimus.
+                    Exspecto ego de die in diem litteras, per quas certior de omnibus sum futurus.
+                    Tum nihil Reverendissimae Dominationi Vestrae celavero. De <persName>Ludovico
+                        Gritti</persName> nihil audimus; abiit trans <placeName>Dravum</placeName>.
+                    Si qui inter nominatos Hungaros amici sunt, Reverendissima Dominatio Vestra et
+                    ad eos quicquam scribere velit, mittat ad me litteras per <persName>Gabrielem
+                        Xantum</persName>. Uni primum aliquid tractare coeperimus, confestim et
+                    reginalem maiestatem et Dominationem Vestram Reverendissimam de hoc faciam
+                    certiorem. Interim dignetur me reginali maiestati humillime commendare, si sese
+                    obtulerit occasio Dominationi Vestrae Reverendissimae scribendi
+                        <placeName>Brugas</placeName>, nuntiet <persName>uxori</persName> et amicis
+                    rectissime me valere. Mitto ad illos nunc etiam litteras, sed in omnem eventum
+                    poterit eam operam amico praestare. Et rectissime valeat Reverendissima
+                    Dominatio Vestra, cui me ex animo commendo.</p>
                 <p xml:id="p.6">Ex <placeName>Lyncio</placeName> die XVIII. Februarii 1533.</p>
             </div>
         </body>

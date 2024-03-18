@@ -265,68 +265,67 @@
                 <p xml:id="p.2">[1.] Nonne tibi videor inofficiosus, ne dicam inhumanus, qui ad te
                     tanto temporis curriculo nullas dederim litteras. Verum me hoc vitio <add
                         corresp="Olahus" type="insert">a te</add> accusari minime posse
-                        arbitror.<note type="critic" xml:id="note.1">We only know one letter by Oláh
-                        addressed to Burgio, see Ep. 153.<ref>olahus.tei.15310530_1</ref></note> Nam
-                    ut in mei excusationem paulo altius repetam, ea, quae post serenissimi regis mei
+                        arbitror.<note xml:id="note.1">We only know one letter by Oláh addressed to
+                        Burgio, see Ep. 153.<ref>olahus.tei.15310530_1</ref></note> Nam ut in mei
+                    excusationem paulo altius repetam, ea, quae post serenissimi regis mei
                         <persName>Ludovici</persName> cladem miserabilem consecuta sunt tempora,
                     licebit me initium scribendi sumere ex tua <placeName>Pisonio</placeName><note
-                        type="critic" xml:id="note.2">Bratislava.</note> a nobis in
-                        <placeName>Urbem</placeName><note type="critic" xml:id="note.3">Rome.</note>
-                        profectione.<note type="critic" xml:id="note.4">Burgio left Bratislava on 5
-                        September, 1526.</note> Cum tu bene de regno
-                        <placeName>Hungariae</placeName> et serenissima regina mea
-                        <persName>Maria</persName> propter tuas virtutes meritus ex
-                        <placeName>Posonio</placeName> ad <placeName>Urbem</placeName> reverteris,
-                    nihil erat <persName>Bioderico</persName><note type="critic" xml:id="note.5"
-                        >István Brodarics.</note> nostro, mihi et aliis omnibus tui observantibus
-                    tua profectione molestius, qui tua iucunda familiaritate, consuetudine et
-                    humanitate carituri essemus. Sed necessitas vicit nostrum affectum. Et quod ex
-                    affectu moleste ferebamus, id necessitate patienter nos ferre oportuit,
-                    praesertim cum tuam profectionem magnum tibi in <placeName>Urbe</placeName>
-                    decoris, commodi, utilitatis et gloriae parituram existimaremus. Discessisti
-                    igitur a nobis non sine nostro magno tui desiderio, quod tua quam coram
-                    saepissime egeramus, comitas, humanitas et mansuetudo mirum in modum in nobis
-                    auxerat. Ab eo tempore, ubi egeris gentium, in Urbene commoratus fueris, an
-                    alibi locorum, non prius scire potuimus, quam proxime ex redeuntis a
+                        xml:id="note.2">Bratislava.</note> a nobis in
+                        <placeName>Urbem</placeName><note xml:id="note.3">Rome.</note>
+                        profectione.<note xml:id="note.4">Burgio left Bratislava on 5 September,
+                        1526.</note> Cum tu bene de regno <placeName>Hungariae</placeName> et
+                    serenissima regina mea <persName>Maria</persName> propter tuas virtutes meritus
+                    ex <placeName>Posonio</placeName> ad <placeName>Urbem</placeName> reverteris,
+                    nihil erat <persName>Bioderico</persName><note xml:id="note.5">István
+                        Brodarics.</note> nostro, mihi et aliis omnibus tui observantibus tua
+                    profectione molestius, qui tua iucunda familiaritate, consuetudine et humanitate
+                    carituri essemus. Sed necessitas vicit nostrum affectum. Et quod ex affectu
+                    moleste ferebamus, id necessitate patienter nos ferre oportuit, praesertim cum
+                    tuam profectionem magnum tibi in <placeName>Urbe</placeName> decoris, commodi,
+                    utilitatis et gloriae parituram existimaremus. Discessisti igitur a nobis non
+                    sine nostro magno tui desiderio, quod tua quam coram saepissime egeramus,
+                    comitas, humanitas et mansuetudo mirum in modum in nobis auxerat. Ab eo tempore,
+                    ubi egeris gentium, in Urbene commoratus fueris, an alibi locorum, non prius
+                    scire potuimus, quam proxime ex redeuntis a
                         <placeName>Gallia</placeName><persName>Czethlicz</persName><note
-                        type="critic" xml:id="note.6">Ulrich Czettrich von Kynsberg or Četrys z
-                        Kinšperka was a page of King Louis II and is generally known as the witness
-                        of the King’s death. He reported to the Queen on 31 August in Bratislava,
-                        which Burgio noted down in his letter of 5 September, see <hi
-                            rend="smallcap">Kasza</hi> 2016, and <hi rend="smallcap">Magyar</hi>
-                        2016.</note> sermone, et ex litteris tuis ad <persName>Virginem
-                        Lucretiam</persName><note type="critic" xml:id="note.7">Lucretia Caballis
-                        (vom Ross).</note> datis, ex quibus et sermonibus et litteris cognovi te in
-                        <placeName>Anglia</placeName> oratorem agere pontificis. Quod maximae mihi
-                    fuit voluptati, eam maxime ob causam, quod te prope haberem, cum quo et litteris
-                    et, si tantum esset futurum mihi otium, <del corresp="Olahus">nostra</del><add
-                        corresp="Olahus" type="corr">coram</add> agere possem.</p>
+                        xml:id="note.6">Ulrich Czettrich von Kynsberg or Četrys z Kinšperka was a
+                        page of King Louis II and is generally known as the witness of the King’s
+                        death. He reported to the Queen on 31 August in Bratislava, which Burgio
+                        noted down in his letter of 5 September, see <hi rend="smallcap">Kasza</hi>
+                        2016, and <hi rend="smallcap">Magyar</hi> 2016.</note> sermone, et ex
+                    litteris tuis ad <persName>Virginem Lucretiam</persName><note xml:id="note.7"
+                        >Lucretia Caballis (vom Ross).</note> datis, ex quibus et sermonibus et
+                    litteris cognovi te in <placeName>Anglia</placeName> oratorem agere pontificis.
+                    Quod maximae mihi fuit voluptati, eam maxime ob causam, quod te prope haberem,
+                    cum quo et litteris et, si tantum esset futurum mihi otium, <del
+                        corresp="Olahus">nostra</del><add corresp="Olahus" type="corr">coram</add>
+                    agere possem.</p>
                 <p xml:id="p.3">[2.] Nunc vicissim nostrum ab eo tempore, quo nos
                         <placeName>Posonii</placeName> reliqueris, <del corresp="Olahus"
                         >factum</del><add corresp="Olahus" type="corr">studium</add> accipe, et quae
                     nos interea sollicitaverit presseritque fortuna, quibusve fatis agitati
                     fuerimus, animadverte. <persName>Brodericus</persName> non multis post tuam
                     profectionem diebus a nobis ad <persName>Ioannem regem</persName>
-                        desciverat<note type="critic" xml:id="note.8">Brodarics changed sides in
-                        March 1527, which he explained in his letter called “Dévény epistle”, for
-                        more see <hi rend="smallcap">Kasza</hi> 2015, 71–82.</note>, profectusque
-                        <del corresp="Olahus">est</del><add corresp="Olahus" type="corr"
+                        desciverat<note xml:id="note.8">Brodarics changed sides in March 1527, which
+                        he explained in his letter called “Dévény epistle”, for more see <hi
+                            rend="smallcap">Kasza</hi> 2015, 71–82.</note>, profectusque <del
+                        corresp="Olahus">est</del><add corresp="Olahus" type="corr"
                         >fuit</add><placeName>Budam</placeName>. Ab eo tempore quid fecerit, ubi
                     fuerit, quam habuerit conditionem, certo nunquam potui intelligere. Rumore <add
                         corresp="Olahus" type="insert">quidem</add> ferebatur ipso profectum eum
                     fuisse legatum ad pontificem, tum <persName>Franciscum regem
-                        Galliae</persName><note type="critic" xml:id="note.9">King Francis I, King
-                        of France (1494–1547).</note> et ad alios principes. Nos
+                        Galliae</persName><note xml:id="note.9">King Francis I, King of France
+                        (1494–1547).</note> et ad alios principes. Nos
                         <placeName>Posonii</placeName> post regis nostri
-                        <persName>Ferdinandi</persName> electionem,<note type="critic"
-                        xml:id="note.10">On 16 December, 1526, see Book 2 of Velius’ <hi
-                            rend="italic">Historiae</hi> in <hi rend="smallcap">Kollár</hi> 1762,
-                        27–33. On the coronations of both kings see <hi rend="smallcap">Pálffy</hi>
-                        2009b, 37–41.</note> cui et <persName>Brodericus</persName> non modo
-                    adfuerat, sed et album, ut dicunt, calculum adposuerat,<note type="critic"
-                        xml:id="note.11">Meaning he approved.</note> aliquandiu commorati, tum <del
-                        corresp="Olahus">Posonii</del><add corresp="Olahus" type="corr">ibi</add>,
-                    tum <placeName>Viennae</placeName> fuimus.</p>
+                        <persName>Ferdinandi</persName> electionem,<note xml:id="note.10">On 16
+                        December, 1526, see Book 2 of Velius’ <hi rend="italic">Historiae</hi> in
+                            <hi rend="smallcap">Kollár</hi> 1762, 27–33. On the coronations of both
+                        kings see <hi rend="smallcap">Pálffy</hi> 2009b, 37–41.</note> cui et
+                        <persName>Brodericus</persName> non modo adfuerat, sed et album, ut dicunt,
+                    calculum adposuerat,<note xml:id="note.11">Meaning he approved.</note>
+                    aliquandiu commorati, tum <del corresp="Olahus">Posonii</del><add
+                        corresp="Olahus" type="corr">ibi</add>, tum <placeName>Viennae</placeName>
+                    fuimus.</p>
                 <p xml:id="p.4">[3.] Tandem <del corresp="Olahus">primoribus</del><add
                         corresp="Olahus" type="corr">proceribus</add> nostris, quos
                         <placeName>Posonii</placeName> reliqueras ita volentibus rex ipse noster
@@ -334,25 +333,24 @@
                         >est</del><add corresp="Olahus" type="corr">fuit</add> ad
                         <placeName>Hungariam</placeName> cum exercitu septem aut octo <del
                         corresp="Olahus">millibus</del><add corresp="Olahus" type="corr"
-                        >millium</add> hominum. <placeName>Strigonium</placeName><note type="critic"
+                        >millium</add> hominum. <placeName>Strigonium</placeName><note
                         xml:id="note.12">Esztergom.</note> ei deditum per <persName>Paulum
-                        archiepiscopum</persName><note type="critic" xml:id="note.13">Pál
-                        Várday.</note><del corresp="Olahus">fuit</del><add corresp="Olahus"
-                        type="corr">fuerat</add>, <placeName>Buda</placeName> pariter dedita.
-                        <persName>Ioannes</persName> interea rex profugerat </p>
+                        archiepiscopum</persName><note xml:id="note.13">Pál Várday.</note><del
+                        corresp="Olahus">fuit</del><add corresp="Olahus" type="corr">fuerat</add>,
+                        <placeName>Buda</placeName> pariter dedita. <persName>Ioannes</persName>
+                    interea rex profugerat </p>
                 <pb facs="15311016_1_2.jpg"/>
-                <p xml:id="p.5"><placeName>Agriam</placeName><note type="critic" xml:id="note.14"
-                        >Eger.</note> versus, ubi fuerat ad arcem suam <placeName>Thokay</placeName>
-                    a nostris prostratus.<note type="critic" xml:id="note.15">In the battle of Tokaj
-                        on 27 September, 1527, King John I’s army was defeated and he fled.</note>
-                    Non multo autem post tempore indicta die coronationis
-                        <persName>rex</persName><placeName>Albam Regalem</placeName><note
-                        type="critic" xml:id="note.16">Székesfehérvár.</note> proficiscitur<note
-                        type="critic" xml:id="note.17">3 November 1527.</note>. Coronam Petrus
-                        Pereny,<note type="critic" xml:id="note.18">Péter Perényi (ca. 1502–1548)
-                        was Keeper of the Holy Crown <hi rend="italic">(conservator coronae)</hi>
-                        and <hi rend="italic">ispán</hi> of the Temes and Abaúj counties from 1519.
-                        He participated in the battle of Mohács and became loyal to King John I, who
+                <p xml:id="p.5"><placeName>Agriam</placeName><note xml:id="note.14">Eger.</note>
+                    versus, ubi fuerat ad arcem suam <placeName>Thokay</placeName> a nostris
+                        prostratus.<note xml:id="note.15">In the battle of Tokaj on 27 September,
+                        1527, King John I’s army was defeated and he fled.</note> Non multo autem
+                    post tempore indicta die coronationis <persName>rex</persName><placeName>Albam
+                        Regalem</placeName><note xml:id="note.16">Székesfehérvár.</note>
+                        proficiscitur<note xml:id="note.17">3 November 1527.</note>. Coronam Petrus
+                        Pereny,<note xml:id="note.18">Péter Perényi (ca. 1502–1548) was Keeper of
+                        the Holy Crown <hi rend="italic">(conservator coronae)</hi> and <hi
+                            rend="italic">ispán</hi> of the Temes and Abaúj counties from 1519. He
+                        participated in the battle of Mohács and became loyal to King John I, who
                         appointed him Voivode of Transylvania. After the battle, he hid the crown in
                         Trenčín, and later gave it to Szapolyai for his coronation. In November
                         1527, he changed sides and gave the crown to King Ferdinand I and became his
@@ -364,7 +362,7 @@
                     coronatur <add corresp="Olahus" type="insert">anno Domini 1527 die tertia
                         Novembris</add> cum summa omnium utriusque ordinis dominorum exultatione.
                     Revertitur <persName>regina</persName> ad <placeName>Owar</placeName><note
-                        type="critic" xml:id="note.19">Magyaróvár.</note>,
+                        xml:id="note.19">Magyaróvár.</note>,
                         <persName>rex</persName><placeName>Strigonium</placeName> profectus est. Ego
                     vero eum secutus, tum quod res meae ita exigebant, tum quod volebam me a reginae
                     servitiis, si fieri potuisset eximere, ne perpetuo in gynnecio desidere viderer.
@@ -377,10 +375,10 @@
                         <placeName>Pragam</placeName> ad conventum inter Bohemos agendum, qui cum in
                     temporis secretarium regni <placeName>Hungariae</placeName> apud se haberet
                     neminem, et regiis et <persName>Agriensis episcopi cancellarii</persName><note
-                        type="critic" xml:id="note.20">Tamás Szalaházy.</note> Hungariae litteris
-                    sollicitatus fui aliquoties, ut ad regem proficiscerer, et officium istic meum
-                    exercerem, sed refragante <add corresp="Olahus" type="insert">retinenteque</add>
-                    regina id me facere minime licuit.</p>
+                        xml:id="note.20">Tamás Szalaházy.</note> Hungariae litteris sollicitatus fui
+                    aliquoties, ut ad regem proficiscerer, et officium istic meum exercerem, sed
+                    refragante <add corresp="Olahus" type="insert">retinenteque</add> regina id me
+                    facere minime licuit.</p>
                 <p xml:id="p.6">[4.] Ab eo tempore semper me regina detinuit, <del corresp="Olahus"
                         >et</del><add corresp="Olahus" type="corr">cuius</add> ego quoque, cum
                     viderem in omnibus Hungariae locis tempestatem oborituram, non multum sum
@@ -393,8 +391,8 @@
                     fuerim, similior currenti quam residenti, quas cursitationes, quos labores
                     obiverimus. Si enim ea omnia, quae interea peragraverimus loca, explicare tibi
                     vellem, dies unus et alter me deficeret, nec tibi arbitrarer me voluptatem hac
-                    rerum nostrarum commemoratione allaturum.<note type="critic" xml:id="note.21"
-                        >Cf. Ep. 175. Cap. 2.<ref>olahus.tei.15311002_1</ref></note></p>
+                    rerum nostrarum commemoratione allaturum.<note xml:id="note.21">Cf. Ep. 175.
+                        Cap. 2.<ref>olahus.tei.15311002_1</ref></note></p>
                 <p xml:id="p.7">Novissime, ne rebus etiam in extremis reginae pro mea in illam fide
                     et constantia deesse viderer, secutus sum eam huc usque, ut postquam eam in
                     multis adversis fortunis, casibus et cursitationibus, in ipsius egestate eam

@@ -237,8 +237,8 @@
                 <p xml:id="p.2">Venit hodie fama, Turcam convocatis omnibus suis, qui hincinde
                     dispersi erant, militibus, per <placeName>Stiriam</placeName>,
                         <placeName>Carinthiam</placeName> et <placeName>Sclavoniam</placeName><note
-                        type="critic" xml:id="note.1">Through Styria, Carinthia, and
-                        Slavonia.</note> domum revertisse. Id si ita est, non possum non <choice>
+                        xml:id="note.1">Through Styria, Carinthia, and Slavonia.</note> domum
+                    revertisse. Id si ita est, non possum non <choice>
                         <orig>dolore</orig>
                         <supplied>dolere</supplied>
                     </choice>, tum quod arbitror eum multa milia Christianorum in reditu in miseram

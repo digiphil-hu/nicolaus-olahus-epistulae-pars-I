@@ -243,11 +243,11 @@
                     non per te stetit. Verum vel negligentia accidit illorum, qui se missuros
                     polliciti sunt, vel penuria hominum certorum, quibus perferenda tuto
                     committeretur. Scribam vero ad illos denuo, sed neque magnopere dolebo, si
-                    perierit εἰκών<note type="critic" xml:id="note.1">‘effigy’.</note></p>
+                    perierit εἰκών<note xml:id="note.1">‘effigy’.</note></p>
                 <pb facs="15311121_1_2.jpg"/>
                 <p xml:id="p.3">cum et mihi aliquando sit occidendum. <hi rend="italic">De clade
                         Ungariae et Ludovici regis interitu optimi et innocentissimi principis</hi>
-                    libellum <note type="critic" xml:id="note.2">See Ep. 173. Note
+                    libellum <note xml:id="note.2">See Ep. 173. Note
                             4.<ref>olahus.tei.15310910_1</ref></note> mature absolvi, nomina <del
                         corresp="Olahus">nostro</del><add corresp="Olahus" type="corr"
                         >nostrorum</add> quorundam in illo praelio occisorum mihi desunt, et
@@ -256,33 +256,31 @@
                         corresp="Olahus">Qui</del><add corresp="Olahus" type="corr">Quem</add>
                     mittam ad serenissimam dominam reginam brevem, sed tamen multa complexum
                     libellum meum. Tua Dominatio interea perget, ut solita est, me illius maiestati
-                    etiam atque etiam commendare. Austriae epistolam<note type="critic"
-                        xml:id="note.3"><hi rend="italic">Querela Austriae sive epistola ad reliquam
-                            Germaniam,</hi> see Ep. 173. Note
-                        5.<ref>olahus.tei.15310910_1</ref></note> illam, quae nunc
-                        <placeName>Augustae</placeName><note type="critic" xml:id="note.4"
-                        >Augsburg.</note> excuditur, propediem absolutam istuc mittam.</p>
+                    etiam atque etiam commendare. Austriae epistolam<note xml:id="note.3"><hi
+                            rend="italic">Querela Austriae sive epistola ad reliquam Germaniam,</hi>
+                        see Ep. 173. Note 5.<ref>olahus.tei.15310910_1</ref></note> illam, quae nunc
+                        <placeName>Augustae</placeName><note xml:id="note.4">Augsburg.</note>
+                    excuditur, propediem absolutam istuc mittam.</p>
                 <p xml:id="p.4">[2.] <persName>Uxor</persName><placeName>Vienna</placeName> non
-                    potest abstrahi, ne metu quidem pestilentiae,<note type="critic" xml:id="note.5"
-                        >Oláh also wrote on this plague epidemic, see Ep.
-                            131.<ref>olahus.tei.15301211_1</ref></note> illic iam aperta incendia,
-                    hactenus enim scintillas sparsit molientis<note type="critic" xml:id="note.6"
-                        >Ursinus often quarreled with his wife. According his letters, he seems to
-                        have committed suicide because of his wife’s infidelity, see <hi
-                            rend="smallcap">Szebelédi</hi> 2015, 195.</note>. Venit huc nuper
-                        <persName>Hieronimus Lasky</persName><note type="critic" xml:id="note.7"
-                        >Hieronymus Łaski.</note> cum <persName>rege</persName> bis aut <add
-                        corresp="Olahus" type="insert">ad</add> summum ter arcano collocutus.
-                    Pestilentem annum et bellicosum omnes augurantur futurum. Nimirum duplici bello
-                    concutietur <placeName>Germania</placeName>, intestino cum Lutheranis, externo
-                    cum Turcis, utroque exitioso. Resalutant Tuam Dominationem praepositus et
-                    episcopus <persName>Macedonia</persName><note type="critic" xml:id="note.8"
-                        >László Macedóniai.</note>. Bene vale. <persName>Logus</persName><note
-                        type="critic" xml:id="note.9">Georg von
-                        Logau.</note><placeName>Paduae</placeName> inter litteratos et philosophos
-                    suavissimam vitam degit, ego etiam adhuc cum iactura rei familiaris aulae parum
-                    feliciter haereo, procul domo, uxore, liberis et libris. Iterum valeat Dominatio
-                    Tua Magnifica, cui me totum dedo.</p>
+                    potest abstrahi, ne metu quidem pestilentiae,<note xml:id="note.5">Oláh also
+                        wrote on this plague epidemic, see Ep.
+                        131.<ref>olahus.tei.15301211_1</ref></note> illic iam aperta incendia,
+                    hactenus enim scintillas sparsit molientis<note xml:id="note.6">Ursinus often
+                        quarreled with his wife. According his letters, he seems to have committed
+                        suicide because of his wife’s infidelity, see <hi rend="smallcap"
+                            >Szebelédi</hi> 2015, 195.</note>. Venit huc nuper <persName>Hieronimus
+                        Lasky</persName><note xml:id="note.7">Hieronymus Łaski.</note> cum
+                        <persName>rege</persName> bis aut <add corresp="Olahus" type="insert"
+                        >ad</add> summum ter arcano collocutus. Pestilentem annum et bellicosum
+                    omnes augurantur futurum. Nimirum duplici bello concutietur
+                        <placeName>Germania</placeName>, intestino cum Lutheranis, externo cum
+                    Turcis, utroque exitioso. Resalutant Tuam Dominationem praepositus et episcopus
+                        <persName>Macedonia</persName><note xml:id="note.8">László
+                        Macedóniai.</note>. Bene vale. <persName>Logus</persName><note
+                        xml:id="note.9">Georg von Logau.</note><placeName>Paduae</placeName> inter
+                    litteratos et philosophos suavissimam vitam degit, ego etiam adhuc cum iactura
+                    rei familiaris aulae parum feliciter haereo, procul domo, uxore, liberis et
+                    libris. Iterum valeat Dominatio Tua Magnifica, cui me totum dedo.</p>
                 <p xml:id="p.5"><placeName>Insprug</placeName> die XXI. Novembris XXXI.</p>
             </div>
         </body>

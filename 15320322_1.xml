@@ -239,16 +239,15 @@
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao secretario reginae Mariae.</p>
                 <p xml:id="p.2">Pro reliquis in me beneficiis tuis ac pro munere tuo, quo hodie me
                     donasti, habeo Dominationi Tuae immensas gratias. Medicus ille dominus
-                        <persName>Hieremias Friverus</persName>,<note type="critic" xml:id="note.1"
-                        >We do not know him more closely.</note> de quo hodie tibi locutus sum,
-                    subito <placeName>Bruxellam</placeName> a quibusdam, quorum curam gerit, vocatus
-                    me adiit, ut litteras commendaticias ad te scriberem. Venit ad me, cum iam mihi
-                    ad praelegendum eundum esset, idcirco boni consules, quod hominem multa certe
-                    laude dignissimum tam paucis tibi commendaverim, meretur profecto virtus et
-                    eruditio illius, ut tibi tuique simillibus sit commendatissimus, si quid ei
-                    feceris officii, id mihi factum putabo, ac quamvis iam tibi sim devinctissimus
-                    ea ipsa re, illi scilicet patrocinando facies me tibi longe devinctiorem. Bene
-                    vale.</p>
+                        <persName>Hieremias Friverus</persName>,<note xml:id="note.1">We do not know
+                        him more closely.</note> de quo hodie tibi locutus sum, subito
+                        <placeName>Bruxellam</placeName> a quibusdam, quorum curam gerit, vocatus me
+                    adiit, ut litteras commendaticias ad te scriberem. Venit ad me, cum iam mihi ad
+                    praelegendum eundum esset, idcirco boni consules, quod hominem multa certe laude
+                    dignissimum tam paucis tibi commendaverim, meretur profecto virtus et eruditio
+                    illius, ut tibi tuique simillibus sit commendatissimus, si quid ei feceris
+                    officii, id mihi factum putabo, ac quamvis iam tibi sim devinctissimus ea ipsa
+                    re, illi scilicet patrocinando facies me tibi longe devinctiorem. Bene vale.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> XXII. Martii anno 1532.</p>
             </div>
         </body>

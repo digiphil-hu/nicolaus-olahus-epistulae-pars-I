@@ -244,8 +244,8 @@
                                 </floatingText>
                                 <pb facs="15320913_2_1.jpg"/>
                                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Idem</add> ad
-                                                eundem.<note type="critic" xml:id="note.1">We do not
-                                                know him more closely, see Ep. 172, Ep. 264, and Ep.
+                                                eundem.<note xml:id="note.1">We do not know him more
+                                                closely, see Ep. 172, Ep. 264, and Ep.
                                                   269.<ref>olahus.tei.15310815_1</ref></note><ref>/o:olahus.tei.15320913_1</ref><ref>/o:olahus.tei.15320917_1</ref></p>
                                 <p xml:id="p.2">Quantum mihi molestiae attulerit tuus adversus
                                         casus, vix possum explicare. Nam quis est te mihi aut

@@ -233,7 +233,7 @@
                 </floatingText>
                 <pb facs="15301122_1_1.jpg"/>
                 <p xml:id="p.1">Ad <persName>Ioannem comitem Ferentinum</persName>.<note
-                        type="critic" xml:id="note.1">We do not know him more closely.</note></p>
+                        xml:id="note.1">We do not know him more closely.</note></p>
                 <p xml:id="p.2">Vide, quanta sit, mi Ioannes, curialium miseria et animi inquietudo!
                     Finito hoc imperiali conventu caesar et rex parabant hinc abire. Curiales ab
                     aliquot mensibus insoluti, non parum tremere, murmurisque rem agere coeperunt,

@@ -232,30 +232,29 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad Paulum baronem.<note type="critic" xml:id="note.1">We do not know
-                        him more closely, see Ep. 202.<ref>olahus.tei.15310000_4</ref></note></p>
-                <p xml:id="p.2"><persName>Ioannis</persName><note type="critic" xml:id="note.2">We
-                        do not know him more closely, but he is probably Giovanni Antionio da
-                        Burgio.</note> tui status in quibus sit verseturque conditionibus, non modo
-                    ab eo ipso, sed planius ex meis litteris, quam iam pridem ad te dederam, plane
-                    intelligere potuisti. Nisi usus fuisset te patrono, et nisi tui respectum amici
-                    tui ipsius favissent rebus, nescio profecto, quid commodi consequi potuisset,
-                    multis undique adversariis et aemulis suis rem suam persequentibus. Bono ipsius
-                    genio tuoque patrocinio amicorum tuorum ope factum est, ut iam res ipsius securo
-                    in statu sit posita, non sitque formidaturus, quin pensione sua iamdudum ei
-                    pollicita sit frustraturus. Quam cum in omne futurum temporis habuerint, non
-                    modo commode, sed etiam honeste, de futuro suo statu eoque perpetuo providere
-                    poterit. Non dubito, quin ipsius virtus, fides, et in amicos caritas sit tibi
-                    iam a multis annis satis perspecta, hae tanti fiunt ab hominibus, ut si illis
-                    pensio sua debita accesserit, facile futurae suae vitae provideri poterit. Quare
-                    etsi te prius quoque haec intellexisse non fuerim nescius, tamen erat mihi
-                    voluntas, ut de his ego quoque pauca ad te scriberem, ut scires,
-                        <persName>Ioannis</persName> tui negotium, pro quo tantopere laborabas
-                        <quote xml:id="quote.1">omnem movens, ut dicunt, lapidem</quote><note
-                        type="quote" xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi>
-                        I,IV,30: “Omnem movere lapidem”, <hi rend="smallcap">Mynors</hi> 1982,
-                        340–341.</note> idem securum pervenisse ad portum. Vale, meique
-                    memineris.</p>
+                <p xml:id="p.1">Ad Paulum baronem.<note xml:id="note.1">We do not know him more
+                        closely, see Ep. 202.<ref>olahus.tei.15310000_4</ref></note></p>
+                <p xml:id="p.2"><persName>Ioannis</persName><note xml:id="note.2">We do not know him
+                        more closely, but he is probably Giovanni Antionio da Burgio.</note> tui
+                    status in quibus sit verseturque conditionibus, non modo ab eo ipso, sed planius
+                    ex meis litteris, quam iam pridem ad te dederam, plane intelligere potuisti.
+                    Nisi usus fuisset te patrono, et nisi tui respectum amici tui ipsius favissent
+                    rebus, nescio profecto, quid commodi consequi potuisset, multis undique
+                    adversariis et aemulis suis rem suam persequentibus. Bono ipsius genio tuoque
+                    patrocinio amicorum tuorum ope factum est, ut iam res ipsius securo in statu sit
+                    posita, non sitque formidaturus, quin pensione sua iamdudum ei pollicita sit
+                    frustraturus. Quam cum in omne futurum temporis habuerint, non modo commode, sed
+                    etiam honeste, de futuro suo statu eoque perpetuo providere poterit. Non dubito,
+                    quin ipsius virtus, fides, et in amicos caritas sit tibi iam a multis annis
+                    satis perspecta, hae tanti fiunt ab hominibus, ut si illis pensio sua debita
+                    accesserit, facile futurae suae vitae provideri poterit. Quare etsi te prius
+                    quoque haec intellexisse non fuerim nescius, tamen erat mihi voluntas, ut de his
+                    ego quoque pauca ad te scriberem, ut scires, <persName>Ioannis</persName> tui
+                    negotium, pro quo tantopere laborabas <quote xml:id="quote.1">omnem movens, ut
+                        dicunt, lapidem</quote><note type="quote" xml:id="note.quote.1">Cf. Erasm.
+                            <hi rend="italic">Adag.</hi> I,IV,30: “Omnem movere lapidem”, <hi
+                            rend="smallcap">Mynors</hi> 1982, 340–341.</note> idem securum
+                    pervenisse ad portum. Vale, meique memineris.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 19. Iulii 1532.</p>
             </div>
         </body>

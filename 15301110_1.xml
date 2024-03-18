@@ -230,31 +230,31 @@
                     </body>
                 </floatingText>
                 <pb facs="15301110_1_1.jpg"/>
-                <p xml:id="p.1"> Ad <persName>Iovium</persName><note type="critic" xml:id="note.1"
-                        >According to Fest, he is Paolo Giovio. See <hi rend="smallcap">Fest</hi>
-                        1927, 202. For more on Giovio see Ep. 137. Note
-                            1.<ref>olahus.tei.15301223_1</ref></note> amicum.</p>
+                <p xml:id="p.1"> Ad <persName>Iovium</persName><note xml:id="note.1">According to
+                        Fest, he is Paolo Giovio. See <hi rend="smallcap">Fest</hi> 1927, 202. For
+                        more on Giovio see Ep. 137. Note 1.<ref>olahus.tei.15301223_1</ref></note>
+                    amicum.</p>
                 <p xml:id="p.2">Quid causae fuerit, quod <placeName>Nittra</placeName> hactenus
                     praelatum suum non habuerit, hoc primum die sole clarius intellexi. Scis
-                    nominatissimum illud Beati Sorardi<note type="critic" xml:id="note.2">St. Andrew
-                        Zorard was a Benedictine monk, the patron saint of Nitra. Andrew’s remains
-                        are in the Cathedral of St. Emmeram in Nitra.</note> sepulchrum, in quo ossa
-                    huius Beatique Viti<note type="critic" xml:id="note.3">Correctly: <hi
-                            rend="italic">Beati Benedicti</hi>.</note> erant recondita, fuisse
-                    Nittriae, illud videre ut videor, tu ipse vidisti, dum aliquando Nittriam eras
-                    invitatus amicitiae cum episcopo ineundae causa. Non videbis posthac neque ibi,
-                    neque alibi monumentum hoc prae­clarissimum, ut hoc divorum ossa hactenus
-                    conservavit, sic deinceps homines vivi in visceribus suis idem conservabunt. Si
-                    videtur tibi impossibile, ut vivi sepulchra mortuorum recondant in sua viscera,
-                    Viennenses incudes monetariae testimonium huius rei tibi praebebunt non vulgare,
-                    nihil iam obstabit hoc sepulchro in monetas conflato, quin Nittria episcopum
-                    suum habeat.<note type="critic" xml:id="note.4">In 1530, the silver casket of
-                        St. Andrew Zorard and St. Benedict was minted into silver coin by King
-                        Ferdinand I, see <hi rend="smallcap">Divald</hi> 1929, 112.</note> Utinam
-                    bonis res nostra procedat avibus, vereor, ne Deus irascatur nobis saevius quam
-                    hactenus. Nollem esse vates adversus, sed formidandum proculdubio est, ni Deus
-                    ex singulari sua clementia nos a malis custodierit, ne propter sacrilegium
-                    aliquid nobis adversi contingat. </p>
+                    nominatissimum illud Beati Sorardi<note xml:id="note.2">St. Andrew Zorard was a
+                        Benedictine monk, the patron saint of Nitra. Andrew’s remains are in the
+                        Cathedral of St. Emmeram in Nitra.</note> sepulchrum, in quo ossa huius
+                    Beatique Viti<note xml:id="note.3">Correctly: <hi rend="italic">Beati
+                            Benedicti</hi>.</note> erant recondita, fuisse Nittriae, illud videre ut
+                    videor, tu ipse vidisti, dum aliquando Nittriam eras invitatus amicitiae cum
+                    episcopo ineundae causa. Non videbis posthac neque ibi, neque alibi monumentum
+                    hoc prae­clarissimum, ut hoc divorum ossa hactenus conservavit, sic deinceps
+                    homines vivi in visceribus suis idem conservabunt. Si videtur tibi impossibile,
+                    ut vivi sepulchra mortuorum recondant in sua viscera, Viennenses incudes
+                    monetariae testimonium huius rei tibi praebebunt non vulgare, nihil iam obstabit
+                    hoc sepulchro in monetas conflato, quin Nittria episcopum suum habeat.<note
+                        xml:id="note.4">In 1530, the silver casket of St. Andrew Zorard and St.
+                        Benedict was minted into silver coin by King Ferdinand I, see <hi
+                            rend="smallcap">Divald</hi> 1929, 112.</note> Utinam bonis res nostra
+                    procedat avibus, vereor, ne Deus irascatur nobis saevius quam hactenus. Nollem
+                    esse vates adversus, sed formidandum proculdubio est, ni Deus ex singulari sua
+                    clementia nos a malis custodierit, ne propter sacrilegium aliquid nobis adversi
+                    contingat. </p>
                 <p xml:id="p.3"> Ex <placeName>Augusta</placeName> X. Novembris MDXXX. </p>
             </div>
         </body>

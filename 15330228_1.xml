@@ -259,29 +259,28 @@
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao salutem. Reverende ac Excellens
                     Domine, Amice Honorandissime! </p>
                 <p xml:id="p.2">[1.] Postquam advenissemus <placeName>Viennam</placeName>, venit ad
-                    nos <persName>Bernhardus Bohemus</persName>,<note type="critic" xml:id="note.1"
-                        >Probably Bernhard Beheim von Friedesheim (1483–1547). Around 1524, he
-                        entered into the service of Queen Mary and became Mint Chamber Count [head
-                        officer responsible for minting, see <hi rend="smallcap">Gyöngyössy</hi>
-                        2018, 297.] at Kremnica and Captain of Zólyom and the seven Hungarian
-                        minting towns. In 1530, he travelled with Queen Mary to the Netherlands;
-                        later he found Queen Anna as a protector. For more on his life, see <hi
-                            rend="smallcap">Probszt</hi> 1958, 29–31, and <hi rend="smallcap"
-                            >Heiss</hi> 1971, passim.</note> comes camerae serenissimae
-                        <persName>regiae maiestatis</persName>. Deinde et <persName>Ulricus
-                        Eytzinger</persName><note type="critic" xml:id="note.2">Ulrich Eyczinger or
-                        Ulrich (IV) Freiherr von Eyczing (†1561) was an Austrian nobleman, see <hi
-                            rend="smallcap">Heiss</hi> 1971, 210 and passim.</note> locutique sunt
-                    nobiscum de rebus praefatae <persName>maiestatis reginalis</persName>, in quibus
-                    nos obtulimus et offerimus nos paratissimos, uti decet, neque parte in nostra
-                    defectus erit ullus. Non dubito, quin eadem maiestas sit per eos certior facta
-                    de iis, quae aguntur <placeName>Posonii</placeName>.<note type="critic"
-                        xml:id="note.3">Bratislava.</note> Nihilominus pro meo erga ipsam studio
-                    observantiaque nolui omittere, quin ad Reverendissimam Dominationem Vestram has
-                    praesentes darem. Scripsi prius nos exspectare aliud mandatum et litteras a
-                    maiestate caesarea. Quod mandatum hic accepimus et sic hodie fuissemus profecti
-                        <placeName>Posonium</placeName>, nisi commode venisset dominus
-                        <persName>vicedominus Vienensis</persName><note type="critic"
+                    nos <persName>Bernhardus Bohemus</persName>,<note xml:id="note.1">Probably
+                        Bernhard Beheim von Friedesheim (1483–1547). Around 1524, he entered into
+                        the service of Queen Mary and became Mint Chamber Count [head officer
+                        responsible for minting, see <hi rend="smallcap">Gyöngyössy</hi> 2018, 297.]
+                        at Kremnica and Captain of Zólyom and the seven Hungarian minting towns. In
+                        1530, he travelled with Queen Mary to the Netherlands; later he found Queen
+                        Anna as a protector. For more on his life, see <hi rend="smallcap"
+                            >Probszt</hi> 1958, 29–31, and <hi rend="smallcap">Heiss</hi> 1971,
+                        passim.</note> comes camerae serenissimae <persName>regiae
+                        maiestatis</persName>. Deinde et <persName>Ulricus Eytzinger</persName><note
+                        xml:id="note.2">Ulrich Eyczinger or Ulrich (IV) Freiherr von Eyczing (†1561)
+                        was an Austrian nobleman, see <hi rend="smallcap">Heiss</hi> 1971, 210 and
+                        passim.</note> locutique sunt nobiscum de rebus praefatae
+                        <persName>maiestatis reginalis</persName>, in quibus nos obtulimus et
+                    offerimus nos paratissimos, uti decet, neque parte in nostra defectus erit
+                    ullus. Non dubito, quin eadem maiestas sit per eos certior facta de iis, quae
+                    aguntur <placeName>Posonii</placeName>.<note xml:id="note.3">Bratislava.</note>
+                    Nihilominus pro meo erga ipsam studio observantiaque nolui omittere, quin ad
+                    Reverendissimam Dominationem Vestram has praesentes darem. Scripsi prius nos
+                    exspectare aliud mandatum et litteras a maiestate caesarea. Quod mandatum hic
+                    accepimus et sic hodie fuissemus profecti <placeName>Posonium</placeName>, nisi
+                    commode venisset dominus <persName>vicedominus Vienensis</persName><note
                         xml:id="note.4">Probably the vicarius of the Bishop of Vienna.</note>, qui
                     iniecit nobis difficultatem de hospitio. Credebamus enim illud pro nobis paratum
                     fuisse, prout fuerat dictum, quod tamen secus fuit. Itaque exspectamus
@@ -290,15 +289,15 @@
                 <p xml:id="p.3">in ea re, qua accepta statim eo contendemus. Id quod fiet cras aut
                     perendie.</p>
                 <p xml:id="p.4">[2.] Nihil aliud ibi actum est, nisi quod post celebrationem officii
-                    divini a serenissimo <persName>domino Colocensi</persName><note type="critic"
-                        xml:id="note.5">Ferenc Frangepán.</note> XXIII. huius die regii
-                    proposuerunt, ut vaivoda decederet illa parte regni, quam habet. Equidem
-                    petitioni post unum aut alterum diem responsum est per vaivodanos imperatorem
-                    Turcarum propter peccata populi iam esse dominum Hungariae et suum et gratiam
-                    Dei in causa esse, quod ipse velit regni illius reliquias praeservare, modo
-                    illis dominetur <persName>Ioannes</persName>. Proinde nihil melius et commodius
-                    fieri posse, quam ut serenissimus <persName>Romanorum rex</persName> decedat sua
-                    parte <persName>Ioanni</persName> vaivodae. Non esse opus alia assecuratione
+                    divini a serenissimo <persName>domino Colocensi</persName><note xml:id="note.5"
+                        >Ferenc Frangepán.</note> XXIII. huius die regii proposuerunt, ut vaivoda
+                    decederet illa parte regni, quam habet. Equidem petitioni post unum aut alterum
+                    diem responsum est per vaivodanos imperatorem Turcarum propter peccata populi
+                    iam esse dominum Hungariae et suum et gratiam Dei in causa esse, quod ipse velit
+                    regni illius reliquias praeservare, modo illis dominetur
+                        <persName>Ioannes</persName>. Proinde nihil melius et commodius fieri posse,
+                    quam ut serenissimus <persName>Romanorum rex</persName> decedat sua parte
+                        <persName>Ioanni</persName> vaivodae. Non esse opus alia assecuratione
                     Turcarum, nisi ea, quae est per litteras ipsius. Ipsum
                         <persName>Ioannem</persName> eidem esse iuramento addictum, et aliud nihil
                     facturum. Replicatum est heri a nostris, audire se cum summo dolore illos fateri
@@ -307,26 +306,24 @@
                         <persName>rex</persName> adhuc habet, traderet vaivodae, futurum, ut ea
                     statim esset futura Turcarum. Ad quod nemo Christianus consilium suum esset
                     impartiturus. Haec dicta sunt per reverendissimum
-                        <persName>Agriensem</persName>.<note type="critic" xml:id="note.6">Tamás
-                        Szalaházy.</note> Post ea nihil actum est. Videbimus, quid sint
-                    reponsuri.</p>
+                        <persName>Agriensem</persName>.<note xml:id="note.6">Tamás Szalaházy.</note>
+                    Post ea nihil actum est. Videbimus, quid sint reponsuri.</p>
                 <p xml:id="p.5">[3.] <persName>Hyeronimus Lasky</persName> heri inde abiit cum
                     litteris ad vaivodam, postea in <placeName>Poloniam</placeName> demum rediturus.
                     Commissio super <persName>Collocensi</persName>,
-                        <persName>Broderico</persName>,<note type="critic" xml:id="note.7">István
-                        Brodarics.</note><persName>Verbetzy</persName>,<note type="critic"
-                        xml:id="note.8">István Werbőczy.</note><persName>Lasky</persName>, sonat
-                    quattuor simul aut duobus coniunctim. <persName>Collocensis</persName> non
-                    dissimulat se solum mittendum fuisse a vaivoda, si voluisset. Hinc credimus
-                    illum aliud aliquid secretius habere, de qua re ex
-                        <placeName>Posonio</placeName> plura. Serenissimae <persName>reginali
-                        maiestati</persName> servitia nostra humillime affero. Rerum tuarum non
-                    obliviscar. Turcae, qui sunt <placeName>Pesti</placeName> et in <placeName>Alba
-                        Regali</placeName>,<note type="critic" xml:id="note.9"
+                        <persName>Broderico</persName>,<note xml:id="note.7">István
+                        Brodarics.</note><persName>Verbetzy</persName>,<note xml:id="note.8">István
+                        Werbőczy.</note><persName>Lasky</persName>, sonat quattuor simul aut duobus
+                    coniunctim. <persName>Collocensis</persName> non dissimulat se solum mittendum
+                    fuisse a vaivoda, si voluisset. Hinc credimus illum aliud aliquid secretius
+                    habere, de qua re ex <placeName>Posonio</placeName> plura. Serenissimae
+                        <persName>reginali maiestati</persName> servitia nostra humillime affero.
+                    Rerum tuarum non obliviscar. Turcae, qui sunt <placeName>Pesti</placeName> et in
+                        <placeName>Alba Regali</placeName>,<note xml:id="note.9"
                         >Székesfehérvár.</note> nemini nocent. Hanc sarcinulam litterarum ad
-                        <persName>uxorem</persName> meam,<note type="critic" xml:id="note.10">Anna
-                        Isabella (Elizabeth) Donche.</note> aliam ad eum transmitte, qui notus est,
-                    aut da magistro postarum, et bene vale, Domine et Amice Honorande.</p>
+                        <persName>uxorem</persName> meam,<note xml:id="note.10">Anna Isabella
+                        (Elizabeth) Donche.</note> aliam ad eum transmitte, qui notus est, aut da
+                    magistro postarum, et bene vale, Domine et Amice Honorande.</p>
                 <p xml:id="p.6">Ex <placeName>Vienna</placeName> ultima die Februarii 1533.</p>
             </div>
         </body>

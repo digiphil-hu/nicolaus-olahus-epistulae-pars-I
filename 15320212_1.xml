@@ -262,21 +262,21 @@
                 </floatingText>
                 <pb facs="15320212_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Erasmum Roterodamum responsio.</p>
-                <p xml:id="p.2">[1.] <persName>Levini</persName><note type="critic" xml:id="note.1"
-                        >Lieven Algoet.</note> negotium quo in statu sit, ex illius litteris
-                    intelliges, curabo, quantum in me erit, tum tua motus voluntate, tum ipsius
-                    moribus bonis et indole non contemnenda, ut voti sui compos aliquando reddatur.
-                    Te a pedis cruciatu et etiam aliis corporis molestiis, quam patiebaris in
-                    praesentia liberatum esse et gaudeo et laetor.<note type="critic"
-                        xml:id="note.2">See Ep. 190. Cap. 3.<ref>olahus.tei.15311211_1</ref></note>
-                    Cupio vehementer, ut Deus optimus maximus hac optata te <add corresp="Olahus"
-                        type="insert">diu</add> frui patiatur incolumitate, sed qua possis patria
-                    tua relicta, sub aëre externo felicitate et prosperitate uti corporis non satis
-                    cogitare possum. Alii pedibus et manibus nituntur, ut in patria, ubi nati sunt
-                    et educati et in qua omnibus ornati sunt bonis et commodis, vitam agere possint
-                    quietam, et quod eis inest aut virtutis aut doctrinae, ea solum ornare
-                    decorareque patriam. Tu ut libere meoque more tecum agam, mi Erasme, a multis
-                    iam temporibus secus fecisse videris.</p>
+                <p xml:id="p.2">[1.] <persName>Levini</persName><note xml:id="note.1">Lieven
+                        Algoet.</note> negotium quo in statu sit, ex illius litteris intelliges,
+                    curabo, quantum in me erit, tum tua motus voluntate, tum ipsius moribus bonis et
+                    indole non contemnenda, ut voti sui compos aliquando reddatur. Te a pedis
+                    cruciatu et etiam aliis corporis molestiis, quam patiebaris in praesentia
+                    liberatum esse et gaudeo et laetor.<note xml:id="note.2">See Ep. 190. Cap.
+                            3.<ref>olahus.tei.15311211_1</ref></note> Cupio vehementer, ut Deus
+                    optimus maximus hac optata te <add corresp="Olahus" type="insert">diu</add> frui
+                    patiatur incolumitate, sed qua possis patria tua relicta, sub aëre externo
+                    felicitate et prosperitate uti corporis non satis cogitare possum. Alii pedibus
+                    et manibus nituntur, ut in patria, ubi nati sunt et educati et in qua omnibus
+                    ornati sunt bonis et commodis, vitam agere possint quietam, et quod eis inest
+                    aut virtutis aut doctrinae, ea solum ornare decorareque patriam. Tu ut libere
+                    meoque more tecum agam, mi Erasme, a multis iam temporibus secus fecisse
+                    videris.</p>
                 <p xml:id="p.3">Nam etsi ubicumque <del corresp="Olahus">fueris</del><add
                         corresp="Olahus" type="corr">egeris</add>, non minori fueris patriae tuae
                     ornamento et decori propter insignes tuas virtutes et animi dotes, quam si totam
@@ -291,9 +291,9 @@
                     diutius abesse, praesertim cum serenissimam reginam meam habeas tuae virtutis et
                     doctrinae, ut ego intelligo, amantem et omni erga te affectam benevolentia.
                     Candorem et sinceritatem in amicos animi mei litteris tuis probare videris, eo
-                    igitur, quo me videris laudare candore,<note type="critic" xml:id="note.3">See
-                        Ep. 190. Cap. 2.<ref>olahus.tei.15311211_1</ref></note> haec ad te scribo,
-                    qui optaverim semper meos amicos non alios in me esse, quam qualis ego in eos
+                    igitur, quo me videris laudare candore,<note xml:id="note.3">See Ep. 190. Cap.
+                            2.<ref>olahus.tei.15311211_1</ref></note> haec ad te scribo, qui
+                    optaverim semper meos amicos non alios in me esse, quam qualis ego in eos
                     sim.</p>
                 <p xml:id="p.4">[2.] Scribis te aedes emisse <placeName>Friburgi</placeName> novas,
                     attamen non semel te cogitavisse de <placeName>Brabantia</placeName> tua
@@ -325,15 +325,14 @@
                     Franciscanos et Dominicanos metuas. Nemo est ex his, qui superis tibi faventibus
                     sua loquacitate obesse possit. Quorum impudentem impudentiam tum aliis multis
                     hic tibi obsequundantibus rebus, tum tua praesentia facile reprimes. Zvingliana
-                    et Oecolampadiana peste vos istic liberatos esse,<note type="critic"
-                        xml:id="note.4">See Ep. 190. Note 5.<ref>olahus.tei.15311211_1</ref></note>
-                    non ego solum, sed omnes boni laetantur. Utinam aliis quoque persecutoribus ἡ
-                    ἐκκλησία τῶν πηρῶν<note type="critic" xml:id="note.5">‘congregation of the
-                        lame’.</note> liberaretur. Minus esse bonis viris taedii et laboris. Vale
-                    et, si quid habes animo, vel potius ad quod tempus te huc exspectem, fac me
-                    certiorem. Meam sinceritatem et libertatem scribendi, si ea te turbaverit mihi
-                    condonabis. Ea enim apud amicos sinceros uti sum solitus. Vale et me ama et
-                    rescribe.</p>
+                    et Oecolampadiana peste vos istic liberatos esse,<note xml:id="note.4">See Ep.
+                        190. Note 5.<ref>olahus.tei.15311211_1</ref></note> non ego solum, sed omnes
+                    boni laetantur. Utinam aliis quoque persecutoribus ἡ ἐκκλησία τῶν πηρῶν<note
+                        xml:id="note.5">‘congregation of the lame’.</note> liberaretur. Minus esse
+                    bonis viris taedii et laboris. Vale et, si quid habes animo, vel potius ad quod
+                    tempus te huc exspectem, fac me certiorem. Meam sinceritatem et libertatem
+                    scribendi, si ea te turbaverit mihi condonabis. Ea enim apud amicos sinceros uti
+                    sum solitus. Vale et me ama et rescribe.</p>
                 <p xml:id="p.7"><placeName>Bruxellae</placeName> 12. Februarii anno 1532.</p>
             </div>
         </body>

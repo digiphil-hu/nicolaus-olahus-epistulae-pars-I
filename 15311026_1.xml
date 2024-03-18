@@ -234,8 +234,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15311026_1_1.jpg"/>
-                <p xml:id="p.1">Ad Ioannem Rocetum.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1">Ad Ioannem Rocetum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Quid censes causae fuisse, quod tuas res mihi a te familiariter
                     hactenus commendatas non perfecerim? An putas me tui et tuorum fuisse immemorem?
                     Non profecto videris bene de me sentire, si in eam de me venisti opinionem, nam
@@ -247,8 +247,8 @@
                     moremque gerere possem, sed quod tuis rebus tam subito commodare non potuerim,
                     et ad te de illorum statu non scripserim, multae et pernecessariae fuerunt
                     causae; quas ad te omnes perscripsissem, Amicorum Optime, ni existimassem hunc
-                        <persName>Paulum</persName><note type="critic" xml:id="note.2">We do not
-                        know him more closely.</note> tuum et meum </p>
+                        <persName>Paulum</persName><note xml:id="note.2">We do not know him more
+                        closely.</note> tuum et meum </p>
                 <pb facs="15311026_1_2.jpg"/>
                 <p xml:id="p.3">familiarem et commodius et latius illas explicare posse. Hunc igitur
                     ad te certas ob res, tum meas, tum suas proprias profecturum maiore, qua possum,

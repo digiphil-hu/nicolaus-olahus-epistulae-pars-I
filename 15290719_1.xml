@@ -236,33 +236,33 @@
                     </body>
                 </floatingText>
                 <pb facs="15290719_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Ioannem Henkellum</persName><note type="critic"
-                        xml:id="note.1">Johann Henckel (1481–1539) was an eminent Silesian scholar
-                        of this period. He corresponded with Martin Luther and Philipp Melanchthon.
-                        As the court chaplain of Queen Mary of Habsburg, he accompanied her to
-                        Brussels and recommended Erasmus of Rotterdam to her attention. In 1531 he
-                        returned to Silesia and was Canon in the church in Wrocław until his death,
-                        see <hi rend="smallcap">Frankl</hi> 1872; <hi rend="smallcap">Domonkos</hi>
+                <p xml:id="p.1">Ad <persName>Ioannem Henkellum</persName><note xml:id="note.1"
+                        >Johann Henckel (1481–1539) was an eminent Silesian scholar of this period.
+                        He corresponded with Martin Luther and Philipp Melanchthon. As the court
+                        chaplain of Queen Mary of Habsburg, he accompanied her to Brussels and
+                        recommended Erasmus of Rotterdam to her attention. In 1531 he returned to
+                        Silesia and was Canon in the church in Wrocław until his death, see <hi
+                            rend="smallcap">Frankl</hi> 1872; <hi rend="smallcap">Domonkos</hi>
                         1986; <hi rend="smallcap">Zimmermann</hi> 1938, and <hi rend="smallcap"
                             >Bauch</hi> 1884.</note> parochum Cassoviensem.</p>
                 <p xml:id="p.2">[1.] Dum nihil de te certi audire <del corresp="Olahus"
                         >possumus</del><add corresp="Olahus" type="corr">possemus</add>, venit
                     tandem ad nos triste nuntium, quo accepimus te in manus quorundam praedonum, cum
-                    iter non longe a <placeName>Wratislavia</placeName><note type="critic"
-                        xml:id="note.2">Wrocław.</note> faceres, incidisse, et viatico, quod
-                    ferebas, equoque a me tibi donato, esse privatum. Id incredibilem certe
-                    tristitiam et mihi et tuis omnibus <add corresp="Olahus" type="insert">id</add>
-                    concitavit, verum non parum rursus deposita tristitia laetati sumus, tibi nihil
-                    in corpore contigisse periculi. Iacturam rerum <del corresp="Olahus"
-                        >compensavit</del><add corresp="Olahus" type="corr">compensabit</add>
-                    corporis incolumitas. Gratulor igitur tibi, mi Henkelle, te evasisse incolumem
-                    manus latronum, et agere <placeName>Wratislaviae</placeName>, si iactura rerum
-                    tuarum ablatarum maeres. Facis tu quidem humanis id affectibus, ut omnes homines
-                    damno accepto tristari solent, sed si apostolorum Christi, quorum tu vires
-                    geris, disseminando verba domini, acta recordaberis, si calamitates, pericula
-                    viarum, quae latissime <persName>Paulus</persName><note type="critic"
-                        xml:id="note.3">We do not know him more closely, probably Paulus comes, see
-                        Ep. 89.<ref>olahus.tei.15300922_1</ref></note> noster percenset, cogitaris,
+                    iter non longe a <placeName>Wratislavia</placeName><note xml:id="note.2"
+                        >Wrocław.</note> faceres, incidisse, et viatico, quod ferebas, equoque a me
+                    tibi donato, esse privatum. Id incredibilem certe tristitiam et mihi et tuis
+                    omnibus <add corresp="Olahus" type="insert">id</add> concitavit, verum non parum
+                    rursus deposita tristitia laetati sumus, tibi nihil in corpore contigisse
+                    periculi. Iacturam rerum <del corresp="Olahus">compensavit</del><add
+                        corresp="Olahus" type="corr">compensabit</add> corporis incolumitas.
+                    Gratulor igitur tibi, mi Henkelle, te evasisse incolumem manus latronum, et
+                    agere <placeName>Wratislaviae</placeName>, si iactura rerum tuarum ablatarum
+                    maeres. Facis tu quidem humanis id affectibus, ut omnes homines damno accepto
+                    tristari solent, sed si apostolorum Christi, quorum tu vires geris, disseminando
+                    verba domini, acta recordaberis, si calamitates, pericula viarum, quae latissime
+                        <persName>Paulus</persName><note xml:id="note.3">We do not know him more
+                        closely, probably Paulus comes, see Ep.
+                        89.<ref>olahus.tei.15300922_1</ref></note> noster percenset, cogitaris,
                     nihil erit, quod magno tenearis rerum amissarum maerore. </p>
                 <p xml:id="p.3">[2.] Optime tibi provisum fuit, te reculas illas tuas discendentem
                     apud me reliquisse, fortasse illis quoque tecum habuisses, privatus fuisses.
@@ -284,14 +284,14 @@
                     benigna, nunc quoque non <del corresp="Olahus">parva saepe</del><add
                         corresp="Olahus" type="corr">parvum suae</add> erga te benevolentiae
                     indicium declaravit, iussit enim, ut <persName>Sawormanus</persName><note
-                        type="critic" xml:id="note.4">A member of the famous merchant family
-                        Sauermann or Saurman of Wrocław, probably Konrad Sauermann. In 1521, he was
-                        creditor of Pál Várday, Bishop of Veszprém. In 1525 Queen Mary permitted
-                        Konrad Saurman and Heinrich von Witte to use as much silver as they mined in
-                        Świdnica, to make coin; as a result as the coins were low-grade. Queen Mary
-                        was discontented with his performance and their conflict lasted many years.
-                        Even so, he was ennobled by Emperor Charles V in 1530. About the family see
-                            <hi rend="smallcap">Erbe</hi> 1987a, for more on Konrad’s life see <hi
+                        xml:id="note.4">A member of the famous merchant family Sauermann or Saurman
+                        of Wrocław, probably Konrad Sauermann. In 1521, he was creditor of Pál
+                        Várday, Bishop of Veszprém. In 1525 Queen Mary permitted Konrad Saurman and
+                        Heinrich von Witte to use as much silver as they mined in Świdnica, to make
+                        coin; as a result as the coins were low-grade. Queen Mary was discontented
+                        with his performance and their conflict lasted many years. Even so, he was
+                        ennobled by Emperor Charles V in 1530. About the family see <hi
+                            rend="smallcap">Erbe</hi> 1987a, for more on Konrad’s life see <hi
                             rend="smallcap">Heiss</hi> 1971, 398–400.</note> centum ducatos
                         <placeName>Wratislaviae</placeName> numerari tibi curaret. Quos istic ab
                     ipsius liberis accipies. Vale. </p>

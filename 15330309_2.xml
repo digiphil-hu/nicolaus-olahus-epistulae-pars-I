@@ -233,45 +233,43 @@
                 <pb facs="15330309_2_1.jpg"/>
                 <p xml:id="p.1">Ad Ioannem Cegledinum provisorem.</p>
                 <p xml:id="p.2">Tam multis <add corresp="Olahus" type="insert">a</add> die
-                        decima<note type="critic" xml:id="note.1">We only know Oláh’s long letter on
-                        18 February, see Ep. 325, so either Oláh did not remember the precise day,
-                        or he sent another letter.<ref>olahus.tei.15330218_2</ref></note> mensis
-                    Februarii praeteriti ad te in rebus meis scripsi, ut non putem nunc mihi
-                    necessarium esse plura scribere. In me nihil defuit, quin de omnibus meis te
-                    docerem, quae in his recuperandis essent agenda. Vide ergo, ne in te quoque
-                    aliquid desit, quod non diligenter istic <del corresp="Olahus">esses</del><add
-                        corresp="Olahus" type="corr">sis</add> exsecuturus. <persName>Cornelius
-                        Sceperus</persName> orator caesaris istic est. Accede eum,<note
-                        type="critic" xml:id="note.2">See Ep. 337. Cap.
+                        decima<note xml:id="note.1">We only know Oláh’s long letter on 18 February,
+                        see Ep. 325, so either Oláh did not remember the precise day, or he sent
+                        another letter.<ref>olahus.tei.15330218_2</ref></note> mensis Februarii
+                    praeteriti ad te in rebus meis scripsi, ut non putem nunc mihi necessarium esse
+                    plura scribere. In me nihil defuit, quin de omnibus meis te docerem, quae in his
+                    recuperandis essent agenda. Vide ergo, ne in te quoque aliquid desit, quod non
+                    diligenter istic <del corresp="Olahus">esses</del><add corresp="Olahus"
+                        type="corr">sis</add> exsecuturus. <persName>Cornelius Sceperus</persName>
+                    orator caesaris istic est. Accede eum,<note xml:id="note.2">See Ep. 337. Cap.
                             3.<ref>olahus.tei.15330309_1</ref></note> cum eo tuto loqui et eius
                     etiam consilium sequi poteris. Ipse si res in partem adversam casu caderet, uti
                     tibi litteris <del corresp="Olahus">ipsi</del> meis aliis scripseram, omnem
                     interponet suam operam, ea via, quam ipse scit et ego intelligo. Cuius consilio
                     etiam <add corresp="Olahus" type="insert">cum</add><persName>Stephano
-                        doctore</persName><note type="critic" xml:id="note.3">István
-                        Brodarics.</note> et <persName>Nadasdi</persName>, si opus erit, agere
-                    poteris ad recuperationem bonorum nostrorum. Ad exsecutionem aliam pecuniam,
-                    quam poterit, suppeditabit tibi, si aliunde interea nullam contrahere poteris,
-                        <persName>Andreas Sarson</persName>.<note type="critic" xml:id="note.4">See
-                        Ep. 325. Note 19.<ref>olahus.tei.15330218_2</ref></note> Ex villa
-                        <placeName>Tharcz</placeName><note type="critic" xml:id="note.5">Nová
-                        Lipnica, see <hi rend="smallcap">C. Tóth–Lakatos–Mikó</hi> 2014, 172.</note>
-                    quoque ex cathedratice et quarta<note type="critic" xml:id="note.6">The Chapter
-                        of Bratislava was able to collect and posses a quarter of the tithe in Žitný
-                        ostrov, see <hi rend="smallcap">C. Tóth–Lakatos–Mikó</hi> 2014, 172.</note>
-                    aliquas praeterea habere poteris. Vide igitur, ne sis negligens. Nam nunc res
-                    agitur in cardine. Si tardus aut negligens eris, damnum irrecuperabile mihi et
-                    tibi facere poteris. Si diligens, commodum maximum. Cum <persName>Stephano
+                        doctore</persName><note xml:id="note.3">István Brodarics.</note> et
+                        <persName>Nadasdi</persName>, si opus erit, agere poteris ad recuperationem
+                    bonorum nostrorum. Ad exsecutionem aliam pecuniam, quam poterit, suppeditabit
+                    tibi, si aliunde interea nullam contrahere poteris, <persName>Andreas
+                        Sarson</persName>.<note xml:id="note.4">See Ep. 325. Note
+                            19.<ref>olahus.tei.15330218_2</ref></note> Ex villa
+                        <placeName>Tharcz</placeName><note xml:id="note.5">Nová Lipnica, see <hi
+                            rend="smallcap">C. Tóth–Lakatos–Mikó</hi> 2014, 172.</note> quoque ex
+                    cathedratice et quarta<note xml:id="note.6">The Chapter of Bratislava was able
+                        to collect and posses a quarter of the tithe in Žitný ostrov, see <hi
+                            rend="smallcap">C. Tóth–Lakatos–Mikó</hi> 2014, 172.</note> aliquas
+                    praeterea habere poteris. Vide igitur, ne sis negligens. Nam nunc res agitur in
+                    cardine. Si tardus aut negligens eris, damnum irrecuperabile mihi et tibi facere
+                    poteris. Si diligens, commodum maximum. Cum <persName>Stephano
                         doctore</persName><del corresp="Olahus">familiariis</del><add
                         corresp="Olahus" type="corr">familiarius</add> loqui poteris, quocum mihi
                     olim fuit magna consuetudo, si ea illi non excidit, quod non credo. Vide, si
                     quid expiscari poteris. Age tamen caute. Vale et de omnibus mihi rescribe, </p>
                 <pb facs="15330309_2_2.jpg"/>
                 <p xml:id="p.3"><add corresp="Olahus" type="insert">quae</add> egeris, audieris, et
-                    intellexeris. Reverendo <persName>domino Agriensi</persName><note type="critic"
+                    intellexeris. Reverendo <persName>domino Agriensi</persName><note
                         xml:id="note.7">Tamás Szalaházy.</note> scribam hoc triduo aut
-                        quatriduo.<note type="critic" xml:id="note.8">This letter is no longer
-                        extant.</note></p>
+                        quatriduo.<note xml:id="note.8">This letter is no longer extant.</note></p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 9. Martii 1533.</p>
             </div>
         </body>

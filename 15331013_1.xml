@@ -233,39 +233,38 @@
                 <p xml:id="p.1">Ruthgerus Rescius Nicolao Olao thesaurario Albensi secretario
                     reginae Mariae.</p>
                 <p xml:id="p.2">Latorem harum litterarum dominum <persName>Guilelmum a
-                        Putania</persName><note type="critic" xml:id="note.1">Guillaume de Poitiers
-                        (†1577) was Canon of Liège, Chancellor, and preacher of Emperor Charles V.
-                        He was named first Bishop of St.-Omer, but he did not accept it.</note> iam
-                    tibi ob non vulgares ingenii dotes commendatissimum commendo, quam possum
-                    maxime. Is vocatus a confratribus suis canonicis
-                        <placeName>Furnium</placeName><note type="critic" xml:id="note.2"
-                        >Veurne.</note> ad creationem et designationem novi decani recta ad eosdem
-                    proficiscitur. Ad praedictum munus decani assequendum a quibusdam amicis data
-                    est huic non levis spes, quae fieret multo maior, si a serenissima
-                        <persName>regina</persName> litteras commendatitias ad Furnenses canonicos
-                    impetrare posset. Quas non dubitaret se per fratrem facile posse obtinere, si is
-                    iam in aula adesset, cum igitur istic nullum habeat, ad quem confugiat, recta ad
-                    te accedit, quem spero pro tua humanitate non patieris frustrari voto suo.
-                    Praeter enim generis claritudinem multis est insignibus praeditus dotibus, ob
-                    quas ab omnibus amari debeat, maxime a te tuisque similibus. Quem et iam licet
-                    nondum visum amare coepisti, multo magis amabis, ubi ipsum coram conspexeris ac
-                    noveris. Pluribus apud te causam ipsius agerem, si aliquo modo necessarium esse
-                    putarem. Quicquid officii illi praestiteris, senties hominem minime ingratum.
-                    Bene vale.</p>
+                        Putania</persName><note xml:id="note.1">Guillaume de Poitiers (†1577) was
+                        Canon of Liège, Chancellor, and preacher of Emperor Charles V. He was named
+                        first Bishop of St.-Omer, but he did not accept it.</note> iam tibi ob non
+                    vulgares ingenii dotes commendatissimum commendo, quam possum maxime. Is vocatus
+                    a confratribus suis canonicis <placeName>Furnium</placeName><note
+                        xml:id="note.2">Veurne.</note> ad creationem et designationem novi decani
+                    recta ad eosdem proficiscitur. Ad praedictum munus decani assequendum a
+                    quibusdam amicis data est huic non levis spes, quae fieret multo maior, si a
+                    serenissima <persName>regina</persName> litteras commendatitias ad Furnenses
+                    canonicos impetrare posset. Quas non dubitaret se per fratrem facile posse
+                    obtinere, si is iam in aula adesset, cum igitur istic nullum habeat, ad quem
+                    confugiat, recta ad te accedit, quem spero pro tua humanitate non patieris
+                    frustrari voto suo. Praeter enim generis claritudinem multis est insignibus
+                    praeditus dotibus, ob quas ab omnibus amari debeat, maxime a te tuisque
+                    similibus. Quem et iam licet nondum visum amare coepisti, multo magis amabis,
+                    ubi ipsum coram conspexeris ac noveris. Pluribus apud te causam ipsius agerem,
+                    si aliquo modo necessarium esse putarem. Quicquid officii illi praestiteris,
+                    senties hominem minime ingratum. Bene vale.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> 13. Octobris 1533.</p>
                 <p xml:id="p.4">Mitto tibi munusculum chartarum <persName>Vivis</persName><note
-                        type="critic" xml:id="note.3">Juan Luis Vives (1493–1540) was a Spanish
-                        scholar and Renaissance humanist, see <hi rend="smallcap">Deutscher</hi>
-                        1987.</note> librum <title><hi rend="italic">De ratione
-                        dicendi</hi></title>,<note type="critic" xml:id="note.4">It was published by
-                        Ressen at Leuven in 1533, see <hi rend="smallcap">Walker</hi> 2017, 47.
-                        According to Deutscher, it was published by Bernardus Gravius, see <hi
-                            rend="smallcap">Deutscher</hi> 1987, 412.</note> domini
-                        <persName>Basilii</persName><title><hi rend="italic">Homilias</hi></title>
-                    duas ac declamationem <persName>Guillelmi Lapidani</persName><note type="critic"
-                        xml:id="note.5">Guilhelmus van den Steene.</note><title><hi rend="italic">De
-                            non timenda morte</hi></title>.<note type="critic" xml:id="note.6">It
-                        was published by Bernardus Gravius at Leuven in 1533.</note></p>
+                        xml:id="note.3">Juan Luis Vives (1493–1540) was a Spanish scholar and
+                        Renaissance humanist, see <hi rend="smallcap">Deutscher</hi> 1987.</note>
+                    librum <title><hi rend="italic">De ratione dicendi</hi></title>,<note
+                        xml:id="note.4">It was published by Ressen at Leuven in 1533, see <hi
+                            rend="smallcap">Walker</hi> 2017, 47. According to Deutscher, it was
+                        published by Bernardus Gravius, see <hi rend="smallcap">Deutscher</hi> 1987,
+                        412.</note> domini <persName>Basilii</persName><title><hi rend="italic"
+                            >Homilias</hi></title> duas ac declamationem <persName>Guillelmi
+                        Lapidani</persName><note xml:id="note.5">Guilhelmus van den
+                            Steene.</note><title><hi rend="italic">De non timenda
+                        morte</hi></title>.<note xml:id="note.6">It was published by Bernardus
+                        Gravius at Leuven in 1533.</note></p>
             </div>
         </body>
     </text>

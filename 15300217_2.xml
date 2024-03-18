@@ -230,26 +230,26 @@
                     </body>
                 </floatingText>
                 <pb facs="15300217_2_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Iacobum episcopum</persName>.<note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note></p>
+                <p xml:id="p.1">Ad <persName>Iacobum episcopum</persName>.<note xml:id="note.1">We
+                        do not know him more closely.</note></p>
                 <p xml:id="p.2">Et si a multis iam annis tuam erga omnes singularem humanitatem,
                     amorem et benevolentiam plane cognoveram, ea tamen notiora mihi fecit
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.2">We do not
-                        know him more closely.</note> tuus, ad regem tuo et capituli tui nomine
-                    nuper missus. Qui non de illis modo veteribus nostris consuetudinibus, sed etiam
-                    de his, quae post meum a te discessum consecuta sunt, mecum plura communicavit,
-                    declaravit namque multis verbis, quam honorificam de me saepe facere soleas <del
-                        corresp="Olahus">et</del> mentionem et quam cordi tibi sit mei, si qua post
-                    tot curas, labores et sollicitudines benignitate Dei fieri posset promotio.
-                    Habeo cumulatissimas gratias Tuae Reverendae Paternitati, qui <del
-                        corresp="Olahus">mea</del> tua sponte me ames, nullis aliis praeterquam
-                    conversatione quotidiana, meis provocatus officiis. Id est vera dignum gloria,
-                    cum quis non modo benemeritum, sed etiam qui benemereri studeat, amore,
-                    humanitate et caritate prosequatur. Haec tua laus tanto est excellentior, quo
-                    tuapte natura te facis in alios humaniorem. Perge igitur, ut agis, et nomen tuum
-                    immortalitati commenda, quae sola virtute comparatur. Non minima autem virtutis
-                    pars est, cum quis de aliis <del corresp="Olahus">benemeritis</del><add
-                        corresp="Olahus" type="corr">benemeritus</add> esse cupiat.</p>
+                        <persName>Ioannes</persName><note xml:id="note.2">We do not know him more
+                        closely.</note> tuus, ad regem tuo et capituli tui nomine nuper missus. Qui
+                    non de illis modo veteribus nostris consuetudinibus, sed etiam de his, quae post
+                    meum a te discessum consecuta sunt, mecum plura communicavit, declaravit namque
+                    multis verbis, quam honorificam de me saepe facere soleas <del corresp="Olahus"
+                        >et</del> mentionem et quam cordi tibi sit mei, si qua post tot curas,
+                    labores et sollicitudines benignitate Dei fieri posset promotio. Habeo
+                    cumulatissimas gratias Tuae Reverendae Paternitati, qui <del corresp="Olahus"
+                        >mea</del> tua sponte me ames, nullis aliis praeterquam conversatione
+                    quotidiana, meis provocatus officiis. Id est vera dignum gloria, cum quis non
+                    modo benemeritum, sed etiam qui benemereri studeat, amore, humanitate et
+                    caritate prosequatur. Haec tua laus tanto est excellentior, quo tuapte natura te
+                    facis in alios humaniorem. Perge igitur, ut agis, et nomen tuum immortalitati
+                    commenda, quae sola virtute comparatur. Non minima autem virtutis pars est, cum
+                    quis de aliis <del corresp="Olahus">benemeritis</del><add corresp="Olahus"
+                        type="corr">benemeritus</add> esse cupiat.</p>
                 <p xml:id="p.3">Quae mihi et prius per Ioannem tuum et postea per litteras apud
                     regem meum conficienda <del corresp="Olahus">mandaveris</del><add
                         corresp="Olahus" type="corr">demandaveris</add>, satis intellexi, ea mihi

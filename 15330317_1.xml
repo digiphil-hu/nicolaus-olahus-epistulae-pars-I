@@ -267,24 +267,23 @@
                         corresp="Olahus">suis</del><add corresp="Olahus" type="corr">tibi</add>
                     demandatis, ita de cetero <add corresp="Olahus" type="insert">quoque</add>, dum
                     usus erit, utetur. Quid ego de Turcis per <persName>Griteum</persName><note
-                        type="critic" xml:id="note.1">Ludovico Gritti.</note> evocatis sentiam,
-                    litteris meis aliis perscripsi, nimirum id, ut eorum, quod longe absit,
-                    excursione cogamini etiam inviti aliquid facere. Litteras tuas mittam cras per
-                    fidum nuntium <placeName>Brugas</placeName> ad <del corresp="Olahus"
-                        >dominam</del><persName>coniugem</persName> tuam<note type="critic"
-                        xml:id="note.2">Anna Isabella (Elizabeth) Donche.</note> amantissimam.
-                    Advocato Bruxellensi curavi per <persName>Levinum</persName><note type="critic"
-                        xml:id="note.3">Lieven Algoet.</note> suas reddendas, qui me hortatore
-                    rescripsit, quas cum praesentibus accipies. Praefecto quoque
-                        <persName>Mechliniensi</persName><note type="critic" xml:id="note.4"
-                        >Probably Antoine I de Lalaing.</note> mittam hodie vel cras per
-                        <persName>Ioannem Langium</persName> inclusas meis litteris<note
-                        type="critic" xml:id="note.5">See 15330309_3.</note>, nam dominus <del
-                        corresp="Olahus">Ioannes</del><add corresp="Olahus" type="corr"
-                        >archiepiscopus</add><persName>Panormitanus</persName><note type="critic"
-                        xml:id="note.6">Jean II Carondelet.</note> eo est profecturus regina hodie
-                    ad venationem <del corresp="Olahus">quatridianam</del><add corresp="Olahus"
-                        type="corr">quadridianam</add> proficiscente, sed longe ante autumnum
+                        xml:id="note.1">Ludovico Gritti.</note> evocatis sentiam, litteris meis
+                    aliis perscripsi, nimirum id, ut eorum, quod longe absit, excursione cogamini
+                    etiam inviti aliquid facere. Litteras tuas mittam cras per fidum nuntium
+                        <placeName>Brugas</placeName> ad <del corresp="Olahus"
+                        >dominam</del><persName>coniugem</persName> tuam<note xml:id="note.2">Anna
+                        Isabella (Elizabeth) Donche.</note> amantissimam. Advocato Bruxellensi
+                    curavi per <persName>Levinum</persName><note xml:id="note.3">Lieven
+                        Algoet.</note> suas reddendas, qui me hortatore rescripsit, quas cum
+                    praesentibus accipies. Praefecto quoque <persName>Mechliniensi</persName><note
+                        xml:id="note.4">Probably Antoine I de Lalaing.</note> mittam hodie vel cras
+                    per <persName>Ioannem Langium</persName> inclusas meis litteris<note
+                        xml:id="note.5">See 15330309_3.</note>, nam dominus <del corresp="Olahus"
+                        >Ioannes</del><add corresp="Olahus" type="corr"
+                        >archiepiscopus</add><persName>Panormitanus</persName><note xml:id="note.6"
+                        >Jean II Carondelet.</note> eo est profecturus regina hodie ad venationem
+                        <del corresp="Olahus">quatridianam</del><add corresp="Olahus" type="corr"
+                        >quadridianam</add> proficiscente, sed longe ante autumnum
                         <persName>praefectus Mechliniensis</persName> profectus est ad
                         <persName>caesarem</persName>. Ad quem eo quoque mittere volebam, sed putavi
                     eum iam reditum parasse, et litteras <del corresp="Olahus">eum</del> non posse
@@ -292,8 +291,8 @@
                     illas misi </p>
                 <pb facs="15330317_1_2.jpg"/>
                 <p xml:id="p.3">ad domum suam, <placeName>Mechliniam</placeName>.
-                        <persName>Sempii</persName><note type="critic" xml:id="note.7">Antoine de
-                        Croÿ, Lord of Sempy (Sampy).</note> rediit.</p>
+                        <persName>Sempii</persName><note xml:id="note.7">Antoine de Croÿ, Lord of
+                        Sempy (Sampy).</note> rediit.</p>
                 <p xml:id="p.4">[2.] <del corresp="Olahus">Moris diluviat</del><add corresp="Olahus"
                         type="corr">Maris diluvium</add> attulit <add corresp="Olahus" type="insert"
                         >damna Flandris et aliis</add>, quae non minimis impensis restitui posse
@@ -306,37 +305,35 @@
                         curabunt</add> suam navigationem <del corresp="Olahus">defendere</del><add
                         corresp="Olahus" type="corr">armis liberam facere</add>, si caesaris, quam
                     petunt, accesserit voluntas. Scis causam esse veterem et inimicitias inter eos
-                    antiquas propter <persName>regem Cristernum</persName><note type="critic"
-                        xml:id="note.8">King Christian II of Denmark (1481–1559).</note> adiutum.
-                    Quattuor millia peditum Alemanorum sunt nunc in finibus
-                        <placeName>Holandiae</placeName> prope traiectum congregata ex gregariis
-                    militibus, quo duce vel clanculario fautore certo adhuc nescitur. Prohibitum est
-                    caesarianis militibus sub capitis poena, ne eo confugiant, ut plebs est rerum
-                    novarum avida. Designatus est ad eos aut profligandos aut saltem deterrendos
-                        <persName>dominus a Byren</persName> capitaneus,<note type="critic"
-                        xml:id="note.9">Adolphe de Bourgogne de Beveren.</note> alioqui cum
-                    stipendiariis praesidiariisque harum provinciarum <del corresp="Olahus"
-                        >earundem</del> militibus, qui post dies aliquot eo contendet. <choice>
+                    antiquas propter <persName>regem Cristernum</persName><note xml:id="note.8">King
+                        Christian II of Denmark (1481–1559).</note> adiutum. Quattuor millia peditum
+                    Alemanorum sunt nunc in finibus <placeName>Holandiae</placeName> prope traiectum
+                    congregata ex gregariis militibus, quo duce vel clanculario fautore certo adhuc
+                    nescitur. Prohibitum est caesarianis militibus sub capitis poena, ne eo
+                    confugiant, ut plebs est rerum novarum avida. Designatus est ad eos aut
+                    profligandos aut saltem deterrendos <persName>dominus a Byren</persName>
+                        capitaneus,<note xml:id="note.9">Adolphe de Bourgogne de Beveren.</note>
+                    alioqui cum stipendiariis praesidiariisque harum provinciarum <del
+                        corresp="Olahus">earundem</del> militibus, qui post dies aliquot eo
+                    contendet. <choice>
                         <orig>Rex</orig>
                         <supplied>Reges</supplied>
-                    </choice> Galliae et Angliae,<note type="critic" xml:id="note.10">King Francis I
-                        and King Henry VIII.</note> uti dicitur, brevi rursus convenient; quid
-                    moliantur, incertum est. Alia nunc nulla. Responsum
-                        <persName>coniugis</persName> tuae et <persName>decani</persName><note
-                        type="critic" xml:id="note.11">Mark Lauwerijns.</note> misi ad te hoc triduo
-                    cum litteris <persName>reginae</persName>. De rebus meis rogo, habe curam, ut ex
-                    sententia conficiantur nostrum utriusque.</p>
-                <p xml:id="p.5">[3.] Domino <persName>Agriensi</persName><note type="critic"
-                        xml:id="note.12">Tamás Szalaházy.</note> dicere poteris, si videtur,
-                    commissionem te habere a rege et regina, et si id addes, etiam caesare, ut si
-                    res eo devenerit, cum eo una conficias meum negotium. Attamen tuae prudentiae et
-                    dexteritati relinquo modum omnem agendi, qui <del corresp="Olahus"
-                        >prope</del><add corresp="Olahus" type="corr">propius</add> sis rebus, et
-                    ideo non ignores, quid sit agendum et quid tentandum. Nunc non plura.
-                    Exspectamus tuas litteras, ut et regina et nos sciamus, quid istic agatur.
-                    Officiales reginae publica scribunt, sed tu privata et penitiora <del
-                        corresp="Olahus">ei per me</del> significare poteris. <persName>Ioanne
-                        Cegledino</persName><note type="critic" xml:id="note.13">János
+                    </choice> Galliae et Angliae,<note xml:id="note.10">King Francis I and King
+                        Henry VIII.</note> uti dicitur, brevi rursus convenient; quid moliantur,
+                    incertum est. Alia nunc nulla. Responsum <persName>coniugis</persName> tuae et
+                        <persName>decani</persName><note xml:id="note.11">Mark Lauwerijns.</note>
+                    misi ad te hoc triduo cum litteris <persName>reginae</persName>. De rebus meis
+                    rogo, habe curam, ut ex sententia conficiantur nostrum utriusque.</p>
+                <p xml:id="p.5">[3.] Domino <persName>Agriensi</persName><note xml:id="note.12"
+                        >Tamás Szalaházy.</note> dicere poteris, si videtur, commissionem te habere
+                    a rege et regina, et si id addes, etiam caesare, ut si res eo devenerit, cum eo
+                    una conficias meum negotium. Attamen tuae prudentiae et dexteritati relinquo
+                    modum omnem agendi, qui <del corresp="Olahus">prope</del><add corresp="Olahus"
+                        type="corr">propius</add> sis rebus, et ideo non ignores, quid sit agendum
+                    et quid tentandum. Nunc non plura. Exspectamus tuas litteras, ut et regina et
+                    nos sciamus, quid istic agatur. Officiales reginae publica scribunt, sed tu
+                    privata et penitiora <del corresp="Olahus">ei per me</del> significare poteris.
+                        <persName>Ioanne Cegledino</persName><note xml:id="note.13">János
                         Czeglédi.</note> presbytero meo utare, ut instrumento. Quem doceas, quid
                     facere debeat, maxime si vis eum loqui <del corresp="Olahus">cum</del><add
                         corresp="editor">cum</add><persName>Broderico</persName>. Vale

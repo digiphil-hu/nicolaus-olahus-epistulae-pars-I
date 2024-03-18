@@ -231,9 +231,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">According to the
-                        previous letter, he is Jacobus Tuberus. We do not know him more
-                        closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">According to the previous letter, he
+                        is Jacobus Tuberus. We do not know him more closely.</note></p>
                 <p xml:id="p.2">Querelae tuae, quas ad me detulit <persName>Ioannes</persName> tuus
                     servus; quam molestae mihi fuerint, ex amicis tuis, qui nunc apud me erant,
                     facile intelligere poteris. Quantum autem, <del corresp="Olahus">me</del><add

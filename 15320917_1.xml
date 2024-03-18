@@ -232,21 +232,21 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Idem</add> ad Ioannem
-                        praepositum.<note type="critic" xml:id="note.1">We do not know him more
-                        closely, see Ep. 172, Ep. 164, and Ep.
+                        praepositum.<note xml:id="note.1">We do not know him more closely, see Ep.
+                        172, Ep. 164, and Ep.
                         165.<ref>olahus.tei.15310815_1</ref></note><ref>/o:olahus.tei.15320913_1</ref><ref>/o:olahus.tei.15320913_2</ref></p>
                 <p xml:id="p.2">Vix dicere tibi possum, quantum molestiae mihi attulerit rerum
                     tuarum turbatio. Nam etsi omnibus artibus modisque elaboraverim omni tempore, ut
-                    ἡ τύχη σου <note type="critic" xml:id="note.2">‘your fate’.</note> optimum
-                    haberet progressum, tamen ἀγνόω, <choice>
+                    ἡ τύχη σου <note xml:id="note.2">‘your fate’.</note> optimum haberet progressum,
+                    tamen ἀγνόω, <choice>
                         <orig>ἥ κακοδαιμωνία</orig>
                         <supplied>ἣ κακοδαιμονία</supplied>
-                    </choice>,<note type="critic" xml:id="note.3">‘I do not know what evil
-                        fate’.</note> omnia tua invertit, videnturque ea nescio, quibus esse in
-                    periculis, adeo ut nisi Deus illis succurrerit, nescio, quem exitum statumque
-                    sint habitura. Quare, mi Frater, si poteris, hortor te, non solum rogo, ut animi
-                    tui molestiam depone, accurreque huc propius, ut consulere possimus, quid in his
-                    ipsis rebus sit faciendum. Vale.</p>
+                    </choice>,<note xml:id="note.3">‘I do not know what evil fate’.</note> omnia tua
+                    invertit, videnturque ea nescio, quibus esse in periculis, adeo ut nisi Deus
+                    illis succurrerit, nescio, quem exitum statumque sint habitura. Quare, mi
+                    Frater, si poteris, hortor te, non solum rogo, ut animi tui molestiam depone,
+                    accurreque huc propius, ut consulere possimus, quid in his ipsis rebus sit
+                    faciendum. Vale.</p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 17. Septembris 1532.</p>
             </div>
         </body>

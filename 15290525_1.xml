@@ -240,11 +240,11 @@
                     auxilii et subsidii, quo nos rex Ferdinandus a periculis, quibus iam multos
                     annos torquemur, facile liberare posset. Venit nunc certissimus nuntius, <add
                         corresp="Olahus" type="insert">qui dicat</add> omnes fere imperiales
-                    tractatus <placeName>Spirae</placeName><note type="critic" xml:id="note.1"
-                        >Speyer.</note> factos in fumum transisse, factam quidem alicuius auxilii
-                    inposterum ferendi nonnullam promissionem, sed eam quoque incertam, rebus fidei,
-                    quam neglecta patrum nostrorum traditione quisque ad arbitrium suum nunc trahit,
-                    mirifice obstantibus. Non desunt multi, qui nihil aliud <del corresp="Olahus"
+                    tractatus <placeName>Spirae</placeName><note xml:id="note.1">Speyer.</note>
+                    factos in fumum transisse, factam quidem alicuius auxilii inposterum ferendi
+                    nonnullam promissionem, sed eam quoque incertam, rebus fidei, quam neglecta
+                    patrum nostrorum traditione quisque ad arbitrium suum nunc trahit, mirifice
+                    obstantibus. Non desunt multi, qui nihil aliud <del corresp="Olahus"
                         >curant</del><add corresp="Olahus" type="corr">curent</add> procul agentes a
                     periculis in summo otio, quam dissensionem inter principes Christianos serere,
                     atque adeo omnem rem invertere, ut omnia et divina et profana simul misceant. </p>
@@ -279,15 +279,15 @@
                     esse arbitrabor, si ad me, ut saepius iam es pollicitus, cito veneris, communem
                     calamitatem hic mecum una deploraturus. Quo vero in statu res tua hic versetur
                     et quam difficiles habeas adversarios, potuisti partim ex meis litteris, partim
-                    ex <persName>Iohanne</persName><note type="critic" xml:id="note.2">We do not
-                        know him more closely.</note> tuo, cui his de rebus mandata ad te dederam,
-                    iampridem plane intellexisse. Res haec tuae licet non sunt sine magna
-                    difficultate et multa illis obiecta sint impedimenta, omnia tamen facile vitari
-                    poterunt, si quamprimum veneris, et tua praesentia res tuas stabilieris. Multum
-                    enim tui conspectus habet apud nostros authoritatis, contra absentia, non
-                    minimum affert omnibus audaciae, ut tuis rebus et conatibus obsistatur. Quod
-                    facillime in bonam partem vertere <del corresp="Olahus">potuerimus</del><add
-                        corresp="Olahus" type="corr">poterimus</add>, si veneris. Vale. </p>
+                    ex <persName>Iohanne</persName><note xml:id="note.2">We do not know him more
+                        closely.</note> tuo, cui his de rebus mandata ad te dederam, iampridem plane
+                    intellexisse. Res haec tuae licet non sunt sine magna difficultate et multa
+                    illis obiecta sint impedimenta, omnia tamen facile vitari poterunt, si
+                    quamprimum veneris, et tua praesentia res tuas stabilieris. Multum enim tui
+                    conspectus habet apud nostros authoritatis, contra absentia, non minimum affert
+                    omnibus audaciae, ut tuis rebus et conatibus obsistatur. Quod facillime in bonam
+                    partem vertere <del corresp="Olahus">potuerimus</del><add corresp="Olahus"
+                        type="corr">poterimus</add>, si veneris. Vale. </p>
                 <p xml:id="p.6"> Ex <placeName>Znoyma</placeName> 25. Maii 1529. </p>
             </div>
         </body>

@@ -235,42 +235,40 @@
                 </floatingText>
                 <pb facs="15320531_2_1.jpg"/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
-                <p xml:id="p.2">[1.] Litteras vestras<note type="critic" xml:id="note.1">The last
-                        letter by Oláh to Szalaházy we know of is Ep. 213, but there is no word
-                        about a gift or book in it.<ref>olahus.tei.15320219_1</ref></note> una cum
-                    munere accepimus; legimus libellum, quantum per occupationes licuit, non
-                    possumus non laudare opus pii et eruditi viri, sive is interpres sit, sive
-                    paraphrastes. Non dubitamus, quin reliquum quoque perfecerit. Rogamus, ut illud
-                    quoque quamprimum licuerit, ad nos mittatis. Pensionem abbatiae de
-                        <placeName>Thapolcza</placeName><note type="critic" xml:id="note.2">About
-                        the parish of Miskolc, see Ep. 148. Note
-                        2.<ref>olahus.tei.15310512_1</ref></note> dudum vobis misissemus,<note
-                        type="critic" xml:id="note.3">Ep.
-                        222.<ref>olahus.tei.15320505_1</ref></note> sed ea pecunia una cum aliis,
-                    quae nobis per nuntios civitatum afferebantur, per
-                        <persName>Koczka</persName><note type="critic" xml:id="note.4">Péter
-                        Koczka.</note> intercepta est, qui et hodie nuntios ipsos captos tenet.
-                    Dabimus tamen operam, ut eam quamprimum aliunde paremus et vobis mittamus.
+                <p xml:id="p.2">[1.] Litteras vestras<note xml:id="note.1">The last letter by Oláh
+                        to Szalaházy we know of is Ep. 213, but there is no word about a gift or
+                        book in it.<ref>olahus.tei.15320219_1</ref></note> una cum munere accepimus;
+                    legimus libellum, quantum per occupationes licuit, non possumus non laudare opus
+                    pii et eruditi viri, sive is interpres sit, sive paraphrastes. Non dubitamus,
+                    quin reliquum quoque perfecerit. Rogamus, ut illud quoque quamprimum licuerit,
+                    ad nos mittatis. Pensionem abbatiae de <placeName>Thapolcza</placeName><note
+                        xml:id="note.2">About the parish of Miskolc, see Ep. 148. Note
+                            2.<ref>olahus.tei.15310512_1</ref></note> dudum vobis misissemus,<note
+                        xml:id="note.3">Ep. 222.<ref>olahus.tei.15320505_1</ref></note> sed ea
+                    pecunia una cum aliis, quae nobis per nuntios civitatum afferebantur, per
+                        <persName>Koczka</persName><note xml:id="note.4">Péter Koczka.</note>
+                    intercepta est, qui et hodie nuntios ipsos captos tenet. Dabimus tamen operam,
+                    ut eam quamprimum aliunde paremus et vobis mittamus.
                         <persName>Emericus</persName> et <persName>Franciscus Bebek</persName><note
-                        type="critic" xml:id="note.5">Imre and Ferenc Bebek, see Ep. 102. Note
+                        xml:id="note.5">Imre and Ferenc Bebek, see Ep. 102. Note
                             1.<ref>olahus.tei.15301020_1</ref></note> ad
                         <persName>Ioannem</persName> desciverunt, qui abbatiam de
                         <placeName>Thapolcza</placeName> invadentes eam expugnaverunt, famulum
-                        <persName>Petri Horwat</persName>,<note type="critic" xml:id="note.6">We do
-                        not know him more closely.</note> qui ceteris praeerat, crudeli morte
-                    affecerunt, reliquos vero, qui illic fuerunt, captivarunt, hinc orsi praeclara
-                    sua facinora homines fortissimi.</p>
+                        <persName>Petri Horwat</persName>,<note xml:id="note.6">We do not know him
+                        more closely.</note> qui ceteris praeerat, crudeli morte affecerunt,
+                    reliquos vero, qui illic fuerunt, captivarunt, hinc orsi praeclara sua facinora
+                    homines fortissimi.</p>
                 <p xml:id="p.3">[2.] Misimus vobis exemplum litterarum, quibus fideles regiae
                     maiestatis seducere conantur, ostendatis illud serenissimae dominae reginae. Pro
                     bonis Dominationis Vestrae et apud dominum <persName>Valentinum
-                        Therek</persName><note type="critic" xml:id="note.7">Bálint Török.</note> et
-                    apud dominum <persName>Ladislaum More</persName><note type="critic"
-                        xml:id="note.8">László Móré.</note> multum laboravimus, sed nihil efficere
-                    potuimus, non videntur <del corresp="Olahus?">adhuc</del> posse adduci, ut ea
-                    remittant, nisi rex cum exercitu veniat. Nostris quoque bonis nihil parcitum
-                    est, quae quamvis non sint occupata, tamen ita sunt depraedata et despoliata, ut
-                    expedierit ea fuisse occupata. Ceterum suadere Dominationi Vestrae non possumus,
-                    ut nunc in his tempestatibus redeat, <choice>
+                        Therek</persName><note xml:id="note.7">Bálint Török.</note> et apud dominum
+                        <persName>Ladislaum More</persName><note xml:id="note.8">László Móré.</note>
+                    multum laboravimus, sed nihil efficere potuimus, non videntur <del
+                        corresp="Olahus?">adhuc</del> posse adduci, ut ea remittant, nisi rex cum
+                    exercitu veniat. Nostris quoque bonis nihil parcitum est, quae quamvis non sint
+                    occupata, tamen ita sunt depraedata et despoliata, ut expedierit ea fuisse
+                    occupata. Ceterum suadere Dominationi Vestrae non possumus, ut nunc in his
+                    tempestatibus redeat, <choice>
                         <orig>exspectat</orig>
                         <supplied>exspectet</supplied>
                     </choice> per hanc aestatem, quem finem res nostrae sortiturae sint. Deinde, si

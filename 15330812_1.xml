@@ -242,7 +242,7 @@
                 </floatingText>
                 <pb facs="15330812_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Sceperum.</p>
-                <p xml:id="p.2">[1.] Proximis meis litteris<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">[1.] Proximis meis litteris<note xml:id="note.1">Ep.
                             389.<ref>olahus.tei.15330806_1</ref></note> descripsi ad te tuarum rerum
                     domesticarum statum, quem et ex litteris <persName>coniugis</persName> tuae
                     intellexisse potuisti. Valent recte tui omnes. <persName>Regina</persName>, ut
@@ -267,25 +267,25 @@
                         <placeName>Hungariae</placeName> pars <persName>vaivodae</persName>
                     relinquetur, non est dubitandum, quin et <persName>rex</persName> noster
                     serenissimus et <persName>vaivoda</persName> te et domino reverendissimo
-                        <persName>Lundensi</persName><note type="critic" xml:id="note.2">Johan
+                        <persName>Lundensi</persName><note xml:id="note.2">Johan
                         Weze.</note><persName>caesaris</persName> nomine praesentibus per
                     commissarios negotia omnia particularia determinent et finiant. Quod si erit, et
                         <persName>Brodericus</persName> aut <persName>Nadasdi</persName> intererit
                     his tractatibus, cum his, si res postulabit, in meis quoque rebus, quod ad
                     illorum partem attinet, agere poteris. Nova hic nulla. Et si quae fuerunt, ex
-                        litteris<note type="critic" xml:id="note.3">Probably Ep.
+                        litteris<note xml:id="note.3">Probably Ep.
                             391.<ref>olahus.tei.15330811_1</ref></note> meis praesentibus ad
                     reverendissimum <persName>dominum Lundensem</persName> datis intelliges. Si
                     fieri possit, cuperem litteras tales regias et <persName>domini
-                        Tridentini</persName><note type="critic" xml:id="note.4">Bernhard von
-                        Cles.</note> ad me huc mitti, quarum exemplum praesentibus inclusi, pro
-                    futura rerum mearum securitate, et ut maiorem habiturus essem illas suo tempore
-                    aggredi occasionem. <persName>Dominus Tridentinus</persName>, ut opinor, unico
-                    verbo admonitus eas expediet, ut autem et tu honestius rem aggrediaris, ostende
-                    illis litteras <persName>reginae</persName> ad te in hac re missas, quorum
-                    litterae ad me rescriptae futurae hic testes erunt tuae in hac commissione
-                    exsecuta diligentiae. Attamen an in hoc agendum sit, an non, tuo relinquo
-                    iudicio et prudentiae. Vale et scribe. Ego quoque id faciam et frequenter.</p>
+                        Tridentini</persName><note xml:id="note.4">Bernhard von Cles.</note> ad me
+                    huc mitti, quarum exemplum praesentibus inclusi, pro futura rerum mearum
+                    securitate, et ut maiorem habiturus essem illas suo tempore aggredi occasionem.
+                        <persName>Dominus Tridentinus</persName>, ut opinor, unico verbo admonitus
+                    eas expediet, ut autem et tu honestius rem aggrediaris, ostende illis litteras
+                        <persName>reginae</persName> ad te in hac re missas, quorum litterae ad me
+                    rescriptae futurae hic testes erunt tuae in hac commissione exsecuta
+                    diligentiae. Attamen an in hoc agendum sit, an non, tuo relinquo iudicio et
+                    prudentiae. Vale et scribe. Ego quoque id faciam et frequenter.</p>
                 <p xml:id="p.5"><placeName>Gandavi</placeName> 12. Augusti 1533.</p>
             </div>
         </body>

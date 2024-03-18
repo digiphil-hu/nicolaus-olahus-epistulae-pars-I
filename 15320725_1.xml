@@ -242,39 +242,38 @@
                 </floatingText>
                 <pb facs="15320725_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Damianum Vissenacum responsio.</p>
-                <p xml:id="p.2">Falsos religiosos, mi Vissenace, fugere curato!<note type="critic"
-                        xml:id="note.1">See Ep. 241.<ref>olahus.tei.15320722_1</ref></note> Nec
-                    immerito <persName>Lactantium Firmianum</persName> de his scripsisse putato.
-                    Solent enim plerumque fieri exitiales et s<quote xml:id="quote.1">ub praetextu
+                <p xml:id="p.2">Falsos religiosos, mi Vissenace, fugere curato!<note xml:id="note.1"
+                        >See Ep. 241.<ref>olahus.tei.15320722_1</ref></note> Nec immerito
+                        <persName>Lactantium Firmianum</persName> de his scripsisse putato. Solent
+                    enim plerumque fieri exitiales et s<quote xml:id="quote.1">ub praetextu
                         religionis virus alunt</quote><note type="quote" xml:id="note.quote.1">Cf.:
                         Innocent III, <hi rend="italic">Serm. comm. II:</hi> “qui veris falsa
                         miscentes, sub praetextu religionis virus nequitiae diffundunt in
                         simplices”, see <hi rend="smallcap">Migne</hi> 1855, 605.</note>. Quid enim
-                    hi in alios non perpetrare audent cum τὴν ψυχὴν σου<note type="critic"
-                        xml:id="note.2">‘your soul’.</note> falsa religione pergunt subvertere, sed
-                    talem non puto esse meum <persName>Danum</persName>,<note type="critic"
-                        xml:id="note.3">Jakob Jespersen.</note> quem tu insimulas, de cuius licet
-                    saepe luserimus cuculla ex verbis <persName>Scepperi</persName><note
-                        type="critic" xml:id="note.4">Cornelis de Schepper of Nieuwport or Cornelis
-                        de Dobbele (ca.1503–1555) was a Flemish counsellor and ambassador for
-                        Emperor Charles V, King Ferdinand I of Austria, and Queen Mary of Hungary,
-                        governor of the Netherlands. He frequently corresponded with Erasmus and
-                        Oláh, and through their letters, we get a better idea of his legation to
-                        Constantinople as well, see <hi rend="smallcap">Luttenberger–Bietenholz</hi>
-                        1985.</note> iocosis, tamen honestum et ipse se </p>
+                    hi in alios non perpetrare audent cum τὴν ψυχὴν σου<note xml:id="note.2">‘your
+                        soul’.</note> falsa religione pergunt subvertere, sed talem non puto esse
+                    meum <persName>Danum</persName>,<note xml:id="note.3">Jakob Jespersen.</note>
+                    quem tu insimulas, de cuius licet saepe luserimus cuculla ex verbis
+                        <persName>Scepperi</persName><note xml:id="note.4">Cornelis de Schepper of
+                        Nieuwport or Cornelis de Dobbele (ca.1503–1555) was a Flemish counsellor and
+                        ambassador for Emperor Charles V, King Ferdinand I of Austria, and Queen
+                        Mary of Hungary, governor of the Netherlands. He frequently corresponded
+                        with Erasmus and Oláh, and through their letters, we get a better idea of
+                        his legation to Constantinople as well, see <hi rend="smallcap"
+                            >Luttenberger–Bietenholz</hi> 1985.</note> iocosis, tamen honestum et
+                    ipse se </p>
                 <pb facs="15320725_1_2.jpg"/>
                 <p xml:id="p.3">et ego eum puto hominem alienumque ab omni turpissimo crimine.
-                        <persName>Levinum</persName><note type="critic" xml:id="note.5">Lieven
-                        Algoet.</note> sponsum tam cito fieri non putassem, quod tamen felix
-                    faustumque sit. Maluissem, ut et vos et ipse maturius rem perpendissetis, nec
-                    tam cito amori imtempestius dedissetis locum. Scis, quam <del corresp="Olahus"
-                        >dissolubilis</del><add corresp="Olahus" type="corr">indissolubilis</add>
-                    sit <del corresp="Olahus">matrimonium</del><add corresp="Olahus" type="corr"
-                        >matrimonii</add> ἡ φυλακή,<note type="critic" xml:id="note.6">‘the bond [of
-                        marriage]’.</note> Deus secundet factum. De mea ad nuptias profectione quid
-                    facere et possim et valeam, videbo. Novum Testamentum Graecum dono non accipiam,
-                    sed vel commodato vel praetio. Vale et pergas me amare, ac tuos meo nomine
-                    saluta.</p>
+                        <persName>Levinum</persName><note xml:id="note.5">Lieven Algoet.</note>
+                    sponsum tam cito fieri non putassem, quod tamen felix faustumque sit. Maluissem,
+                    ut et vos et ipse maturius rem perpendissetis, nec tam cito amori imtempestius
+                    dedissetis locum. Scis, quam <del corresp="Olahus">dissolubilis</del><add
+                        corresp="Olahus" type="corr">indissolubilis</add> sit <del corresp="Olahus"
+                        >matrimonium</del><add corresp="Olahus" type="corr">matrimonii</add> ἡ
+                        φυλακή,<note xml:id="note.6">‘the bond [of marriage]’.</note> Deus secundet
+                    factum. De mea ad nuptias profectione quid facere et possim et valeam, videbo.
+                    Novum Testamentum Graecum dono non accipiam, sed vel commodato vel praetio. Vale
+                    et pergas me amare, ac tuos meo nomine saluta.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 25. Iulii anno 1532.</p>
             </div>
         </body>

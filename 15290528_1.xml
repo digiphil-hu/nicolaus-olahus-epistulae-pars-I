@@ -230,17 +230,15 @@
                     </body>
                 </floatingText>
                 <pb facs="15290528_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Philippum Moranum</persName>.<note type="critic"
-                        xml:id="note.1">Moranus or Moravus, we do not know him more
-                    closely.</note></p>
+                <p xml:id="p.1">Ad <persName>Philippum Moranum</persName>.<note xml:id="note.1"
+                        >Moranus or Moravus, we do not know him more closely.</note></p>
                 <p xml:id="p.2">Quid hic factum fuerit post tuam profectionem, potuisti iam aperte
                     intellexisse. Tum ex multorum litteris, tum ex <persName>Nicolao</persName><note
-                        type="critic" xml:id="note.2">We do not know him more closely.</note> tuo,
-                    cui ego ipse omnia, quae ad rem tuam visa sunt pertinere, coram exposui. Qui non
-                    secus, quam si praesens tecum essem, meque narrantem audires, tibi referre de
-                    rebus omnibus poterit. Nihil est, mi Philippe, quo magnopere <del
-                        corresp="Olahus">commoveras</del><add corresp="Olahus" type="corr"
-                        >commovearis</add>.</p>
+                        xml:id="note.2">We do not know him more closely.</note> tuo, cui ego ipse
+                    omnia, quae ad rem tuam visa sunt pertinere, coram exposui. Qui non secus, quam
+                    si praesens tecum essem, meque narrantem audires, tibi referre de rebus omnibus
+                    poterit. Nihil est, mi Philippe, quo magnopere <del corresp="Olahus"
+                        >commoveras</del><add corresp="Olahus" type="corr">commovearis</add>.</p>
                 <p xml:id="p.3">Tanta est omnium </p>
                 <pb facs="15290528_1_2.jpg"/>
                 <p xml:id="p.4">erga te benevolentia, ut mirum in modum ab omnibus desidereris et

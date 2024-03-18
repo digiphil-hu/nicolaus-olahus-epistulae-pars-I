@@ -235,32 +235,31 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Idem<note type="critic" xml:id="note.1">Lieven van den Zande or
-                        Levinus Ammonius of Ghent (1488–1557) joined the Carthusian Order. In 1533,
-                        he was transposed to the Monastery of Koningdal outside Ghent. He
-                        corresponded with many humanists e.g. Erasmus and Jakob Jespersen. His
-                        autograph letter-book is preserved in the Bibliothèque municipale of
-                        Besançon, Ms. 599, see <hi rend="smallcap">Bietenholz</hi> 1985b, and <hi
-                            rend="smallcap">Roersch</hi> 1901.</note> Nicolao Olao salutem.</p>
+                <p xml:id="p.1">Idem<note xml:id="note.1">Lieven van den Zande or Levinus Ammonius
+                        of Ghent (1488–1557) joined the Carthusian Order. In 1533, he was transposed
+                        to the Monastery of Koningdal outside Ghent. He corresponded with many
+                        humanists e.g. Erasmus and Jakob Jespersen. His autograph letter-book is
+                        preserved in the Bibliothèque municipale of Besançon, Ms. 599, see <hi
+                            rend="smallcap">Bietenholz</hi> 1985b, and <hi rend="smallcap"
+                            >Roersch</hi> 1901.</note> Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Ecce quid pollent caerimoniae, talis viri colloquio frui me
                     prohibuerunt. Haec mecum tacitus heri sub vesperam stomachabar, Optime Vir, cum
                     datis dexteris post mutuam salutationem dimittere compellebar ad coenam iturus
                     exspectatam mihi praesentiam tuam. Erat enim mihi in votis primum tibi coram
                     gratias agere pro dato mihi libello περὶ τῆς τάξεως τῶν ἑλληνικῶν.<note
-                        type="critic" xml:id="note.2">‘about the Greek word order’.</note> Deinde
-                    percontari, numquid super <persName>Erasmo</persName> novi? Nam misere metuo, ne
-                    qua res illum nunc avocet, cum cui etiam tuta timeo omnia. Postremo nonnullis
-                    aliis de rebus cupiebam tecum miscere sermones, sed haec omnia pessimae illae
-                    (dico tibi in aurem) caerimoniae, quibus quid imprecer mali nescio, <del
-                        corresp="Olahus">abrupuerunt</del><add corresp="Olahus" type="corr"
-                        >abruperunt</add>. Atque interim tamen, dum his parere cogor, nonnunquam
-                    fortasse requirunt amici in me civilitatem, ignari plane, quanta illarum
-                    tyrannide premar. Qua si tandem liberarer, nec civilitatem, nec officium in me
-                    quispiam desideraret. Atqui τὸ παρὸν εὖ τίθεσθαι δεῖ<note type="critic"
-                        xml:id="note.3">‘the current situation needs to be settled’.</note> et
-                    superanda omnis fortuna ferendo est. Te vero, Clarissime Heros, quam diutissime
-                    servet incolumem et florentem Christus Iesus, cui me totum quantus, inquam, sum,
-                    cupio esse commendatissimum.</p>
+                        xml:id="note.2">‘about the Greek word order’.</note> Deinde percontari,
+                    numquid super <persName>Erasmo</persName> novi? Nam misere metuo, ne qua res
+                    illum nunc avocet, cum cui etiam tuta timeo omnia. Postremo nonnullis aliis de
+                    rebus cupiebam tecum miscere sermones, sed haec omnia pessimae illae (dico tibi
+                    in aurem) caerimoniae, quibus quid imprecer mali nescio, <del corresp="Olahus"
+                        >abrupuerunt</del><add corresp="Olahus" type="corr">abruperunt</add>. Atque
+                    interim tamen, dum his parere cogor, nonnunquam fortasse requirunt amici in me
+                    civilitatem, ignari plane, quanta illarum tyrannide premar. Qua si tandem
+                    liberarer, nec civilitatem, nec officium in me quispiam desideraret. Atqui τὸ
+                    παρὸν εὖ τίθεσθαι δεῖ<note xml:id="note.3">‘the current situation needs to be
+                        settled’.</note> et superanda omnis fortuna ferendo est. Te vero, Clarissime
+                    Heros, quam diutissime servet incolumem et florentem Christus Iesus, cui me
+                    totum quantus, inquam, sum, cupio esse commendatissimum.</p>
                 <p xml:id="p.3">Datum <choice>
                         <orig>postride</orig>
                         <supplied>postridie</supplied>

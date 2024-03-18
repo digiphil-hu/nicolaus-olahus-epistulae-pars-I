@@ -237,20 +237,20 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">According to Fest, he
-                        is Paolo Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">According to Fest, he is Paolo
+                        Giovio, see <hi rend="smallcap">Fest</hi> 1927, 202.</note></p>
                 <p xml:id="p.2">Quanta fuerit illius <persName>Nicolai Iurasyth</persName>,<note
-                        type="critic" xml:id="note.2">Miklós Jurisics or Nikola Jurišić (1490–1544)
-                        was a Croatian nobleman, soldier, and diplomat. He was loyal to the
-                        Habsburgs. King Ferdinand I appointed him Commander-in-Chief of the armed
-                        forces defending the borders. In 1532, he defended both the castle and the
-                        city of Kőszeg against the Turkish army. See Ep. 253. Note 3. On his
-                        diplomatic activity supporting King Ferdinand I, see <hi rend="smallcap"
-                            >Varga</hi> 2008.<ref>olahus.tei.15320829_2</ref></note> quem optime
-                    nosti, in <placeName>Ginsio</placeName><note type="critic" xml:id="note.3"
-                        >Kőszeg.</note> defendendo virtus et fortitudo, iampridem scio te optime
-                    intellexisse. Nam ea fecit, quae muliti alii non fecerunt et quae fortissimi
-                    militis fuerunt officia. Non solum tutatus <choice>
+                        xml:id="note.2">Miklós Jurisics or Nikola Jurišić (1490–1544) was a Croatian
+                        nobleman, soldier, and diplomat. He was loyal to the Habsburgs. King
+                        Ferdinand I appointed him Commander-in-Chief of the armed forces defending
+                        the borders. In 1532, he defended both the castle and the city of Kőszeg
+                        against the Turkish army. See Ep. 253. Note 3. On his diplomatic activity
+                        supporting King Ferdinand I, see <hi rend="smallcap">Varga</hi>
+                            2008.<ref>olahus.tei.15320829_2</ref></note> quem optime nosti, in
+                        <placeName>Ginsio</placeName><note xml:id="note.3">Kőszeg.</note> defendendo
+                    virtus et fortitudo, iampridem scio te optime intellexisse. Nam ea fecit, quae
+                    muliti alii non fecerunt et quae fortissimi militis fuerunt officia. Non solum
+                    tutatus <choice>
                         <orig>es</orig>
                         <supplied>est</supplied>
                     </choice> et oppidum et arcem ab innumeris hostibus hisdemque fortissimis ac
@@ -260,14 +260,14 @@
                     quibus arx conservari consuevit, omnino essent absumpta; nihilo secius militis
                     strenui exsecutus est officium. Verum Deus illius saluti optime prospexit,
                     occasionemque tribuit, qua ab hac obsidione liberaretur. Nam <persName>Ibraym
-                        bassa</persName><note type="critic" xml:id="note.4">Ibrahim Pargalı
-                        Pasha.</note> misit ad eum nuntiatum, ut si ad tentorium ipsius ire ac ei
-                    reverentiam facere vellet, salutem ei impetrasset ab imperatore Turcarum
-                    curaretque, ut et oppidum et arx illa daretur et a Turca in haereditatem. Ille
-                    cogitans suorum, qui in arce erant paucitatem, pulverumque bombardicorum et
-                    victualium inopiam, et quod si id non faceret, paulo post invitus cogeretur
-                    cedere Turcae, admisit conditionem, acceptisque litteris ab eo salvi conductus
-                    ac obsidibus, profectus est ad Ibraymum. Quem ille in tentorio humaniter <choice>
+                        bassa</persName><note xml:id="note.4">Ibrahim Pargalı Pasha.</note> misit ad
+                    eum nuntiatum, ut si ad tentorium ipsius ire ac ei reverentiam facere vellet,
+                    salutem ei impetrasset ab imperatore Turcarum curaretque, ut et oppidum et arx
+                    illa daretur et a Turca in haereditatem. Ille cogitans suorum, qui in arce erant
+                    paucitatem, pulverumque bombardicorum et victualium inopiam, et quod si id non
+                    faceret, paulo post invitus cogeretur cedere Turcae, admisit conditionem,
+                    acceptisque litteris ab eo salvi conductus ac obsidibus, profectus est ad
+                    Ibraymum. Quem ille in tentorio humaniter <choice>
                         <orig>excupiens</orig>
                         <supplied>excipiens</supplied>
                     </choice> sibi assidere fecit ac post multa ultro citroque dicta verba, eum

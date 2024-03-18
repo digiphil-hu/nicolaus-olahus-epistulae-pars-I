@@ -230,12 +230,12 @@
                     </body>
                 </floatingText>
                 <pb facs="15300920_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Laurentium</persName><note type="critic"
-                        xml:id="note.1">Lőrinc Kretschmer, Provost of Székesfehérvár. His uncle was
-                        György Szatmári, the Archbishop of Esztergom (1522–1524), who provided for
-                        his education. Kretschmer became <hi rend="italic">praeceptor</hi> of King
-                        Ferdinand I’s children in 1537, see <hi rend="smallcap">Fazekas</hi>
-                        2008.</note> praepositum Albensem.</p>
+                <p xml:id="p.1">Ad <persName>Laurentium</persName><note xml:id="note.1">Lőrinc
+                        Kretschmer, Provost of Székesfehérvár. His uncle was György Szatmári, the
+                        Archbishop of Esztergom (1522–1524), who provided for his education.
+                        Kretschmer became <hi rend="italic">praeceptor</hi> of King Ferdinand I’s
+                        children in 1537, see <hi rend="smallcap">Fazekas</hi> 2008.</note>
+                    praepositum Albensem.</p>
                 <p xml:id="p.2">Nihil dubito, quin magna ducaris admiratione, quod a tanto tempore
                     nihil a me litterarum acceperis. Si causam scies huius meae taciturnitatis,
                     mirari desines. Tanta enim negotiorum et meorum et amicorum per hos omnes dies,

@@ -234,8 +234,8 @@
                 <p xml:id="p.1">Ad amicum.</p>
                 <p xml:id="p.2">Quamvis multis ex causis tuam in me benevolentiam singularem
                     cognoverim, tamen nunc maxime cognovi ex sermonibus tuis
-                        <persName>Ioannis</persName>,<note type="critic" xml:id="note.1">We do not
-                        know him more closely but he might be Joannes Ruthenus, see Ep.
+                        <persName>Ioannis</persName>,<note xml:id="note.1">We do not know him more
+                        closely but he might be Joannes Ruthenus, see Ep.
                             273.<ref>olahus.tei.15320920_1</ref></note> quem nuper ad me miseras, </p>
                 <pb facs="15320908_1_2.jpg"/>
                 <p xml:id="p.3">quis multis <del corresp="editor">multis</del> mihi declaravit, quo

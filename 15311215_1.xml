@@ -239,22 +239,21 @@
                 <pb facs="15311215_1_1.jpg"/>
                 <p xml:id="p.1">Ad amicum.</p>
                 <p xml:id="p.2">[1.] Felicibus avibus reversi ex <placeName>Tornaco</placeName><note
-                        type="critic" xml:id="note.1">Tournai, for his destination see Ep. 187, and
-                        Ep.
-                        189.<ref>olahus.tei.15311123_1</ref></note><ref>/o:olahus.tei.15311210_1</ref>
+                        xml:id="note.1">Tournai, for his destination see Ep. 187, and Ep.
+                            189.<ref>olahus.tei.15311123_1</ref></note><ref>/o:olahus.tei.15311210_1</ref>
                     sumus, civitate non undequaque inter alias Flandriae civitates inferiore, tum
                     propter sui munitionem situsque bonitatem, tum propter arcis, quae in ea est,
                     insignem fortitudinem. Dum istic eramus, pigebat nos diu istic esse ob aëris
                     intemperiem et magnam pluviarum vim ac tempestatem. Et vix exspectabamus
                     reditum, qui ideo dilatus fuit diebus aliquot, quod <persName>caesar</persName>
                     erat occupatus in creandis novis in locum demortuorum militibus Velleris
-                        Gedeonis.<note type="critic" xml:id="note.2">See Ep. 187. Note
+                        Gedeonis.<note xml:id="note.2">See Ep. 187. Note
                             9.<ref>olahus.tei.15311123_1</ref></note></p>
                 <pb facs="15311215_1_2.jpg"/>
                 <p xml:id="p.3">Ego dum egressi sumus urbem, <persName>reginam</persName> ad duo vel
                     tria comitatus sum equitando miliaria, postea vero cum viderem eam aucupiis et
-                    aliis rebus venatoriis deditam esse,<note type="critic" xml:id="note.3">On Queen
-                        Mary’s passion for hunting see Ep. 67. Note 1., and <hi rend="smallcap"
+                    aliis rebus venatoriis deditam esse,<note xml:id="note.3">On Queen Mary’s
+                        passion for hunting see Ep. 67. Note 1., and <hi rend="smallcap"
                             >Kerkhoff</hi> 2005, 144–146.<ref>olahus.tei.15300328_1</ref></note>
                     pertaesus tantae morae praeveni eam recta huc <placeName>Bruxellas</placeName>
                     reversus, illudque itineris, quod regina quattuor confecit diebus, uno et medio

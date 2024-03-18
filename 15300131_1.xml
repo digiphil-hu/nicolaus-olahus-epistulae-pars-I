@@ -244,17 +244,16 @@
                                 </floatingText>
                                 <pb facs="15300131_1_1.jpg"/>
                                 <p xml:id="p.1">Ad <persName>Ioannem Dobrawiczki</persName><note
-                                                type="critic" xml:id="note.1">János Dubraviczky or
-                                                Jan Dobřesnky was <hi rend="italic">Officialis</hi>
-                                                of Hostie around 1517, and from 1521 Master of the
-                                                Mint <hi rend="italic">(pisetarius)</hi> in
-                                                Kremnica, see MNL OL DF 250056 and DF 267086. We do
-                                                not know when he became <hi rend="italic"
-                                                  >Vicecomes</hi> of Kremnica. He was sent as envoy
-                                                by the Czech lords to Queen Mary of Hungary around
-                                                the middle of September 1526, see <hi
-                                                  rend="smallcap">Heiss</hi> 1971, 139.</note>
-                                        vicecomitem Cremniciensem.</p>
+                                                xml:id="note.1">János Dubraviczky or Jan Dobřesnky
+                                                was <hi rend="italic">Officialis</hi> of Hostie
+                                                around 1517, and from 1521 Master of the Mint <hi
+                                                  rend="italic">(pisetarius)</hi> in Kremnica, see
+                                                MNL OL DF 250056 and DF 267086. We do not know when
+                                                he became <hi rend="italic">Vicecomes</hi> of
+                                                Kremnica. He was sent as envoy by the Czech lords to
+                                                Queen Mary of Hungary around the middle of September
+                                                1526, see <hi rend="smallcap">Heiss</hi> 1971,
+                                                139.</note> vicecomitem Cremniciensem.</p>
                                 <p xml:id="p.2">Quam sis hic causam habiturus, quae ratio sit, cur
                                         vocatus sis, cum adveneris, intelliges. Mea haec erat
                                         sententia, ut in hac re non tantum tibi daretur laboris, de

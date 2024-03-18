@@ -232,31 +232,29 @@
                 <p xml:id="p.1">Ad <persName>Emericum Kalnay</persName>.</p>
                 <p xml:id="p.2">Non puto te tam esse obliviosum, <del corresp="Olahus">ut
                         non</del><add corresp="Olahus" type="corr">quin</add> memineris mearum, quas
-                    ad te frequentes dedi, litterarum<note type="critic" xml:id="note.1">Ep. 43, Ep.
-                        75, Ep. 98, and Ep.
+                    ad te frequentes dedi, litterarum<note xml:id="note.1">Ep. 43, Ep. 75, Ep. 98,
+                        and Ep.
                         100.<ref>olahus.tei.15300218_2</ref></note><ref>/o:olahus.tei.15300610_1</ref><ref>/o:olahus.tei.15301013_2</ref><ref>/o:olahus.tei.15301016_1</ref>,
                     quibus omnibus tuum ad nos adventum exhortatus sum, et scire optavi, ubi esses
-                        gentium<note type="critic" xml:id="note.2">Ep. 43 and Ep.
+                        gentium<note xml:id="note.2">Ep. 43 and Ep.
                             75.<ref>olahus.tei.15300218_2</ref></note><ref>/o:olahus.tei.15300610_1</ref>,
-                    quid ageres<note type="critic" xml:id="note.3">Ep.
-                            75.<ref>olahus.tei.15300610_1</ref></note>, et quod genus vivendi tibi
-                    proposuisses. Neutrum a te obtinere potui. Cum alterutrum licitum erat me
-                    consequi, nec certum me fecisti, ubi esses, nec ad nos venisti, si venisses, non
-                    accepisses proculdubio tantum calamitatis, quantum nunc te a Turcis perpessum
-                    esse intelligo. Turcus eam Hungariae partem, ubi tu et tui habitant, proxime
-                    devastavit, igne omnia fere loca, quae inter Nitriam, Wagum et Danubium
-                        fluvios<note type="critic" xml:id="note.4">The Nitra, Váh, and Danube
-                        rivers.</note> a <placeName>Trincinio</placeName><note type="critic"
-                        xml:id="note.5">Trenčín.</note> usque <placeName>Strigonium</placeName><note
-                        type="critic" xml:id="note.6">Esztergom.</note> erant, exussit, ferro eorum
-                    accolas, qui provectioris erant aetatis, trucidavit, qui vero adolescentiores
-                    erant, cum virginibus in servitutem perpetuam abduxit. Inter alia loca tua
-                    quoque domus combusta esse dicitur, et ubinam mater tua fuit? Ubi tu? Vidistisne
-                    tantum incendium? Tantam Turcarum in Christianos <del corresp="Olahus"
-                        >infelictam</del> crudelitatem? Si istic fuisti et oculis hanc stragem
-                    vidisti, miseret me tuae sortis, sin abfuisti, non minorem tamen, ut arbitror,
-                    accepisti audiendo dolorem, quam <del corresp="Olahus">si accepisses</del> si ea
-                    vidisses.</p>
+                    quid ageres<note xml:id="note.3">Ep. 75.<ref>olahus.tei.15300610_1</ref></note>,
+                    et quod genus vivendi tibi proposuisses. Neutrum a te obtinere potui. Cum
+                    alterutrum licitum erat me consequi, nec certum me fecisti, ubi esses, nec ad
+                    nos venisti, si venisses, non accepisses proculdubio tantum calamitatis, quantum
+                    nunc te a Turcis perpessum esse intelligo. Turcus eam Hungariae partem, ubi tu
+                    et tui habitant, proxime devastavit, igne omnia fere loca, quae inter Nitriam,
+                    Wagum et Danubium fluvios<note xml:id="note.4">The Nitra, Váh, and Danube
+                        rivers.</note> a <placeName>Trincinio</placeName><note xml:id="note.5"
+                        >Trenčín.</note> usque <placeName>Strigonium</placeName><note
+                        xml:id="note.6">Esztergom.</note> erant, exussit, ferro eorum accolas, qui
+                    provectioris erant aetatis, trucidavit, qui vero adolescentiores erant, cum
+                    virginibus in servitutem perpetuam abduxit. Inter alia loca tua quoque domus
+                    combusta esse dicitur, et ubinam mater tua fuit? Ubi tu? Vidistisne tantum
+                    incendium? Tantam Turcarum in Christianos <del corresp="Olahus">infelictam</del>
+                    crudelitatem? Si istic fuisti et oculis hanc stragem vidisti, miseret me tuae
+                    sortis, sin abfuisti, non minorem tamen, ut arbitror, accepisti audiendo
+                    dolorem, quam <del corresp="Olahus">si accepisses</del> si ea vidisses.</p>
                 <p xml:id="p.3">Quamobrem, mi Kalnay, scis me ab ineunte nostra aetate tibi fuisse
                     amicissimum, et nunquam contra tuam utilitatem quidquam molitum, sed potius
                     summis semper votis expetivisse, ut omnia tibi secunda obvenirent. Hoc me in te

@@ -230,35 +230,34 @@
                     </body>
                 </floatingText>
                 <pb facs="15301130_1_1.jpg"/>
-                <p xml:id="p.1">Ad Ioannem Rofferium.<note type="critic" xml:id="note.1">John Fisher
-                        (1469–1535), an English Catholic bishop, cardinal, and theologian. Fisher
-                        was also an academic as Chancellor of the University of Cambridge. He was
-                        Bishop of Rochester <hi rend="italic">(episcopus Roffensis)</hi> from 1504
-                        to 1535, when he was executed by King Henry VIII because he had refused the
-                        Anglican schism and rejected the King’s divorce. After his death he became a
-                        martyr and a saint. His work against Luther <hi rend="italic">Assertiones
+                <p xml:id="p.1">Ad Ioannem Rofferium.<note xml:id="note.1">John Fisher (1469–1535),
+                        an English Catholic bishop, cardinal, and theologian. Fisher was also an
+                        academic as Chancellor of the University of Cambridge. He was Bishop of
+                        Rochester <hi rend="italic">(episcopus Roffensis)</hi> from 1504 to 1535,
+                        when he was executed by King Henry VIII because he had refused the Anglican
+                        schism and rejected the King’s divorce. After his death he became a martyr
+                        and a saint. His work against Luther <hi rend="italic">Assertiones
                             Lutheranae confutatio ... per Reverendissimum Patrem Ioannem Roffensem
                             Episcopum, academiae Cantabrigiensis Cancellarium</hi> was published in
                         1523 in Paris, see <hi rend="smallcap">McConica</hi> 1986.</note></p>
                 <p xml:id="p.2">Ut scias itineris nostri rationem, volo te non ignorare ex
-                        <placeName>Ratispona</placeName><note type="critic" xml:id="note.2"
-                        >Regensburg.</note> XXVIII. huius mensis venisse ad noctem
-                        <placeName>Straunbingam</placeName>,<note type="critic" xml:id="note.3"
-                        >Straubing.</note> ex Straubinga deinde ad
-                        <placeName>Fylshoffen</placeName>.<note type="critic" xml:id="note.4"
-                        >Vilshofen an der Donau.</note> Ex ea civitate tricesima mensis huius
-                        diei<note type="critic" xml:id="note.5">30 November, 1528.</note> per
-                        <placeName>Patavium</placeName><note type="critic" xml:id="note.6"
-                        >Passau.</note> adnavigavi usque ad <placeName>Villyring</placeName><note
-                        type="critic" xml:id="note.7">Wilhering, the name of the monastery: Stift
-                        Wilhering.</note> monasterium distans supra <placeName>Lincium</placeName>
-                    uno miliari. Ego vero in scaphiolo piscatorio ad multam noctem descendi Lincium
-                    non sine periculo nocturnae navigationis, quae navigatio et laboriosa fuit et
-                    longa. Nam Lincium abest a Fylshoffen sedecim magnis sane miliaribus, quae etiam
-                    aestivo tempore conficere satis esset, nedum brumali. Parendum tamen fuit
-                    voluntati reginae, quae eo tenebatur desiderio venationis, ut parum
-                    existimaverit tantum sufferre uno die laborem, modo voti sui compos fieret, et
-                    ad locum venationi aptum pervenire posset. Vale.</p>
+                        <placeName>Ratispona</placeName><note xml:id="note.2">Regensburg.</note>
+                    XXVIII. huius mensis venisse ad noctem <placeName>Straunbingam</placeName>,<note
+                        xml:id="note.3">Straubing.</note> ex Straubinga deinde ad
+                        <placeName>Fylshoffen</placeName>.<note xml:id="note.4">Vilshofen an der
+                        Donau.</note> Ex ea civitate tricesima mensis huius diei<note
+                        xml:id="note.5">30 November, 1528.</note> per
+                        <placeName>Patavium</placeName><note xml:id="note.6">Passau.</note>
+                    adnavigavi usque ad <placeName>Villyring</placeName><note xml:id="note.7"
+                        >Wilhering, the name of the monastery: Stift Wilhering.</note> monasterium
+                    distans supra <placeName>Lincium</placeName> uno miliari. Ego vero in scaphiolo
+                    piscatorio ad multam noctem descendi Lincium non sine periculo nocturnae
+                    navigationis, quae navigatio et laboriosa fuit et longa. Nam Lincium abest a
+                    Fylshoffen sedecim magnis sane miliaribus, quae etiam aestivo tempore conficere
+                    satis esset, nedum brumali. Parendum tamen fuit voluntati reginae, quae eo
+                    tenebatur desiderio venationis, ut parum existimaverit tantum sufferre uno die
+                    laborem, modo voti sui compos fieret, et ad locum venationi aptum pervenire
+                    posset. Vale.</p>
                 <p xml:id="p.3">Ex <placeName>Lincio</placeName> ultima Novembris MDXXX.</p>
             </div>
         </body>

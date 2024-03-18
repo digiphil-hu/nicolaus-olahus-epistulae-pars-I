@@ -241,15 +241,15 @@
                     obsequia tecumque iucundissime viveret. Utinam feliciter istic omnia curet et
                     perficiat, bonoque omine cum optimo responso ac regiae maiestati et reipublicae
                     Hungaricae proficuo propediem revertatur, ut tandem haec diutina bella pax
-                    secura sequatur. Litteras tuas<note type="critic" xml:id="note.1">This letter is
-                        not extant.</note> ea statim hora, qua accepi, <persName>reginae</persName>
+                    secura sequatur. Litteras tuas<note xml:id="note.1">This letter is not
+                        extant.</note> ea statim hora, qua accepi, <persName>reginae</persName>
                     praesentavi praehabita tuorum servitiorum commendatione, quae tuam oblationem
                     grato suscepit animo, litterasque ipsas perlectas misit ad
-                        <persName>Panormitanum</persName>.<note type="critic" xml:id="note.2">Jean
-                        II Carondelet.</note> Literas etiam advocato curiae curavi praesentandas, </p>
+                        <persName>Panormitanum</persName>.<note xml:id="note.2">Jean II
+                        Carondelet.</note> Literas etiam advocato curiae curavi praesentandas, </p>
                 <pb facs="15330507_1_2.jpg"/>
                 <p xml:id="p.3">qui dixit litteras alias <placeName>Mechliniam</placeName><note
-                        type="critic" xml:id="note.3">Mechelen.</note> missurum fideliter.
+                        xml:id="note.3">Mechelen.</note> missurum fideliter.
                         <persName>Reginam</persName> nescio, an sit opus sollicitare pro responso.
                     Non enim id mihi commisisti, nec scio, quae res apud eam agatur. Quod si etiam
                     voluissem eam sollicitare tam brevi tempore, nuntius enim cito post redditas
@@ -265,9 +265,8 @@
                     vero tuum in rebus meis polliceris favorem, habeo tibi gratias cumulatas. Eam in
                     me tuam singularem humanitatem obsequiis meis a te emereri curabo. Si quid erit
                     rerum mearum, in quo mihi sit subveniendum, sacellanus meus <persName>Ioannes
-                        Cegledinus</persName>,<note type="critic" xml:id="note.4">János
-                        Czeglédi.</note> qui nunc est in curia <persName>domini
-                        Agriensis</persName>,<note type="critic" xml:id="note.5">Tamás
+                        Cegledinus</persName>,<note xml:id="note.4">János Czeglédi.</note> qui nunc
+                    est in curia <persName>domini Agriensis</persName>,<note xml:id="note.5">Tamás
                         Szalaházy.</note> te edocebit. Commisi enim ei, ut id faciat. Cupio per te
                     mea servitia maiestati regiae commendari. Si vicissim hic aliquid est, in quo
                     tibi inservire possim, tam faciam libenter, quam quod libentissime. Modo

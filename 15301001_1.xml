@@ -235,38 +235,38 @@
                     </body>
                 </floatingText>
                 <pb facs="15301001_1_1.jpg"/>
-                <p xml:id="p.1">Ad eundem.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad eundem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Multis sumus curis anxietatibusque solliciti, nam cum a multis iam
-                    temporibus spem habuissemus non minimam fore, ut caesar<note type="critic"
-                        xml:id="note.2">Emperor Charles V.</note> cum principibus imperii in negotio
-                    fidei, in quo etiam satis diu est sudatum, bonum facere posset finem. Consumptis
-                    hic frustra multis bonis temporibus nihil est finitum. In medio tractatus<note
-                        type="critic" xml:id="note.3">Imperial Diet of Augsburg.</note> primum
-                        <persName>Lannthgravius Hessiae</persName><note type="critic"
-                        xml:id="note.4">Philipp I, Landgrave of Hesse (1504–1567), nicknamed “der
-                        Großmütige” (‘the magnanimous’) was one of the most prominent figures of the
-                        Protestant Reformation in Germany, and he founded the university in Marburg
-                        in 1527 (today: Philipps-Universität Marburg).</note>, demum in exitu
-                        <persName>Ioannes dux Saxoniae senior</persName><note type="critic"
-                        xml:id="note.5">Johann Friedrich I. von Sachsen, Elector of Saxony
-                        (1530–1554), called “der Großmütige” (‘the magnanimous’), or St. Johann the
-                        Steadfast (by the Lutherans) was head of the Protestant Confederation of
-                        Germany.</note><del corresp="Olahus">hinc</del> caesare nolente <add
-                        corresp="Olahus" type="insert">hinc</add> discesserunt. Quid aliud finitum
-                    sit, praeterquam quod materiam fomitemque belli futuri praebuerint, neminem
-                    scire video. Vereor, ne in Germania tale oriatur incendium, quod non facile
-                    restringui possit, pauci licet sint principes Lutheranae sectae fautores, magna
-                    tamen est multitudo vulgi, quae non modo sequi hanc videtur doctrinam, sed
-                        mordicus<note type="critic" xml:id="note.6">Oláh uses the word <hi
-                            rend="italic">vulgus</hi> in masculin.</note> tenere <del
-                        corresp="Olahus">et</del>, ut quicumque eos ab hac eorum doctrina avertere
-                    velit, eum mox <del corresp="Olahus">pro hoste</del><add corresp="Olahus"
-                        type="corr">vice hostis</add> habeant. Nihil ergo <add corresp="Olahus"
-                        type="insert">aliud</add> exspectare possum, quam in Germania magnos
-                    tumultus futuros animis omnium mirum in modum concitatis. Civitates non paucae
-                    imperiales et locis et munitionibus fortissimae huic sectae adhaeserunt.
-                    Helvetii favere eis multas ob causas videntur, communis vulgus ita novitatibus </p>
+                    temporibus spem habuissemus non minimam fore, ut caesar<note xml:id="note.2"
+                        >Emperor Charles V.</note> cum principibus imperii in negotio fidei, in quo
+                    etiam satis diu est sudatum, bonum facere posset finem. Consumptis hic frustra
+                    multis bonis temporibus nihil est finitum. In medio tractatus<note
+                        xml:id="note.3">Imperial Diet of Augsburg.</note> primum
+                        <persName>Lannthgravius Hessiae</persName><note xml:id="note.4">Philipp I,
+                        Landgrave of Hesse (1504–1567), nicknamed “der Großmütige” (‘the
+                        magnanimous’) was one of the most prominent figures of the Protestant
+                        Reformation in Germany, and he founded the university in Marburg in 1527
+                        (today: Philipps-Universität Marburg).</note>, demum in exitu
+                        <persName>Ioannes dux Saxoniae senior</persName><note xml:id="note.5">Johann
+                        Friedrich I. von Sachsen, Elector of Saxony (1530–1554), called “der
+                        Großmütige” (‘the magnanimous’), or St. Johann the Steadfast (by the
+                        Lutherans) was head of the Protestant Confederation of Germany.</note><del
+                        corresp="Olahus">hinc</del> caesare nolente <add corresp="Olahus"
+                        type="insert">hinc</add> discesserunt. Quid aliud finitum sit, praeterquam
+                    quod materiam fomitemque belli futuri praebuerint, neminem scire video. Vereor,
+                    ne in Germania tale oriatur incendium, quod non facile restringui possit, pauci
+                    licet sint principes Lutheranae sectae fautores, magna tamen est multitudo
+                    vulgi, quae non modo sequi hanc videtur doctrinam, sed mordicus<note
+                        xml:id="note.6">Oláh uses the word <hi rend="italic">vulgus</hi> in
+                        masculin.</note> tenere <del corresp="Olahus">et</del>, ut quicumque eos ab
+                    hac eorum doctrina avertere velit, eum mox <del corresp="Olahus">pro
+                        hoste</del><add corresp="Olahus" type="corr">vice hostis</add> habeant.
+                    Nihil ergo <add corresp="Olahus" type="insert">aliud</add> exspectare possum,
+                    quam in Germania magnos tumultus futuros animis omnium mirum in modum
+                    concitatis. Civitates non paucae imperiales et locis et munitionibus fortissimae
+                    huic sectae adhaeserunt. Helvetii favere eis multas ob causas videntur, communis
+                    vulgus ita novitatibus </p>
                 <pb facs="15301001_1_2.jpg"/>
                 <p xml:id="p.3">studet, et ita iam libertatem hanc Lutheranam, quam ipsi Evangelicam
                     appellant, manu tenet libertatis alioqui semper cupidissimus, ut vix credibile

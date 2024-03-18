@@ -232,38 +232,38 @@
                 <pb facs="15320405_1_1.jpg"/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Curabo propediem, ut pecuniam vobis mittere possim aliquam; fiet id,
-                    inquam, favente Deo propediem, ut abbatia vestra<note type="critic"
-                        xml:id="note.1">In Tapolca, see 15320512_1. Note 2.</note> nec fratribus,
-                        <del corresp="Olahus?">dominio</del><add corresp="Olahus?" type="corr"
-                        >nec</add> cultu divino destituatur, summam adhibebo diligentiam. Et si
-                    cognovero ita communibus rebus fore vel utilius vel salutare magis, cogam
-                    emigrare Croatos. <persName>Maiestati reginali</persName> scripsi prolixius de
-                    rebus omnibus, quae vel in mentem vel in buccam venerunt. Ego vestri immemor
-                    esse nec velim, nec possim, modo non desit occasio. Turcae venturi dicuntur.
-                    Apparatus nobis adhuc omnis in exspectatione tantum est, utpote quem optamus
-                    magis, quam videre quisquam possit. Dominae <persName>Lucretiae</persName><note
-                        type="critic" xml:id="note.2">Lucretia Caballis.</note> commendetis me
-                    plurimum. Miror, quonam pacto litterae meae ad eam non pervenerint de obitu
-                    domini <persName>Turoczy</persName><note type="critic" xml:id="note.3">Miklós
-                        Thuróczy of Szentmihályi. About his death, he wrote another letter to King
-                        Ferdinand I on 25 November, 1532, see ÖStA, HHStA, UA AA, Fasc. 21, fol.
-                        146–147.</note>; simul atque cum domino <persName>Turzone</persName><note
-                        type="critic" xml:id="note.4">Elek Thurzó.</note> conveniemus, non deerit
-                    vel mea vel ipsius opera, ut successorem quempiam virum bonum habeat dominus
+                    inquam, favente Deo propediem, ut abbatia vestra<note xml:id="note.1">In
+                        Tapolca, see 15320512_1. Note 2.</note> nec fratribus, <del
+                        corresp="Olahus?">dominio</del><add corresp="Olahus?" type="corr">nec</add>
+                    cultu divino destituatur, summam adhibebo diligentiam. Et si cognovero ita
+                    communibus rebus fore vel utilius vel salutare magis, cogam emigrare Croatos.
+                        <persName>Maiestati reginali</persName> scripsi prolixius de rebus omnibus,
+                    quae vel in mentem vel in buccam venerunt. Ego vestri immemor esse nec velim,
+                    nec possim, modo non desit occasio. Turcae venturi dicuntur. Apparatus nobis
+                    adhuc omnis in exspectatione tantum est, utpote quem optamus magis, quam videre
+                    quisquam possit. Dominae <persName>Lucretiae</persName><note xml:id="note.2"
+                        >Lucretia Caballis.</note> commendetis me plurimum. Miror, quonam pacto
+                    litterae meae ad eam non pervenerint de obitu domini
+                        <persName>Turoczy</persName><note xml:id="note.3">Miklós Thuróczy of
+                        Szentmihályi. About his death, he wrote another letter to King Ferdinand I
+                        on 25 November, 1532, see ÖStA, HHStA, UA AA, Fasc. 21, fol.
+                    146–147.</note>; simul atque cum domino <persName>Turzone</persName><note
+                        xml:id="note.4">Elek Thurzó.</note> conveniemus, non deerit vel mea vel
+                    ipsius opera, ut successorem quempiam virum bonum habeat dominus
                         <persName>Turoczy</persName>, non tam magistratus, quam caritatis erga
                         <persName>Lucretiam</persName>. <placeName>Dergeche</placeName><note
-                        type="critic" xml:id="note.5">Dörgicse.</note> habet in potestate
-                        <persName>Hieronimus</persName>,<note type="critic" xml:id="note.6">Jeromos
-                        Horváth of Vásonkő or Jeromos Kruzich of Klis was relative of András
-                        Tuskanics, Bishop of Knin. In 1531, he could keep Nagyvázsony because his
-                        wife was András Choron’s daughter, see <hi rend="smallcap">Varga</hi> 2001a,
-                        282.</note><persName>domini Tiniensis</persName><note type="critic"
-                        xml:id="note.7">András Tuskanics (†ca. 1550).</note> nepos, cogere hunc
-                    poteram, ut cederet, sed mox arripuisset monachus, promittit se soluturum
-                    vestros proventus, quos percepit, post induciarum finem, danda erit opera, ut ex
-                        <persName>Ticonio latro</persName><note type="critic" xml:id="note.8"
-                        >Probably Bálint Török of Enying.</note> eiici possit, neque enim aliter
-                    quiescet unquam vicinia. Valete perfeliciter.</p>
+                        xml:id="note.5">Dörgicse.</note> habet in potestate
+                        <persName>Hieronimus</persName>,<note xml:id="note.6">Jeromos Horváth of
+                        Vásonkő or Jeromos Kruzich of Klis was relative of András Tuskanics, Bishop
+                        of Knin. In 1531, he could keep Nagyvázsony because his wife was András
+                        Choron’s daughter, see <hi rend="smallcap">Varga</hi> 2001a,
+                        282.</note><persName>domini Tiniensis</persName><note xml:id="note.7">András
+                        Tuskanics (†ca. 1550).</note> nepos, cogere hunc poteram, ut cederet, sed
+                    mox arripuisset monachus, promittit se soluturum vestros proventus, quos
+                    percepit, post induciarum finem, danda erit opera, ut ex <persName>Ticonio
+                        latro</persName><note xml:id="note.8">Probably Bálint Török of
+                        Enying.</note> eiici possit, neque enim aliter quiescet unquam vicinia.
+                    Valete perfeliciter.</p>
                 <p xml:id="p.3"><placeName>Posonii</placeName> quinto die Aprilis 1532.</p>
             </div>
         </body>

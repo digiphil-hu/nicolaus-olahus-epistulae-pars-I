@@ -238,8 +238,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15330302_1_1.jpg"/>
-                <p xml:id="p.1">Ad Paulum amicum.<note type="critic" xml:id="note.1">We do not know
-                        him more closely.</note></p>
+                <p xml:id="p.1">Ad Paulum amicum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">[1.] Non possum tibi explicare litteris, quantis in hac mea
                     peregrinatione iactatus fuerim animi turbationibus. Quae magnae licet fuerunt
                     usque adeo, ut more humano non parum me plerumque commoverint, tamen quoad a me
@@ -270,15 +270,14 @@
                     bellum allaturis. Quarum rerum si me feceris, ut spero, participem non mediocri
                     me afficies beneficio, qui totus ex rebus illis pendeo.</p>
                 <p xml:id="p.3">[2.] Audiveram <persName>Stephanum Brodericum</persName><note
-                        type="critic" xml:id="note.2">István Brodarics.</note> et <persName>Thomam
+                        xml:id="note.2">István Brodarics.</note> et <persName>Thomam
                         Nadasdy</persName>, quibuscum olim quali usi fuerimus amicitia, </p>
                 <pb facs="15330302_1_2.jpg"/>
                 <p xml:id="p.4">societate et coniunctione, tute scis, inter alios commissarios
-                    partis alterius esse designatos.<note type="critic" xml:id="note.3">Oláh got
-                        this information from Schepper, see Ep. 324. Cap.
-                            2.<ref>olahus.tei.15330218_1</ref></note> Tamen verumne id sit, an non,
-                        ignoro.<note type="critic" xml:id="note.4">Because of this, we can be sure
-                        that Oláh had not received Schepper’s letter, see Ep.
+                    partis alterius esse designatos.<note xml:id="note.3">Oláh got this information
+                        from Schepper, see Ep. 324. Cap. 2.<ref>olahus.tei.15330218_1</ref></note>
+                    Tamen verumne id sit, an non, ignoro.<note xml:id="note.4">Because of this, we
+                        can be sure that Oláh had not received Schepper’s letter, see Ep.
                             331.<ref>olahus.tei.15330228_1</ref></note> Si verum est, non parvam in
                     spem ducor, ut eorum opera res ipsa aliquem optatum consequatur finem. Cognovi
                     enim eos fuisse pacis mutuaeque tranquillitatis semper studiosissimos, cuius

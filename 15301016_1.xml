@@ -232,23 +232,22 @@
                 </floatingText>
                 <pb facs="15301016_1_1.jpg"/>
                 <p xml:id="p.1">Ad <persName>Emericum Kalnay</persName>.</p>
-                <p xml:id="p.2">Hodie dum peracta sollenniter missa<note type="critic"
-                        xml:id="note.1">It was only a Sunday mass, but no special feast.</note>
-                    templo egrederemur, interveniendum allocutus sum regem, assecurationes ipsius
-                    quamplurimas reduxi in eius memoriam, firmissimis verbis suis ante omnes alios
-                    quicumque sunt nostrae conditionis, et litteris et verbis mihi factas
-                    exhortatusque sum eum, ut mei memor esset. Dixit se nondum in beneficiis illis,
-                    quae vacant, resolutum esse, fore tamen mei memorem, ita ut bene essem
-                    contentus. Haec ipsius verba fuere, de quibus, quid sperem, nescio,
-                    praecesserunt etiam antea multa <add corresp="Olahus" type="insert">talia
-                        verba</add>, <del corresp="Olahus">nullam</del><add corresp="Olahus"
-                        type="corr">nullum</add> tamen effectum sortita sunt, utinam haec sortiantur
-                    aliquem, et aliquando firma, ut spero, futura sint, quae retulit et non retulit
-                    modo, sed etiam promisit, principes veridici esse debent, quorum verba integra,
-                    immobilia et constantia esse oportet. Alioquin quid princeps est aliud
-                    vacillans, quam quivis <del corresp="Olahus">alter communis vir</del><add
-                        corresp="Olahus" type="corr">alius popularis</add>. Videbimus, quid
-                    sequatur.</p>
+                <p xml:id="p.2">Hodie dum peracta sollenniter missa<note xml:id="note.1">It was only
+                        a Sunday mass, but no special feast.</note> templo egrederemur,
+                    interveniendum allocutus sum regem, assecurationes ipsius quamplurimas reduxi in
+                    eius memoriam, firmissimis verbis suis ante omnes alios quicumque sunt nostrae
+                    conditionis, et litteris et verbis mihi factas exhortatusque sum eum, ut mei
+                    memor esset. Dixit se nondum in beneficiis illis, quae vacant, resolutum esse,
+                    fore tamen mei memorem, ita ut bene essem contentus. Haec ipsius verba fuere, de
+                    quibus, quid sperem, nescio, praecesserunt etiam antea multa <add
+                        corresp="Olahus" type="insert">talia verba</add>, <del corresp="Olahus"
+                        >nullam</del><add corresp="Olahus" type="corr">nullum</add> tamen effectum
+                    sortita sunt, utinam haec sortiantur aliquem, et aliquando firma, ut spero,
+                    futura sint, quae retulit et non retulit modo, sed etiam promisit, principes
+                    veridici esse debent, quorum verba integra, immobilia et constantia esse
+                    oportet. Alioquin quid princeps est aliud vacillans, quam quivis <del
+                        corresp="Olahus">alter communis vir</del><add corresp="Olahus" type="corr"
+                        >alius popularis</add>. Videbimus, quid sequatur.</p>
                 <p xml:id="p.3">Quicquid futurum erit, faciam te certiorem, verum si aliquo <del
                         corresp="Olahus">altiore</del><add corresp="Olahus" type="corr"
                         >honestiore</add> quoque ornatus fuero statu, nescio profecto, cur mihi

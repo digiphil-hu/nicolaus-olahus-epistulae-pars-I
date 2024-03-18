@@ -245,13 +245,13 @@
                     procul absim a patria, fratribus, dominis et amicis meis. Intelligo nunc pacem
                     istic <placeName>Hungariae</placeName> tractari; qua nihil aut mihi aut aliis
                     bonis omnibus potest esse amabilius; esse autem ex arbitris te unum,<note
-                        type="critic" xml:id="note.1">Probably Oláh knows it from Schepper, see Ep.
-                        324. Cap. 2.<ref>olahus.tei.15330218_1</ref></note></p>
+                        xml:id="note.1">Probably Oláh knows it from Schepper, see Ep. 324. Cap.
+                            2.<ref>olahus.tei.15330218_1</ref></note></p>
                 <pb facs="15330218_3_2.jpg"/>
                 <p xml:id="p.3">qui in ea curanda omnem adhibiturus <add corresp="Olahus"
                         type="insert">sis</add> diligentiam. Nonnulla igitur meo nomine
-                        <persName>Ioannes Chegledinus</persName><note type="critic" xml:id="note.2"
-                        >According to ep. 325. Cap. 2, this letter is a letter of mandate for
+                        <persName>Ioannes Chegledinus</persName><note xml:id="note.2">According to
+                        ep. 325. Cap. 2, this letter is a letter of mandate for
                             Czeglédi.<ref>olahus.tei.15330218_2</ref></note> provisor meus tibi
                     dicet. Rogo, velis illi fidem praestare, et si qua in re opus erit meas res
                     iuvare, <del corresp="Olahus">ac</del><add corresp="Olahus" type="corr"

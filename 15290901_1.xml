@@ -233,76 +233,75 @@
                 </floatingText>
                 <pb facs="15290901_1_1.jpg"/>
                 <p xml:id="p.1">Praemissa servitiorum meorum commendatione, Reverendissime Domine
-                        Honorandissime!<note type="critic" xml:id="note.1">For his letter see <hi
-                            rend="smallcap">Hegedűs</hi> 1997, 131.</note></p>
+                        Honorandissime!<note xml:id="note.1">For his letter see <hi rend="smallcap"
+                            >Hegedűs</hi> 1997, 131.</note></p>
                 <p xml:id="p.2">[1.] Cum per reverendissimum dominum meum cancellarium regium huc
                         <placeName>Viennam</placeName> missus fuissem, reperi officialem
                     Dominationis Vestrae Reverendissimae dominum <persName>Ioannem
-                        Czegledinum</persName><note type="critic" xml:id="note.2">János Czeglédi,
-                        Provisor of Oláh. He was Canon of the Cathedral Chapter of Győr between
-                        1534–1541, and Canon of Veszprém from 1543, see <hi rend="smallcap"
+                        Czegledinum</persName><note xml:id="note.2">János Czeglédi, Provisor of
+                        Oláh. He was Canon of the Cathedral Chapter of Győr between 1534–1541, and
+                        Canon of Veszprém from 1543, see <hi rend="smallcap"
                             >Karácsonyi–Kollányi</hi> 1909, 275, 299, and <hi rend="smallcap"
                             >Bedy</hi> 1938, 359–360.</note> affinem meum et ne sine istis ad
                     Dominationem Vestram Reverendissimam proficisceretur, volui de quibusdam
                     novitatibus eandem certiorem facere.</p>
-                <p xml:id="p.3">Explorator noster sabbato proxime praeterito<note type="critic"
-                        xml:id="note.3">28 August.</note> rediit ad
-                        <placeName>Posonium</placeName>,<note type="critic" xml:id="note.4"
-                        >Bratislava.</note> qui retulit <persName>caesarum Turcarum</persName> feria
-                    secunda ante Bartholomei<note type="critic" xml:id="note.5">St. Bartholomew’s
-                        Day is on 24 August; <hi rend="italic">feria secunda ante Bartholomei</hi>
-                        was on 23 August.</note> in possessionem <placeName>Kunlewd</placeName><note
-                        type="critic" xml:id="note.6">Kömlőd.</note> ab <placeName>Buda</placeName>
-                    sex milliaribus<note type="critic" xml:id="note.7">The extent of an old
-                        Hungarian mile depended on the geography. It was between 1.74–8.35
+                <p xml:id="p.3">Explorator noster sabbato proxime praeterito<note xml:id="note.3">28
+                        August.</note> rediit ad <placeName>Posonium</placeName>,<note
+                        xml:id="note.4">Bratislava.</note> qui retulit <persName>caesarum
+                        Turcarum</persName> feria secunda ante Bartholomei<note xml:id="note.5">St.
+                        Bartholomew’s Day is on 24 August; <hi rend="italic">feria secunda ante
+                            Bartholomei</hi> was on 23 August.</note> in possessionem
+                        <placeName>Kunlewd</placeName><note xml:id="note.6">Kömlőd.</note> ab
+                        <placeName>Buda</placeName> sex milliaribus<note xml:id="note.7">The extent
+                        of an old Hungarian mile depended on the geography. It was between 1.74–8.35
                         kilometres, but sometimes it went up to 11.3 kilometres. If we calculate
                         with about 8 kilometres per one old Hungarian mile, we get about 50
                         kilometres, which distance is in accordance with the distance between Buda
                         and Kömlőd, see <hi rend="smallcap">Bogdán</hi> 1987, 58.</note> reliquisse.
                     Procursores autem Turci eodem die in suburbio civitatis Budensis affuerunt.
-                    Feria quinta aut sexta post Bartholomei<note type="critic" xml:id="note.8">On
-                        Thursday or Friday after St. Bartolomew’s, i.e. 26 or 27
-                        August.</note><persName>Ioannes Zapoliensis</persName><note type="critic"
-                        xml:id="note.9">János Szapolyai (1487–1540) or King John I was Voivode of
-                        Transylvania before his coronation. He had himself proclaimed king at the
-                        Diet of Székesfehérvár on 10 November, 1526 as a result of which civil war
-                        broke out.</note> ingressus est <placeName>Albam Regalem</placeName><note
-                        type="critic" xml:id="note.10">Székesfehérvár.</note> et iisdem diebus
-                    caesar ipse undequaque circumdedit castrum et civitatem Budensem. Refertur, quod
-                    iam ceperit <placeName>Budam</placeName>.</p>
+                    Feria quinta aut sexta post Bartholomei<note xml:id="note.8">On Thursday or
+                        Friday after St. Bartolomew’s, i.e. 26 or 27 August.</note><persName>Ioannes
+                        Zapoliensis</persName><note xml:id="note.9">János Szapolyai (1487–1540) or
+                        King John I was Voivode of Transylvania before his coronation. He had
+                        himself proclaimed king at the Diet of Székesfehérvár on 10 November, 1526
+                        as a result of which civil war broke out.</note> ingressus est
+                        <placeName>Albam Regalem</placeName><note xml:id="note.10"
+                        >Székesfehérvár.</note> et iisdem diebus caesar ipse undequaque circumdedit
+                    castrum et civitatem Budensem. Refertur, quod iam ceperit
+                        <placeName>Budam</placeName>.</p>
                 <p xml:id="p.4">[2.] Cum haec ita agerentur, <persName>Thomas Nadasdi</persName> ad
                     explorandum pro se exiverat de castro utcumque ab Hungaris vel Turcis notus:
                     insecuti sunt eum, ut vix castrum ingressus est. Sabbato tunc sequenti Turcae et
-                    Hungari fuerunt <placeName>Strigonii</placeName>,<note type="critic"
-                        xml:id="note.11">Esztergom.</note> qui statim castrum sagittare coeperunt:
-                    dummodo <persName>Strigoniensis</persName><note type="critic" xml:id="note.12"
-                        >Pál Várday.</note> est in castro suo <placeName>Dregel</placeName>,<note
-                        type="critic" xml:id="note.13">Drégely.</note> nulla spes nobis est, ut
-                    Budense castrum, <placeName>Wyssegrad</placeName>,<note type="critic"
-                        xml:id="note.14">Visegrád.</note><placeName>Strigonium</placeName> non
-                    capiatur. Hodie <placeName>Viennam</placeName> ruit fama, quales laucigeni<note
-                        type="critic" xml:id="note.15">Or <hi rend="italic">lancigeri</hi>, <hi
-                            rend="italic">Landsknechts</hi>, meaning infantrymen of peasant
-                        origin.</note> Hungaros ex castro Posoniensi simulcum <persName>Ioanne
-                        Zalay</persName><note type="critic" xml:id="note.16">János Szalay of
-                        Kerecsény, <hi rend="italic">ispán</hi> of Pozsony county from 1527. He
-                        remained loyal to King Ferdinand I till the end. One of his best friends was
-                        Tamás Nádasdy, with whom he corresponded as well, see <hi rend="smallcap"
-                            >Bessenyei</hi> 1994, passim.</note> expulissent, tamen ut hoc revera
-                    scribere possum, incertum adhuc habeo. Hodie civitas Viennensis fecit computum,
-                    quantum peditum et equitum haec potest: <persName>caesar</persName> Romanorum
-                    est in <placeName>Italia</placeName>, habet pacem perpetuam cum sancto
-                    pontifice, cum <persName>rege Francorum</persName>, cum <persName>rege
-                        Angliae</persName>, ne forte Deus ex eorum unione defensioni nostrae
-                    attendet, quod ut fiat, Deum deprecemur. Turca habet in exercitu suo III <hi
-                        rend="smallcap">CM</hi><note type="critic" xml:id="note.17">Unclear reading.
-                            <hi rend="italic">CM</hi> probably means 100,000, so III<hi rend="super"
-                            >CM</hi> would mean 300,000 of infantrymen.</note> et in aqua I<hi
-                        rend="super">CM</hi> ingenia magna pro muro<note type="critic"
-                        xml:id="note.18">Battering cannons, see <hi rend="smallcap">Simon</hi> 2008,
-                        318.</note> VI<hi rend="smallcap">C</hi><note type="critic" xml:id="note.19"
-                            >VI<hi rend="super">C</hi> probably means 600.</note> Hungari ab ipsis
-                    non impediuntur, ut eo magis ipsos ad se alliciat, sed videant ipsi in </p>
+                    Hungari fuerunt <placeName>Strigonii</placeName>,<note xml:id="note.11"
+                        >Esztergom.</note> qui statim castrum sagittare coeperunt: dummodo
+                        <persName>Strigoniensis</persName><note xml:id="note.12">Pál Várday.</note>
+                    est in castro suo <placeName>Dregel</placeName>,<note xml:id="note.13"
+                        >Drégely.</note> nulla spes nobis est, ut Budense castrum,
+                        <placeName>Wyssegrad</placeName>,<note xml:id="note.14"
+                        >Visegrád.</note><placeName>Strigonium</placeName> non capiatur. Hodie
+                        <placeName>Viennam</placeName> ruit fama, quales laucigeni<note
+                        xml:id="note.15">Or <hi rend="italic">lancigeri</hi>, <hi rend="italic"
+                            >Landsknechts</hi>, meaning infantrymen of peasant origin.</note>
+                    Hungaros ex castro Posoniensi simulcum <persName>Ioanne Zalay</persName><note
+                        xml:id="note.16">János Szalay of Kerecsény, <hi rend="italic">ispán</hi> of
+                        Pozsony county from 1527. He remained loyal to King Ferdinand I till the
+                        end. One of his best friends was Tamás Nádasdy, with whom he corresponded as
+                        well, see <hi rend="smallcap">Bessenyei</hi> 1994, passim.</note>
+                    expulissent, tamen ut hoc revera scribere possum, incertum adhuc habeo. Hodie
+                    civitas Viennensis fecit computum, quantum peditum et equitum haec potest:
+                        <persName>caesar</persName> Romanorum est in <placeName>Italia</placeName>,
+                    habet pacem perpetuam cum sancto pontifice, cum <persName>rege
+                        Francorum</persName>, cum <persName>rege Angliae</persName>, ne forte Deus
+                    ex eorum unione defensioni nostrae attendet, quod ut fiat, Deum deprecemur.
+                    Turca habet in exercitu suo III <hi rend="smallcap">CM</hi><note
+                        xml:id="note.17">Unclear reading. <hi rend="italic">CM</hi> probably means
+                        100,000, so III<hi rend="super">CM</hi> would mean 300,000 of
+                        infantrymen.</note> et in aqua I<hi rend="super">CM</hi> ingenia magna pro
+                        muro<note xml:id="note.18">Battering cannons, see <hi rend="smallcap"
+                            >Simon</hi> 2008, 318.</note> VI<hi rend="smallcap">C</hi><note
+                        xml:id="note.19">VI<hi rend="super">C</hi> probably means 600.</note>
+                    Hungari ab ipsis non impediuntur, ut eo magis ipsos ad se alliciat, sed videant
+                    ipsi in </p>
                 <pb facs="15290901_1_2.jpg"/>
                 <p xml:id="p.5">futurum, ut fertur Turca vult totam <placeName>Austriam</placeName>
                     hac hieme suae <choice>
@@ -312,10 +311,10 @@
                     domino cancellario ad Turcas eunt, illicque libentius esse voluit, quam
                     nobiscum, cum nuper ex
                         <placeName>Buda</placeName><placeName>Posonium</placeName> veniremus,
-                    provisor domini mei <persName>Ioannes Redneky</persName><note type="critic"
-                        xml:id="note.20">János Redneki, the accountant of the income of the Bishop
-                        of Veszprém, previous hussar at the court of King Louis II, see <hi
-                            rend="smallcap">Fógel</hi> 1917, 62.</note> cum quarta equitibus ad
+                    provisor domini mei <persName>Ioannes Redneky</persName><note xml:id="note.20"
+                        >János Redneki, the accountant of the income of the Bishop of Veszprém,
+                        previous hussar at the court of King Louis II, see <hi rend="smallcap"
+                            >Fógel</hi> 1917, 62.</note> cum quarta equitibus ad
                         <persName>Ioannem</persName> ivit, alii itidem faciunt, quid deinde
                     sequetur, Deus novit. Haec volui Dominationi Vestrae Reverendissimae scribere,
                     ne me negligentem putare posset, cui me iterum commendo.</p>
@@ -323,8 +322,7 @@
                     abbatis 1529.</p>
                 <p xml:id="p.7">
                     <seg type="signature">Servitor Sigismundus Zeremlyeny</seg>
-                    <note type="critic" xml:id="note.21">Zsigmond Szeremlényi was Royal
-                        Secretary.</note>
+                    <note xml:id="note.21">Zsigmond Szeremlényi was Royal Secretary.</note>
                 </p>
                 <pb/>
             </div>

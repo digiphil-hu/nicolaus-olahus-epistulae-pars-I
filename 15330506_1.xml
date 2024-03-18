@@ -237,37 +237,33 @@
                 <p xml:id="p.1">Cornelius Sceperus Nicolao Olao suo salutem.</p>
                 <p xml:id="p.2">Reverende et Excellens Domine, Amice et Frater Honorandissime! XXIX.
                     Aprilis solvi ex portu <placeName>Sancti Viti</placeName>. Octavo autem die
-                    venimus ad flumen <placeName>Narentam</placeName>,<note type="critic"
-                        xml:id="note.1">The Neretva River.</note> quod labitur in mare non adeo
-                    procul ab insula <placeName>Lesina</placeName><note type="critic"
-                        xml:id="note.2">Hvar Island.</note> prope
-                        <placeName>Corcyram</placeName>,<note type="critic" xml:id="note.3">Korčula
-                        Island.</note> ubi nunc sumus, cras summo mane hinc abituri. Credebamus
-                    autem venire <placeName>Rhagusium</placeName>,<note type="critic"
-                        xml:id="note.4">Dubrovnik.</note> sed ob metum pestis et aliquot biremium
-                    Maurarum piraticarum defleximus ad laevam. Estque haec pars
-                        <placeName>Bossinae</placeName>. Recte valeo. Intra dies quindecim spero
-                    esse <placeName>Constantinopoli</placeName>. Id quod te nolui latere. Nihil
-                    habeo, quod scribam, nisi quod te vehementer amo. Litteras unas et breves ad
-                    coniugem scripsi. Nam ad alios amicos scribere ob brevitatem temporis non potui.
-                    Eas transmittes ad eandem simul et consolaberis miseram cum familia et amicis.
-                    Sacrae <persName>reginali maiestati</persName> humillime cupio commendari. Neque
-                    minus domino <persName>comiti de Salm</persName>,<note type="critic"
+                    venimus ad flumen <placeName>Narentam</placeName>,<note xml:id="note.1">The
+                        Neretva River.</note> quod labitur in mare non adeo procul ab insula
+                        <placeName>Lesina</placeName><note xml:id="note.2">Hvar Island.</note> prope
+                        <placeName>Corcyram</placeName>,<note xml:id="note.3">Korčula Island.</note>
+                    ubi nunc sumus, cras summo mane hinc abituri. Credebamus autem venire
+                        <placeName>Rhagusium</placeName>,<note xml:id="note.4">Dubrovnik.</note> sed
+                    ob metum pestis et aliquot biremium Maurarum piraticarum defleximus ad laevam.
+                    Estque haec pars <placeName>Bossinae</placeName>. Recte valeo. Intra dies
+                    quindecim spero esse <placeName>Constantinopoli</placeName>. Id quod te nolui
+                    latere. Nihil habeo, quod scribam, nisi quod te vehementer amo. Litteras unas et
+                    breves ad coniugem scripsi. Nam ad alios amicos scribere ob brevitatem temporis
+                    non potui. Eas transmittes ad eandem simul et consolaberis miseram cum familia
+                    et amicis. Sacrae <persName>reginali maiestati</persName> humillime cupio
+                    commendari. Neque minus domino <persName>comiti de Salm</persName>,<note
                         xml:id="note.5">Niklas II, Count of Salm.</note> dominabus <persName>de
-                        Baillieul</persName>,<note type="critic" xml:id="note.6">Madame
-                        Bailleul.</note><persName>Lucretiae</persName><note type="critic"
-                        xml:id="note.7">Lucretia Caballis.</note> et si adsit
-                        <persName>Honastras</persName>,<note type="critic" xml:id="note.8">Madame de
-                        Souvastre.</note> ceterisque, quibus omnibus felicissima quaeque apprecor.
-                    Si potes, commode commendabis et illustribus dominis de
-                        <persName>Simpy</persName><note type="critic" xml:id="note.9">Antoine de
-                        Croÿ.</note> et <persName>Molenbays</persName>.<note type="critic"
-                        xml:id="note.10">Molenbais was probably Seneschal of Queen Mary, see <hi
-                            rend="smallcap">Ortvay</hi> 1914, 345.</note> Nam reverendissimo
-                        <persName>domino Panormitano</persName><note type="critic" xml:id="note.11"
-                        >Jean II Carondelet.</note> non nunc modo, sed semper cupio esse
-                    commendatissimus. Et bene vale, Domine Amice et Frater Observandissime, et me
-                    ama.</p>
+                        Baillieul</persName>,<note xml:id="note.6">Madame
+                        Bailleul.</note><persName>Lucretiae</persName><note xml:id="note.7">Lucretia
+                        Caballis.</note> et si adsit <persName>Honastras</persName>,<note
+                        xml:id="note.8">Madame de Souvastre.</note> ceterisque, quibus omnibus
+                    felicissima quaeque apprecor. Si potes, commode commendabis et illustribus
+                    dominis de <persName>Simpy</persName><note xml:id="note.9">Antoine de
+                        Croÿ.</note> et <persName>Molenbays</persName>.<note xml:id="note.10"
+                        >Molenbais was probably Seneschal of Queen Mary, see <hi rend="smallcap"
+                            >Ortvay</hi> 1914, 345.</note> Nam reverendissimo <persName>domino
+                        Panormitano</persName><note xml:id="note.11">Jean II Carondelet.</note> non
+                    nunc modo, sed semper cupio esse commendatissimus. Et bene vale, Domine Amice et
+                    Frater Observandissime, et me ama.</p>
                 <p xml:id="p.3">Ex <placeName>Gabala</placeName> ad <placeName>Narentam</placeName>
                     VI. Maii 1533.</p>
             </div>

@@ -243,11 +243,11 @@
                     </body>
                 </floatingText>
                 <pb facs="15311002_1_1.jpg"/>
-                <p xml:id="p.1">Ad dominum Christophorum a Seydlovvetz<note type="critic"
-                        xml:id="note.1">Krzysztof Szydłowiecki (1467–1532) was a Polish noble,
-                        magnate, and Count of Szydłowiec. He was Chancellor and Voivode of the
-                        Cracow Voivodeship between 1515–1527, and Castellan of Cracow from 1527, see
-                            <hi rend="smallcap">Kieszkowski</hi> 1912.</note> cancellarium regni
+                <p xml:id="p.1">Ad dominum Christophorum a Seydlovvetz<note xml:id="note.1"
+                        >Krzysztof Szydłowiecki (1467–1532) was a Polish noble, magnate, and Count
+                        of Szydłowiec. He was Chancellor and Voivode of the Cracow Voivodeship
+                        between 1515–1527, and Castellan of Cracow from 1527, see <hi
+                            rend="smallcap">Kieszkowski</hi> 1912.</note> cancellarium regni
                     Poloniae etc.</p>
                 <p xml:id="p.2">[1.] Non sum nescius te plurimum fuisse miratum de mea tanti
                     temporis taciturnitate, cum a multis iam temporibus nihil ad te dederim
@@ -280,27 +280,27 @@
                     intelligis, sed si ea quoque, quae dixi, non fuissent meae ad te scriptionis
                     impedimenta.</p>
                 <p xml:id="p.5">[2.] His a tempore cladis atrocissimae serenissimi olim regis mei
-                        <persName>Ludovici</persName><note type="critic" xml:id="note.2">King Louis
-                        II.</note> iactatus sum fortunae calamitatibus, ea mutabilitate rerum, ut
-                    vix sane mihi constiterim. Nec loca diversa, in quibus fugientium more et regina
-                    et ego ab eo tempore diversati sumus, videbantur pati, ut ad te, ad quem unum
-                    inter omnes mortales maxime cupiebam, litteras in tanta locorum distantia
-                    constitutum commode dare possem. Nam si velim loca enumerare, in quibus a
-                    tempore incinerationis<note type="critic" xml:id="note.3">16<hi rend="super"
-                            >th</hi>-century word meaning ‘combustion’, see <hi rend="smallcap"
-                            >Ramminger</hi> 2008.</note> Budensis nunc brevius, nunc tardius pro
-                    temporis conditione rerumque progressu perstitimus, non epistolam, sed historiam
-                    contexere merito viderer. Si quid ergo a me commissum est aut noxae, aut
-                    erroris, aut visus sum in meo erga te studio ac officio negligentior, id non
-                    mihi, sed rerum et temporum varietati tribues pro summa, qua praeditus es et
-                    prudentia et humanitate. Quod si feceris, duplex mihi accedet laetitia, tum quod
-                    te mihi praeteriti temporis taciturnitatem condonasse et solita tua humanitate
-                    te usum in me esse arbitrabor. Tum quod me mei in <choice>
+                        <persName>Ludovici</persName><note xml:id="note.2">King Louis II.</note>
+                    iactatus sum fortunae calamitatibus, ea mutabilitate rerum, ut vix sane mihi
+                    constiterim. Nec loca diversa, in quibus fugientium more et regina et ego ab eo
+                    tempore diversati sumus, videbantur pati, ut ad te, ad quem unum inter omnes
+                    mortales maxime cupiebam, litteras in tanta locorum distantia constitutum
+                    commode dare possem. Nam si velim loca enumerare, in quibus a tempore
+                        incinerationis<note xml:id="note.3">16<hi rend="super">th</hi>-century word
+                        meaning ‘combustion’, see <hi rend="smallcap">Ramminger</hi> 2008.</note>
+                    Budensis nunc brevius, nunc tardius pro temporis conditione rerumque progressu
+                    perstitimus, non epistolam, sed historiam contexere merito viderer. Si quid ergo
+                    a me commissum est aut noxae, aut erroris, aut visus sum in meo erga te studio
+                    ac officio negligentior, id non mihi, sed rerum et temporum varietati tribues
+                    pro summa, qua praeditus es et prudentia et humanitate. Quod si feceris, duplex
+                    mihi accedet laetitia, tum quod te mihi praeteriti temporis taciturnitatem
+                    condonasse et solita tua humanitate te usum in me esse arbitrabor. Tum quod me
+                    mei in <choice>
                         <orig>meas</orig>
                         <supplied>meos</supplied>
                     </choice> principes suscepti muneris, quod hactenus fideliter et constanter meo
                     iudicio obivi, non poenitebit. Nam mortuo reverendissimo olim <persName>Georgio
-                        episcopo Strigoniensi</persName><note type="critic" xml:id="note.4">György
+                        episcopo Strigoniensi</persName><note xml:id="note.4">György
                         Szatmári.</note> amico et fratre tuo adoptivo, me tuis etiam adiutum
                     suffragiis servitiis <persName>Ludovici</persName> regis felicis memoriae
                     addixeram. Qui me in numerum suorum, qui a secretis et consiliis dicuntur,
@@ -326,8 +326,8 @@
                     omnibus tuis obsequendi animum nunc quoque eundem esse scias, qui prius in
                     multis rebus fuerit, et velis mihi, si qua res inciderit, quam mea opera curari
                     velis, non secus praecipere, quam uni ex tuis domesticis familiaribus. Vale.</p>
-                <p xml:id="p.8">MDXXXI.<note type="critic" xml:id="note.5">This letter should be
-                        earlier than Ep. 176.<ref>olahus.tei.15311002_2</ref></note></p>
+                <p xml:id="p.8">MDXXXI.<note xml:id="note.5">This letter should be earlier than Ep.
+                            176.<ref>olahus.tei.15311002_2</ref></note></p>
             </div>
         </body>
     </text>

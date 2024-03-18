@@ -243,7 +243,7 @@
                 <pb facs="15330308_2_1.jpg"/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem. Reverende <del corresp="Olahus">ac
                         egregie</del> Domine, Amice Dilecte, salutem! </p>
-                <p xml:id="p.2">[1.] Litteras Dominationis Vestrae Bruxellis nona<note type="critic"
+                <p xml:id="p.2">[1.] Litteras Dominationis Vestrae Bruxellis nona<note
                         xml:id="note.1">The Nonae of February fell on 5 February. Oláh’s letter was
                         dated 10 February, but its content suggests that Thurzó is referring to Ep.
                         318, in which Oláh congratulates on his appointment to <hi rend="italic"
@@ -272,39 +272,38 @@
                     potius hoc nomine videatur, quam gratulandum de officio imposito, quod nonnisi
                     oneri est in hoc confuso statu rerum. Anget animi dolorem, quod, quando tot
                     malorum sit futurus finis, nequaquam appareat. Miserat huc
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.2">King John
-                        I.</note> homines suos <persName>monachum de Frangipanibus</persName>,<note
-                        type="critic" xml:id="note.3">Ferenc Frangepán.</note><persName>Stephanum
-                        Werbewezy</persName>,<note type="critic" xml:id="note.4">István
+                        <persName>Ioannes</persName><note xml:id="note.2">King John I.</note>
+                    homines suos <persName>monachum de Frangipanibus</persName>,<note
+                        xml:id="note.3">Ferenc Frangepán.</note><persName>Stephanum
+                        Werbewezy</persName>,<note xml:id="note.4">István
                         Werbőczy</note><persName>Stephanum Brodericum</persName> et
                         <persName>Hieronymum Lasky</persName>, quibus cum egimus, nondum tamen
                     certam deliberationem in regni commodum videmus, ubi certa pax convenerit, non
                     erimus Dominationis Vestrae immemores, et de beneficio suo, quod possidere
                     deberet.</p>
                 <p xml:id="p.4">[2.] Quod ad filiam nostram dominam
-                        <persName>Lucretiam</persName><note type="critic" xml:id="note.5">Probably
-                        Lucretia Caballis (vom Ross). According to De Vocht, Lucretia had been
-                        adopted by Elek Thurzó, see <hi rend="smallcap">De Vocht</hi> 1961,
-                        242.</note> attinet, manet apud nos vetus illa ac debita benevolentia, et
-                    nisi tam atrox regnum hoc detinuisset turbo, iampridem accepta eiusdem dominae
-                    filiae nostrae mente potuisset per nos nonnihil curae adhiberi. Nihilominus si
-                    Dei benignitate laetior regno facies reddita fuerit, eam adhibebimus
-                    diligentiam, ut fortasse non frustra parentis nos sumpsisse nomen filia nostra
-                    sit iudicatura. Quod vero intelligimus Gallorum et
-                        <placeName>Angliae</placeName> principes apparatu occupari, ut ditioni
-                    serenissimi <persName>regis</persName> nostri bellum inferant, partibus scilicet
-                    illis <placeName>Flandriae</placeName>, non possumus non vehementer dolere,
-                    quippe cum non ignoremus insanissimis principum motibus rempublicam Christianam
-                    labefactari, et occupato imperatore, in quo salus nostra spesque liberationis
-                    erat reposita, serius nostram a tot malis liberationem exspectare cogamur et
-                    interim labente seculo minor posteris sit speranda requies a <persName>Turcarum
-                        tyrannide</persName>, qui nihil non moliuntur nostris stertentibus, ut
-                    ditionem eorum proferant. Cogimur tamen divinae providentiae omnia vel nolentes
-                    attribuere, ut ea solum sint habenda, quae numen iusserit. Utrumque frustra
-                    quidam nitantur. Nos, ut praemisimus, Dominationis Vestrae immemores non sumus,
-                    ut veteris amici, et cuius rebus consuluisse non pigeat. Quamquam, ut diximus,
-                    certa nulla salus appareat, neque voluntati commoditas respondeat. Dominationem
-                    Vestram cum his bene valere optamus.</p>
+                        <persName>Lucretiam</persName><note xml:id="note.5">Probably Lucretia
+                        Caballis (vom Ross). According to De Vocht, Lucretia had been adopted by
+                        Elek Thurzó, see <hi rend="smallcap">De Vocht</hi> 1961, 242.</note>
+                    attinet, manet apud nos vetus illa ac debita benevolentia, et nisi tam atrox
+                    regnum hoc detinuisset turbo, iampridem accepta eiusdem dominae filiae nostrae
+                    mente potuisset per nos nonnihil curae adhiberi. Nihilominus si Dei benignitate
+                    laetior regno facies reddita fuerit, eam adhibebimus diligentiam, ut fortasse
+                    non frustra parentis nos sumpsisse nomen filia nostra sit iudicatura. Quod vero
+                    intelligimus Gallorum et <placeName>Angliae</placeName> principes apparatu
+                    occupari, ut ditioni serenissimi <persName>regis</persName> nostri bellum
+                    inferant, partibus scilicet illis <placeName>Flandriae</placeName>, non possumus
+                    non vehementer dolere, quippe cum non ignoremus insanissimis principum motibus
+                    rempublicam Christianam labefactari, et occupato imperatore, in quo salus nostra
+                    spesque liberationis erat reposita, serius nostram a tot malis liberationem
+                    exspectare cogamur et interim labente seculo minor posteris sit speranda requies
+                    a <persName>Turcarum tyrannide</persName>, qui nihil non moliuntur nostris
+                    stertentibus, ut ditionem eorum proferant. Cogimur tamen divinae providentiae
+                    omnia vel nolentes attribuere, ut ea solum sint habenda, quae numen iusserit.
+                    Utrumque frustra quidam nitantur. Nos, ut praemisimus, Dominationis Vestrae
+                    immemores non sumus, ut veteris amici, et cuius rebus consuluisse non pigeat.
+                    Quamquam, ut diximus, certa nulla salus appareat, neque voluntati commoditas
+                    respondeat. Dominationem Vestram cum his bene valere optamus.</p>
                 <p xml:id="p.5"><placeName>Posonii</placeName> VIII. Martii anno 1533.</p>
             </div>
         </body>

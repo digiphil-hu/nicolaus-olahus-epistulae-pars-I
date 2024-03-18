@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">139</title>
-                                                  <title key="body" n="139" type="main">Tamás
-                                                  Szalaházy to Miklós Oláh (Bratislava, 23 January
-                                                  1531)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">139</title>
+                                        <title key="body" n="139" type="main">Tamás Szalaházy to
+                                                  Miklós Oláh (Bratislava, 23 January 1531)</title>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -20,8 +19,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -29,8 +28,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -39,8 +38,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -48,40 +47,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15310123_1</idno>
-                                                  <idno type="ITIdata">Q472711</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15310123_1</idno>
+                                        <idno type="ITIdata">Q472711</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15310123_1.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -93,20 +91,20 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/I.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/I.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Copy.</p>
-                                                  </note>
-                                                  <note type="publication"><hi rend="smallcap"
-                                                  >Ipolyi</hi> 1875, 123.</note>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </note>
+                                        <note type="publication"><hi rend="smallcap">Ipolyi</hi>
+                                                  1875, 123.</note>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Hungary</country>
                                                   <settlement>Budapest</settlement>
@@ -135,8 +133,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   I. 1523–1533</title>
                                                   <idno type="ISBN">978-615-5478-62-8</idno>
@@ -203,42 +201,42 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.10817873</idno><idno
                                                   type="ITIdata">Q469927</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <placeName>Bratislava<idno type="ITIdata"
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <placeName>Bratislava<idno type="ITIdata"
                                                   >Q468</idno></placeName>
-                                                  <date when="1531-01-23">23 January 1531</date>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
+                                        <date when="1531-01-23">23 January 1531</date>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Tamás Szalaházy<idno type="ITIdata"
                                                   >Q258359</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div xml:id="d.1">
-                                                  <head type="title">Tamás Szalaházy to Miklós Oláh
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div xml:id="d.1">
+                                        <head type="title">Tamás Szalaházy to Miklós Oláh
                                                   (Bratislava, 23 January 1531)</head>
-                                                  <floatingText type="regesta">
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1"> If the Queen leaves the
                                                   country, the homeland will be orphaned. Szalaházy
@@ -250,10 +248,10 @@
                                                   Szalaházy is concerned, Oláh can always count on
                                                   him.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb facs="15310123_1_1.jpg"/>
-                                                  <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
-                                                  <p xml:id="p.2">Si <persName>maiestas reginalis
+                                        </floatingText>
+                                        <pb facs="15310123_1_1.jpg"/>
+                                        <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
+                                        <p xml:id="p.2">Si <persName>maiestas reginalis
                                                   patrona</persName> communis regnum hoc deseret,
                                                   quicumque tandem noster futurus sit status,
                                                   lacrimas (modo non perpetuas) nobis relinquet. Nam
@@ -270,9 +268,9 @@
                                                   nihil est, quod praesentis aut absentis tui causa
                                                   nolim facere, sicuti res ipsa docebit, ubi feceris
                                                   periculum. Bene vale.</p>
-                                                  <p xml:id="p.3"><placeName>Posonii</placeName>
-                                                  XXIII. Ianuarii 1531.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                        <p xml:id="p.3"><placeName>Posonii</placeName> XXIII.
+                                                  Ianuarii 1531.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

@@ -232,10 +232,10 @@
                     </body>
                 </floatingText>
                 <pb facs="15300218_3_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Albertum</persName><note type="critic" xml:id="note.1"
-                        >Albert Peregi (†1546) was Provost of Pécs, later Royal Secretary <hi
-                            rend="italic">(secretarius regius)</hi> of the Hungarian Chamber in
-                        Buda, see <hi rend="smallcap">Varga</hi> 2011.</note> praepositum
+                <p xml:id="p.1">Ad <persName>Albertum</persName><note xml:id="note.1">Albert Peregi
+                        (†1546) was Provost of Pécs, later Royal Secretary <hi rend="italic"
+                            >(secretarius regius)</hi> of the Hungarian Chamber in Buda, see <hi
+                            rend="smallcap">Varga</hi> 2011.</note> praepositum
                     Quinqueecclesiensem.</p>
                 <p xml:id="p.2">Vide, quam me opinio de te mea fefellerit et quam longe aliter res
                     ceciderit, quam tu hinc discedens mihi promiseras. Pollicitus eras te de rebus

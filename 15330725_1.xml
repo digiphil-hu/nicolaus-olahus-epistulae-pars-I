@@ -242,43 +242,40 @@
                 </floatingText>
                 <pb facs="15330725_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus thesaurarius Albensis etc. Erasmo Roterodamo.</p>
-                <p xml:id="p.2"><persName>Quirinus</persName><note type="critic" xml:id="note.1"
-                        >Quirinus Hagius of The Hague.</note> tuus hoc triduo ex
-                        <placeName>Anglia</placeName> ad me rediit confectis istic, ut mihi dixit,
-                    rebus tuis omnibus. Longiorem epistolam ad te per eum non dedi. Nam de omnibus
-                    antea te per <persName>Levinum</persName><note type="critic" xml:id="note.2"
-                        >Lieven Algoet.</note> tum litteris, tum nuntiis feci certiorem.<note
-                        type="critic" xml:id="note.3">See Ep.
-                        379.<ref>olahus.tei.15330621_1</ref></note> Sum in exspectatione, ut redeas.
-                    Quod felix faustumque sit.</p>
-                <p xml:id="p.3"><persName>Petri a Montfort</persName><note type="critic"
-                        xml:id="note.4">See Ep. 371.<ref>olahus.tei.15330601_1</ref></note>
-                    negotium, quantum in me est, nunc ago, in commendatura<note type="critic"
-                        xml:id="note.5">The office of commander of St. John in Utrecht.</note>
-                    consultius et quietius videtur, ut cum altero, qui in absentia sua curavit in
-                    successorem viventis commendatoris se eligi, concordaret. De praepositura
-                        Harlemmensi<note type="critic" xml:id="note.6">The Provostry of
+                <p xml:id="p.2"><persName>Quirinus</persName><note xml:id="note.1">Quirinus Hagius
+                        of The Hague.</note> tuus hoc triduo ex <placeName>Anglia</placeName> ad me
+                    rediit confectis istic, ut mihi dixit, rebus tuis omnibus. Longiorem epistolam
+                    ad te per eum non dedi. Nam de omnibus antea te per
+                        <persName>Levinum</persName><note xml:id="note.2">Lieven Algoet.</note> tum
+                    litteris, tum nuntiis feci certiorem.<note xml:id="note.3">See Ep.
+                            379.<ref>olahus.tei.15330621_1</ref></note> Sum in exspectatione, ut
+                    redeas. Quod felix faustumque sit.</p>
+                <p xml:id="p.3"><persName>Petri a Montfort</persName><note xml:id="note.4">See Ep.
+                            371.<ref>olahus.tei.15330601_1</ref></note> negotium, quantum in me est,
+                    nunc ago, in commendatura<note xml:id="note.5">The office of commander of St.
+                        John in Utrecht.</note> consultius et quietius videtur, ut cum altero, qui
+                    in absentia sua curavit in successorem viventis commendatoris se eligi,
+                    concordaret. De praepositura Harlemmensi<note xml:id="note.6">The Provostry of
                         Haarlem.</note> nunc res agitur, de qua et aliis sacerdotiis nescio quas, ut
                     vocant, rotulas caesar constituit, ut vacaturae quibusdam designatis personis
                     conferrentur. Quod nisi obstiterit, spes est, ut hic <choice>
                         <orig>ο πολυσαρχος</orig>
                         <supplied>ὁ πολύσαρκος</supplied>
-                    </choice> αμφοτερω ημων ο φιλτατος<note type="critic" xml:id="note.7">‘the fat
-                        man whom we both love’. Beside Oláh and Erasmus, Jespersen also called
-                        Montfoort a fat man, see <hi rend="smallcap">Allen</hi> 1941, 277.</note>
-                    voto suo potiatur. <persName>Regina</persName> perendie ad
-                        <placeName>Flandriam</placeName> perlustrandam proficiscitur, ubi credo eam
-                    haesuram duobus aut tribus mensibus. Quo si reverti te contigeret, praemitte
-                        <persName>Levinum</persName>. Vale.</p>
+                    </choice> αμφοτερω ημων ο φιλτατος<note xml:id="note.7">‘the fat man whom we
+                        both love’. Beside Oláh and Erasmus, Jespersen also called Montfoort a fat
+                        man, see <hi rend="smallcap">Allen</hi> 1941, 277.</note> voto suo potiatur.
+                        <persName>Regina</persName> perendie ad <placeName>Flandriam</placeName>
+                    perlustrandam proficiscitur, ubi credo eam haesuram duobus aut tribus mensibus.
+                    Quo si reverti te contigeret, praemitte <persName>Levinum</persName>. Vale.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 25. Iulii <choice>
                         <orig>1531</orig>
                         <supplied>1533</supplied>
-                    </choice>.<note type="critic" xml:id="note.8">According Allen’s edition: “The
-                        date given in the MS is shown to be wrong by the contents. Quirinus Hagius
-                        was not in England in 1531, but did go there in 1533, in which year Livinus
-                        Algoet and Peter Montfoert both went on missions to Erasmus ad Freiburg. The
-                        position of the letter in the MS also indicates 1533 as the correct date”,
-                        see <hi rend="smallcap">Allen</hi> 1941, 276–277.</note></p>
+                    </choice>.<note xml:id="note.8">According Allen’s edition: “The date given in
+                        the MS is shown to be wrong by the contents. Quirinus Hagius was not in
+                        England in 1531, but did go there in 1533, in which year Livinus Algoet and
+                        Peter Montfoert both went on missions to Erasmus ad Freiburg. The position
+                        of the letter in the MS also indicates 1533 as the correct date”, see <hi
+                            rend="smallcap">Allen</hi> 1941, 276–277.</note></p>
             </div>
         </body>
     </text>

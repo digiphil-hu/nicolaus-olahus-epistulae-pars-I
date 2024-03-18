@@ -245,10 +245,10 @@
                 <pb facs="15331207_1_1.jpg"/>
                 <p xml:id="p.1">Idem Ioanni archiepiscopo Lundensi oratori caesareo salutem
                     dicit.</p>
-                <p xml:id="p.2">[1.] Litteras tuas<note type="critic" xml:id="note.1">This letter is
-                        not extant.</note> nudiustertius accepi. De Cornelii<note type="critic"
-                        xml:id="note.2">Cornelis de Schepper.</note> hinc ad Hispaniam profectione
-                    proximis meis litteris<note type="critic" xml:id="note.3">Probably Ep.
+                <p xml:id="p.2">[1.] Litteras tuas<note xml:id="note.1">This letter is not
+                        extant.</note> nudiustertius accepi. De Cornelii<note xml:id="note.2"
+                        >Cornelis de Schepper.</note> hinc ad Hispaniam profectione proximis meis
+                        litteris<note xml:id="note.3">Probably Ep.
                             424.<ref>olahus.tei.15331119_1</ref></note> satis copiose scripseram.
                     Utinam bene et feliciter cum caesare peractis istic rebus redeat huc deinde ad
                     vos celeriter. De mea in negotiis tuis sollicitatione nihil dubita, praestabo
@@ -258,11 +258,11 @@
                     quae firma spes in infidelium commercio locari possit, non possum cogitare. Quae
                     res <placeName>Hungariam</placeName> alia, ut loquar de initio periculi illius,
                     in destructionem adduxit, quam Turcica societas? Dum enim
-                        <persName>Vladislai</persName><note type="critic" xml:id="note.4">King
-                        Vladislaus II.</note> olim regis tempore patris
-                        <persName>Ludovici</persName> nunc inducias, nunc foedus cum illis mea
-                    pepegit natio, illorumque credidit iuri iurando, interea arces nostras finitimas
-                    unam post aliam amisimus, multaque loca finitima regni nostri igne vidimus </p>
+                        <persName>Vladislai</persName><note xml:id="note.4">King Vladislaus
+                        II.</note> olim regis tempore patris <persName>Ludovici</persName> nunc
+                    inducias, nunc foedus cum illis mea pepegit natio, illorumque credidit iuri
+                    iurando, interea arces nostras finitimas unam post aliam amisimus, multaque loca
+                    finitima regni nostri igne vidimus </p>
                 <pb facs="15331207_1_2.jpg"/>
                 <p xml:id="p.3">vastari. Nunc quoque nisi curetur, ne Turca in
                         <placeName>Hungaria</placeName> alterum habere possit pedem fixum, vereor,
@@ -288,14 +288,14 @@
                     Serenissimo <persName>regi</persName> nostro nulla aut admodum parva in
                         <placeName>Germania</placeName> praestatur propter invidiam et malevolentiam
                     oboedientia.</p>
-                <p xml:id="p.4">[2.] <persName>Rex Galliae</persName>,<note type="critic"
-                        xml:id="note.5">King Francis I.</note> nescio, quid semper molitur novi.
-                    Anglorum res post excommunicationem <persName>regis</persName><note
-                        type="critic" xml:id="note.6">King Henry VIII was excommunicated by Pope
-                        Paul III from the Catholic Church on 17 December, 1538.</note> tendunt aut
-                    ad seditionem aut ad bellum. <persName>Pontifex Clemens</persName> varius esse
-                    creditur; et cum provectae iam dicatur esse aetatis non diu vivere potest, cuius
-                    si ea contigerit morte, omnia utinam in melius <choice>
+                <p xml:id="p.4">[2.] <persName>Rex Galliae</persName>,<note xml:id="note.5">King
+                        Francis I.</note> nescio, quid semper molitur novi. Anglorum res post
+                    excommunicationem <persName>regis</persName><note xml:id="note.6">King Henry
+                        VIII was excommunicated by Pope Paul III from the Catholic Church on 17
+                        December, 1538.</note> tendunt aut ad seditionem aut ad bellum.
+                        <persName>Pontifex Clemens</persName> varius esse creditur; et cum provectae
+                    iam dicatur esse aetatis non diu vivere potest, cuius si ea contigerit morte,
+                    omnia utinam in melius <choice>
                         <orig>mirabuntur</orig>
                         <supplied>mutatuntur</supplied>
                     </choice>. Si igitur aestate futura per caesarem aliquid in
@@ -329,60 +329,58 @@
                     semper consuevit. Cuius rei testes sunt veteres historiae et bellum inter
                         <persName>Iulium Caesarem</persName> et <persName>Pompeium</persName>
                     gestum.</p>
-                <p xml:id="p.6">[3.] Quod <persName>Valentinus Theurek</persName><note type="critic"
+                <p xml:id="p.6">[3.] Quod <persName>Valentinus Theurek</persName><note
                         xml:id="note.7">Bálint Török.</note><persName>regem</persName> nostrum
                     cruciet et cogat, nihil mirum; <quote xml:id="quote.2">non potest esse sui
                         dissimilis</quote><note type="quote" xml:id="note.quote.2">Cf. Calvin, Ad
                         Jonam, IV.</note>, ab initio semper hoc fecit. Et tamen si considerare
                     velimus, quid fecerit praeclari in rebus <persName>regis</persName> tuendis,
                     praeterquam quod in <placeName>comitatu Simigiensi</placeName><note
-                        type="critic" xml:id="note.8">Somogy county.</note> anno 1529 aliquos
-                    pauculos nostros adversarios <del corresp="editor">potius</del> terrore potius
-                    reduxerit ad partem regis, quam profligaverit, quo tempore et mea bona fuerunt
-                    per eum occupata, non magni aliquid in eo facinoris reperiemus. Hoc scimus, quod
-                    et <placeName>Sabatz</placeName><note type="critic" xml:id="note.9"
-                        >Šabac.</note> castrum <choice>
+                        xml:id="note.8">Somogy county.</note> anno 1529 aliquos pauculos nostros
+                    adversarios <del corresp="editor">potius</del> terrore potius reduxerit ad
+                    partem regis, quam profligaverit, quo tempore et mea bona fuerunt per eum
+                    occupata, non magni aliquid in eo facinoris reperiemus. Hoc scimus, quod et
+                        <placeName>Sabatz</placeName><note xml:id="note.9">Šabac.</note> castrum <choice>
                         <orig>Bmitum</orig>
                         <supplied>finitimum</supplied>
                     </choice><placeName>Hungariae</placeName> munitissimum e manibus affinium suorum
                     amisimus et <placeName>Taurinum</placeName> sive <placeName>Albam
-                        Graecam</placeName><note type="critic" xml:id="note.10">Belgrade.</note> eo
-                    in illa existente bano dedita est Turcis, sed haec ad te amicum sincerum scribo.
-                    Nunc non modo <persName>regem</persName>, sed omnes bonos suae maiestatis
-                    subditos cruciat ac torquet, de meis bonis pauculis mittendis, si rex super
-                    illum authoritatem haberet, vellem, ut mandaret, illeque
-                        <persName>regis</persName> animum intelligeret, sin minus resque mea
-                    turbutura esset <persName>regis</persName> negotium, patientiam habebo ad
-                    meliora. Nam non modo vellem occasionem praestare rebus regiis <del
-                        corresp="Olahus?">turbaris</del><add corresp="Olahus?" type="corr"
-                        >turbandis</add>, sed potius pro bono ipsius, quem semper omnibus meis
-                    viribus, ut debui, curavi paratus essem et omnes meas etiam alias reculas, quas
-                    habeo, una cum vita in periculum ponere, dummodo viderem me suae maiestatis
-                    rebus commodare posse. Credo <persName>maiestatem</persName> suam tam bonum
-                    iustumque principem, ut non modo laudibus talibus, de quibus ad me scripsisti,
-                    sed etiam re ipsa et factis mei, qui et patrinomium et etiam alia mea
-                    beneficiola penes ipsius et <persName>sororis</persName> suae fidem ac servitia
-                    in discrimen posui, aliquando sit recordatura.</p>
+                        Graecam</placeName><note xml:id="note.10">Belgrade.</note> eo in illa
+                    existente bano dedita est Turcis, sed haec ad te amicum sincerum scribo. Nunc
+                    non modo <persName>regem</persName>, sed omnes bonos suae maiestatis subditos
+                    cruciat ac torquet, de meis bonis pauculis mittendis, si rex super illum
+                    authoritatem haberet, vellem, ut mandaret, illeque <persName>regis</persName>
+                    animum intelligeret, sin minus resque mea turbutura esset
+                        <persName>regis</persName> negotium, patientiam habebo ad meliora. Nam non
+                    modo vellem occasionem praestare rebus regiis <del corresp="Olahus?"
+                        >turbaris</del><add corresp="Olahus?" type="corr">turbandis</add>, sed
+                    potius pro bono ipsius, quem semper omnibus meis viribus, ut debui, curavi
+                    paratus essem et omnes meas etiam alias reculas, quas habeo, una cum vita in
+                    periculum ponere, dummodo viderem me suae maiestatis rebus commodare posse.
+                    Credo <persName>maiestatem</persName> suam tam bonum iustumque principem, ut non
+                    modo laudibus talibus, de quibus ad me scripsisti, sed etiam re ipsa et factis
+                    mei, qui et patrinomium et etiam alia mea beneficiola penes ipsius et
+                        <persName>sororis</persName> suae fidem ac servitia in discrimen posui,
+                    aliquando sit recordatura.</p>
                 <p xml:id="p.7">[4.] De novitatibus mihi significatis habeo tibi gratias. Praeludia
-                    conventus Marsiliensis,<note type="critic" xml:id="note.11">Marseille.</note>
-                    quae huc missa fuerunt, ad te misi, quae si non omnia vera sunt, delectare tamen
-                        <del corresp="Olahus">in</del><add corresp="Olahus" type="corr">sui</add>
+                    conventus Marsiliensis,<note xml:id="note.11">Marseille.</note> quae huc missa
+                    fuerunt, ad te misi, quae si non omnia vera sunt, delectare tamen <del
+                        corresp="Olahus">in</del><add corresp="Olahus" type="corr">sui</add>
                     novitate aliquantisper possunt. Quid istic finitum sit, nos hic incertum </p>
                 <pb facs="15331207_1_4.jpg"/>
                 <p xml:id="p.8">habemus. Scripsit huc <persName>dominus a Liquerka</persName><note
-                        type="critic" xml:id="note.12">Jean
-                        Hannart.</note><persName>caesaris</persName> apud Gallum orator ad quendam
-                    amicum meum se nihil vidisse istic tractatum, quod alicuius esset aut momenti
-                    aut fundamenti, praeter nuptias neptis pontificis et secundi geniti
-                        <persName>regis Galliae</persName>.<note type="critic" xml:id="note.13">The
+                        xml:id="note.12">Jean Hannart.</note><persName>caesaris</persName> apud
+                    Gallum orator ad quendam amicum meum se nihil vidisse istic tractatum, quod
+                    alicuius esset aut momenti aut fundamenti, praeter nuptias neptis pontificis et
+                    secundi geniti <persName>regis Galliae</persName>.<note xml:id="note.13">The
                         later King Henry II, King of France married Catherine de’ Medici on 28
                         October, 1533.</note> De Holandica classe retulit mihi thesaurarius reginae
                     eam ante decimam diem reversam esse. Exspectavit diu reversionem navium
                     Lubecensium, quae profectae fuerant ad <placeName>Gedanum</placeName>,<note
-                        type="critic" xml:id="note.14">Gdańsk.</note> ut eas intercipere posset, sed
-                    illae nescio, quo earum prospero fato <placeName>Lubecam</placeName> sunt
-                    reversae. Postea aliquot diebus exspectavit rursus naves alias onerarias ex
-                    eadem <placeName>Gedano</placeName> revertentes, quas comitata domum incolumis
+                        xml:id="note.14">Gdańsk.</note> ut eas intercipere posset, sed illae nescio,
+                    quo earum prospero fato <placeName>Lubecam</placeName> sunt reversae. Postea
+                    aliquot diebus exspectavit rursus naves alias onerarias ex eadem
+                        <placeName>Gedano</placeName> revertentes, quas comitata domum incolumis
                     reversa fuit. De rebus Danicis nihil adhuc audimus. Exspectantur oratores illi,
                     in quorum adventu in rebus tuis faciam singula, quae potero. Serenissima
                         <persName>regina</persName> mea iam a multo tempore non satis valuit,

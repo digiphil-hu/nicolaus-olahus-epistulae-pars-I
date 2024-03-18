@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">248</title>
-                                                  <title key="body" n="248" type="main">Lieven
-                                                  Algoet to Miklós Oláh (Ghent, 11 August
-                                                  1532)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">248</title>
+                                        <title key="body" n="248" type="main">Lieven Algoet to
+                                                  Miklós Oláh (Ghent, 11 August 1532)</title>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -20,8 +19,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -29,8 +28,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -39,8 +38,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -48,40 +47,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15320811_1</idno>
-                                                  <idno type="ITIdata">Q472820</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15320811_1</idno>
+                                        <idno type="ITIdata">Q472820</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320811_1.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -93,30 +91,30 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/I.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/I.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Copy.</p>
-                                                  </note>
-                                                  <note type="publication"><hi rend="smallcap"
-                                                  >Ipolyi</hi> 1875, 232.</note>
-                                                  <note type="translation">
+                                        </note>
+                                        <note type="publication"><hi rend="smallcap">Ipolyi</hi>
+                                                  1875, 232.</note>
+                                        <note type="translation">
                                                   <p><hi rend="italic">In Romanian:</hi><hi
                                                   rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
                                                   1528–1531. </p>
-                                                  </note>
-                                                  <relatedItem type="responseTo">
+                                        </note>
+                                        <relatedItem type="responseTo">
                                                   <bibl>
                                                   <ref target="15320805_1" type="url">247</ref>
                                                   </bibl>
-                                                  </relatedItem>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </relatedItem>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Hungary</country>
                                                   <settlement>Budapest</settlement>
@@ -145,8 +143,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   I. 1523–1533</title>
                                                   <idno type="ISBN">978-615-5478-62-8</idno>
@@ -213,42 +211,42 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.10817873</idno><idno
                                                   type="ITIdata">Q469927</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <placeName>Ghent<idno type="ITIdata"
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <placeName>Ghent<idno type="ITIdata"
                                                   >Q11613</idno></placeName>
-                                                  <date when="1532-08-11">11 August 1532</date>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
+                                        <date when="1532-08-11">11 August 1532</date>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Lieven Algoet<idno type="ITIdata"
                                                   >Q470347</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div xml:id="d.1">
-                                                  <head type="title">Lieven Algoet to Miklós Oláh
-                                                  (Ghent, 11 August 1532)</head>
-                                                  <floatingText type="regesta">
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div xml:id="d.1">
+                                        <head type="title">Lieven Algoet to Miklós Oláh (Ghent, 11
+                                                  August 1532)</head>
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1">Holding one’s wife is only
                                                   slightly sweeter than doing service. It is not so
@@ -260,27 +258,26 @@
                                                   leaving everything behind; he wants to talk to him
                                                   about his affairs in person.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb facs="15320811_1_1.jpg"/>
-                                                  <p xml:id="p.1">Levinus Panagathus Nicolao Olao
-                                                  salutem.</p>
-                                                  <p xml:id="p.2">Scio, Ornatissime Domine atque
-                                                  Idem Patrone Optime, Dominationem Vestram et
-                                                  iampridem eguisse opera mea et non minus in
-                                                  praesentiarum egere. Quam rem cum apud me
-                                                  perpendo, perpendo enim non raro, quantum animo
-                                                  meo dolorem iniiciat, exprimere nullis verbis
-                                                  possum, et ut vere et ex animo loquar, vix mihi </p>
-                                                  <pb facs="15320811_1_2.jpg"/>
-                                                  <p xml:id="p.3">hic tam suavis est carissimae
-                                                  uxoris meae suavissimus amplexus, quam esset suave
-                                                  istic fungi officio meo et frui mihi longe omnium
-                                                  gratissimo conspectu tuo. Sed quid facias? Non me
-                                                  hic tam detinet uxor carissima, quam istic praeter
-                                                  omnem omnium exspectationem exorta popularis
-                                                  seditio, quae sola effecit, ut hinc hactenus non
-                                                  sim ausus movere pedem, meque istuc conferre. Quis
-                                                  enim audeat se talibus furoribus periculisque
+                                        </floatingText>
+                                        <pb facs="15320811_1_1.jpg"/>
+                                        <p xml:id="p.1">Levinus Panagathus Nicolao Olao salutem.</p>
+                                        <p xml:id="p.2">Scio, Ornatissime Domine atque Idem Patrone
+                                                  Optime, Dominationem Vestram et iampridem eguisse
+                                                  opera mea et non minus in praesentiarum egere.
+                                                  Quam rem cum apud me perpendo, perpendo enim non
+                                                  raro, quantum animo meo dolorem iniiciat,
+                                                  exprimere nullis verbis possum, et ut vere et ex
+                                                  animo loquar, vix mihi </p>
+                                        <pb facs="15320811_1_2.jpg"/>
+                                        <p xml:id="p.3">hic tam suavis est carissimae uxoris meae
+                                                  suavissimus amplexus, quam esset suave istic fungi
+                                                  officio meo et frui mihi longe omnium gratissimo
+                                                  conspectu tuo. Sed quid facias? Non me hic tam
+                                                  detinet uxor carissima, quam istic praeter omnem
+                                                  omnium exspectationem exorta popularis seditio,
+                                                  quae sola effecit, ut hinc hactenus non sim ausus
+                                                  movere pedem, meque istuc conferre. Quis enim
+                                                  audeat se talibus furoribus periculisque
                                                   committere, si modo vera sunt, quae istinc
                                                   adferuntur? O quoties te quoque hic optavimus,
                                                   extra telorum iactum et liberum ab omni
@@ -302,9 +299,9 @@
                                                   ego et uxor gratias acturi et coram immensissimas.
                                                   Interea, Patrone Optime, optamus Dominationem
                                                   Vestram quam rectissime valere.</p>
-                                                  <p xml:id="p.4"><placeName>Gandavi</placeName> die
-                                                  XI. Augusti MDXXXII.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                        <p xml:id="p.4"><placeName>Gandavi</placeName> die XI.
+                                                  Augusti MDXXXII.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

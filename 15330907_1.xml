@@ -243,27 +243,27 @@
                 <p xml:id="p.2">[1.] Si incolumis reversus es et optato responso, gaudeo. Nos omnes
                     tui hic bene valemus. Magnum tamen tenet desiderium ea intelligendi, quae
                     retuleris. Neminem enim esse arbitror, quem non taedeat tantae exspectationis.
-                    Domina <persName>uxor</persName><note type="critic" xml:id="note.1">Anna
-                        Isabella (Elizabeth) Donche.</note> bene valet, venerat heri ad hanc
-                    civitatem me omnino inscio, quae et insalutata discessit cum aegroto quodam
-                    affine suo, cuius gratia clam huc venerat. Si scivissem eam venisse, accurrissem
-                    eamque et hospitio et convivio excepissem, sed decepit me, nec scivi eam hic
-                    esse, antequam currum rursus ascenderet domum reversura. Miserat unum ex suis ad
-                    me servum sciscitatum, an de te aliquid acceperim, quod antea illi non
-                    significavi; effinxi, nescio quali de tua valetudine optima et celeri reditu,
-                    sic et antea alioquoties eam delusi. Sed ut est perspicacis ingenii mulier, vix
-                    eam deludere queas verbis, nisi tuo adventu. Litteras, quas ad me misit, cum
-                    praesentibus accipies. Vale et exhilara nos tuis scriptis. Nunc non plura.</p>
+                    Domina <persName>uxor</persName><note xml:id="note.1">Anna Isabella (Elizabeth)
+                        Donche.</note> bene valet, venerat heri ad hanc civitatem me omnino inscio,
+                    quae et insalutata discessit cum aegroto quodam affine suo, cuius gratia clam
+                    huc venerat. Si scivissem eam venisse, accurrissem eamque et hospitio et
+                    convivio excepissem, sed decepit me, nec scivi eam hic esse, antequam currum
+                    rursus ascenderet domum reversura. Miserat unum ex suis ad me servum
+                    sciscitatum, an de te aliquid acceperim, quod antea illi non significavi;
+                    effinxi, nescio quali de tua valetudine optima et celeri reditu, sic et antea
+                    alioquoties eam delusi. Sed ut est perspicacis ingenii mulier, vix eam deludere
+                    queas verbis, nisi tuo adventu. Litteras, quas ad me misit, cum praesentibus
+                    accipies. Vale et exhilara nos tuis scriptis. Nunc non plura.</p>
                 <p xml:id="p.3">[2.] Res meae quomodo sint, nescio. Miror <persName>regem</persName>
                     non esse inter suos tantae authoritatis, ut cogere possit unicum
-                        <persName>Thewreck</persName><note type="critic" xml:id="note.2">Bálint
-                        Török.</note> ad mea bona remittenda. Et quae causa est illorum retentionis?
-                    An licet aliena et mea, qui fui ab <del corresp="Olahus">minucis</del><add
-                        corresp="Olahus" type="corr">initio</add> et sum cum magno et facultatum et
-                    bonorum meorum detrimento fidelis servitor <persName>regis</persName> et
-                        <persName>reginae</persName>, illum bonum τὸν λῃστὴν<note type="critic"
-                        xml:id="note.3">‘that plundering’.</note> per vim rege connivente possedere
-                    et quidem iam fere a quadriennio. Rei indignitas me huc adegit. Video
+                        <persName>Thewreck</persName><note xml:id="note.2">Bálint Török.</note> ad
+                    mea bona remittenda. Et quae causa est illorum retentionis? An licet aliena et
+                    mea, qui fui ab <del corresp="Olahus">minucis</del><add corresp="Olahus"
+                        type="corr">initio</add> et sum cum magno et facultatum et bonorum meorum
+                    detrimento fidelis servitor <persName>regis</persName> et
+                        <persName>reginae</persName>, illum bonum τὸν λῃστὴν<note xml:id="note.3"
+                        >‘that plundering’.</note> per vim rege connivente possedere et quidem iam
+                    fere a quadriennio. Rei indignitas me huc adegit. Video
                         <persName>regem</persName> non moneri suorum servitiis, incommodis,
                     detrimento et periculis. Testem invoco Deum me ab initio in eorum servitiis
                     aliquot milia ducatorum ex meis et </p>
@@ -271,14 +271,13 @@
                 <p xml:id="p.4">amisisse et insumpsisse. Praeterea ubi sunt servitia eis exhibita?
                     Quid habent mercedis? Quid praemii? Si haec cordi essent regi, iamdudum illis
                     prohibuisset, ne vim mihi inferrent, promissiones licet multae sunt, de quibus
-                    proxime <persName>domino Lundensi</persName><note type="critic" xml:id="note.4"
-                        >Johan Weze.</note> scripsi.<note type="critic" xml:id="note.5">Probably Ep.
+                    proxime <persName>domino Lundensi</persName><note xml:id="note.4">Johan
+                        Weze.</note> scripsi.<note xml:id="note.5">Probably Ep.
                             400.<ref>olahus.tei.15330827_1</ref></note> Sed quid spes tales prosunt
                     homini magna iam exspectatione defatigato? Nunquam spem libenter pretio emi. Si
                     quid istic in meis bonis recuperatis factum est per meum
-                        <persName>sacellanum</persName><note type="critic" xml:id="note.6">János
-                        Czeglédi.</note>, scribe ad me. Et si nihil, adiuva illum, ut iam tandem mea
-                    redeant. Vale.</p>
+                        <persName>sacellanum</persName><note xml:id="note.6">János Czeglédi.</note>,
+                    scribe ad me. Et si nihil, adiuva illum, ut iam tandem mea redeant. Vale.</p>
                 <p xml:id="p.5"><placeName>Gandavi</placeName> septima Septembris anno Domini
                     1533.</p>
             </div>

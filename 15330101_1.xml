@@ -258,17 +258,16 @@
                     hactenus scripserim ad sacram reginalem maiestatem, praesertim cum iam aliquot
                     hebdomadis fuerim destinatus cum ampla commisione ad tractandum cum
                         <persName>Ioanne</persName> vaivoda super pace conficienda, pro quo negotio
-                        <persName>Poloniae rex</persName><note type="critic" xml:id="note.1"
-                        >Sigismund I the Old (1467–1548) was King of Poland from 1506 until his
-                        death.</note> huc misit Nicolaum a <del corresp="Olahus">Nyptzitz</del><add
-                        corresp="Olahus" type="corr"><persName>Nymptzitz</persName></add>,<note
-                        type="critic" xml:id="note.2">Mikołaj Nipszyc or Nikolaus (von)
-                        Nibschitz/Niebelschütz (ca.1483–1541) was Royal Secretary of Sigismund I the
-                        Old. He was in Hungary in 1525 at the Fuggers’ mandate; later he shattered
-                        Sigismund’s claim to the Hungarian throne, see <hi rend="smallcap"
-                            >Petneki</hi> 2006, 192; <hi rend="smallcap">Kasza</hi> 2012, 156; <hi
-                            rend="smallcap">Małłek-Szymaniak </hi>1978, and <hi rend="smallcap"
-                            >Srodecki</hi> 2015, 273.</note> frequenter in
+                        <persName>Poloniae rex</persName><note xml:id="note.1">Sigismund I the Old
+                        (1467–1548) was King of Poland from 1506 until his death.</note> huc misit
+                    Nicolaum a <del corresp="Olahus">Nyptzitz</del><add corresp="Olahus" type="corr"
+                            ><persName>Nymptzitz</persName></add>,<note xml:id="note.2">Mikołaj
+                        Nipszyc or Nikolaus (von) Nibschitz/Niebelschütz (ca.1483–1541) was Royal
+                        Secretary of Sigismund I the Old. He was in Hungary in 1525 at the Fuggers’
+                        mandate; later he shattered Sigismund’s claim to the Hungarian throne, see
+                            <hi rend="smallcap">Petneki</hi> 2006, 192; <hi rend="smallcap"
+                            >Kasza</hi> 2012, 156; <hi rend="smallcap">Małłek-Szymaniak </hi>1978,
+                        and <hi rend="smallcap">Srodecki</hi> 2015, 273.</note> frequenter in
                         <placeName>Hungaria</placeName> versatum. Ad eandem misi excusationem, quod
                     sicuti iussus sum omnia facere ex praescripto serenissimi <persName>regis
                         Romanorum</persName>, cuius maiestati haec negotia omnium maxime incumbunt,
@@ -281,26 +280,25 @@
                     </choice><placeName>Hungariae</placeName>, dico: <placeName>Stiriae</placeName>,
                         <placeName>Charinthiae</placeName>, <placeName>Austriae</placeName> extremo
                     periculo laborantibus succurrere. Ad quam rem penitius sciendam, missi
-                        <placeName>Bononiam</placeName><note type="critic" xml:id="note.3">At this
-                        time, Emperor Charles V was in Bologna.</note> reverendissimus
-                        <persName>cardinalis Tridentinus</persName>,<note type="critic"
-                        xml:id="note.4">Bernhard von Cles.</note> dominus <persName>Ioannes
-                        Ungnade</persName>,<note type="critic" xml:id="note.5">Hans von Ungand or
-                        Ungnad Freiherr von Sonneck (1493–1564) was a general loyal to the
+                        <placeName>Bononiam</placeName><note xml:id="note.3">At this time, Emperor
+                        Charles V was in Bologna.</note> reverendissimus <persName>cardinalis
+                        Tridentinus</persName>,<note xml:id="note.4">Bernhard von Cles.</note>
+                    dominus <persName>Ioannes Ungnade</persName>,<note xml:id="note.5">Hans von
+                        Ungand or Ungnad Freiherr von Sonneck (1493–1564) was a general loyal to the
                         Habsburgs; after Katzianer’s death, he became the General of Carniola,
                         Styria, and Croatia, and from 1530 to 1556, he was Governor <hi
                             rend="italic">(Landeshauptmann)</hi> of Styria. He is also known as a
                         primary promoter of the Reformation, publishing the Bible in the South
                         Slavic languages. For more see <hi rend="smallcap">Zimmermann</hi>
-                        1981.</note> unus <persName>Trautzmandorffer</persName><note type="critic"
-                        xml:id="note.6">Trauttmansdorff is an old noble family in Austria.</note> et
-                    alius quidam. Altera in sciendo, quid per <persName>Ioannem Catzianer</persName>
-                    iam inceptum esset tractare inter maistatem regiam et vaivodam, pro cuius
+                        1981.</note> unus <persName>Trautzmandorffer</persName><note xml:id="note.6"
+                        >Trauttmansdorff is an old noble family in Austria.</note> et alius quidam.
+                    Altera in sciendo, quid per <persName>Ioannem Catzianer</persName> iam inceptum
+                    esset tractare inter maistatem regiam et vaivodam, pro cuius
                         <persName>vaivodae</persName></p>
                 <pb facs="15330101_1_2.jpg"/>
                 <p xml:id="p.3">parte convenire debuerat <persName>Colocensis</persName>,<note
-                        type="critic" xml:id="note.7">Ferenc Frangepán.</note> qui non venit,
-                        <persName>Brodericus</persName><note type="critic" xml:id="note.8">István
+                        xml:id="note.7">Ferenc Frangepán.</note> qui non venit,
+                        <persName>Brodericus</persName><note xml:id="note.8">István
                         Brodarics.</note> et <del corresp="Olahus">quidam Dominationi
                         Vestrae</del><add corresp="Olahus" type="corr"><persName>Thomas
                             Nadasdi</persName>, Dominationi Vestrae</add> magis quam mihi notior,
@@ -315,23 +313,22 @@
                     cuius tractatus nullam habemus certitudinem ad hunc diem.</p>
                 <p xml:id="p.4">[2.] Omnino reor brevi me iturum in <placeName>Poloniam</placeName>.
                     Nam <persName>vaivodam</persName> putamus brevi venturum in
-                        <placeName>Cesmarchiam</placeName>,<note type="critic" xml:id="note.9"
-                        >Kežmarok.</note> cuius praefectus est <persName>Hieronimus
-                    Lasky</persName>, proinde futurum esse, ut brevi interstitio cum illo possimus
-                    transigere. Nolui omittere, quin hoc ad maiestatem ipsius reginalem et ad
-                    Dominationem Vestram perscriberem, offerendo illi <add corresp="Olahus"
-                        type="insert">et Dominationi Tuae</add> servitia obsequiaque, si quid
-                    exiguitas mea potest impendere. Qua in re precor, ne patrocinium tuum desit.
-                    Quod ad res attinet nostras, aperte fatentur Slesitae et Styrii reliquique,
-                    velle se rebus suis consulere quovis modo. Cum <persName>Cotzka</persName><note
-                        type="critic" xml:id="note.10">Péter Koczka.</note> in
+                        <placeName>Cesmarchiam</placeName>,<note xml:id="note.9">Kežmarok.</note>
+                    cuius praefectus est <persName>Hieronimus Lasky</persName>, proinde futurum
+                    esse, ut brevi interstitio cum illo possimus transigere. Nolui omittere, quin
+                    hoc ad maiestatem ipsius reginalem et ad Dominationem Vestram perscriberem,
+                    offerendo illi <add corresp="Olahus" type="insert">et Dominationi Tuae</add>
+                    servitia obsequiaque, si quid exiguitas mea potest impendere. Qua in re precor,
+                    ne patrocinium tuum desit. Quod ad res attinet nostras, aperte fatentur Slesitae
+                    et Styrii reliquique, velle se rebus suis consulere quovis modo. Cum
+                        <persName>Cotzka</persName><note xml:id="note.10">Péter Koczka.</note> in
                         <placeName>Hungaria</placeName> spes fuit, aliquid posse boni transigi, sed
                     hactenus nihil successit. In causa aiunt esse, quod non expugnaverit
-                        <placeName>Bystritz</placeName><note type="critic" xml:id="note.11"
+                        <placeName>Bystritz</placeName><note xml:id="note.11"
                         >Bistrița.</note><persName>Catzianer</persName>. De Turcis silentium est.
                     Legati ex <placeName>Polonia</placeName> missi
                         <placeName>Constantinopolim</placeName> redeunt incerto responso. Intendit
-                    Polonus habere dietam in <placeName>Peterkovia</placeName>,<note type="critic"
+                    Polonus habere dietam in <placeName>Peterkovia</placeName>,<note
                         xml:id="note.12">Piotrków.</note> deinde concedere in
                         <placeName>Lithvaniam</placeName>. Multi secreti tractatus fiunt in
                         <placeName>Hungaria</placeName>, sed nulli prodeunt, omnino pendemus ex

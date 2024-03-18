@@ -235,9 +235,9 @@
                     quid istic fieret et an aliqua esset spes liberationis nostrae intelligere
                     possem, venit nuntius, qui te affirmaret <placeName>Posonio</placeName> relicto
                     una cum uxore ac tota familia ad tuam arcem <placeName>Sempthe</placeName><note
-                        type="critic" xml:id="note.1">The castle of Šintava formerly belonged to the
-                        Rozgonyi family, then to the Báthori family. The Thurzó family got it as
-                        plaedge from King Ferdinand I in 1530.</note></p>
+                        xml:id="note.1">The castle of Šintava formerly belonged to the Rozgonyi
+                        family, then to the Báthori family. The Thurzó family got it as plaedge from
+                        King Ferdinand I in 1530.</note></p>
                 <pb facs="15300130_2_2.jpg"/>
                 <p xml:id="p.3">profectum esse. Ea res non parvam induxit mihi admirationem, primum
                     quod eum locum ubi ceteri essent domini et ubi publica et regis nostri negotia
@@ -245,9 +245,8 @@
                     est hostibus, cum uxore et aliis tuis conieceris his dubiis temporibus. Monerunt
                     te fortasse <del corresp="Olahus">gentes exiguae quae regi quae</del><add
                         corresp="Olahus" type="corr">milites exigui illi regii, qui</add> sunt
-                        <placeName>Tiraniae</placeName>,<note type="critic" xml:id="note.2"
-                        >Trnava.</note> addideruntque animum, ut illi loco formidoloso tu te
-                    committeres.</p>
+                        <placeName>Tiraniae</placeName>,<note xml:id="note.2">Trnava.</note>
+                    addideruntque animum, ut illi loco formidoloso tu te committeres.</p>
                 <p xml:id="p.4">Si me et tuos, quibus es carissimus et qui tuo bono delectantur,
                     consuluisses, certe et meum et aliorum, ut arbitror tui amicissimorum, id
                     fuisset consilium, ne te in locum tam ancipitem conferres. Habes fortasse spem

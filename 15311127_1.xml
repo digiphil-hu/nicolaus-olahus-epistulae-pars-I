@@ -242,8 +242,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15311127_1_1.jpg"/>
-                <p xml:id="p.1">Ad Anthonium baronem Siculum.<note type="critic" xml:id="note.1"
-                        >Burgio returned to Sicily in 1529.</note></p>
+                <p xml:id="p.1">Ad Anthonium baronem Siculum.<note xml:id="note.1">Burgio returned
+                        to Sicily in 1529.</note></p>
                 <p xml:id="p.2">[1.] Non parvo sum affectus gaudio, te ad me litteras rescripsisse.
                     Primum quod tuam valetudinem prosperam ex tuis litteris intellexi, tum quod
                     aperte cognoverim, quantae curae sit tibi res Hungarica. Eum si animum in
@@ -271,36 +271,33 @@
                     sic tibi maxime volo, a quo in <placeName>Hungaria</placeName> beneficio <del
                         corresp="Olahus">affector</del><add corresp="Olahus" type="corr">sum
                         affectus</add>. </p>
-                <p xml:id="p.3">[2.] <persName>Brodericus</persName><note type="critic"
-                        xml:id="note.2">István Brodarics.</note> noster post meas litteras nuper ad
-                    te datas dicebatur huc venturus <del corresp="Olahus">missus</del> orator a
+                <p xml:id="p.3">[2.] <persName>Brodericus</persName><note xml:id="note.2">István
+                        Brodarics.</note> noster post meas litteras nuper ad te datas dicebatur huc
+                    venturus <del corresp="Olahus">missus</del> orator a
                         <persName>vaivoda</persName> cum <persName>comite de
-                        Frangepanibus</persName> monacho<note type="critic" xml:id="note.3">Ferenc
-                        Frangepán.</note> et <persName>Grithi</persName><note type="critic"
-                        xml:id="note.4">Ludovico Gritti.</note> ad <persName>caesarem</persName> et
-                    conventum imperialem, qui celebrari in mense Septembri
-                        <placeName>Spirae</placeName><note type="critic" xml:id="note.5"
-                        >Speyer.</note> debebat. Nunc tamen audio eos retraxisse pedem,
-                    constitisseque in aliqua civitatum Germanicarum et exspectare conventum
-                        <placeName>Ratisbonensem</placeName><note type="critic" xml:id="note.6"
-                        >Regensburg.</note> imperialem, qui ad mensem Ianuarium futurum est
-                    celebrandus. Rem, quam mihi praecipis, conficiam et si quando erit tabellarius,
-                    cui meas ad te dem litteras, non patiar meum officium scribendi desiderari. Sed
-                    vereor, ne meis tibi magnis in rebus occupato aliquando sim molestior, quam
-                    tamen molestiam amor et benevolentia tua singularis, qua me es semper
-                    prosecutus, facile, ut spero, superabit. <persName>Reginae</persName> meae etsi
-                    es satis commendatus, tamen ut iussisti meum apud eam feci officium. Nova hic
-                    pauca sunt.</p>
-                <p xml:id="p.4"><persName>Caesar</persName> die Saturni<note type="critic"
-                        xml:id="note.7">26 November.</note> futura profecturus est hinc
-                        <placeName>Tornacum</placeName>,<note type="critic" xml:id="note.8"
-                        >Tournai.</note> celebraturusque ibi comitia Ordinis Velleris Aurei,<note
-                        type="critic" xml:id="note.9">The Order of the Golden Fleece is a Roman
-                        Catholic order. This was the 20<hi rend="super">th</hi> assembly, held on 3
-                        December, 1531.</note> fortasse </p>
+                        Frangepanibus</persName> monacho<note xml:id="note.3">Ferenc
+                        Frangepán.</note> et <persName>Grithi</persName><note xml:id="note.4"
+                        >Ludovico Gritti.</note> ad <persName>caesarem</persName> et conventum
+                    imperialem, qui celebrari in mense Septembri <placeName>Spirae</placeName><note
+                        xml:id="note.5">Speyer.</note> debebat. Nunc tamen audio eos retraxisse
+                    pedem, constitisseque in aliqua civitatum Germanicarum et exspectare conventum
+                        <placeName>Ratisbonensem</placeName><note xml:id="note.6">Regensburg.</note>
+                    imperialem, qui ad mensem Ianuarium futurum est celebrandus. Rem, quam mihi
+                    praecipis, conficiam et si quando erit tabellarius, cui meas ad te dem litteras,
+                    non patiar meum officium scribendi desiderari. Sed vereor, ne meis tibi magnis
+                    in rebus occupato aliquando sim molestior, quam tamen molestiam amor et
+                    benevolentia tua singularis, qua me es semper prosecutus, facile, ut spero,
+                    superabit. <persName>Reginae</persName> meae etsi es satis commendatus, tamen ut
+                    iussisti meum apud eam feci officium. Nova hic pauca sunt.</p>
+                <p xml:id="p.4"><persName>Caesar</persName> die Saturni<note xml:id="note.7">26
+                        November.</note> futura profecturus est hinc
+                        <placeName>Tornacum</placeName>,<note xml:id="note.8">Tournai.</note>
+                    celebraturusque ibi comitia Ordinis Velleris Aurei,<note xml:id="note.9">The
+                        Order of the Golden Fleece is a Roman Catholic order. This was the 20<hi
+                            rend="super">th</hi> assembly, held on 3 December, 1531.</note> fortasse </p>
                 <pb facs="15311127_1_2.jpg"/>
                 <p xml:id="p.5">illis confectis etiam cum <persName>rege Gallorum</persName><note
-                        type="critic" xml:id="note.10">King Frances I.</note> conventurus.
+                        xml:id="note.10">King Frances I.</note> conventurus.
                         <persName>Regina</persName> pariter eo proficiscetur. Redeatne caesar huc
                     postea, an eo ex loco proficiscatur in <placeName>Germaniam</placeName>
                     superiorem, nemo est, qui certo sciat, res et negotiorum status eius

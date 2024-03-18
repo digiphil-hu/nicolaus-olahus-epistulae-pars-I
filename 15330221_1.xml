@@ -250,11 +250,10 @@
                 <p xml:id="p.3">persuasum habeam, minime officiose agerem, si data occasione saepius
                     ad te litteras non darem. Spero me habiturum litteras transmittendi ad te modum,
                     si longe <placeName>Vratislaviae</placeName> manebo. Cum
-                        <persName>Henckelii</persName><note type="critic" xml:id="note.1">Johann
-                        Henckel was granted the Canonry of the Cathedral of Wrocław by Queen Mary,
-                        see his letter: Ep. 277.<ref>olahus.tei.15320924_2</ref></note> nostri
-                    facile eo iunctim mittentur, curabo, ne iterum negligens in scribendo
-                    videar.</p>
+                        <persName>Henckelii</persName><note xml:id="note.1">Johann Henckel was
+                        granted the Canonry of the Cathedral of Wrocław by Queen Mary, see his
+                        letter: Ep. 277.<ref>olahus.tei.15320924_2</ref></note> nostri facile eo
+                    iunctim mittentur, curabo, ne iterum negligens in scribendo videar.</p>
                 <p xml:id="p.4">[2.] Nullo tibi etiam sit taedio apud gentes exoticas fatis sic
                     volentibus degere. Nam inter omnes indigenas tuos honestior, quietior ac
                     securior tibi condicio (turbine sic perseverante in
@@ -267,9 +266,9 @@
                     futurum spero, si certo apud me id facturum constituero. Tamen de hisce planius
                     tandem tibi scribam. Magnam habeo tibi gratiam, quod servitia mea maiestati
                     reginali officiose praebuisti, id te iterum diligenter facturum rogo.
-                        <persName>Lucretiam</persName><note type="critic" xml:id="note.2">Lucretia
-                        Caballis (vom Ross).</note> illam Virginem pudicissimam et solertem et ab
-                    omnibus virtuosissimam nuncupatam nomine meo salutari opto. Te vero hominem mihi
+                        <persName>Lucretiam</persName><note xml:id="note.2">Lucretia Caballis (vom
+                        Ross).</note> illam Virginem pudicissimam et solertem et ab omnibus
+                    virtuosissimam nuncupatam nomine meo salutari opto. Te vero hominem mihi
                     amicissimum feliciter in longum valere cupio, per opportunitatem aliquando nobis
                     scribas.</p>
                 <p xml:id="p.5"><placeName>Vratislaviae</placeName> XXI. Februarii anno 1533.</p>

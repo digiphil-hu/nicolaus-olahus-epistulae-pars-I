@@ -236,10 +236,10 @@
                 <p xml:id="p.1">Ad eundem.</p>
                 <p xml:id="p.2">[1.] Scio te esse valde sollicitum pro nostra iam vetere amicitia,
                     quid rerum agamus et ubi simus gentium. Nudiustertius tibi perscripseram,<note
-                        type="critic" xml:id="note.1">See Ep.
-                        123.<ref>olahus.tei15301130_1.</ref></note> qua navigatione pervenerimus ad
-                        <placeName>Lincium</placeName> magna certe et laboriosa. Ex quibus meis
-                    litteris te sane cognovisse arbitror, qua curiales teneantur anxietate </p>
+                        xml:id="note.1">See Ep. 123.<ref>olahus.tei15301130_1.</ref></note> qua
+                    navigatione pervenerimus ad <placeName>Lincium</placeName> magna certe et
+                    laboriosa. Ex quibus meis litteris te sane cognovisse arbitror, qua curiales
+                    teneantur anxietate </p>
                 <pb facs="15301202_1_2.jpg"/>
                 <p xml:id="p.3">et sollicitudine, dum aliorum nutus et voluntates observare
                     cogantur; cuius rei causa bene tuis rebus est consultum, qui molestias curialium
@@ -253,7 +253,7 @@
                     prima die Decembris toto istic die quievimus. Hoc primum die commisimus nos
                     rursus navigationi, venimusque ad horam secundam postmeridianam ad
                         <placeName>Grayn</placeName>, <persName>Ιulii comitis de
-                        Hardeck</persName><note type="critic" xml:id="note.2">Julius von Hardegg
+                        Hardeck</persName><note xml:id="note.2">Julius von Hardegg
                         (1500–1559).</note> oppidum, navigare ulterius poteramus, sed ex composito
                     hic residere voluimus. Nam rupes est utrimque ex Danubio non longe infra oppidum
                     ita enata, ut inter duos veluti scopulos via quadam per angusta aqua non sine

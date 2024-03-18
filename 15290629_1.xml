@@ -235,9 +235,9 @@
                 <p xml:id="p.1"><persName>Thomas episcopus Agriensis</persName> Nicolao Olao
                     secretario reginae Mariae. Carissime Domine et Frater! </p>
                 <p xml:id="p.2">[1.] Accepi <persName>Lucretiae Virginis</persName><note
-                        type="critic" xml:id="note.1">Lucretia Caballis (vom Ross) (†1556) was Queen
-                        Mary of Habsburg’s favourite court-lady. She was the secret lover of Oláh,
-                        their (illegitimate) daughter was Lucretia, whom Oláh called his niece (the
+                        xml:id="note.1">Lucretia Caballis (vom Ross) (†1556) was Queen Mary of
+                        Habsburg’s favourite court-lady. She was the secret lover of Oláh, their
+                        (illegitimate) daughter was Lucretia, whom Oláh called his niece (the
                         daughter of his brother Tamás), see <hi rend="smallcap">Fazekas</hi> 2002,
                         228; <hi rend="smallcap">Réthelyi</hi> 2007, 1207; and <hi rend="smallcap"
                             >Kerkhoff</hi> 2008, 60–61. Lucretia later married Leonhard Noguerol,
@@ -251,12 +251,12 @@
                     explicare. <persName>Caesar</persName> exspectatur, timetur, fuga est undique et
                     nobilium, et civium, et agrestium tanta, ut maior fieri nequeat.
                         <placeName>Mohach</placeName> iterum per <persName>Mehmet
-                        begum</persName><note type="critic" xml:id="note.2">Mehmed Bey, presumably
+                        begum</persName><note xml:id="note.2">Mehmed Bey, presumably
                         Yahya-Pasha-zade Mehmed Bey, see Ep.
                         97.<ref>olahus.tei.15301013_1.</ref></note> combustum funditus. Item
-                        <placeName>Bathae</placeName><note type="critic" xml:id="note.3">Bátaszék in
-                        Tolna county was two separate settlements at this time: Báta and Szék. Báta
-                        had a Benedictine monastery.</note> dimidia pars. Nasadistam nullum habemus,
+                        <placeName>Bathae</placeName><note xml:id="note.3">Bátaszék in Tolna county
+                        was two separate settlements at this time: Báta and Szék. Báta had a
+                        Benedictine monastery.</note> dimidia pars. Nasadistam nullum habemus,
                     nullus fit apparatus, neque erit antequam vires aliquae externae compareant.
                     Bene valete. </p>
                 <p xml:id="p.4"><placeName>Budae</placeName> in festo Beatorum Petri et Pauli

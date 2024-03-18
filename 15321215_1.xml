@@ -236,53 +236,52 @@
                     </body>
                 </floatingText>
                 <pb facs="15321215_1_1.jpg"/>
-                <p xml:id="p.1">Ad Ioannem comitem.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1">Ad Ioannem comitem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">[1.] Arbitratus sum te scivisse nostram ad
-                        <placeName>Valencenas</placeName><note type="critic" xml:id="note.2"
-                        >Valenciennes is next to Mons.</note> profectionem, sed cum tuas proximas
-                    accepissem, intellexi te non solum ne scivisse nostrum illuc aditum, sed nedum
-                    audivisse. Quare ut alios omnes nostros casus et itinera, sic etiam diem et
-                    modum huius nostrae profectionis volo tibi significare. Ad vigesimum nonum
-                    Novembris praeteriti, cum <placeName>Valencenas</placeName> oppidum
-                        <placeName>Hannoniae</placeName> munitissimum videre maxime cuperemus, iter
-                    hinc illuc coepimus. Erat sane tempus rigidum et valido frigore molestum, sed
-                    nostra visendi illius oppidi cupiditas vicit </p>
+                        <placeName>Valencenas</placeName><note xml:id="note.2">Valenciennes is next
+                        to Mons.</note> profectionem, sed cum tuas proximas accepissem, intellexi te
+                    non solum ne scivisse nostrum illuc aditum, sed nedum audivisse. Quare ut alios
+                    omnes nostros casus et itinera, sic etiam diem et modum huius nostrae
+                    profectionis volo tibi significare. Ad vigesimum nonum Novembris praeteriti, cum
+                        <placeName>Valencenas</placeName> oppidum <placeName>Hannoniae</placeName>
+                    munitissimum videre maxime cuperemus, iter hinc illuc coepimus. Erat sane tempus
+                    rigidum et valido frigore molestum, sed nostra visendi illius oppidi cupiditas
+                    vicit </p>
                 <pb facs="15321215_1_2.jpg"/>
                 <p xml:id="p.3">omnem temporis intemperiem. Ad vesperam igitur eo non gravatim
-                    pervenimus oppidum huc distans ad septem leucas Gallicas.<note type="critic"
-                        xml:id="note.3">One Gallic or Roman mile was between 2 and 5
-                        kilometers.</note> Oppidani cum taedis et facibus, ut moris est huius
-                    patriae, reginae occurrerunt, et omnia iucunditatis signa, quae fieri potuere,
-                    ostenderunt in reginae ingressu. Illic commorati ad quintum sumus diem, frigus
-                    patientes ultra omnia alia loca intollerabilius. Gens enim Gallea, vaporariis
-                    carens, caminis in cubiculis nonnumquam rimosis utitur ita, ut si focum in eis <choice>
+                    pervenimus oppidum huc distans ad septem leucas Gallicas.<note xml:id="note.3"
+                        >One Gallic or Roman mile was between 2 and 5 kilometers.</note> Oppidani
+                    cum taedis et facibus, ut moris est huius patriae, reginae occurrerunt, et omnia
+                    iucunditatis signa, quae fieri potuere, ostenderunt in reginae ingressu. Illic
+                    commorati ad quintum sumus diem, frigus patientes ultra omnia alia loca
+                    intollerabilius. Gens enim Gallea, vaporariis carens, caminis in cubiculis
+                    nonnumquam rimosis utitur ita, ut si focum in eis <choice>
                         <orig>exstingeris</orig>
                         <supplied>exstingueris</supplied>
                     </choice>, et te calore reficere volueris, ex una quidem parte calesces, sed ex
                     alia frigeas. Quare factum est, ut tribus diebus coactus sum ligna <choice>
                         <orig>una</orig>
                         <supplied>uno</supplied>
-                    </choice> aureo Philippeo<note type="critic" xml:id="note.4">A kind of coin with
-                        high-karat gold content.</note><del corresp="Olahus?">absummere</del><add
+                    </choice> aureo Philippeo<note xml:id="note.4">A kind of coin with high-karat
+                        gold content.</note><del corresp="Olahus?">absummere</del><add
                         corresp="Olahus?" type="corr">absumere</add>, et nihilominus non parvam pati
                     frigoris molestiam. Cives eius loci praesentarunt reginae dono hiatum argenteum
                     mediocrem quingentis Carolis impletum, quod in aliis oppidis nullibus factum
                     esse vidi; hi soli humaniores aliis hoc facto sunt visi.</p>
                 <p xml:id="p.4">[2.] Posteaquam autem nos sacietas cepisset eius oppidi, venimus ad
-                    oppidum quoddam <placeName>Canay</placeName><note type="critic" xml:id="note.5"
-                        >Probably Cambrai.</note> nomine, quod <persName>Sempy</persName><note
-                        type="critic" xml:id="note.6">Antoine de Croÿ, Lord of Sempy (Sampy).</note>
-                    antiquior ab <persName>imperatore</persName> habet in officium. Excepti istic ab
-                    eodem sumus humanissime biduum, tractatique honorifice, nam ultra hospitalitatem
-                    nobis factam, praebita sunt etiam spectacula non inamoena.
-                        <persName>Regina</persName> profecta illic fuerat ad vivarium ferarium, in
-                    quo et equi silvestres dicuntur esse. His omnibus permotis reversi sumus huc
-                        <placeName>Bergas</placeName> eo primum animo, ne diutius hic tarderemus.
-                    Sed mutatus est postea ex consiliis rerum <persName>reginae</persName> animus,
-                    credoque nos ad primum Ianuarii hic mansuros. Haec te scire volui, ut scires a
-                    me nostram itinerationem. Si qua deinceps consequentur, faciam earum quoque te
-                    rerum participem. Vale.</p>
+                    oppidum quoddam <placeName>Canay</placeName><note xml:id="note.5">Probably
+                        Cambrai.</note> nomine, quod <persName>Sempy</persName><note xml:id="note.6"
+                        >Antoine de Croÿ, Lord of Sempy (Sampy).</note> antiquior ab
+                        <persName>imperatore</persName> habet in officium. Excepti istic ab eodem
+                    sumus humanissime biduum, tractatique honorifice, nam ultra hospitalitatem nobis
+                    factam, praebita sunt etiam spectacula non inamoena. <persName>Regina</persName>
+                    profecta illic fuerat ad vivarium ferarium, in quo et equi silvestres dicuntur
+                    esse. His omnibus permotis reversi sumus huc <placeName>Bergas</placeName> eo
+                    primum animo, ne diutius hic tarderemus. Sed mutatus est postea ex consiliis
+                    rerum <persName>reginae</persName> animus, credoque nos ad primum Ianuarii hic
+                    mansuros. Haec te scire volui, ut scires a me nostram itinerationem. Si qua
+                    deinceps consequentur, faciam earum quoque te rerum participem. Vale.</p>
                 <p xml:id="p.5"><placeName>Bergis</placeName> 15. Decembris anno 1532.</p>
             </div>
         </body>

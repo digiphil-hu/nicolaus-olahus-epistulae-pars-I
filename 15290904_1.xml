@@ -241,9 +241,9 @@
                             he will have mercy on them.</p>
                     </body>
                 </floatingText>
-                <p xml:id="p.1"> Ad <persName>Paulum Gerebium</persName>.<note type="critic"
-                        xml:id="note.1">He can possibly be identified as Pál Geréb of Gáltő, see <hi
-                            rend="smallcap">Jakó</hi> 1990, 164.</note></p>
+                <p xml:id="p.1"> Ad <persName>Paulum Gerebium</persName>.<note xml:id="note.1">He
+                        can possibly be identified as Pál Geréb of Gáltő, see <hi rend="smallcap"
+                            >Jakó</hi> 1990, 164.</note></p>
                 <p xml:id="p.2">[1.] Torqueor mirum in modum praesentium temporum perturbatione.
                     Video undequaque nobis mala <del corresp="Olahus">minere</del><add
                         corresp="Olahus" type="corr">imminere</add>, quae vitari certe poterant,
@@ -279,24 +279,23 @@
                         corresp="Olahus" type="corr">potentissimus</add> irrupit in viscera nostra:
                     hortatu nescio cuius principis <del corresp="Olahus">Christianitati</del><add
                         corresp="Olahus" type="corr"
-                        >Christiani</add><placeName>Quinqueecclesias</placeName><note type="critic"
+                        >Christiani</add><placeName>Quinqueecclesias</placeName><note
                         xml:id="note.2">Pécs.</note> occupavit et <placeName>Albam
-                        Regalem</placeName>,<note type="critic" xml:id="note.3"
-                        >Székesfehérvár.</note> eius duces sunt hi, de quibus bene erat merita
-                        <placeName>Hungaria</placeName>, hi nec Deum nec honorem suum timentes,
-                    omnia promiscue agunt, eorum hortatu miseri coloni in servitutem abducuntur
-                    perpetuam, virgines stuprantur, coniugatae opprimuntur, viduae ad <del
-                        corresp="Olahus">omnem</del><add corresp="Olahus" type="corr">omne</add>
-                    libidinis genus compelluntur. Quod vero crudelius est, non contenti finibus
-                        <placeName>Hungariae</placeName>, et omnium, qui in ea sunt, periculis,
-                    aliis quoque Christianitatis regnis exitium et simile periculum moliuntur, eoque
-                    sunt, ut iam apertissimis iudiciis et documentis cognovimus, animo, ut vicinas
-                        <placeName>Hungariae</placeName> regiones invadant, et per eas alia quoque
-                    Christianorum regna penetrent. <persName>Rex</persName> noster licet maximis
-                    curis, studiis in hoc dies et noctes versatur, hoc cogitat, ut coactis omnium
-                    suorum regnorum viribus, primo quoque tempore <placeName>Hungariae</placeName>
-                    subveniat, hostesque Dei auxilio propellat. Tamen ubique videntur res tardius
-                    quam existimabamus sperabamusque procedere. </p>
+                        Regalem</placeName>,<note xml:id="note.3">Székesfehérvár.</note> eius duces
+                    sunt hi, de quibus bene erat merita <placeName>Hungaria</placeName>, hi nec Deum
+                    nec honorem suum timentes, omnia promiscue agunt, eorum hortatu miseri coloni in
+                    servitutem abducuntur perpetuam, virgines stuprantur, coniugatae opprimuntur,
+                    viduae ad <del corresp="Olahus">omnem</del><add corresp="Olahus" type="corr"
+                        >omne</add> libidinis genus compelluntur. Quod vero crudelius est, non
+                    contenti finibus <placeName>Hungariae</placeName>, et omnium, qui in ea sunt,
+                    periculis, aliis quoque Christianitatis regnis exitium et simile periculum
+                    moliuntur, eoque sunt, ut iam apertissimis iudiciis et documentis cognovimus,
+                    animo, ut vicinas <placeName>Hungariae</placeName> regiones invadant, et per eas
+                    alia quoque Christianorum regna penetrent. <persName>Rex</persName> noster licet
+                    maximis curis, studiis in hoc dies et noctes versatur, hoc cogitat, ut coactis
+                    omnium suorum regnorum viribus, primo quoque tempore
+                        <placeName>Hungariae</placeName> subveniat, hostesque Dei auxilio propellat.
+                    Tamen ubique videntur res tardius quam existimabamus sperabamusque procedere. </p>
                 <p xml:id="p.6"> [4.] Bohemi polliciti fuerant, ultra <del corresp="Olahus">ea
                         auxilia, quae promiserant</del><add corresp="Olahus" type="corr">ea quae
                         promiserant ante auxilia</add> sese quoque in propria persona paratos
@@ -316,14 +315,13 @@
                         corresp="Olahus">sollicius</del><add corresp="Olahus" type="corr"
                         >sollicitius</add> rem Christianitatis tractant, si quis soli facere
                     possunt. Ex <placeName>Silesia</placeName> quingenti afferuntur equites duce
-                    comite <persName>Ioanne ab Hardeck</persName>,<note type="critic"
-                        xml:id="note.4">Johann von Hardegg or Johann, Count of Hardegg and his
-                        brother Julius I, Count of Hardegg defended with their own army the Danube
-                        bank against the Turks with their own army in 1529.</note> qui ad diem
-                    dominicum proxime venturum constituturi sunt in finibus
-                        <placeName>Moraviae</placeName> versus <placeName>Hungariam</placeName>.
-                        <placeName>Austria</placeName> non magnam dare potest cum
-                        <placeName>Stiria</placeName>, <placeName>Carniola</placeName>,
+                    comite <persName>Ioanne ab Hardeck</persName>,<note xml:id="note.4">Johann von
+                        Hardegg or Johann, Count of Hardegg and his brother Julius I, Count of
+                        Hardegg defended with their own army the Danube bank against the Turks with
+                        their own army in 1529.</note> qui ad diem dominicum proxime venturum
+                    constituturi sunt in finibus <placeName>Moraviae</placeName> versus
+                        <placeName>Hungariam</placeName>. <placeName>Austria</placeName> non magnam
+                    dare potest cum <placeName>Stiria</placeName>, <placeName>Carniola</placeName>,
                         <placeName>Carinthea</placeName>que hominum copiam; ea, quam rex et ab
                     imperio, et ex aliis principum ac ducum auxiliis secum speratur ducturus hominum
                     copiam, maior futura esse creditur inter alios omnes apparatus, quae si etiam

@@ -251,13 +251,13 @@
                 <pb facs="15320210_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus Ioanni Campensi salutem.</p>
                 <p xml:id="p.2">[1.] Cum nuper, mi Campensis Doctissime, satiati prandio
-                        <persName>Dantisci</persName><note type="critic" xml:id="note.1">Jan
-                        Dantyszek.</note> nostri una commentaremur, licet et doctis et humanissimis
-                    sermonibus tuis nihil aliud de te suspicari potueram, quam admirabilem </p>
+                        <persName>Dantisci</persName><note xml:id="note.1">Jan Dantyszek.</note>
+                    nostri una commentaremur, licet et doctis et humanissimis sermonibus tuis nihil
+                    aliud de te suspicari potueram, quam admirabilem </p>
                 <pb facs="15320210_1_2.jpg"/>
                 <p xml:id="p.3">quandam <del corresp="Olahus">facilitatem</del><add corresp="Olahus"
                         type="corr">felicitatem</add> ingenii tui in te esse sitam, non parvo tuo,
-                    ut tu ipse dicebas,<note type="critic" xml:id="note.2">See Ep. 207. Cap.
+                    ut tu ipse dicebas,<note xml:id="note.2">See Ep. 207. Cap.
                             1.<ref>olahus.tei.15320204_1</ref></note> labore partam. Tamen ex
                     familiaribus illis collocutionibus, qui inter nos tunc primum notitiam et
                     amicitiam contrahentes mutuo conferebantur, non tantum tunc te potui aestimare,
@@ -278,9 +278,9 @@
                     Deum optimum maximum ideo te hac ingenii et doctrinae felicitate ornasse, ut
                     primum ecclesiae suae sanctae, tum bonis quibusvis omnibus tui observantibus
                     lucubrationibus tuis ornamento et decori sis futurus.
-                        <persName>Danielem</persName>,<note type="critic" xml:id="note.3">See Ep.
-                        207. Note 3.<ref>olahus.tei.15320204_1</ref></note> scis, quam maxime in
-                    suam quisque trahere conetur sententiam. Id fieri puto, tum mysteriis in eo
+                        <persName>Danielem</persName>,<note xml:id="note.3">See Ep. 207. Note
+                            3.<ref>olahus.tei.15320204_1</ref></note> scis, quam maxime in suam
+                    quisque trahere conetur sententiam. Id fieri puto, tum mysteriis in eo
                     absconditis, tum etiam quod non versus sit ea sinceritate et claritate, qua tu
                     alios codices sacros vertere feliciter es aggressus. Quare non parum amicitiae
                     nostrae nascenti tribues, si meo rogatu eum Latinitate donaris. Labor is tibi,

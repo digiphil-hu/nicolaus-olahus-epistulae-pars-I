@@ -247,7 +247,7 @@
                                         </body>
                                 </floatingText>
                                 <pb facs="15321024_1_1.jp"/>
-                                <p xml:id="p.1">[The superscription is missing.]<note type="critic"
+                                <p xml:id="p.1">[The superscription is missing.]<note
                                                 xml:id="note.1">The location in the manuscript
                                                 suggests that Oláh wrote this letter to Paulus
                                                 comes.</note></p>
@@ -257,15 +257,15 @@
                                         negligentiam, quod officium meum ad te scribendi
                                         intermiserim. Id quidem, si non cogites causam, cur tamdiu
                                         siluerim, facere potes. Tamen si vis iustus esse, rerum
-                                        mearum ὁ δικαστής<note type="critic" xml:id="note.2"
-                                                >‘arbiter’.</note> et si ita, ut res se habet, eam
-                                        perpenderis, omnesque meas rationes tam diuturni silentii
-                                        circumvolveris, desines profecto me accusare negligentiae,
-                                        et laude dignum putabis me siluisse in tanta rerum omnium
-                                        confusione. Hanc unam rationem si tibi significavero,
-                                        arbitrabor me omnes meas significavisse eam, scilicet quod
-                                        tanta est hominum nostri temporis improbitas, et tam magna
-                                        cura adhibetur ubique ad observandas litteras, ut non modo <choice>
+                                        mearum ὁ δικαστής<note xml:id="note.2">‘arbiter’.</note> et
+                                        si ita, ut res se habet, eam perpenderis, omnesque meas
+                                        rationes tam diuturni silentii circumvolveris, desines
+                                        profecto me accusare negligentiae, et laude dignum putabis
+                                        me siluisse in tanta rerum omnium confusione. Hanc unam
+                                        rationem si tibi significavero, arbitrabor me omnes meas
+                                        significavisse eam, scilicet quod tanta est hominum nostri
+                                        temporis improbitas, et tam magna cura adhibetur ubique ad
+                                        observandas litteras, ut non modo <choice>
                                                 <orig>exemplam</orig>
                                                 <supplied>exemplum</supplied>
                                         </choice> ad quemquam mittere, sed ne loqui quidem aperte

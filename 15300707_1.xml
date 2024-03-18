@@ -267,11 +267,11 @@
                 <pb facs="15300707_1_2.jpg"/>
                 <p xml:id="p.4">Priusquam obsignarem hasce litteras, a coena redditae sunt litterae
                     reginae et <persName>Henkelli</persName>, una cum ipsius poculo.<note
-                        type="critic" xml:id="note.1">Henckel’s letter was delivered along with the
-                        Queen’s letter on 7 July, although it had been written on 13 April. On the
-                        letter and the cup see <hi rend="smallcap">Allen</hi> 1934, 419–420,
-                        especially 28n: “exiguum ex cornu unicornis, cum laminis inauratis. Donum
-                        Ioannis Henkelli”.</note></p>
+                        xml:id="note.1">Henckel’s letter was delivered along with the Queen’s letter
+                        on 7 July, although it had been written on 13 April. On the letter and the
+                        cup see <hi rend="smallcap">Allen</hi> 1934, 419–420, especially 28n:
+                        “exiguum ex cornu unicornis, cum laminis inauratis. Donum Ioannis
+                        Henkelli”.</note></p>
             </div>
         </body>
     </text>

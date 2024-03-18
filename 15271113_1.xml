@@ -234,74 +234,71 @@
                 </floatingText>
                 <pb facs="15271113_1_1.jpg"/>
                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Emericus a Calna<note
-                            type="critic" xml:id="note.1">Imre Kálnai (ca. 1490–1544) humanist,
-                            member of Jacob Piso’s humanist circle. Kálnai studied together with
-                            Oláh between 1505–1510 in Oradea, then he earned a Magister’s degree in
-                            Bologna. He was Royal Secretary between 1525–1526, and after Mohács
-                            remained loyal to King John I. See <hi rend="smallcap">Lakatos</hi>
-                            2009, <hi rend="smallcap">Lakatos</hi> 2010 and <hi rend="smallcap">V.
+                            xml:id="note.1">Imre Kálnai (ca. 1490–1544) humanist, member of Jacob
+                            Piso’s humanist circle. Kálnai studied together with Oláh between
+                            1505–1510 in Oradea, then he earned a Magister’s degree in Bologna. He
+                            was Royal Secretary between 1525–1526, and after Mohács remained loyal
+                            to King John I. See <hi rend="smallcap">Lakatos</hi> 2009, <hi
+                                rend="smallcap">Lakatos</hi> 2010 and <hi rend="smallcap">V.
                                 Kovács</hi> 1970.</note> archidiaconus Transsilvaniensis Nicolao
                         Olaho thesaurario Albensi, secretario et consiliario regio.</add> Post mei
-                    commendationem, Carissime Domine Nicolae!<note type="critic" xml:id="note.2"
-                        >About this letter see <hi rend="smallcap">V. Kovács</hi> 1970,
-                    664.</note></p>
+                    commendationem, Carissime Domine Nicolae!<note xml:id="note.2">About this letter
+                        see <hi rend="smallcap">V. Kovács</hi> 1970, 664.</note></p>
                 <p xml:id="p.2">[1.] Quoniam sic fuit fortunae visum, ut nos prosterneret, ac
                     penitus solo illideret, vos autem elevaret, et in summo collocaret, quid dicam,
                     nostrum est manus tendere, et ad alios recurrere si quid est, in quo aliorum
                     opera et auxilio indigeamus. Itaque cum his diebus
-                        <placeName>Albae</placeName><note type="critic" xml:id="note.3"
-                        >Székesfehérvár.</note> constitutum sit, ut omnes, qui partes adversas
-                    secuti fuerant, coram <persName>rege Ferdinando</persName> spatio quindecim
-                    dierum a festo Sancti Martini<note type="critic" xml:id="note.4">The Feast of
-                        St. Martin is on 11 November, so they had to take an oath until 25
-                        November.</note> sub nota perpetuae infidelitatis comparere debeant, mihi ad
-                    te hominem amicissimum est confugiendum, ut me ab hac constitutione seu edicto
-                    publico liberes, ne ego nunc ad vos ire tenear. Quod tu facile certe poteris
-                    efficere, si volueris. Cuius tanta, scio, est auctoritas apud curiae primores,
-                    dominum videlicet <persName>palatinum</persName><note type="critic"
-                        xml:id="note.5">István Báthori.</note> et dominum
-                        <persName>episcopum</persName>,<note type="critic" xml:id="note.6">Tamás
-                        Szalaházy. </note> vel etiam ipsum <persName>principem</persName>, ut nihil
-                    non sis ab eis impetraturus. Et, ut efficias, etiam summopere peto. Quod ego si
-                    vivam, et si qua in re potero, curabo profecto omni studio rependere. Est autem
-                    haec res, quam a te peto, levis et minima et impetratu facilis, modo te pro
-                    amico verbum facere non pigeat. Ego autem, si quid forte sinistri de me
-                    cogitares, quamvis nihil possum, sed si etiam aliquid possem, polliceor me
-                    adversum vos nihil moliturum. Nec puto hanc constitutionem ob alios factam esse,
-                    quam ob eos, qui adhuc quiescere non possunt, sintque in proposito aliquid
-                    moliendi. </p>
+                        <placeName>Albae</placeName><note xml:id="note.3">Székesfehérvár.</note>
+                    constitutum sit, ut omnes, qui partes adversas secuti fuerant, coram
+                        <persName>rege Ferdinando</persName> spatio quindecim dierum a festo Sancti
+                        Martini<note xml:id="note.4">The Feast of St. Martin is on 11 November, so
+                        they had to take an oath until 25 November.</note> sub nota perpetuae
+                    infidelitatis comparere debeant, mihi ad te hominem amicissimum est
+                    confugiendum, ut me ab hac constitutione seu edicto publico liberes, ne ego nunc
+                    ad vos ire tenear. Quod tu facile certe poteris efficere, si volueris. Cuius
+                    tanta, scio, est auctoritas apud curiae primores, dominum videlicet
+                        <persName>palatinum</persName><note xml:id="note.5">István Báthori.</note>
+                    et dominum <persName>episcopum</persName>,<note xml:id="note.6">Tamás Szalaházy.
+                    </note> vel etiam ipsum <persName>principem</persName>, ut nihil non sis ab eis
+                    impetraturus. Et, ut efficias, etiam summopere peto. Quod ego si vivam, et si
+                    qua in re potero, curabo profecto omni studio rependere. Est autem haec res,
+                    quam a te peto, levis et minima et impetratu facilis, modo te pro amico verbum
+                    facere non pigeat. Ego autem, si quid forte sinistri de me cogitares, quamvis
+                    nihil possum, sed si etiam aliquid possem, polliceor me adversum vos nihil
+                    moliturum. Nec puto hanc constitutionem ob alios factam esse, quam ob eos, qui
+                    adhuc quiescere non possunt, sintque in proposito aliquid moliendi. </p>
                 <p xml:id="p.3">Poteris autem hanc rem etiam cum aliis dominis et amicis nostris,
-                    domino videlicet <persName>Gerendy</persName><note type="critic" xml:id="note.7"
-                        >Miklós Gerendi (†1542) was Custos of the Cathedral Chapter of
-                        Székesfehérvár between 1525–1527 and Royal Secretary under King Louis II.
-                        After Mohács, he remained loyal to the Habsburgs. King Ferdinand I appointed
-                        him to Bishop of Transylvania in 1527. Although the Pope never confirmed it,
-                        he used this title until his death and became a key figure in the Habsburg
-                        party in Transylvania. Between 1527 and 1529, he was also Royal Treasurer.
-                    </note> et domino <persName>Nadasdy</persName><note type="critic"
-                        xml:id="note.8">Tamás Nádasdy (1498–1562), Hungarian statesman. At the time
-                        of the battle of Mohács, he was away on a mission, although in the beginning
-                        he had remained loyal to the Habsburgs. Between 1530–1533 we find him in the
-                        Szapolyai party, but after his return he remained in the Habsburg party till
-                        the end. From 1537 he became King Ferdinand I's secret but most influential
-                        counsellor. In 1540 he was appointed Chief Justice of Hungary <hi
-                            rend="italic">(iudex curiae regiae),</hi> and in 1554 he was elected
-                        Palatine. For more see <hi rend="smallcap">Söptei</hi> 1999. </note>
-                    communicare, et eos meo nomine rogare, velint veteris amicitiae nostrae memores
-                    esse, et tibi in hoc negotio levi certe, ut dixi et minimo adiumento esse, qua
-                    de re scripsi et ad dominum <persName>Maczedoniay</persName>,<note type="critic"
-                        xml:id="note.9">László Macedóniai (ca. 1479–1536). From the 1510s he was at
-                        the court of György Szatmári, Bishop of Pécs. In 1520 he was appointed
-                        Bishop of Szerém, but in 1526 he resigned and became Provost of Pécs. He
-                        participated in important legations and held successful orations. For more
-                        on his life, see <hi rend="smallcap">K. Obermayer–Horváth</hi> 1959. </note>
-                    qui et ipse credo pro sua humanitate mutuoque amore, quo invicem coniuncti
-                    fuimus, non gravabitur id facere, quod ego fecissem pro eo proque omnibus vobis
-                    facturus, si forte ita fortuna tulisset, ut mea opera indiguissetis. </p>
+                    domino videlicet <persName>Gerendy</persName><note xml:id="note.7">Miklós
+                        Gerendi (†1542) was Custos of the Cathedral Chapter of Székesfehérvár
+                        between 1525–1527 and Royal Secretary under King Louis II. After Mohács, he
+                        remained loyal to the Habsburgs. King Ferdinand I appointed him to Bishop of
+                        Transylvania in 1527. Although the Pope never confirmed it, he used this
+                        title until his death and became a key figure in the Habsburg party in
+                        Transylvania. Between 1527 and 1529, he was also Royal Treasurer. </note> et
+                    domino <persName>Nadasdy</persName><note xml:id="note.8">Tamás Nádasdy
+                        (1498–1562), Hungarian statesman. At the time of the battle of Mohács, he
+                        was away on a mission, although in the beginning he had remained loyal to
+                        the Habsburgs. Between 1530–1533 we find him in the Szapolyai party, but
+                        after his return he remained in the Habsburg party till the end. From 1537
+                        he became King Ferdinand I's secret but most influential counsellor. In 1540
+                        he was appointed Chief Justice of Hungary <hi rend="italic">(iudex curiae
+                            regiae),</hi> and in 1554 he was elected Palatine. For more see <hi
+                            rend="smallcap">Söptei</hi> 1999. </note> communicare, et eos meo nomine
+                    rogare, velint veteris amicitiae nostrae memores esse, et tibi in hoc negotio
+                    levi certe, ut dixi et minimo adiumento esse, qua de re scripsi et ad dominum
+                        <persName>Maczedoniay</persName>,<note xml:id="note.9">László Macedóniai
+                        (ca. 1479–1536). From the 1510s he was at the court of György Szatmári,
+                        Bishop of Pécs. In 1520 he was appointed Bishop of Szerém, but in 1526 he
+                        resigned and became Provost of Pécs. He participated in important legations
+                        and held successful orations. For more on his life, see <hi rend="smallcap"
+                            >K. Obermayer–Horváth</hi> 1959. </note> qui et ipse credo pro sua
+                    humanitate mutuoque amore, quo invicem coniuncti fuimus, non gravabitur id
+                    facere, quod ego fecissem pro eo proque omnibus vobis facturus, si forte ita
+                    fortuna tulisset, ut mea opera indiguissetis. </p>
                 <p xml:id="p.4">[2.] De beneficio Strigoniensi, de quo <persName>frater
-                        meus</persName><note type="critic" xml:id="note.10">Probably Ferenc Kálnai
-                        because his brothers, István Kálnai and János Kálnai, died at the battle of
-                        Mohács, see <hi rend="smallcap">V. Kovács 1970, </hi>661.</note> tibi
+                        meus</persName><note xml:id="note.10">Probably Ferenc Kálnai because his
+                        brothers, István Kálnai and János Kálnai, died at the battle of Mohács, see
+                            <hi rend="smallcap">V. Kovács 1970, </hi>661.</note> tibi
                         <placeName>Albae</placeName> locutus fuerat, habeo tibi summas gratias, quod
                     te obtulisti, nihil te facturum de eo sine scitu meo. Nec ego credidi, te pro
                     amicitia nostra secus facturum. Equum tuum, quem mihi alendum commiseras,
@@ -309,26 +306,26 @@
                     Est autem talis, qualem nunquam sperassem fore, ut talis fieret. Estque pro tali
                     homine militari, qualis iam es ipse factus in Germanos belli studiosos. Alia
                     dicet is servitor meus <persName>Michael litteratus</persName>,<note
-                        type="critic" xml:id="note.11">We do not know him more closely.</note> cui
-                    in his, quae nomine meo retulerit, velis fidem praestare. </p>
+                        xml:id="note.11">We do not know him more closely.</note> cui in his, quae
+                    nomine meo retulerit, velis fidem praestare. </p>
                 <p xml:id="p.5">[3.] Et vale ac me per amicitiam nostram ab onere eundi
                         <placeName>Budam</placeName>, vel ubi futuri estis, liberes, hoc te iterum
                     atque iterum peto, habeo autem ex voto, quod paene praetermiseram, et ad
-                        <placeName>Chezthako</placeName><note type="critic" xml:id="note.12"
-                        >Częstochowa, known for the famous Pauline monastery of Jasna Góra, which is
-                        the home of the Black Madonna painting. Since the 14<hi rend="super">th</hi>
-                        century, thousands of pilgrims have visited this shrine because healing
-                        power has been attributed to it.</note> proficisci, ut certe sive damnetis,
-                    sive non, ego </p>
+                        <placeName>Chezthako</placeName><note xml:id="note.12">Częstochowa, known
+                        for the famous Pauline monastery of Jasna Góra, which is the home of the
+                        Black Madonna painting. Since the 14<hi rend="super">th</hi> century,
+                        thousands of pilgrims have visited this shrine because healing power has
+                        been attributed to it.</note> proficisci, ut certe sive damnetis, sive non,
+                    ego </p>
                 <pb facs="15271113_1_2.jpg"/>
                 <p xml:id="p.6">nunc istuc ire non possum. Et promisi me non ante alio iturum, quam
                     hoc, quod feci, votum exsolvero, quod <del corresp="Olahus">vos</del> Lutheriani
                     quamvis <del corresp="Olahus">irrideatis</del><add corresp="Olahus" type="corr"
                         >irrideant</add>, ego tamen talia pro vera duco pietate et religione, brevi
                     etiam in Terram Sanctam iturus, ut totus bonus Christianus evadam.<note
-                        type="critic" xml:id="note.13">About these pilgrimages, see <hi
-                            rend="smallcap">Petneki</hi> 1998, II, 551.</note> Iterum vale et peto
-                    rursum, sis meae petitionis memor. </p>
+                        xml:id="note.13">About these pilgrimages, see <hi rend="smallcap"
+                            >Petneki</hi> 1998, II, 551.</note> Iterum vale et peto rursum, sis meae
+                    petitionis memor. </p>
                 <p xml:id="p.7"> Ex possessione nostra <placeName>Rendwe</placeName> XIII. Novembris
                     1527. </p>
                 <p xml:id="p.8">

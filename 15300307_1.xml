@@ -238,15 +238,15 @@
                     Hungariae.</p>
                 <p xml:id="p.2">[1.] Maximo affectus sum, Reverendissime Pater, maerore, cum tuas
                     hodie accepi litteras, ex quibus ea certo intellexi, quae iam antea rumor ad nos
-                    detulerat arcem tuam Agriensem<note type="critic" xml:id="note.1">Eger.</note> a
-                    turba infidelium cum magna nostrorum clade raptam, nostros qui in illis fuerunt
+                    detulerat arcem tuam Agriensem<note xml:id="note.1">Eger.</note> a turba
+                    infidelium cum magna nostrorum clade raptam, nostros qui in illis fuerunt
                     regionibus, ab hostibus <choice>
                         <orig>miserime</orig>
                         <supplied>miserrime</supplied>
                     </choice> et pulsos et <choice>
                         <orig>praesecutos</orig>
                         <supplied>persecutos</supplied>
-                    </choice>, <placeName>Strigonium</placeName><note type="critic" xml:id="note.2"
+                    </choice>, <placeName>Strigonium</placeName><note xml:id="note.2"
                         >Esztergom.</note> direptum, colonos civitatis et incolas captivos per
                     Turcas crudeliter abductos. Haec et alia multa <del corresp="Olahus">meam
                         quam</del><add corresp="Olahus" type="corr">meum quem</add> antea <del
@@ -266,12 +266,12 @@
                     satis possum cogitare.</p>
                 <p xml:id="p.3">[2.] Illud, <add corresp="Olahus" type="insert">quod</add> cum magna
                     hostium clade Wesprimium arx tua, virtute et fortitudine castellanorum<note
-                        type="critic" xml:id="note.3">András Choron of Devecser (before 1500–1552),
-                        landlord and one of the most important captains of the Habsburgs in Hungary.
-                        He played an important part of the supression of the Dózsa Revolt in 1514.
-                        He became <hi rend="italic">viceispán</hi> of Veszprém county in 1523,
-                        Captain of castle Sümeg in 1524, and he remained loyal to King Ferdinand I,
-                        see <hi rend="smallcap">Varga</hi> 2001a, and <hi rend="smallcap">Varga</hi>
+                        xml:id="note.3">András Choron of Devecser (before 1500–1552), landlord and
+                        one of the most important captains of the Habsburgs in Hungary. He played an
+                        important part of the supression of the Dózsa Revolt in 1514. He became <hi
+                            rend="italic">viceispán</hi> of Veszprém county in 1523, Captain of
+                        castle Sümeg in 1524, and he remained loyal to King Ferdinand I, see <hi
+                            rend="smallcap">Varga</hi> 2001a, and <hi rend="smallcap">Varga</hi>
                         2001b.</note> tuorum, optimorum et fidelium virorum conservata sit, gaudeo;
                     utinam ex locis etiam aliis tam iucunda et laeta nobis <del corresp="Olahus"
                         >nuntiaretur</del><add corresp="Olahus" type="corr">nuntiarentur</add>.

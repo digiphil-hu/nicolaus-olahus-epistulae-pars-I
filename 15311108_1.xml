@@ -272,8 +272,8 @@
                     quod amicitia sic arctissime amplexaris, quod haud scio si ex gente nostra <del
                         corresp="Olahus">denuo</del><add corresp="Olahus" type="corr">de uno</add>
                     vel altero, te excepto, vere mihi liceat praedicare.</p>
-                <p xml:id="p.3">Calamitates provinciae nostrae<note type="critic" xml:id="note.1"
-                        >Hungary, although he was not Hungarian. Brodarics mentioned that Burgio was
+                <p xml:id="p.3">Calamitates provinciae nostrae<note xml:id="note.1">Hungary,
+                        although he was not Hungarian. Brodarics mentioned that Burgio was
                         considered to be Siculian (Székelys) not Sicilian, see <hi rend="smallcap"
                             >Kasza</hi> 2012, 100: “Dominus baro ita a nostris omnibus amatur, ut
                         eum non in illa Sicilia, quae pars Italiae esse censetur, sed in hac, quae
@@ -305,18 +305,18 @@
                     admonitiones pontificis ita obsurduere, ut callum induxerint. Quapropter solum
                     id nobis restat, quod in extremis miseriis evenire solet, ut lugentes divinum
                     auxilium imploremus.</p>
-                <p xml:id="p.5">[2.] De <persName>Broderico</persName><note type="critic"
-                        xml:id="note.2">István Brodarics.</note> nostro hoc possum dicere me
-                    audivisse ipsum oratorem egisse apud Christianissimum regem anno superiori,
-                    mihique contigit, cum essem <placeName>Parisiis</placeName>, ut pridie ipse
-                    appelleret Parisios, quam et ego <placeName>Parisiis</placeName> recederem.
-                    Fateor me intellexisse adventum suum ante meum discessum, sed ut est civitas
-                    magna, mihique meisque incognita non potui hominem invenire, cupiebam maximopere
-                    hominem convenire et colloqui. Idque contigit, quod ipse ex hospitio, in quod
-                    primum diverterat, migraverat, eratque hospiti incognitum, quonam secundo loco
-                    divertisset, sed cum mihi hospes suus affirmasset, eum parare reditum in
-                        <placeName>Hungariam</placeName> per <placeName>Angliam</placeName>, mihi
-                    facile persuasit, quod cernebam nullam aliam viam sibi tutiorem fore, quam </p>
+                <p xml:id="p.5">[2.] De <persName>Broderico</persName><note xml:id="note.2">István
+                        Brodarics.</note> nostro hoc possum dicere me audivisse ipsum oratorem
+                    egisse apud Christianissimum regem anno superiori, mihique contigit, cum essem
+                        <placeName>Parisiis</placeName>, ut pridie ipse appelleret Parisios, quam et
+                    ego <placeName>Parisiis</placeName> recederem. Fateor me intellexisse adventum
+                    suum ante meum discessum, sed ut est civitas magna, mihique meisque incognita
+                    non potui hominem invenire, cupiebam maximopere hominem convenire et colloqui.
+                    Idque contigit, quod ipse ex hospitio, in quod primum diverterat, migraverat,
+                    eratque hospiti incognitum, quonam secundo loco divertisset, sed cum mihi hospes
+                    suus affirmasset, eum parare reditum in <placeName>Hungariam</placeName> per
+                        <placeName>Angliam</placeName>, mihi facile persuasit, quod cernebam nullam
+                    aliam viam sibi tutiorem fore, quam </p>
                 <pb facs="15311108_1_3.jpg"/>
                 <p xml:id="p.6">si in <placeName>Angliam</placeName> transmearet, hinc postea in
                         <placeName>Prussiam</placeName> se transmitteret et inde per
@@ -325,10 +325,10 @@
                     dies litterae suae sunt allatae, <placeName>Parisiis</placeName> datae, per quas
                     mecum conquerebatur, quasi congressum suum vitare voluissem, ad quas litteras
                     rescripsi, purgans me amice, ut soleo. Audivi postea ipsum
-                        <placeName>Venetias</placeName><note type="critic" xml:id="note.3">According
-                        to his letters, Brodarics was in Venice on 31 January 1530, see <hi
-                            rend="smallcap">Kasza</hi> 2012, 258–260.</note> pervenisse, nec, quid
-                    inde postea egerit, mihi cognitum est.</p>
+                        <placeName>Venetias</placeName><note xml:id="note.3">According to his
+                        letters, Brodarics was in Venice on 31 January 1530, see <hi rend="smallcap"
+                            >Kasza</hi> 2012, 258–260.</note> pervenisse, nec, quid inde postea
+                    egerit, mihi cognitum est.</p>
                 <p xml:id="p.7">Ceterum, mi Nicolae, est, quod me, ut soles, ames, et saepissime ad
                     me scribas, non patiar a te neque amore neque diligentia in scribendo superari,
                     etsi soleas esse et benevolentissimus et diligentissimus, vide, quid me cogit
@@ -340,15 +340,14 @@
                     obsequium meum cupio per te commendari, ut intelligat nullam rem mihi esse ita
                     maximam, quam ego libenti animo non effundam, modo cognoscam in rem maiestatis
                     suae ac familiarium suorum fore. Dominae <persName>Lucretiae</persName><note
-                        type="critic" xml:id="note.4">Lucretia Caballis (vom Ross).</note>
-                    commendari cupio. Dominum <persName>Balium</persName><note type="critic"
-                        xml:id="note.5">Lord Bailleul. His wife, Lady Bailleul or Lady Perseresserin
-                        was Queen Mary’s lady-in-waiting while she was living in Innsbruck. The
-                        Bailleul family came with Queen Mary to Hungary, and after Mohács, the
-                        family accompanied her back to the Netherlands, see <hi rend="smallcap"
-                            >Réthelyi</hi> 2007, 1200–1201, and <hi rend="smallcap">Heiss</hi> 1971,
-                        423–424.</note> ceterosque conservos nostros meo nomine salutato. Tuque
-                    saluberrime valeto in plures annos.</p>
+                        xml:id="note.4">Lucretia Caballis (vom Ross).</note> commendari cupio.
+                    Dominum <persName>Balium</persName><note xml:id="note.5">Lord Bailleul. His
+                        wife, Lady Bailleul or Lady Perseresserin was Queen Mary’s lady-in-waiting
+                        while she was living in Innsbruck. The Bailleul family came with Queen Mary
+                        to Hungary, and after Mohács, the family accompanied her back to the
+                        Netherlands, see <hi rend="smallcap">Réthelyi</hi> 2007, 1200–1201, and <hi
+                            rend="smallcap">Heiss</hi> 1971, 423–424.</note> ceterosque conservos
+                    nostros meo nomine salutato. Tuque saluberrime valeto in plures annos.</p>
                 <p xml:id="p.8"><placeName>Londonii</placeName> VIII. Novembris anno a Christo nato
                     1531.</p>
             </div>

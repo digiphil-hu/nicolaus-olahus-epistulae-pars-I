@@ -232,8 +232,8 @@
                 <pb facs="15310801_1_1.jpg"/>
                 <p xml:id="p.1">Ad eundem.</p>
                 <p xml:id="p.2">Non est simile veri, quod ad me nuper <persName>Ioannes noster
-                        Trifernus</persName><note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note> constanter pertulit. Nam nisi hominis illius, de quo
+                        Trifernus</persName><note xml:id="note.1">We do not know him more
+                        closely.</note> constanter pertulit. Nam nisi hominis illius, de quo
                     dicebat, omnis virtus, prudentia et constantia, quibus, ut scis, ab ineunte sua
                     aetate maxime praestitit, penitus sit immutata, nisi maiorum suorum oblitus sit,
                     et te hostis loco ducat, id certe contra te nunquam facere esset ausus. Quare

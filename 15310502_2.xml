@@ -238,52 +238,51 @@
                 </floatingText>
                 <pb facs="15310502_2_1.jpg"/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem</p>
-                <p xml:id="p.2">[1.] Scripseramus nuper<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">[1.] Scripseramus nuper<note xml:id="note.1">Ep.
                             146.<ref>olahus.tei.15310502_1</ref></note> ex
                         <placeName>Vesprimio</placeName> ad Dominationem Vestram et ad serenissimam
-                    reginam de negotio arcis <placeName>Mwnkach</placeName>.<note type="critic"
-                        xml:id="note.2">Mukachevo.</note> Miramur, quod nihil rescripserit, nam res
-                    festinatione indiget. Quamvis enim illi ipsi castellani adhuc eam habeant, qui
-                    antea, tamen per varios mire sollicitantur, non solum minis, sed et
-                    pollicitationibus largitionibusque. Qui cum sint pauperes et conditionis
-                    infimae, verendum est, ne tandem expugnentur. Nos quidem continue eos hortamur
-                    ac admonemus, ut memores fidelitatis et constantiae arcem illam serenissimae
-                    dominae reginae servent. Nescimus tamen, quantum nostra opera sive litteris
-                    reginalis maiestatis prodesse posset. Quare Dominatio Vestra efficiat, ut eius
-                    maiestas litteras scribat ad ipsos castellanos eo exemplo, quod nuper misimus ad
-                    Dominationem Vestram. Nos nec laboris nec sollicitudinis quicquam omittemus, quo
-                    commodis eius maiestatis inservire possimus, sed festinatione opus est, ne illi
-                    interim artibus adversariorum seducantur. Induciae annuae confectae sunt, sed
-                    parum bene observantur. Nescimus, qui motus in dies audiuntur.</p>
-                <p xml:id="p.3">[2.] Monachus etiam ille Thikoniensis<note type="critic"
-                        xml:id="note.3">Tihany.</note> post nostrum a Vesprimio discessum capellanum
-                    Dominationis Vestrae cepit ac mulctavit, <choice>
+                    reginam de negotio arcis <placeName>Mwnkach</placeName>.<note xml:id="note.2"
+                        >Mukachevo.</note> Miramur, quod nihil rescripserit, nam res festinatione
+                    indiget. Quamvis enim illi ipsi castellani adhuc eam habeant, qui antea, tamen
+                    per varios mire sollicitantur, non solum minis, sed et pollicitationibus
+                    largitionibusque. Qui cum sint pauperes et conditionis infimae, verendum est, ne
+                    tandem expugnentur. Nos quidem continue eos hortamur ac admonemus, ut memores
+                    fidelitatis et constantiae arcem illam serenissimae dominae reginae servent.
+                    Nescimus tamen, quantum nostra opera sive litteris reginalis maiestatis prodesse
+                    posset. Quare Dominatio Vestra efficiat, ut eius maiestas litteras scribat ad
+                    ipsos castellanos eo exemplo, quod nuper misimus ad Dominationem Vestram. Nos
+                    nec laboris nec sollicitudinis quicquam omittemus, quo commodis eius maiestatis
+                    inservire possimus, sed festinatione opus est, ne illi interim artibus
+                    adversariorum seducantur. Induciae annuae confectae sunt, sed parum bene
+                    observantur. Nescimus, qui motus in dies audiuntur.</p>
+                <p xml:id="p.3">[2.] Monachus etiam ille Thikoniensis<note xml:id="note.3"
+                        >Tihany.</note> post nostrum a Vesprimio discessum capellanum Dominationis
+                    Vestrae cepit ac mulctavit, <choice>
                         <orig>bonasque</orig>
                         <supplied>bonaque</supplied>
                     </choice> Dominationis Vestrae occupavit. Arbitramur ea rursus per
-                        <persName>Choron</persName><note type="critic" xml:id="note.4">András Choron
-                        or János Choron. To András see Ep. 37. Note
-                            1.<ref>olahus.tei.15300213_1</ref></note> nostrum recuperata esse. Nam
-                    ut id faceret, ei commiseramus. Abbatiam de
-                        <placeName>Thapolcza</placeName><note type="critic" xml:id="note.5"
-                        >Tapolca.</note> nunc unus nunc alter possidet, tenetur </p>
+                        <persName>Choron</persName><note xml:id="note.4">András Choron or János
+                        Choron. To András see Ep. 37. Note 1.<ref>olahus.tei.15300213_1</ref></note>
+                    nostrum recuperata esse. Nam ut id faceret, ei commiseramus. Abbatiam de
+                        <placeName>Thapolcza</placeName><note xml:id="note.5">Tapolca.</note> nunc
+                    unus nunc alter possidet, tenetur </p>
                 <pb facs="15310502_2_2.jpg"/>
-                <p xml:id="p.4">nunc ab illis de <placeName>Dyosghyer</placeName><note type="critic"
+                <p xml:id="p.4">nunc ab illis de <placeName>Dyosghyer</placeName><note
                         xml:id="note.6">Diósgyőr, fortress next to Tapolca.</note>, sed parum
                     defenditur, bona eius dicuntur plurimum esse desolata. Si
-                        <placeName>Cassoviam</placeName><note type="critic" xml:id="note.7"
-                        >Košice.</note> quemadmodum constituimus proficisci poterimus, providebimus
-                    abbatiae illi, prout melius fieri poterit, defensionem nos suscipiemus, ceterum
-                    proventus eius Vestrae Dominationis esse patiemur. De futura concordia nihil
-                    adhuc affirmari potest, si quid intellexerimus, faciemus Dominationem Vestram
-                    certiorem. Quae et bene valeat, et subinde nos servitiaque nostra serenissimae
-                    dominae reginae humillime commendet. Litteras, quas Dominatio Vestra missura
-                    est, mittat in curiam regiae maiestatis ad manus domini <persName>Francisci
-                        Wilaky</persName><note type="critic" xml:id="note.8">Ferenc Újlaki.</note>
-                    praepositi Posoniensis, secretarii regiae maiestatis, qui eas ad nos perferendas
-                        curabit.<note type="critic" xml:id="note.9">We only suppose that Szalaházy
-                        wrote this letter after the previous one (Ep. 146.) in Bratislava where he
-                        spent almost the whole year.<ref>olahus.tei.15310502_1</ref></note></p>
+                        <placeName>Cassoviam</placeName><note xml:id="note.7">Košice.</note>
+                    quemadmodum constituimus proficisci poterimus, providebimus abbatiae illi, prout
+                    melius fieri poterit, defensionem nos suscipiemus, ceterum proventus eius
+                    Vestrae Dominationis esse patiemur. De futura concordia nihil adhuc affirmari
+                    potest, si quid intellexerimus, faciemus Dominationem Vestram certiorem. Quae et
+                    bene valeat, et subinde nos servitiaque nostra serenissimae dominae reginae
+                    humillime commendet. Litteras, quas Dominatio Vestra missura est, mittat in
+                    curiam regiae maiestatis ad manus domini <persName>Francisci
+                        Wilaky</persName><note xml:id="note.8">Ferenc Újlaki.</note> praepositi
+                    Posoniensis, secretarii regiae maiestatis, qui eas ad nos perferendas
+                        curabit.<note xml:id="note.9">We only suppose that Szalaházy wrote this
+                        letter after the previous one (Ep. 146.) in Bratislava where he spent almost
+                        the whole year.<ref>olahus.tei.15310502_1</ref></note></p>
             </div>
         </body>
     </text>

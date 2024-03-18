@@ -244,8 +244,8 @@
                 <pb facs="15301119_1_1.jpg"/>
                 <p xml:id="p.1">Ad Erasmum.</p>
                 <p xml:id="p.2">Tredecimus agitur iam dies, mi Erasme, quod nullum e
-                        <placeName>Buda</placeName> habuerimus nuntium.<note type="critic"
-                        xml:id="note.1">The messenger arrived on 5 November, see Ep.
+                        <placeName>Buda</placeName> habuerimus nuntium.<note xml:id="note.1">The
+                        messenger arrived on 5 November, see Ep.
                             111.<ref>olahus.tei.15301105_1</ref></note> Mira sane res tamdiu nos
                     nihil certi istinc, unde omnis nostra pendet salus, accipere potuisse. Audita
                     nuper obsidione Budensi ex prima oppugnatione certissimam conceperamus spem nos

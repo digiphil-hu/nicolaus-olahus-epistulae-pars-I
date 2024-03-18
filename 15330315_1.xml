@@ -240,7 +240,7 @@
                 <pb facs="15330315_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus Cornelio Sceppero suo salutem.</p>
                 <p xml:id="p.2">Non est opus me multis in meis ad te scribere. Scripsi enim
-                        binis<note type="critic" xml:id="note.1">See Ep. 333, and Ep.
+                        binis<note xml:id="note.1">See Ep. 333, and Ep.
                             337.<ref>olahus.tei.15330307_1</ref></note><ref>/o:olahus.tei.15330309_1</ref>
                     copiose et compertum habeo te facturum omnia, quae faceres in tuis.
                         <persName>Reginae</persName> responsum ad te cum praesentibus mitto. Antea
@@ -249,25 +249,25 @@
                     agere in rebus meis cum <persName>Broderico</persName> salva tua et mea in
                     principes nostra fide. Is enim fuerat mihi olim longe </p>
                 <pb facs="15330315_1_2.jpg"/>
-                <p xml:id="p.3">familiarissimus. <persName>Sacellanum</persName>,<note type="critic"
+                <p xml:id="p.3">familiarissimus. <persName>Sacellanum</persName>,<note
                         xml:id="note.2">János Czeglédi.</note> quid agendum sit, informabis.
                     Quicquid erit in rebus Hungaricis statutum, fac me certiorem. Si ad
                         <persName>reginam</persName> scripseris, contigit saepe, ut <add
                         corresp="Olahus" type="insert">litteras</add> ne <del corresp="Olahus"
                         >leget</del><add corresp="Olahus" type="corr">legat</add>, quidem ad multos
                     dies, dedita aliis rebus; melius est et citius, ut ego verbis tua singula ei
-                    referam. <persName>Decanus</persName><note type="critic" xml:id="note.3">Mark
-                        Lauwerijns.</note> et <persName>coniunx</persName> tua<note type="critic"
-                        xml:id="note.4">Anna Isabella (Elizabeth) Donche.</note> miserunt ad me hoc
-                    die litteras ad te datas, conqueruntur de perfidia tabellionum; has
-                        <persName>decani</persName> ad me datas misi ad te, ut scias, quid scribat.
-                    Si qua in re eis in tui absentia gratificari potero, tam faciam libenter, quam
-                    quod libentissime. Cura, mi Sceppere, rogo, ut meum negotium in portum deducas,
-                    quo in utramque aurem securus dormire possim. <persName>Regina</persName> non
-                    commendavit tibi nunc illud multis. Nam nolui, ut id faceret, ne diffidere
-                    viderer tuae operae. Ita commendasset multis, ut nunc paucis, si voluissem.
-                    Scribe frequenter et ad me et ad <del corresp="Olahus">tuam</del><add
-                        corresp="Olahus" type="corr">tuos</add>. Vale.</p>
+                    referam. <persName>Decanus</persName><note xml:id="note.3">Mark
+                        Lauwerijns.</note> et <persName>coniunx</persName> tua<note xml:id="note.4"
+                        >Anna Isabella (Elizabeth) Donche.</note> miserunt ad me hoc die litteras ad
+                    te datas, conqueruntur de perfidia tabellionum; has <persName>decani</persName>
+                    ad me datas misi ad te, ut scias, quid scribat. Si qua in re eis in tui absentia
+                    gratificari potero, tam faciam libenter, quam quod libentissime. Cura, mi
+                    Sceppere, rogo, ut meum negotium in portum deducas, quo in utramque aurem
+                    securus dormire possim. <persName>Regina</persName> non commendavit tibi nunc
+                    illud multis. Nam nolui, ut id faceret, ne diffidere viderer tuae operae. Ita
+                    commendasset multis, ut nunc paucis, si voluissem. Scribe frequenter et ad me et
+                    ad <del corresp="Olahus">tuam</del><add corresp="Olahus" type="corr">tuos</add>.
+                    Vale.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 15. Martii 1533.</p>
             </div>
         </body>

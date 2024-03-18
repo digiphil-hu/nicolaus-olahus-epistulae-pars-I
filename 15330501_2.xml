@@ -238,35 +238,35 @@
                 </floatingText>
                 <pb facs="15330501_2_1.jpg"/>
                 <p xml:id="p.1"> Nicolai Olai ad Ioannem Cegledinum provisorem.</p>
-                <p xml:id="p.2">[1.] Ternas eodem tempore tuas accepi litteras,<note type="critic"
-                        xml:id="note.1">These letters are not extant.</note> variis tamen temporibus
-                    partim <placeName>Posonii</placeName>, partim <placeName>Viennae</placeName>
-                    datas, quae me certiorem fecerunt de mearum rerum statu. Illas, in quibus
-                    scribis te responsium <persName>Broderici</persName> et domini
-                        <persName>archiepiscopi Strigoniensis</persName><note type="critic"
-                        xml:id="note.2">Pál Várday.</note> ad me misisse, non vidi. Interceptae
-                    fortasse sunt aut amissae. Litteris meis superioribus, in quamcunque partem res
-                    regis et nostra devolvatur, amplissimam tibi dederam informationem. Tuae igitur
-                    erit prudentiae in eam partem vela tendere, unde prosper adspiraverit ventus.
-                    Non credo futurum <del corresp="Olahus">esse</del> rem devolvi ad partem
+                <p xml:id="p.2">[1.] Ternas eodem tempore tuas accepi litteras,<note xml:id="note.1"
+                        >These letters are not extant.</note> variis tamen temporibus partim
+                        <placeName>Posonii</placeName>, partim <placeName>Viennae</placeName> datas,
+                    quae me certiorem fecerunt de mearum rerum statu. Illas, in quibus scribis te
+                    responsium <persName>Broderici</persName> et domini <persName>archiepiscopi
+                        Strigoniensis</persName><note xml:id="note.2">Pál Várday.</note> ad me
+                    misisse, non vidi. Interceptae fortasse sunt aut amissae. Litteris meis
+                    superioribus, in quamcunque partem res regis et nostra devolvatur, amplissimam
+                    tibi dederam informationem. Tuae igitur erit prudentiae in eam partem vela
+                    tendere, unde prosper adspiraverit ventus. Non credo futurum <del
+                        corresp="Olahus">esse</del> rem devolvi ad partem
                         <persName>Ioannis</persName>. Nam quid Turca cum rege agat, intelligo;
                     attamen, ut res se obtulerit et occasio, ex consilio
-                        <persName>Cornelii</persName><note type="critic" xml:id="note.3">Cornelis de
+                        <persName>Cornelii</persName><note xml:id="note.3">Cornelis de
                         Schepper.</note> te tempori et rebus accomoda, salva semper mea in principes
-                    meos fide. Dominus <persName>Valentinus Thewrek</persName><note type="critic"
-                        xml:id="note.4">Bálint Török.</note> nescio quare est in me difficilis, cui
-                    gratificatus sum potius semper apud principes, ut testes sunt et iidem ipsi, et
-                    illius servitores, quam<del corresp="Olahus"/><add corresp="Olahus" type="corr"
-                        >cui non</add> unquam in re aliqua obfui; credo tamen eum futurum mitiorem,
+                    meos fide. Dominus <persName>Valentinus Thewrek</persName><note xml:id="note.4"
+                        >Bálint Török.</note> nescio quare est in me difficilis, cui gratificatus
+                    sum potius semper apud principes, ut testes sunt et iidem ipsi, et illius
+                    servitores, quam<del corresp="Olahus"/><add corresp="Olahus" type="corr">cui
+                        non</add> unquam in re aliqua obfui; credo tamen eum futurum mitiorem,
                     quando cogitaverit me non iniqua petere, dum mea peto. Dicit fidelem esse
                     servitorem <persName>regis</persName><persName>Ioannem Bodo</persName>,<note
-                        type="critic" xml:id="note.5">János Bodó.</note> et propterea bona mea se
-                    non posse extrahere ab illo; ergo ego sum infidelis? Fides utriusque patet ex
-                    initio rerum et ipsarum progressu. Esto sit, ut dicit, fidelis, bonane mea ob
-                    eam rem illi dari debent? Cur aliorum non dantur? Mira res certe esset, si meis
-                    vel aliorum bonis hi, qui ex infidelibus facti sunt vel timore vel necessitate
-                    ferente fideles, Deus scit, quales munerarentur, et fidelium servitia, qui ab
-                    initio unicam non duplicem aut triplicem, ut ille, viam sunt secuti, cum talium
+                        xml:id="note.5">János Bodó.</note> et propterea bona mea se non posse
+                    extrahere ab illo; ergo ego sum infidelis? Fides utriusque patet ex initio rerum
+                    et ipsarum progressu. Esto sit, ut dicit, fidelis, bonane mea ob eam rem illi
+                    dari debent? Cur aliorum non dantur? Mira res certe esset, si meis vel aliorum
+                    bonis hi, qui ex infidelibus facti sunt vel timore vel necessitate ferente
+                    fideles, Deus scit, quales munerarentur, et fidelium servitia, qui ab initio
+                    unicam non duplicem aut triplicem, ut ille, viam sunt secuti, cum talium
                     servitiis iniqua lance conferrentur, non arbitror tamen id futurum. Si magnopere
                     delectatur meis bonis, conferat mihi rex alia aequalia meis. Non me regiis
                     commodis privatarum rerum ductus amore interponam. Si rex habebit, ut spero,
@@ -281,40 +281,38 @@
                     longas preces poteris res meas negligere, et earum exspectatione praeterire.
                     Quod quam non conveniret fidei et honori tuo, tu ipse iudica. Quare cura, ut
                     nihil a te desiderari possit.</p>
-                <p xml:id="p.3">[2.] Abbatiae de <placeName>Thapolcza</placeName><note type="critic"
+                <p xml:id="p.3">[2.] Abbatiae de <placeName>Thapolcza</placeName><note
                         xml:id="note.6">Tapolca.</note><persName>Sebastianus Pemfflinger</persName>
                     providebit, de archidiaconatu Strigoniensi, cum exiero, videbo, quid sit
                     agendum. Canonicatum Iauriensem curabo, quantum in me est, ut tu habeas<note
-                        type="critic" xml:id="note.7">About these see <hi rend="smallcap">Bedy</hi>
-                        1938, 359–360.</note>; <persName>Theophilus</persName><note type="critic"
-                        xml:id="note.8">We do not know him more closely.</note> non erat illius
-                    possessor, sed ego. Verum quidem est me beneficium hoc </p>
+                        xml:id="note.7">About these see <hi rend="smallcap">Bedy</hi> 1938,
+                        359–360.</note>; <persName>Theophilus</persName><note xml:id="note.8">We do
+                        not know him more closely.</note> non erat illius possessor, sed ego. Verum
+                    quidem est me beneficium hoc </p>
                 <pb facs="15330501_2_2.jpg"/>
                 <p xml:id="p.4">illi voluisse dare et eum etiam praesentasse capitulo. Litteras
                     ipsas canonicatus requiram et vel mittam ad te vel mecum adducam, cum Deo
                     volente exivero. Tu interea insta apud <persName>Agriensem</persName><note
-                        type="critic" xml:id="note.9">Tamás Szalaházy.,</note> ne quispiam
-                    authoritate regis manus illi praebendae iniiciat. Scribe ad me, si Turcae vel in
-                    regressu ultimo vel antea bona mea desolarunt et quae sint desolata et quae
-                    integra. Cura, ut missa <placeName>Strigonii</placeName><note type="critic"
-                        xml:id="note.10">Esztergom.</note> continuetur. Ego solvam stipendium, si tu
-                    aliunde id praestare ex meis non potes, hoc est ex archidiaconatus et
-                    canonicatus proventibus. Curabo, ut in hoc non desit defectus, modo mihi
-                    significa. Quo in me sit animo Strigoniensis, fac me certiorem, an pristino
-                    benivolo, an novo alieno. Id quamvis et tu tamen medio aliorum quoque meorum
-                    amicorum expiscari poteris, fac me hac de re et de aliis certiorem cito. Ad
-                        <persName>Franciscum Reway</persName><note type="critic" xml:id="note.11"
+                        xml:id="note.9">Tamás Szalaházy.,</note> ne quispiam authoritate regis manus
+                    illi praebendae iniiciat. Scribe ad me, si Turcae vel in regressu ultimo vel
+                    antea bona mea desolarunt et quae sint desolata et quae integra. Cura, ut missa
+                        <placeName>Strigonii</placeName><note xml:id="note.10">Esztergom.</note>
+                    continuetur. Ego solvam stipendium, si tu aliunde id praestare ex meis non
+                    potes, hoc est ex archidiaconatus et canonicatus proventibus. Curabo, ut in hoc
+                    non desit defectus, modo mihi significa. Quo in me sit animo Strigoniensis, fac
+                    me certiorem, an pristino benivolo, an novo alieno. Id quamvis et tu tamen medio
+                    aliorum quoque meorum amicorum expiscari poteris, fac me hac de re et de aliis
+                    certiorem cito. Ad <persName>Franciscum Reway</persName><note xml:id="note.11"
                         >Ferenc Révay.</note> dederam litteras, nescio, an hae sint redditae, nunc
-                    mitto rursus<note type="critic" xml:id="note.12">See Ep.
-                            360.<ref>olahus.tei.15330501_3</ref></note> breviusculas propter nuntii
+                    mitto rursus<note xml:id="note.12">See Ep.
+                        360.<ref>olahus.tei.15330501_3</ref></note> breviusculas propter nuntii
                     celerem abitionem. Domino <persName>praeposito Albensi</persName><note
-                        type="critic" xml:id="note.13">Lőrinc Kretschmer.</note> commenda me et dic,
-                    si qua in re ei obsequi possem, nihil facerem <del corresp="Olahus">me</del>
-                    libentius, maxime in hac sua necessitate. Compatior enim illius penuriae,
-                    paratus essem, si adessem mea omnia illi communicare. Saluta et
-                        <persName>Albertum praepositum</persName><note type="critic"
-                        xml:id="note.14">Albert Peregi.</note> ac alios amicos meos. Vale et scribe
-                    de rebus omnibus.</p>
+                        xml:id="note.13">Lőrinc Kretschmer.</note> commenda me et dic, si qua in re
+                    ei obsequi possem, nihil facerem <del corresp="Olahus">me</del> libentius,
+                    maxime in hac sua necessitate. Compatior enim illius penuriae, paratus essem, si
+                    adessem mea omnia illi communicare. Saluta et <persName>Albertum
+                        praepositum</persName><note xml:id="note.14">Albert Peregi.</note> ac alios
+                    amicos meos. Vale et scribe de rebus omnibus.</p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> prima Maii 1533.</p>
             </div>
         </body>

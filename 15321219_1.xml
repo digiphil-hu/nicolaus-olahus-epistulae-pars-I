@@ -231,8 +231,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15321219_1_1.jpg"/>
-                <p xml:id="p.1">Ad Paulum comitem.<note type="critic" xml:id="note.1">We do not know
-                        him more closely.</note></p>
+                <p xml:id="p.1">Ad Paulum comitem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Noli mirari, quid a tanto tempore fecerim, quod ad te nihil
                     litterarum dederim, </p>
                 <pb facs="15321219_1_2.jpg"/>
@@ -247,10 +247,10 @@
                         <orig>laete</orig>
                         <supplied>laeto</supplied>
                     </choice> et fac me mearumque veterum amicitiarum memineris. <persName>Ioannem
-                        Roscium</persName><note type="critic" xml:id="note.2">He might be the same
-                        person, as the addressee of Ep. 254: Joannes
-                            Rosconius.<ref>olahus.tei.15320830_1</ref></note> mihi amicissimum
-                    salvere iubeto. Vale.</p>
+                        Roscium</persName><note xml:id="note.2">He might be the same person, as the
+                        addressee of Ep. 254: Joannes
+                        Rosconius.<ref>olahus.tei.15320830_1</ref></note> mihi amicissimum salvere
+                    iubeto. Vale.</p>
                 <p xml:id="p.4"><placeName>Bergis</placeName> 19. Decembris 1532.</p>
             </div>
         </body>

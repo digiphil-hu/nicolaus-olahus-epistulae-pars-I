@@ -230,9 +230,9 @@
                 </floatingText>
                 <pb facs="15300127_1_1.jpg"/>
                 <p xml:id="p.1">Ad episcopum <persName>Labacensem Christophorum</persName>.<note
-                        type="critic" xml:id="note.1">Christoph Rauber or Krištof Ravbar was Bishop
-                        of Ljubljana. He visited Hungary as a legate before Mohács, see <hi
-                            rend="smallcap">Kasza</hi> 2012, 137. Note 4.</note></p>
+                        xml:id="note.1">Christoph Rauber or Krištof Ravbar was Bishop of Ljubljana.
+                        He visited Hungary as a legate before Mohács, see <hi rend="smallcap"
+                            >Kasza</hi> 2012, 137. Note 4.</note></p>
                 <p xml:id="p.2">Nonne dulcissimum est <del corresp="Olahus">vincere</del><add
                         corresp="Olahus" type="corr">vivere</add> in patria, Praesul Amplissime? Id
                     ego et si iamdudum et coram et litteris meis frequentibus tibi insinuarim, tu

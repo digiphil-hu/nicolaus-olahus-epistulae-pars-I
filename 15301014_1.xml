@@ -232,43 +232,43 @@
                     </body>
                 </floatingText>
                 <pb facs="15301014_1_1.jpg"/>
-                <p xml:id="p.1">Ad Ioannem Venceslaum<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note> amicum.</p>
+                <p xml:id="p.1">Ad Ioannem Venceslaum<note xml:id="note.1">We do not know him more
+                        closely.</note> amicum.</p>
                 <p xml:id="p.2">Aliquot mensibus daturus sum operam sacris litteris et hanc ob rem
                     his temporibus hibernis concessi in villam optimi principis nostri. Utinam me id
-                    facere licuisset te comite, mi Ioannes, et duce Paulo<note type="critic"
-                        xml:id="note.2">St. Paul.</note> utemur tamen ut in aliis, ita in hac re
-                    vulgato illo proverbio: <quote xml:id="quote.1">quando non possis, quod velis,
-                        id facias, quod possis.</quote><note type="quote" xml:id="note.quote.1">Cf.
-                        Erasm. <hi rend="italic">Adag.</hi> III,VI,4: “Quando id fieri non potest”
-                        and after this sequence Erasmus cites Ter. <hi rend="italic">And.</hi>
-                        304–305: “quoniam non potest id fieri quod vis, / id velis quod possit.” and
+                    facere licuisset te comite, mi Ioannes, et duce Paulo<note xml:id="note.2">St.
+                        Paul.</note> utemur tamen ut in aliis, ita in hac re vulgato illo proverbio:
+                        <quote xml:id="quote.1">quando non possis, quod velis, id facias, quod
+                        possis.</quote><note type="quote" xml:id="note.quote.1">Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> III,VI,4: “Quando id fieri non potest” and
+                        after this sequence Erasmus cites Ter. <hi rend="italic">And.</hi> 304–305:
+                        “quoniam non potest id fieri quod vis, / id velis quod possit.” and
                         according to the editors of Erasmus’ works, he translates it into Greek, see
                             <hi rend="smallcap">Mynors</hi> 1992, 126.</note> Tui est in me amoris
-                        <persName>Petrum Iacobum</persName><note type="critic" xml:id="note.3"
-                        >Probably <hi rend="italic">De cognominibus deorum</hi> of Pietro Giacomo
-                        (Eritrei) da Montefalco, 1525.</note> urgere, ut me libris aliquot <del
-                        corresp="Olahus">illustram</del><add corresp="Olahus" type="corr"
-                        >illustret</add>. Ambrosium<note type="critic" xml:id="note.4">Aurelius
-                        Ambrosius, better known as St. Ambrose (ca. 340–397), was one of the most
-                        influential ecclesiastical persons of the late antiquity. We do not know
-                        which of his works Oláh needed, but it could have been the so-called <hi
-                            rend="italic">Ambrosiaster</hi>, a brief commentary on Paul's Epistles,
-                        which had long been attributed to Ambrose.</note>, Augustinum<note
-                        type="critic" xml:id="note.5">Augustinus, St. Augustine of Hippo (354–430)
-                        was an early Christian theologian and philosopher. Oláh needed his works <hi
-                            rend="italic">Commentarius in epistulam Pauli ad Romanos</hi> and <hi
-                            rend="italic">Commentarius in epistulam Pauli ad Galatos.</hi></note>
-                    mittat rogo in Paulum, petat a Paulo Originem<note type="critic" xml:id="note.6"
-                        >Origenes, or Origen Adamantius (184/185–253/254) was a Greek scholar and
-                        early Christian theologian. Olahus needed his <hi rend="italic">Commentarius
-                            in Epistolam Pauli ad Romanos,</hi> probably in the translation of
-                        Rufinus.</note> in Paulum, et pro me fide iubeat, non decipietur. Si fieri
-                    poterit, mittantur Origenis <hi rend="italic">Homiliae</hi>, una quas habet
-                        <persName>Andreas Faber</persName>.<note type="critic" xml:id="note.7">We do
-                        not know him more closely.</note> Chrisostomum<note type="critic"
-                        xml:id="note.8">Chrysostomus, St. John Chrysostom (c. 349–407) was an early
-                        Church Father.</note> vel alium, qui in Paulum scripsit, mittite </p>
+                        <persName>Petrum Iacobum</persName><note xml:id="note.3">Probably <hi
+                            rend="italic">De cognominibus deorum</hi> of Pietro Giacomo (Eritrei) da
+                        Montefalco, 1525.</note> urgere, ut me libris aliquot <del corresp="Olahus"
+                        >illustram</del><add corresp="Olahus" type="corr">illustret</add>.
+                        Ambrosium<note xml:id="note.4">Aurelius Ambrosius, better known as St.
+                        Ambrose (ca. 340–397), was one of the most influential ecclesiastical
+                        persons of the late antiquity. We do not know which of his works Oláh
+                        needed, but it could have been the so-called <hi rend="italic"
+                            >Ambrosiaster</hi>, a brief commentary on Paul's Epistles, which had
+                        long been attributed to Ambrose.</note>, Augustinum<note xml:id="note.5"
+                        >Augustinus, St. Augustine of Hippo (354–430) was an early Christian
+                        theologian and philosopher. Oláh needed his works <hi rend="italic"
+                            >Commentarius in epistulam Pauli ad Romanos</hi> and <hi rend="italic"
+                            >Commentarius in epistulam Pauli ad Galatos.</hi></note> mittat rogo in
+                    Paulum, petat a Paulo Originem<note xml:id="note.6">Origenes, or Origen
+                        Adamantius (184/185–253/254) was a Greek scholar and early Christian
+                        theologian. Olahus needed his <hi rend="italic">Commentarius in Epistolam
+                            Pauli ad Romanos,</hi> probably in the translation of Rufinus.</note> in
+                    Paulum, et pro me fide iubeat, non decipietur. Si fieri poterit, mittantur
+                    Origenis <hi rend="italic">Homiliae</hi>, una quas habet <persName>Andreas
+                        Faber</persName>.<note xml:id="note.7">We do not know him more
+                        closely.</note> Chrisostomum<note xml:id="note.8">Chrysostomus, St. John
+                        Chrysostom (c. 349–407) was an early Church Father.</note> vel alium, qui in
+                    Paulum scripsit, mittite </p>
                 <pb facs="15301014_1_2.jpg"/>
                 <p xml:id="p.3">pariter ad me. Triduo post missurus sum vehiculum, quo hi libri
                     vehantur. Interim cures, ut in eum diem libri sint parati, si Andreas Ioannesque

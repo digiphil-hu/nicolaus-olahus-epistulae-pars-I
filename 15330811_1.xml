@@ -233,19 +233,19 @@
                 <pb facs="15330811_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Olaus archiepiscopo Lundensi oratori caesareo salutem.</p>
                 <p xml:id="p.2">Sexta huius mensis ad binas priores tuas litteras copiose
-                        respondi<note type="critic" xml:id="note.1">See Ep.
-                            390.<ref>olahus.tei.15330806_2</ref></note> et, quae hic in rebus
-                    Danicis habuimus, significavi. Nulla postea super venerunt, de quibus scribendum
-                    esset. Hodie mihi redditae sunt postremae tuae litterae XXVII. Iulii
-                        <placeName>Viennae</placeName> datae.<note type="critic" xml:id="note.2"
-                        >This letter is not extant.</note> Faxit Deus pacem et perpetuam et firmam
-                    fore. De pacis conditionibus, cum <persName>Cornelius</persName><note
-                        type="critic" xml:id="note.3">Cornelis de Schepper.</note> redierit, fac me
-                    certiorem. Credo <persName>maiestatem regiam</persName> profectionem Pragensem
-                    distulisse, ut oratorum reditus eum <placeName>Viennae</placeName> offenderet.
-                    Nam in rebus particularibus non parum adhuc sudandum esse arbitror, et fortasse
-                    etiam commissarios <persName>Ioannis</persName> et <persName>regis</persName> et
-                    te nomine <persName>caesaris</persName> conveniendos. </p>
+                        respondi<note xml:id="note.1">See Ep.
+                        390.<ref>olahus.tei.15330806_2</ref></note> et, quae hic in rebus Danicis
+                    habuimus, significavi. Nulla postea super venerunt, de quibus scribendum esset.
+                    Hodie mihi redditae sunt postremae tuae litterae XXVII. Iulii
+                        <placeName>Viennae</placeName> datae.<note xml:id="note.2">This letter is
+                        not extant.</note> Faxit Deus pacem et perpetuam et firmam fore. De pacis
+                    conditionibus, cum <persName>Cornelius</persName><note xml:id="note.3">Cornelis
+                        de Schepper.</note> redierit, fac me certiorem. Credo <persName>maiestatem
+                        regiam</persName> profectionem Pragensem distulisse, ut oratorum reditus eum
+                        <placeName>Viennae</placeName> offenderet. Nam in rebus particularibus non
+                    parum adhuc sudandum esse arbitror, et fortasse etiam commissarios
+                        <persName>Ioannis</persName> et <persName>regis</persName> et te nomine
+                        <persName>caesaris</persName> conveniendos. </p>
                 <pb facs="15330811_1_2.jpg"/>
                 <p xml:id="p.3">Quae facilius, si
                         <persName>rex</persName><placeName>Viennae</placeName><choice>
@@ -253,17 +253,17 @@
                         <supplied>erit</supplied>
                     </choice>, peragi poterunt. Quod si futurum est, et si negotium ita
                     postulaverit, si quid difficultatis in rebus meis per vaivodanos iniectum esset,
-                    poteris cum <persName>Sirmiensi</persName><note type="critic" xml:id="note.4"
-                        >István Brodarics.</note> et aliis tractare. De aliis, ut in aliis meis
-                    scripsi, ages apud regem, si opportunitas et occasio accesserint. Litteras
-                        <persName>decano Laurino</persName><note type="critic" xml:id="note.5">Mark
+                    poteris cum <persName>Sirmiensi</persName><note xml:id="note.4">István
+                        Brodarics.</note> et aliis tractare. De aliis, ut in aliis meis scripsi,
+                    ages apud regem, si opportunitas et occasio accesserint. Litteras
+                        <persName>decano Laurino</persName><note xml:id="note.5">Mark
                         Lauwerijns.</note> praesentavi, cuius responsum remisi cum praesentibus.
-                    Ioanni vero <persName>Stansarth</persName><note type="critic" xml:id="note.6">We
-                        do not know him more closely, see Ep. 375. Note
-                            10.<ref>olahus.tei.15330605_4</ref></note> suas per primum certum
-                    nuntium reddendas curabo. In tuis apud <persName>reginam</persName> rebus, si
-                    quid tractari in causa Danica sensero, non ero negligens. Me tibi commendo,
-                    tuasque et <persName>Cornelii</persName> litteras exspecto. Vale.</p>
+                    Ioanni vero <persName>Stansarth</persName><note xml:id="note.6">We do not know
+                        him more closely, see Ep. 375. Note
+                        10.<ref>olahus.tei.15330605_4</ref></note> suas per primum certum nuntium
+                    reddendas curabo. In tuis apud <persName>reginam</persName> rebus, si quid
+                    tractari in causa Danica sensero, non ero negligens. Me tibi commendo, tuasque
+                    et <persName>Cornelii</persName> litteras exspecto. Vale.</p>
                 <p xml:id="p.4"><placeName>Brugis</placeName> XI. Augusti 1533.</p>
             </div>
         </body>

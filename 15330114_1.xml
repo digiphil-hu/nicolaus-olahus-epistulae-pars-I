@@ -303,25 +303,25 @@
                         sua</persName> ex dote habet comitatum <choice>
                         <orig>veteris</orig>
                         <supplied>veterem</supplied>
-                    </choice> Zoliensem,<note type="critic" xml:id="note.1">Zólyom county.</note> in
-                    quo sunt arces, civitates, fodinae aurariae, argentariae et minerarum quoque
-                    aliarum, haec omnia utcumque fieri potuit etiam temporibus his omnibus
-                    perturbatis, per suos officiales licet non sine magnis expensis suis, possedit
-                    et possidet, habuit praeterea arcem unam <placeName>Mownkach</placeName><note
-                        type="critic" xml:id="note.2">Mukachevo.</note> in finibus
-                        <placeName>Maromarusii</placeName>,<note type="critic" xml:id="note.3"
-                        >Máramaros county.</note> cuius nunc officialis, qui antea desciverant a
-                    nobis ad oboedientiam serenissimi regis nostri <persName>Ferdinandi</persName>
-                    rediisse, ac <persName>Ioanni Katzianer</persName> capitaneo regis de fidelitate
-                    imposterum servanda, iuramentum praestitisse hoc biduo intelleximus. In
+                    </choice> Zoliensem,<note xml:id="note.1">Zólyom county.</note> in quo sunt
+                    arces, civitates, fodinae aurariae, argentariae et minerarum quoque aliarum,
+                    haec omnia utcumque fieri potuit etiam temporibus his omnibus perturbatis, per
+                    suos officiales licet non sine magnis expensis suis, possedit et possidet,
+                    habuit praeterea arcem unam <placeName>Mownkach</placeName><note xml:id="note.2"
+                        >Mukachevo.</note> in finibus <placeName>Maromarusii</placeName>,<note
+                        xml:id="note.3">Máramaros county.</note> cuius nunc officialis, qui antea
+                    desciverant a nobis ad oboedientiam serenissimi regis nostri
+                        <persName>Ferdinandi</persName> rediisse, ac <persName>Ioanni
+                        Katzianer</persName> capitaneo regis de fidelitate imposterum servanda,
+                    iuramentum praestitisse hoc biduo intelleximus. In
                         <placeName>Maromarusio</placeName> praeterea arces
-                        <placeName>Hwsch</placeName><note type="critic" xml:id="note.4"
-                        >Khust.</note> et aliquot alias civitates<note type="critic" xml:id="note.5"
-                        >Viskove, Tiachiv, Câmpulung la Tisa, and Sighetu Marmației.</note> una cum
-                    oppidis et montanis salium, qui camerae Maromarusiensis uno nomine vocantur. Has
-                    quidam officialis <persName>reginae</persName>, cui nomen erat <persName>Paulus
-                        Arthandi</persName>,<note type="critic" xml:id="note.6">Pál Ártándy.</note>
-                    dum <persName>Lodovicus rex</persName> infeliciter occubuit, nomine reginali
+                        <placeName>Hwsch</placeName><note xml:id="note.4">Khust.</note> et aliquot
+                    alias civitates<note xml:id="note.5">Viskove, Tiachiv, Câmpulung la Tisa, and
+                        Sighetu Marmației.</note> una cum oppidis et montanis salium, qui camerae
+                    Maromarusiensis uno nomine vocantur. Has quidam officialis
+                        <persName>reginae</persName>, cui nomen erat <persName>Paulus
+                        Arthandi</persName>,<note xml:id="note.6">Pál Ártándy.</note> dum
+                        <persName>Lodovicus rex</persName> infeliciter occubuit, nomine reginali
                     tenebat, qui, posteaquam venimus in haec turbulenta tempora diversasque
                     nostrorum factiones et schismata, descivit cum bonis omnibus reginae ad Ioannem,
                     a quo postea captus et nescio ob quam rem, aliqui dicunt ob proditionem, aliqui
@@ -329,24 +329,22 @@
                         <orig>pecuniis</orig>
                         <supplied>pecunias</supplied>
                     </choice> (multa enim ex bonis reginae congesserat) cum fratre suo suasu et
-                    consilio <persName>Aloisii Gritti</persName><note type="critic" xml:id="note.7"
-                        >Ludovico Gritti.</note> fuerat trucidatus. Post horum necem
-                        <persName>Thomas Nadasdy</persName>, quem scribis nunc cum
-                        <persName>Katzianer</persName> convenisse, profectus est
-                        <placeName>Maromarusium</placeName>, ubi tantum effecit apud illius
-                        <persName>Pauli</persName> viduam verbis speciosis, ut et arces illas omnes
-                    et cameras salium et alia bona reginae in manus illius resignarit; ab eo tempore
-                    bona illa fuerunt a regina alienata.</p>
+                    consilio <persName>Aloisii Gritti</persName><note xml:id="note.7">Ludovico
+                        Gritti.</note> fuerat trucidatus. Post horum necem <persName>Thomas
+                        Nadasdy</persName>, quem scribis nunc cum <persName>Katzianer</persName>
+                    convenisse, profectus est <placeName>Maromarusium</placeName>, ubi tantum
+                    effecit apud illius <persName>Pauli</persName> viduam verbis speciosis, ut et
+                    arces illas omnes et cameras salium et alia bona reginae in manus illius
+                    resignarit; ab eo tempore bona illa fuerunt a regina alienata.</p>
                 <p xml:id="p.5">Ex alia parte habuit eadem regina oppidum <placeName>Vetus
-                        Budam</placeName> prope <placeName>Sicambriam</placeName><note type="critic"
+                        Budam</placeName> prope <placeName>Sicambriam</placeName><note
                         xml:id="note.8">Óbuda.</note>, situm supra <placeName>Budam</placeName>
-                    regiam, deinde insulam <placeName>Zeppel</placeName><note type="critic"
-                        xml:id="note.9">Csepel Island.</note> infra <placeName>Budam</placeName> ad
-                    medium milliare. Haec bona occupata fuere per factionem
-                        <persName>Ioannis</persName> iam ab eo tempore, quo
-                        <placeName>Budam</placeName><persName>Ferdinandus</persName> rex amisit;
-                    quae omnia praedicta spectant ad dotem reginae. Non parvique sunt momenti bona,
-                    quae et etiam alia, quae ad dotem reginae pertinent, si <choice>
+                    regiam, deinde insulam <placeName>Zeppel</placeName><note xml:id="note.9">Csepel
+                        Island.</note> infra <placeName>Budam</placeName> ad medium milliare. Haec
+                    bona occupata fuere per factionem <persName>Ioannis</persName> iam ab eo
+                    tempore, quo <placeName>Budam</placeName><persName>Ferdinandus</persName> rex
+                    amisit; quae omnia praedicta spectant ad dotem reginae. Non parvique sunt
+                    momenti bona, quae et etiam alia, quae ad dotem reginae pertinent, si <choice>
                         <orig>quae</orig>
                         <supplied>qua</supplied>
                     </choice> concordia futura est, reduci deberent opera tua in ditionem reginalem.
@@ -371,91 +369,89 @@
                     nostra amicus, </p>
                 <pb facs="15330114_1_3.jpg"/>
                 <p xml:id="p.7">tunc <persName>custos</persName> sive thesaurarius, ut vocant,
-                    ecclesiae <placeName>Albaeregalis</placeName><note type="critic"
-                        xml:id="note.10">Székesfehérvár. Gerendi was Custos of Chapter of
-                        Székesfehérvár between 1525–1527, see <hi rend="smallcap">Köblös</hi> 1987,
-                        78.</note>, translatus fuit ad episcopatum Transsilvaniensem, tunc casu per
-                    mortem vacantem, cuius hanc custodiam Albensem, in qua beneficium non
-                    poenitendum rex, cum maius tunc non vacaret, quod mihi iuxta aliquot diplomata
-                    sua mihi data, quae et nunc apud me habeo, promissionibus suis satis firma,
-                    conferri posset, per illius translationem mihi contulerat. In cuius possessione
-                    fui biennio.</p>
+                    ecclesiae <placeName>Albaeregalis</placeName><note xml:id="note.10"
+                        >Székesfehérvár. Gerendi was Custos of Chapter of Székesfehérvár between
+                        1525–1527, see <hi rend="smallcap">Köblös</hi> 1987, 78.</note>, translatus
+                    fuit ad episcopatum Transsilvaniensem, tunc casu per mortem vacantem, cuius hanc
+                    custodiam Albensem, in qua beneficium non poenitendum rex, cum maius tunc non
+                    vacaret, quod mihi iuxta aliquot diplomata sua mihi data, quae et nunc apud me
+                    habeo, promissionibus suis satis firma, conferri posset, per illius
+                    translationem mihi contulerat. In cuius possessione fui biennio.</p>
                 <p xml:id="p.8">Ex bonorum eius aliqua parte ego et mei fuerunt postea expulsi, cum
                         <persName>rex</persName> noster <placeName>Budam</placeName> amisisset.
                     Aliquam tamen illorum partem etiam tunc mei in comitatu Zaladiensi,<note
-                        type="critic" xml:id="note.11">Dörgicse, his land was in Zala county.</note>
-                    utcumque retinuerant. Quam et meo nomine possiderunt tempore induciarum
-                    annuarum, quae erant facta post Vienensem obsidionem anni 1529. Quibus expiratis
-                    meus <persName>consocius</persName><note type="critic" xml:id="note.12">Probably
-                        András Choron.</note> fuit in bonis captus et cruciatus, et bona occupata;
-                    ab eo tempore meis spoliatus sum; quae nescio, cui per
-                        <persName>Ioannem</persName> regem sint collata.</p>
+                        xml:id="note.11">Dörgicse, his land was in Zala county.</note> utcumque
+                    retinuerant. Quam et meo nomine possiderunt tempore induciarum annuarum, quae
+                    erant facta post Vienensem obsidionem anni 1529. Quibus expiratis meus
+                        <persName>consocius</persName><note xml:id="note.12">Probably András
+                        Choron.</note> fuit in bonis captus et cruciatus, et bona occupata; ab eo
+                    tempore meis spoliatus sum; quae nescio, cui per <persName>Ioannem</persName>
+                    regem sint collata.</p>
                 <p xml:id="p.9">Est praeterea quaedam abbatia mea
-                        <placeName>Thapoltza</placeName><note type="critic" xml:id="note.13"
-                        >Tapolca, see 15310512_1. Note 2.</note> nomine, unum milliare ad arcem
+                        <placeName>Thapoltza</placeName><note xml:id="note.13">Tapolca, see
+                        15310512_1. Note 2.</note> nomine, unum milliare ad arcem
                         <persName>reginae</persName><placeName>Dyosgyewr</placeName><note
-                        type="critic" xml:id="note.14">Diósgyőr.</note> non longe
-                        <placeName>Cassovia</placeName><note type="critic" xml:id="note.15"
-                        >Košice.</note>, quam aestate praeterita <persName>Emericus
-                        Bebek</persName><note type="critic" xml:id="note.16">Imre Bebek.</note>
-                    perfidus invasit, occupavit, monachos expulit, ex qua, quia est in loco munito,
-                    omnem illam regionem depraedatum esse et spoliasse dicitur; quam, quia caesaris
-                    et regis <placeName>Viennam</placeName> profectio omnibus perfidis terrorem
-                    incusserat, exussit cum ecclesia et muros diruit, colonos et villas eo
-                    spectantes ad arcem suam propinquam occupavit. Sic hac quoque abbatia sum
-                    privatus ita, ut nihil fere iam in <placeName>Hungaria</placeName> possideam,
-                    vacuusque nunc degam omni et onere et cura. Quare si res eo devenerit, ut tu ad
+                        xml:id="note.14">Diósgyőr.</note> non longe
+                        <placeName>Cassovia</placeName><note xml:id="note.15">Košice.</note>, quam
+                    aestate praeterita <persName>Emericus Bebek</persName><note xml:id="note.16"
+                        >Imre Bebek.</note> perfidus invasit, occupavit, monachos expulit, ex qua,
+                    quia est in loco munito, omnem illam regionem depraedatum esse et spoliasse
+                    dicitur; quam, quia caesaris et regis <placeName>Viennam</placeName> profectio
+                    omnibus perfidis terrorem incusserat, exussit cum ecclesia et muros diruit,
+                    colonos et villas eo spectantes ad arcem suam propinquam occupavit. Sic hac
+                    quoque abbatia sum privatus ita, ut nihil fere iam in
+                        <placeName>Hungaria</placeName> possideam, vacuusque nunc degam omni et
+                    onere et cura. Quare si res eo devenerit, ut tu ad
                         <placeName>Poloniam</placeName> proficiscaris, ubi vel etiam alibi te nomen
                     et authoritatem <persName>caesaris</persName> ac <persName>regis</persName>
                     habente pax tractetur, oro et te obtestor, velis mei meminisse, et curare pro
                     tuo singulari ingenio, quo vales pollesque plurimum, ut in parta redigar ac
                     beneficia mea ista videlicet custodia Albensi, abbatia de
                         <placeName>Thapolza</placeName>, archidiaconatus Comorconensis<note
-                        type="critic" xml:id="note.17">Archidiaconate of Komárom.</note> in ecclesia
-                    Strigoniensi, et alia nonnulla, quibus privatus sum, cum bonis ad illa
-                    pertinentibus Ungari pacti et concordiae mihi in integrum remittantur. Tuam hanc
-                    operam et patrocinium meis officiis omni certe tempore rependere et curabo et
-                    volo. Nolo te rogare pluribus in his meis conficiendis; quandoquidem et spero et
-                    scio te facturum plus me absente, quam ego petere sciam. Quicquid autem actum
-                    fuerit, rogo, fac me certiorem, ut sciam meas res secundum tuas actiones
-                    dirigere ordinareque. Nuper <persName>regina</persName> in commendationem harum
-                    rerum scripsit et ad <persName>regem</persName> et ad
-                        <persName>Tridentinum</persName>,<note type="critic" xml:id="note.18"
-                        >Bernhard von Cles.</note> credo, modo eas inter alia negligent, si modo sit
-                    aliquis, qui earum mentionem apud eos bono commodoque tempore faciat. Huius
-                    negotii conscius est <persName>Gabriel Xanthus</persName><note type="critic"
-                        xml:id="note.19">Gabriel Sanchez or Xanthus was Royal Secretary, then King
-                        Ferdinand I’s Roman ambassador from 1533 to ca. 1540. Around 1548, he also
-                        received the provostry of Wrocław. He corresponded with Cornelis de Schepper
-                        and Oláh as well, see <hi rend="smallcap">Nausea</hi> 1550, 454, and <hi
-                            rend="smallcap">Laferl–Lutter</hi> 2000, 177.</note> protonotarius
-                    secretarius regis, amicus meus singularis.</p>
+                        xml:id="note.17">Archidiaconate of Komárom.</note> in ecclesia Strigoniensi,
+                    et alia nonnulla, quibus privatus sum, cum bonis ad illa pertinentibus Ungari
+                    pacti et concordiae mihi in integrum remittantur. Tuam hanc operam et
+                    patrocinium meis officiis omni certe tempore rependere et curabo et volo. Nolo
+                    te rogare pluribus in his meis conficiendis; quandoquidem et spero et scio te
+                    facturum plus me absente, quam ego petere sciam. Quicquid autem actum fuerit,
+                    rogo, fac me certiorem, ut sciam meas res secundum tuas actiones dirigere
+                    ordinareque. Nuper <persName>regina</persName> in commendationem harum rerum
+                    scripsit et ad <persName>regem</persName> et ad
+                        <persName>Tridentinum</persName>,<note xml:id="note.18">Bernhard von
+                        Cles.</note> credo, modo eas inter alia negligent, si modo sit aliquis, qui
+                    earum mentionem apud eos bono commodoque tempore faciat. Huius negotii conscius
+                    est <persName>Gabriel Xanthus</persName><note xml:id="note.19">Gabriel Sanchez
+                        or Xanthus was Royal Secretary, then King Ferdinand I’s Roman ambassador
+                        from 1533 to ca. 1540. Around 1548, he also received the provostry of
+                        Wrocław. He corresponded with Cornelis de Schepper and Oláh as well, see <hi
+                            rend="smallcap">Nausea</hi> 1550, 454, and <hi rend="smallcap"
+                            >Laferl–Lutter</hi> 2000, 177.</note> protonotarius secretarius regis,
+                    amicus meus singularis.</p>
                 <p xml:id="p.10">[3.] Nova scribere non multa possum, frequenter ad his, qui huc
                     veniunt, sciscitor de incolumitate <persName>coniugis</persName> tuae
                     amantissimae, quam feliciter valere intellexi. Novumque tibi hospitem in lucem
                     edidisse; qui utinam felicissimus sit, patrisque virtutes imitetur. Scripsi et
                     nuper ei, ut litteras, si quas vellet ad te dare, semper ad me mitteret;
                     hactenus nullas misit; credo habuisse per quem citius ad te mittere potuit.
-                        <persName>Decanus Brugensis</persName><note type="critic" xml:id="note.20"
-                        >Mark Lauwerijns.</note> nostrum utriusque amicus bene valet et alii omnes
-                    tui amici, quos hic habes. <placeName>Selandiae</placeName> et
+                        <persName>Decanus Brugensis</persName><note xml:id="note.20">Mark
+                        Lauwerijns.</note> nostrum utriusque amicus bene valet et alii omnes tui
+                    amici, quos hic habes. <placeName>Selandiae</placeName> et
                         <placeName>Holandiae</placeName> pars aliqua maris inundatione
                     irrecuperabilia </p>
                 <pb facs="15330114_1_3.jpg"/>
                 <p xml:id="p.11">damna esse passas dicunt; eos vix posse reficere claustra maris,
                     nisi quis decem <persName>Croesis</persName> sit ditior. Dierum aestus latiora
                     illius provinciae occupat loca, verendum est, ne temporibus futuris maius damnum
-                    eveniat. <placeName>Scalda</placeName><note type="critic" xml:id="note.21"
-                        >Scheldt river.</note> quoque fluvius nuper, cum essemus <placeName>Bergis
-                        Hannoniae</placeName>,<note type="critic" xml:id="note.22">Mons. According
-                        to Oláh’s letters, they were in Mons from 24 November, 1532 to about 1
-                        January, 1533.</note> qui per <placeName>Valencenas</placeName><note
-                        type="critic" xml:id="note.23">Valenciennes.</note> praeterlabitur
-                        <placeName>Gandavum</placeName>,<note type="critic" xml:id="note.24"
-                        >Ghent.</note> ex piscinarum propter tempestates eruptione tantum crevit, ut
-                    tertia pars oppidi fuerit in aqua, et in xenodochio pauperum fuerint submersi
-                    subito vigintiquinque aegroti. Credo te audisse tumultum Bruxellensem
-                        insanum.<note type="critic" xml:id="note.25">See Ep.
+                    eveniat. <placeName>Scalda</placeName><note xml:id="note.21">Scheldt
+                        river.</note> quoque fluvius nuper, cum essemus <placeName>Bergis
+                        Hannoniae</placeName>,<note xml:id="note.22">Mons. According to Oláh’s
+                        letters, they were in Mons from 24 November, 1532 to about 1 January,
+                        1533.</note> qui per <placeName>Valencenas</placeName><note xml:id="note.23"
+                        >Valenciennes.</note> praeterlabitur <placeName>Gandavum</placeName>,<note
+                        xml:id="note.24">Ghent.</note> ex piscinarum propter tempestates eruptione
+                    tantum crevit, ut tertia pars oppidi fuerit in aqua, et in xenodochio pauperum
+                    fuerint submersi subito vigintiquinque aegroti. Credo te audisse tumultum
+                    Bruxellensem insanum.<note xml:id="note.25">See Ep.
                             312.<ref>olahus.tei.15330110_1</ref></note><persName>Regina</persName>
                     post multas eorum supplicationes clementiam eis impertita est, confirmationem
                     privilegiorum a regina per tumultum vi quasi exortam reportarunt, abrogata sunt
@@ -467,23 +463,22 @@
                         <persName>Reginae</persName> ad hoc oppidum octava huius mensis revertenti
                     usque ad centum et quinquaginta ex primoribus oppidanis usque ad ecclesiam
                     parochialem, quae uno iactu extra portam est versus
-                        <placeName>Haal</placeName>,<note type="critic" xml:id="note.26">De
-                        Haal.</note> prodierunt pullati cum facibus obviam, illamque genibus istic
-                    flexis exoratam conduxerunt ad curiam.
-                        <persName>Caesaris</persName><persName>filia</persName> naturalis<note
-                        type="critic" xml:id="note.27">Margaret of Parma (1522–1586) was the
+                        <placeName>Haal</placeName>,<note xml:id="note.26">De Haal.</note>
+                    prodierunt pullati cum facibus obviam, illamque genibus istic flexis exoratam
+                    conduxerunt ad curiam. <persName>Caesaris</persName><persName>filia</persName>
+                        naturalis<note xml:id="note.27">Margaret of Parma (1522–1586) was the
                         illegitimate daughter of Emperor Charles V, born before his marriage. Later
                         she became the Governor of the Netherlands (1559–1567 and 1578–1582). In
                         1536, she married Alessandro de’ Medici, but unfortunately the marriage did
-                        not last.</note><persName>nepoti</persName><note type="critic"
-                        xml:id="note.28">Alessandro de’ Medici (1510–1537), “The Moor” was the Duke
-                        of Florence from 1532. According to rumors, he was the illegitimate son of
-                        Giulio de’ Medici (later Pope Clement VII).</note> pontificis
-                        <persName>Clementis</persName> desponsata, hinc ad octavum et decimum, ut
-                    arbitror, diem <placeName>Italiam</placeName> versus progredietur, habebit
-                    comitivam ad centum et quinquaginta circiter equites, conducet eam
-                        <persName>episcopus Tornacensis</persName><note type="critic"
-                        xml:id="note.29">Charles de Croÿ.</note> et quidam ex comitibus. Vale.</p>
+                        not last.</note><persName>nepoti</persName><note xml:id="note.28">Alessandro
+                        de’ Medici (1510–1537), “The Moor” was the Duke of Florence from 1532.
+                        According to rumors, he was the illegitimate son of Giulio de’ Medici (later
+                        Pope Clement VII).</note> pontificis <persName>Clementis</persName>
+                    desponsata, hinc ad octavum et decimum, ut arbitror, diem
+                        <placeName>Italiam</placeName> versus progredietur, habebit comitivam ad
+                    centum et quinquaginta circiter equites, conducet eam <persName>episcopus
+                        Tornacensis</persName><note xml:id="note.29">Charles de Croÿ.</note> et
+                    quidam ex comitibus. Vale.</p>
                 <p xml:id="p.12"><placeName>Bruxellae</placeName> 14. Ianuarii 1533.</p>
             </div>
         </body>

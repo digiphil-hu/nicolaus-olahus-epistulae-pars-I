@@ -231,7 +231,7 @@
                     </body>
                 </floatingText>
                 <pb facs="15280325_1_1.jpg"/>
-                <p xml:id="p.1"><persName> Thomas episcopus Agriensis</persName><note type="critic"
+                <p xml:id="p.1"><persName> Thomas episcopus Agriensis</persName><note
                         xml:id="note.1">Tamás Szalaházy (ca. 1480–1535), Bishop of Veszprém; after
                         Mohács, Bishop of Eger, and Chancellor nominated by King Ferdinand I. He was
                         one of the most important counsellors of King Ferdinand I and remained loyal
@@ -256,10 +256,10 @@
                     ut acceptis a me litteris ad <persName>maiestatem regiam</persName>, et aliqua
                     instructione, sine mora voles celerrime. </p>
                 <p xml:id="p.4"> Salutes meo nomine matronas ac puellas. Negotium dominae
-                        <persName>Likercae</persName><note type="critic" xml:id="note.2">Johanna
-                        Likerka or Likerke. Queen Mary of Hungary’s maid of honor, later she married
-                        Gáspár Horváth of Vingárd, see <hi rend="smallcap">Réthelyi</hi> 2007, 1207,
-                        and <hi rend="smallcap">Kerkhoff</hi> 2008, 280.</note> cum
+                        <persName>Likercae</persName><note xml:id="note.2">Johanna Likerka or
+                        Likerke. Queen Mary of Hungary’s maid of honor, later she married Gáspár
+                        Horváth of Vingárd, see <hi rend="smallcap">Réthelyi</hi> 2007, 1207, and
+                            <hi rend="smallcap">Kerkhoff</hi> 2008, 280.</note> cum
                         <persName>thesaurario</persName> confici per me nondum potuit. Nihil est ei
                     nominatim a <persName>rege</persName> commissum, curabo tamen, quantum in me
                     erit, serius, ocius, ut bonum habeat effectum. </p>

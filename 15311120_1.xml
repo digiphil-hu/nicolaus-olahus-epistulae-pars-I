@@ -236,12 +236,12 @@
                     </body>
                 </floatingText>
                 <pb facs="15311120_1_1.jpg"/>
-                <p xml:id="p.1">Rutgerus Rescius<note type="critic" xml:id="note.1">Rutger Ressen or
-                        Rutgerus Rescius (1497–1545) humanist, Professor of Greek at the Collegium
-                        Trilingue in Leuven. His press produced many editions of the Greek Fathers
-                        of the Church as well as classics, e.g. Homer and Xenophon, see <hi
-                            rend="smallcap">Erbe–Bietenholz</hi> 1987b.</note> Nicolao Olao
-                    thesaurario Albensi secretario reginae Mariae.</p>
+                <p xml:id="p.1">Rutgerus Rescius<note xml:id="note.1">Rutger Ressen or Rutgerus
+                        Rescius (1497–1545) humanist, Professor of Greek at the Collegium Trilingue
+                        in Leuven. His press produced many editions of the Greek Fathers of the
+                        Church as well as classics, e.g. Homer and Xenophon, see <hi rend="smallcap"
+                            >Erbe–Bietenholz</hi> 1987b.</note> Nicolao Olao thesaurario Albensi
+                    secretario reginae Mariae.</p>
                 <p xml:id="p.2">Felicibus plane avibus misi tibi chartarum munusculum, quod tametsi
                     vile omnino sit, et nihil nisi <del corresp="Olahus">chartarum</del><add
                         corresp="Olahus" type="corr">charticeum</add> esset, talem tamen <del
@@ -250,25 +250,25 @@
                     chartarum supellectilis apud me, sic extrudere possim, bene profecto tunc
                     ageretur cum rebus meis. Gaudeo igitur mirum in modum, non tantum mei, sed et
                     omnium studiosorum causa, nobis talem apud <persName>principem</persName><note
-                        type="critic" xml:id="note.2">Queen Mary as Governor of the
-                        Netherlands.</note> harum regionum obvenisse patronum, qui non tantum fautor
-                    sit litterarum ac litteratorum, sed ipse etiam litteratissimus. Conservet nobis
-                    Deus hunc ipsum diu incolumem. Habeo ego gratiam magnam Dominationi Tuae, quod
-                    tam benigne officium ac patrocinium tuum mihi obtuleris. Ego vicissim obsequium
-                    meum offero et addico tibi, quo uteris in quavis re, quae per me fieri potest,
-                    semper paratissimo. Ex litteris tuis plane intelligo esse verissima, quae
-                    dominus <persName>Erasmus</persName> de te litteris editis testatus est, quaeque
-                    magnus <persName>Iacobus</persName><note type="critic" xml:id="note.3">Jakob
-                        Jespersen of Aarhus (†1549?) enrolled at the University of Leuven, at the
-                        Collegium Trilingue, where Rutger Ressen was among his teachers. He became
-                        Oláh’s Greek teacher, and he companied him to Austria and Hungary around
-                        1539. He left Hungary in 1541 at the latest and lived in the Netherlands
-                        until his death. For more see <hi rend="smallcap">Schwarz Lausten</hi>
-                        1986.</note> et quidam alii de te praedicarunt. Perge sedulo in studio
-                    litterarum Graecarum, ego quicquid mea officinola suppeditaverit librorum, tibi
-                    donabo. <persName>Iacobus</persName> tuus novit, quicquid a me excussum est,
-                    iniunge ei, ut mihi significet, quid tibi ex ipsis arrideat, illico ad te
-                    transmittetur. Bene vale, Olae colende. Raptim.</p>
+                        xml:id="note.2">Queen Mary as Governor of the Netherlands.</note> harum
+                    regionum obvenisse patronum, qui non tantum fautor sit litterarum ac
+                    litteratorum, sed ipse etiam litteratissimus. Conservet nobis Deus hunc ipsum
+                    diu incolumem. Habeo ego gratiam magnam Dominationi Tuae, quod tam benigne
+                    officium ac patrocinium tuum mihi obtuleris. Ego vicissim obsequium meum offero
+                    et addico tibi, quo uteris in quavis re, quae per me fieri potest, semper
+                    paratissimo. Ex litteris tuis plane intelligo esse verissima, quae dominus
+                        <persName>Erasmus</persName> de te litteris editis testatus est, quaeque
+                    magnus <persName>Iacobus</persName><note xml:id="note.3">Jakob Jespersen of
+                        Aarhus (†1549?) enrolled at the University of Leuven, at the Collegium
+                        Trilingue, where Rutger Ressen was among his teachers. He became Oláh’s
+                        Greek teacher, and he companied him to Austria and Hungary around 1539. He
+                        left Hungary in 1541 at the latest and lived in the Netherlands until his
+                        death. For more see <hi rend="smallcap">Schwarz Lausten</hi> 1986.</note> et
+                    quidam alii de te praedicarunt. Perge sedulo in studio litterarum Graecarum, ego
+                    quicquid mea officinola suppeditaverit librorum, tibi donabo.
+                        <persName>Iacobus</persName> tuus novit, quicquid a me excussum est, iniunge
+                    ei, ut mihi significet, quid tibi ex ipsis arrideat, illico ad te transmittetur.
+                    Bene vale, Olae colende. Raptim.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> XII. Kalendas Decembris 1531.</p>
             </div>
         </body>

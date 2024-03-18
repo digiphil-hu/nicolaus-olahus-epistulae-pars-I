@@ -247,15 +247,15 @@
                     <del corresp="Olahus">Reverendo domino Nicolao Olah secretario reginali domino
                         honorando</del>
                     <add corresp="Olahus" type="corr"><persName>Arnoldus Oridryus</persName><note
-                            type="critic" xml:id="note.1">Arnold van Bergheyck (†1533), theologian
-                            and writer. He hellenized his name to Oridrius and devoted himself to
-                            the Greek language, delighting in being taught by Rutger Ressen,
-                            Professor at the Collegium Trilingue in Leuven. After he had completed
-                            his studies, he became a fairly experienced theologian, and for some
-                            time he lived in Ghent in the Abbey of St. Peter. He left that house in
-                            1530 and opened a school in Enghien to teach literature. We only know
-                            his work <hi rend="italic">Summa linguae Graecae utilissima Grammaticam
-                                Graecam auspicantibus</hi> which was printed in 1538, see <hi
+                            xml:id="note.1">Arnold van Bergheyck (†1533), theologian and writer. He
+                            hellenized his name to Oridrius and devoted himself to the Greek
+                            language, delighting in being taught by Rutger Ressen, Professor at the
+                            Collegium Trilingue in Leuven. After he had completed his studies, he
+                            became a fairly experienced theologian, and for some time he lived in
+                            Ghent in the Abbey of St. Peter. He left that house in 1530 and opened a
+                            school in Enghien to teach literature. We only know his work <hi
+                                rend="italic">Summa linguae Graecae utilissima Grammaticam Graecam
+                                auspicantibus</hi> which was printed in 1538, see <hi
                                 rend="smallcap">Chalmot</hi> 1798, 335–336, and <hi rend="smallcap"
                                 >Vocht</hi> 1955, 189–191.</note> Nicolao Olao thesaurario Albensi
                         secreatio reginae serenissimae.</add>
@@ -272,29 +272,28 @@
                     etiam multo facundissimis iisdemque non fastidiose contractis, sed benigna
                     musarum vena ac divite dilatatis non te pigunt, quasi perblandae nutriculae in
                     morem adolescens illud recens amicitiae pignus nostrum fovere. Ea nimirum
-                    fasciae sunt ac veteris illi <persName>Thesaei</persName><note type="critic"
-                        xml:id="note.2">In the Greek mythology, Theseus received a ball of thread
-                        from Ariadne so he could find his way out of the Labyrinth.</note> noduli,
-                    quos non leve eruditorum vulgus, sed minime incogitans consuevit genuinus ille e
-                    iudicio proficiscens amicorum candor stringere. Ceterum laudes illas, quas
-                    Oridryo tribuit Olahus, magnas existimo, sed maiores aestimo. Quis est enim tam
-                    fibris, corneis, immo ferreis, qui non sibi plaudat ac penitissime permoveatur
-                    ἐγκωμιάζοντος τοῦ Oλάου?<note type="critic" xml:id="note.3">‘if Oláh
-                        praises’.</note> Gratiam itaque habeo maximam, maiorem etiam relaturus, quod
-                    Dominatio Tua Carissima litteris Oridryum non sis dedignata, ubi vero et per
-                    pristinum meum paedagogicum licuerit fusius et te dignius, modo quicquam
-                    celsitudine tua, tam omnibus modis amplissima, a nostra tenuitate dignum
-                    proficisci possit. Lepide certe blanditur mihi spes nihil non esse Olahicae
-                    sinceritati gratissimum. Quod modo e candidis semper musarum ianuis
-                    prodierit.</p>
+                    fasciae sunt ac veteris illi <persName>Thesaei</persName><note xml:id="note.2"
+                        >In the Greek mythology, Theseus received a ball of thread from Ariadne so
+                        he could find his way out of the Labyrinth.</note> noduli, quos non leve
+                    eruditorum vulgus, sed minime incogitans consuevit genuinus ille e iudicio
+                    proficiscens amicorum candor stringere. Ceterum laudes illas, quas Oridryo
+                    tribuit Olahus, magnas existimo, sed maiores aestimo. Quis est enim tam fibris,
+                    corneis, immo ferreis, qui non sibi plaudat ac penitissime permoveatur
+                    ἐγκωμιάζοντος τοῦ Oλάου?<note xml:id="note.3">‘if Oláh praises’.</note> Gratiam
+                    itaque habeo maximam, maiorem etiam relaturus, quod Dominatio Tua Carissima
+                    litteris Oridryum non sis dedignata, ubi vero et per pristinum meum paedagogicum
+                    licuerit fusius et te dignius, modo quicquam celsitudine tua, tam omnibus modis
+                    amplissima, a nostra tenuitate dignum proficisci possit. Lepide certe blanditur
+                    mihi spes nihil non esse Olahicae sinceritati gratissimum. Quod modo e candidis
+                    semper musarum ianuis prodierit.</p>
                 <p xml:id="p.3">Bene vale atque ut diutissime is sis, quem cupit animus in te meus,
                     id quod facis, constanter facies. Deo omnes calamitates committes, humeros etiam
                     in delicatissima aula cruci subicies. Exilium tuum tam mihi dolet et patriae
                     deliquium, quam unice gaudeam te naviculae nostrae hactenus satis quassae
                     nauclerum coelitus datum.</p>
-                <p xml:id="p.4"><placeName>Angiae</placeName><note type="critic" xml:id="note.4"
-                        >Enghien is a Walloon municipality located in the Belgian province of
-                        Hainaut.</note> XI. Martii.</p>
+                <p xml:id="p.4"><placeName>Angiae</placeName><note xml:id="note.4">Enghien is a
+                        Walloon municipality located in the Belgian province of Hainaut.</note> XI.
+                    Martii.</p>
             </div>
         </body>
     </text>

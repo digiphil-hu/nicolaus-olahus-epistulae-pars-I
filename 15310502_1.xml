@@ -245,42 +245,40 @@
                     ex iisdem illis intellecturam, non putavimus hic repetenda esse. In negotiis
                     Dominationis Vestrae quicquid praestare potuimus, praestitimus. Fuit apud nos
                     his diebus capellanus eiusdem, obtulimus illi omnem operam et auctoritatem
-                    nostram, possidet <placeName>Dergycze</placeName><note type="critic"
-                        xml:id="note.1">Dörgicse.</note> et illas possessiones Dominationis Vestrae
-                    nostris <choice>
+                    nostram, possidet <placeName>Dergycze</placeName><note xml:id="note.1"
+                        >Dörgicse.</note> et illas possessiones Dominationis Vestrae nostris <choice>
                         <orig>vicinis</orig>
                         <supplied>vicinas</supplied>
-                    </choice>. Ut dominus <persName>Valentinus Therek</persName><note type="critic"
+                    </choice>. Ut dominus <persName>Valentinus Therek</persName><note
                         xml:id="note.2">For more on him and what follows see Ep. 127. Note
                             5.<ref>olahus.tei.15301210_1</ref></note> remitteret bona, quae
                     occupavit hactenus, adduci non potuit, apud quem quantum possimus, vel hinc
                     Dominatio Vestra considerare potest, quod omnes nostras in
-                        <placeName>Simigio</placeName><note type="critic" xml:id="note.3">Somogy
-                        county. On Török’s devastation in this county, see <hi rend="smallcap"
-                            >Bessenyei</hi> 1994, XIV.</note> possessiones variis exactionibus adeo
-                    exhausit, ut multi aufugere coacti sint, multi ne panem quidem habent ad
-                    manducandum. Hoc modo tractato toto fere
+                        <placeName>Simigio</placeName><note xml:id="note.3">Somogy county. On
+                        Török’s devastation in this county, see <hi rend="smallcap">Bessenyei</hi>
+                        1994, XIV.</note> possessiones variis exactionibus adeo exhausit, ut multi
+                    aufugere coacti sint, multi ne panem quidem habent ad manducandum. Hoc modo
+                    tractato toto fere
                         <placeName>Simigio</placeName><placeName>Nittriam</placeName><note
-                        type="critic" xml:id="note.4">Nyitra county.</note> una cum coniuge, liberis
-                    et rebus omnibus se contulit, reliquit capitaneum in
-                        <placeName>Simigio</placeName> dominum <persName>Ioannem
-                        Lenghyel</persName>,<note type="critic" xml:id="note.5">János Lengyel of
-                        Tóti (†1532?) was an aristocrat loyal to King Ferdinand I, who bestowed many
-                        possessions to him e.g. Zalaegerszeg, and Csesznek. He was Royal Master
-                        Seneschal <hi rend="italic">(magister regalis dapiferorum)</hi> from 1527
-                        until his death.</note> forte apud hunc melius agi de recuperatione bonorum
-                    Dominationis Vestrae poterit.</p>
+                        xml:id="note.4">Nyitra county.</note> una cum coniuge, liberis et rebus
+                    omnibus se contulit, reliquit capitaneum in <placeName>Simigio</placeName>
+                    dominum <persName>Ioannem Lenghyel</persName>,<note xml:id="note.5">János
+                        Lengyel of Tóti (†1532?) was an aristocrat loyal to King Ferdinand I, who
+                        bestowed many possessions to him e.g. Zalaegerszeg, and Csesznek. He was
+                        Royal Master Seneschal <hi rend="italic">(magister regalis dapiferorum)</hi>
+                        from 1527 until his death.</note> forte apud hunc melius agi de
+                    recuperatione bonorum Dominationis Vestrae poterit.</p>
                 <p xml:id="p.3">[2.] Nos nihil omittemus, quod praestare poterimus, scripsimus ad
                     serenissimam dominam reginam de arce eius <placeName>Mwnkach</placeName>.<note
-                        type="critic" xml:id="note.6">Mukachevo.</note> Est adhuc in manibus
-                    servitorum egregii cuiusdam <persName>Pauli Arthandy</persName><note
-                        type="critic" xml:id="note.7">Pál Ártándy of Kereki (ca. 1490–1533) was a
-                        follower of King John I, and the <hi rend="italic">ispán</hi> of Máramaros
-                        county between 1526–1530. He and his brother, Balázs were executed by
-                        Gritti, see <hi rend="smallcap">Heiss</hi> 1976, 84.</note>, instant illis
-                    ac variis artibus. Apud eos laborant quidam, ut tradant arcem, veremur ne
-                    expugnentur. Nam non sunt divites et huiusmodi genus hominum facile cedit
-                    muneribus. Nos decrevimus laborare, si quo pacto arcem </p>
+                        xml:id="note.6">Mukachevo.</note> Est adhuc in manibus servitorum egregii
+                    cuiusdam <persName>Pauli Arthandy</persName><note xml:id="note.7">Pál Ártándy of
+                        Kereki (ca. 1490–1533) was a follower of King John I, and the <hi
+                            rend="italic">ispán</hi> of Máramaros county between 1526–1530. He and
+                        his brother, Balázs were executed by Gritti, see <hi rend="smallcap"
+                            >Heiss</hi> 1976, 84.</note>, instant illis ac variis artibus. Apud eos
+                    laborant quidam, ut tradant arcem, veremur ne expugnentur. Nam non sunt divites
+                    et huiusmodi genus hominum facile cedit muneribus. Nos decrevimus laborare, si
+                    quo pacto arcem </p>
                 <pb facs="15310502_1_2.jpg"/>
                 <p xml:id="p.4">e manibus eorum eruere possimus, sed timemus, ne cum negotium
                     aggressi fuerimus, haerendum nobis sit, si litteras reginalis maiestatis non

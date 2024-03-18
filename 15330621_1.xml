@@ -254,29 +254,28 @@
                     reginae Mariae Erasmo Roterodamo salutem.</p>
                 <p xml:id="p.2">Quid nuper, mi Erasme, in rebus tuis egerim, solita mea, qua in
                     amicorum negotio uti consuevi, diligentia proximis meis litteris<note
-                        type="critic" xml:id="note.1">Ep.
-                        346.<ref>olahus.tei.15330329_1</ref></note> copiose perscripseram.
-                    Pollicitus autem fueram me tibi significaturum, quid a caesare responsi habituri
-                    essemus, quod non abs re feceram, nam nolui in tuis praecipitanter quippiam aut
-                    aggredi aut agere. Interea advenit tuus <persName>Quirinus</persName><note
-                        type="critic" xml:id="note.2">Quirinus Hagius.</note> cum litteris, ex
-                    quibus tuum animum facile intellexi; omnia ita, ut voluimus, evenerunt, nec
-                    aliquid est, quod te ad revertendum, ut te ab initio exhortati sumus, et ob
-                    amorem, quo afficior in te sollicitavimus, non invitet. Principes licet habueris </p>
+                        xml:id="note.1">Ep. 346.<ref>olahus.tei.15330329_1</ref></note> copiose
+                    perscripseram. Pollicitus autem fueram me tibi significaturum, quid a caesare
+                    responsi habituri essemus, quod non abs re feceram, nam nolui in tuis
+                    praecipitanter quippiam aut aggredi aut agere. Interea advenit tuus
+                        <persName>Quirinus</persName><note xml:id="note.2">Quirinus Hagius.</note>
+                    cum litteris, ex quibus tuum animum facile intellexi; omnia ita, ut voluimus,
+                    evenerunt, nec aliquid est, quod te ad revertendum, ut te ab initio exhortati
+                    sumus, et ob amorem, quo afficior in te sollicitavimus, non invitet. Principes
+                    licet habueris </p>
                 <pb facs="15330621_1_2.jpg"/>
                 <p xml:id="p.3">etiam antea faventes, fecimus tamen et nos, quantum in nobis fuit,
                     ob eximias tuas virtutes animique dotes tibi faventiores. Quid
                         <persName>caesar</persName> de te rescripserit, intelliges ex exemplo<note
-                        type="critic" xml:id="note.3">Not extant. Charles V wrote to Queen Mary, see
-                            <hi rend="smallcap">Ipolyi</hi> 1875, 361.</note> litterarum suarum
+                        xml:id="note.3">Not extant. Charles V wrote to Queen Mary, see <hi
+                            rend="smallcap">Ipolyi</hi> 1875, 361.</note> litterarum suarum
                     praesentibus meis incluso. Quid postea regina mea me sollicitatore caesaris
-                    nomine decreverit, accipies ex litteris<note type="critic" xml:id="note.4">This
-                        letter is not extant.</note><persName>domini Panormitani</persName>.<note
-                        type="critic" xml:id="note.5">Jean II Carondelet.</note> Animum autem et
-                    benevolentiam in te reginalem ex litteris ipsius propriis cognosces, dominus dux
-                    quoque <persName>ab Askoth</persName><note type="critic" xml:id="note.6"
-                        >Philippe II de Croÿ.</note> mirifice te amat, quos omnes in tui amorem ac
-                    desiderium excitavi.</p>
+                    nomine decreverit, accipies ex litteris<note xml:id="note.4">This letter is not
+                        extant.</note><persName>domini Panormitani</persName>.<note xml:id="note.5"
+                        >Jean II Carondelet.</note> Animum autem et benevolentiam in te reginalem ex
+                    litteris ipsius propriis cognosces, dominus dux quoque <persName>ab
+                        Askoth</persName><note xml:id="note.6">Philippe II de Croÿ.</note> mirifice
+                    te amat, quos omnes in tui amorem ac desiderium excitavi.</p>
                 <p xml:id="p.4">Quare nihil est, mi Erasme, quod te istic remoretur, si commodo,
                     quieti, saluti et aetatis tuae iam gravidae tranquillitati, et id quidem in
                     patria, in caelo tibi et propitio et favente, inter propinquos amicos ac veteres
@@ -288,13 +287,13 @@
                     temere egisse. Nunc multo minus de reditu tuo tecum agerem, si arbitrarer aetati
                     iam ingravescenti et quieti tuae eum non usui futurum. Velis igitur, quamprimum
                     poteris reverti. Quia autem non omnia putavi esse litteris committenda, curavi
-                    per reginam, ut <persName>Levinus</persName><note type="critic" xml:id="note.7"
-                        >Lieven Algoet.</note> ad te mitteretur. Qui omnia, quae fecerim et quae de
-                    rebus tuis particularibus a me et audivit et accepit, tibi est relaturus.
-                    Fidelior eo magisque, ni fallor, tam mihi quam tibi addictus ad te mitti non
-                    potuit. Cuius verbis fidem adhibeas. <persName>Quirinus</persName> tuus
-                    profectus a me in <placeName>Angliam</placeName>, nondum est reversus, exspecto
-                    tamen eum in horas. Vale et me, ut soles, ama.</p>
+                    per reginam, ut <persName>Levinus</persName><note xml:id="note.7">Lieven
+                        Algoet.</note> ad te mitteretur. Qui omnia, quae fecerim et quae de rebus
+                    tuis particularibus a me et audivit et accepit, tibi est relaturus. Fidelior eo
+                    magisque, ni fallor, tam mihi quam tibi addictus ad te mitti non potuit. Cuius
+                    verbis fidem adhibeas. <persName>Quirinus</persName> tuus profectus a me in
+                        <placeName>Angliam</placeName>, nondum est reversus, exspecto tamen eum in
+                    horas. Vale et me, ut soles, ama.</p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 21. Iunii 1533.</p>
             </div>
         </body>

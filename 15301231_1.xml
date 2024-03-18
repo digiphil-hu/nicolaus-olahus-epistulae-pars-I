@@ -234,24 +234,23 @@
                 <p xml:id="p.1"> Idem Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Res novas credo maiestatem reginalem et vos habere multo certiores,
                     quam ad me perferantur. Ea, quae penes me sunt, hic bonus vir
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.1">Probably
-                        János Czeglédi, see Ep. 132.<ref>olahus.tei.15301212_1</ref></note> sacerdos
-                    vester narrabit. Inter multa, quae desunt, vinum mihi non est, neque enim
-                    putabam tamdiu me in hoc carcere Posoninensi futurum et idcirco de commeatu
-                    multorum dierum non prospexi; efficite, rogo, apud maiestatem reginalem, ut
-                        tricesimator<note type="critic" xml:id="note.2">Meaning ‘taxcollector of
-                        thirtieth tax’ used in 16<hi rend="super">th</hi>-century Hungary. Thirtieth
-                        was a tax on foreign trade in Hungary.</note> det mihi duo vasa<note
-                        type="critic" xml:id="note.3">It is not clear which barrel he is talking
-                        about. The common barrel in Hungary was the so-called <hi rend="italic"
-                            >akó</hi>, which is <hi rend="italic">urna</hi> or <hi rend="italic"
-                            >tinna</hi> in Latin. The Bratislava akó was about 53.72 liters.</note>
-                    vini, quod accedet ad cumulum multorum in me beneficiorum illius maiestatis.</p>
-                <p xml:id="p.3"><placeName>Posonii</placeName> 1530.<note type="critic"
-                        xml:id="note.4">We could not guess the exact date of this letter. The
-                        succession of the letters suggests that this letter was written after 12
-                        December (see Ep. 132.) but still in
-                        1530.<ref>olahus.tei.15301212_1</ref></note></p>
+                        <persName>Ioannes</persName><note xml:id="note.1">Probably János Czeglédi,
+                        see Ep. 132.<ref>olahus.tei.15301212_1</ref></note> sacerdos vester
+                    narrabit. Inter multa, quae desunt, vinum mihi non est, neque enim putabam
+                    tamdiu me in hoc carcere Posoninensi futurum et idcirco de commeatu multorum
+                    dierum non prospexi; efficite, rogo, apud maiestatem reginalem, ut
+                        tricesimator<note xml:id="note.2">Meaning ‘taxcollector of thirtieth tax’
+                        used in 16<hi rend="super">th</hi>-century Hungary. Thirtieth was a tax on
+                        foreign trade in Hungary.</note> det mihi duo vasa<note xml:id="note.3">It
+                        is not clear which barrel he is talking about. The common barrel in Hungary
+                        was the so-called <hi rend="italic">akó</hi>, which is <hi rend="italic"
+                            >urna</hi> or <hi rend="italic">tinna</hi> in Latin. The Bratislava akó
+                        was about 53.72 liters.</note> vini, quod accedet ad cumulum multorum in me
+                    beneficiorum illius maiestatis.</p>
+                <p xml:id="p.3"><placeName>Posonii</placeName> 1530.<note xml:id="note.4">We could
+                        not guess the exact date of this letter. The succession of the letters
+                        suggests that this letter was written after 12 December (see Ep. 132.) but
+                        still in 1530.<ref>olahus.tei.15301212_1</ref></note></p>
             </div>
         </body>
     </text>

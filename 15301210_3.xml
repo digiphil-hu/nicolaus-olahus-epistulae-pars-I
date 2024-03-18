@@ -233,15 +233,14 @@
                     </body>
                 </floatingText>
                 <pb facs="15301210_3_1.jpg"/>
-                <p xml:id="p.1">Ad Franciscum Reway<note type="critic" xml:id="note.1">Ferenc Révay
-                        (1498–1553) was the Secretary of Palatine István Báthori and Protonotary of
-                        the Hungarian Royal Chancellery. After Mohács, he joined King Ferdinand I
-                        and connected his brother István and Jovan Nenad to this party. King
-                        Ferdinand I first appointed him <hi rend="italic">Personalis</hi>
-                        (1527–1542), then he became <hi rend="italic">ispán</hi> of Turóc county in
-                        1532 and Palatine’s Governor from 1542 until his death, see <hi
-                            rend="smallcap">Pálffy</hi> 2009a, 1–20, and <hi rend="smallcap"
-                            >Kasza</hi> 2012, 105.</note>. </p>
+                <p xml:id="p.1">Ad Franciscum Reway<note xml:id="note.1">Ferenc Révay (1498–1553)
+                        was the Secretary of Palatine István Báthori and Protonotary of the
+                        Hungarian Royal Chancellery. After Mohács, he joined King Ferdinand I and
+                        connected his brother István and Jovan Nenad to this party. King Ferdinand I
+                        first appointed him <hi rend="italic">Personalis</hi> (1527–1542), then he
+                        became <hi rend="italic">ispán</hi> of Turóc county in 1532 and Palatine’s
+                        Governor from 1542 until his death, see <hi rend="smallcap">Pálffy</hi>
+                        2009a, 1–20, and <hi rend="smallcap">Kasza</hi> 2012, 105.</note>. </p>
                 <p xml:id="p.2">Scis vetus esse, <quote xml:id="quote.1">fumum <del corresp="Olahus"
                             >paternum</del><add corresp="Olahus" type="corr">patrium</add> igne
                         alieno esse luculentiorem</quote><note type="quote" xml:id="note.quote.1"

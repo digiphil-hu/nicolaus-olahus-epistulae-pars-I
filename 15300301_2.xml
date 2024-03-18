@@ -237,19 +237,18 @@
                     usque pertuleris, coactus paruisses imperio Ioannis </p>
                 <pb facs="15300301_2_2.jpg"/>
                 <p xml:id="p.3">regis, ecce advenit <persName>Bernardus Sarkan</persName>,<note
-                        type="critic" xml:id="note.1">Bernát Sárkány of Ákosháza, Ensign of Queen
-                        Mary of Habsburg. He was <hi rend="italic">familiaris</hi> of the Batthyánys
-                        and known for a codex entry which he recorded in the so-called Keszthelyi
-                        codex in 1522. See <hi rend="smallcap">Kubinyi</hi> 1994, and recently <hi
+                        xml:id="note.1">Bernát Sárkány of Ákosháza, Ensign of Queen Mary of
+                        Habsburg. He was <hi rend="italic">familiaris</hi> of the Batthyánys and
+                        known for a codex entry which he recorded in the so-called Keszthelyi codex
+                        in 1522. See <hi rend="smallcap">Kubinyi</hi> 1994, and recently <hi
                             rend="smallcap">Bilkei</hi> 2015.</note> qui nuntiaret, te et
-                        <persName>Georgium Bathoreum</persName><note type="critic" xml:id="note.2"
-                        >György (II) Báthori. Previously he had been loyal to King Ferdinand I, then
-                        he changed sides.</note> in fide Ferdinandica, amissis licet omnibus bonis
-                    et rebus vestris, constanter permansisse, idque eum certo accepisse ex
-                        <persName>Steffano Swlyok</persName><note type="critic" xml:id="note.3"
-                        >István Sulyok, for more about him and his family see <hi rend="smallcap"
-                            >Szabó</hi> 2008, 170–171.</note> fratre tuo, qui nuper ad
-                        <placeName>Wywar</placeName><note type="critic" xml:id="note.4">Güssing,
+                        <persName>Georgium Bathoreum</persName><note xml:id="note.2">György (II)
+                        Báthori. Previously he had been loyal to King Ferdinand I, then he changed
+                        sides.</note> in fide Ferdinandica, amissis licet omnibus bonis et rebus
+                    vestris, constanter permansisse, idque eum certo accepisse ex <persName>Steffano
+                        Swlyok</persName><note xml:id="note.3">István Sulyok, for more about him and
+                        his family see <hi rend="smallcap">Szabó</hi> 2008, 170–171.</note> fratre
+                    tuo, qui nuper ad <placeName>Wywar</placeName><note xml:id="note.4">Güssing,
                         domain of the Batthyány family.</note> venerat. Mirum in modum laetati sumus
                     vos maxima constantia, singulari integritate praeditos perseverasse in vestra
                     erga regem fide, verum ut is vester animus diuturnus <del corresp="Olahus"

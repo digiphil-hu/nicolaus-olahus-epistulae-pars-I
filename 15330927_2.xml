@@ -233,18 +233,17 @@
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori caesaris.</p>
                 <p xml:id="p.2">De rebus omnibus proxime satis copiose scripseram. Nunc nihil aliud
                     est, de quo scribere possem, quam quod orator <persName>ducis
-                        Mediolani</persName><note type="critic" xml:id="note.1">Francesco II
+                        Mediolani</persName><note xml:id="note.1">Francesco II
                         Sforza.</note><placeName>Gandavum</placeName> ad nos ante duodecimum diem
                     venit, qui huc usque est nos comitatus. Cras caeremoniae sponsaliorum inter
                     ipsum <persName>ducem Mediolanum</persName> et <persName>filiam</persName>
                     iuniorem <persName>regis Christerni</persName> contractorum peragentur.<note
-                        type="critic" xml:id="note.2">See Ep. 390. Note
-                            13.<ref>olahus.tei.15330806_2</ref></note> Ad proximas litteras
-                        meas<note type="critic" xml:id="note.3">Ep.
+                        xml:id="note.2">See Ep. 390. Note 13.<ref>olahus.tei.15330806_2</ref></note>
+                    Ad proximas litteras meas<note xml:id="note.3">Ep.
                             409.<ref>olahus.tei.15330913_2</ref></note> nihil rescripsisti. Si
-                        <persName>Cornelius</persName><note type="critic" xml:id="note.4">Cornelis
-                        de Schepper.</note> nuper rediit, cuperem intelligere, quid reportarit, et
-                    quam pacem simus habituri. </p>
+                        <persName>Cornelius</persName><note xml:id="note.4">Cornelis de
+                        Schepper.</note> nuper rediit, cuperem intelligere, quid reportarit, et quam
+                    pacem simus habituri. </p>
                 <pb facs="15330927_2_2.jpg"/>
                 <p xml:id="p.3">Nam timorem nobis iniecit eius tarditas. <persName>Ioannem
                         Cegledinum</persName> et res meas omnes tibi commendo. De victoria

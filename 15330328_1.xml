@@ -245,12 +245,12 @@
                         <orig>periclium</orig>
                         <supplied>periculum</supplied>
                     </choice> veniat. Si adhuc <persName>Scepperus</persName> caesaris orator ibi
-                        est,<note type="critic" xml:id="note.1">Cornelis de Schepper was in Vienna
-                        at this time, see Ep. 347, and <hi rend="smallcap">Gévay</hi> 1838,
+                        est,<note xml:id="note.1">Cornelis de Schepper was in Vienna at this time,
+                        see Ep. 347, and <hi rend="smallcap">Gévay</hi> 1838,
                             108–109.<ref>olahus.tei.15330402_1</ref></note> cum eo de singulis
                     communicare poteris. Reverendissimo domino <persName>Agriensi</persName><note
-                        type="critic" xml:id="note.2">Tamás Szalaházy.</note> non scripsi, exspecto
-                    enim <persName>reginae</persName> responsum in negotio ipsius, in quo etiam hoc
+                        xml:id="note.2">Tamás Szalaházy.</note> non scripsi, exspecto enim
+                        <persName>reginae</persName> responsum in negotio ipsius, in quo etiam hoc
                     mane reginam sum multis allocutus et dixit se facturam bonum responsum per
                     nuntium primo hinc abiturum. Commenda me illi, et roga, ut mei rerumque mearum
                     meminerit. </p>
@@ -258,7 +258,7 @@
                 <p xml:id="p.3">Tu cura, ut in negotiorum ipsorum extremo reperiaris fidus et
                     diligens ac talis, qualem bonum, fidum et diligentem, accuratumque virum esse
                     decet. Nunc non plura. Si deerunt expensae, <persName>Sarsan</persName><note
-                        type="critic" xml:id="note.3">Andreas Sarson, see Ep. 325. Note
+                        xml:id="note.3">Andreas Sarson, see Ep. 325. Note
                             19.<ref>olahus.tei.15330218_2</ref></note> tibi suppeditabit. Vale.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 28. Martii 1533.</p>
             </div>

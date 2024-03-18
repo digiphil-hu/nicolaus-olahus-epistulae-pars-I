@@ -282,33 +282,32 @@
                     ad Erasmum Roterodamum responsio.</p>
                 <pb facs="15320726_1_2.jpg"/>
                 <p xml:id="p.2">[1.] Cum exspectarem sollicite famulum, quem scripseras<note
-                        type="critic" xml:id="note.1">See Ep. 216. Cap.
-                            3.<ref>olahus.tei.15320227_1</ref></note> te a Paschate<note
-                        type="critic" xml:id="note.2">31 March.</note> praeterito huc missurum, qui
+                        xml:id="note.1">See Ep. 216. Cap. 3.<ref>olahus.tei.15320227_1</ref></note>
+                    te a Paschate<note xml:id="note.2">31 March.</note> praeterito huc missurum, qui
                     certa tibi renuntiaret et nidum praepararet adventuro. Nihilque interea ad tuas
                     litteras prius cogitarem rescribere, ut a servitore potius tuo redeunte, quam ex
                     litteris meam voluntatem et alia, quae ad rem tuam pertinerent, cognosceres.
-                    Ecce praesto mihi fuit <placeName>Gandavi</placeName><note type="critic"
-                        xml:id="note.3">Ghent.</note><persName>Gerardus Henricus
-                        Amsterdamensis</persName><note type="critic" xml:id="note.4">See Ep. 223.
-                        Note 8.<ref>olahus.tei.15320503_1</ref></note> medicus cum tuis litteris,
-                    quo viso gavisus <add corresp="Olahus" type="insert">non parum</add> primo
-                    fueram, arbitratus eum esse tuum illum famulum, quem te huc missurum eras
-                    pollicitus. Verum cum et litteras tuas legissem, et cum eo fuissem, tum de te,
-                    tum de ipsius rebus, quas apud me agebat locutus, cognovi me <del
-                        corresp="Olahus">falso</del><add corresp="Olahus" type="corr">frustra</add>
-                    gavisum fuisse <del corresp="Olahus">gaudio</del>. Nolui igitur committere, quin
-                    post ademptam adventus hominis tui exspectationem diutius silerem.</p>
+                    Ecce praesto mihi fuit <placeName>Gandavi</placeName><note xml:id="note.3"
+                        >Ghent.</note><persName>Gerardus Henricus Amsterdamensis</persName><note
+                        xml:id="note.4">See Ep. 223. Note 8.<ref>olahus.tei.15320503_1</ref></note>
+                    medicus cum tuis litteris, quo viso gavisus <add corresp="Olahus" type="insert"
+                        >non parum</add> primo fueram, arbitratus eum esse tuum illum famulum, quem
+                    te huc missurum eras pollicitus. Verum cum et litteras tuas legissem, et cum eo
+                    fuissem, tum de te, tum de ipsius rebus, quas apud me agebat locutus, cognovi me
+                        <del corresp="Olahus">falso</del><add corresp="Olahus" type="corr"
+                        >frustra</add> gavisum fuisse <del corresp="Olahus">gaudio</del>. Nolui
+                    igitur committere, quin post ademptam adventus hominis tui exspectationem
+                    diutius silerem.</p>
                 <p xml:id="p.3">Scribis litteris tuis tibi esse magnopere gratum, quod
-                        <persName>Levino</persName><note type="critic" xml:id="note.5">Lieven
-                        Algoet.</note> affuerim. Non ei solum, cuius eruditio et mores iam mihi
-                    perspecti sunt, sed nullis etiam aliis, quos tu commendas, quantum in me erit,
-                    sum pro posse meo defuturus; cui quidem <persName>Levino</persName> curavi, ut
-                    reginae nomine singulis diebus octo grossi numerarentur. Interea dum <del
-                        corresp="Olahus">aliquos</del><add corresp="Olahus" type="corr"
-                        >aliquis</add> praeceptis aliis nunc omnibus apud reginam officiis status ei
-                        <del corresp="Olahus">conventiore</del><add corresp="Olahus" type="corr"
-                        >convenientior, de quo</add> provideri possit, vacaturus esset. Quem
+                        <persName>Levino</persName><note xml:id="note.5">Lieven Algoet.</note>
+                    affuerim. Non ei solum, cuius eruditio et mores iam mihi perspecti sunt, sed
+                    nullis etiam aliis, quos tu commendas, quantum in me erit, sum pro posse meo
+                    defuturus; cui quidem <persName>Levino</persName> curavi, ut reginae nomine
+                    singulis diebus octo grossi numerarentur. Interea dum <del corresp="Olahus"
+                        >aliquos</del><add corresp="Olahus" type="corr">aliquis</add> praeceptis
+                    aliis nunc omnibus apud reginam officiis status ei <del corresp="Olahus"
+                        >conventiore</del><add corresp="Olahus" type="corr">convenientior, de
+                        quo</add> provideri possit, vacaturus esset. Quem
                         <persName>regina</persName> apud me reliquit, ut in rebus expediendis eius
                     utar opera. Quo indies utor familiariter, tum quod tuus est alumnus et per te
                     commendatus, tum quod nihil in eo video, quod esset magnopere devitandum, sed
@@ -316,33 +315,33 @@
                 <p xml:id="p.4">[2.] Nuper dum perlustratis <placeName>Brabantiae</placeName> et
                         <placeName>Flandriae</placeName> oppidis cum regina venissemus
                         <placeName>Gandavum</placeName>, casu exceptus fui hospitio in domo
-                        <persName>Anthonii Clavae</persName><note type="critic" xml:id="note.6"
-                        >Antonius Clava of Ghent became a member of the Council of Flanders in 1514.
-                        After his death, his widow Margareta married Damiaan van Vissenaken. See <hi
-                            rend="smallcap">Allen</hi> 1906, 389, and <hi rend="smallcap"
+                        <persName>Anthonii Clavae</persName><note xml:id="note.6">Antonius Clava of
+                        Ghent became a member of the Council of Flanders in 1514. After his death,
+                        his widow Margareta married Damiaan van Vissenaken. See <hi rend="smallcap"
+                            >Allen</hi> 1906, 389, and <hi rend="smallcap"
                             >Neuwelaerts–Bietenholz</hi> 1985.</note> illius, cuius consuetudine
                     olim, dum ille viveret, te usum fuisse intellexi. Is ex filia neptem reliquit,
                     annos natam decem et octo vel circiter virginem non deformem, honestis moribus
                     et, ut mihi visa est, non paucis ornatam animi dotibus. Huius vitricus est
-                        <persName>Damianus Vissenacus</persName><note type="critic" xml:id="note.7"
-                        >Damiaan van Vissenaken.</note> medicus, vir in litteris versatus. Hanc
-                    virginem me inscio <persName>Levinus</persName> et illa hunc deperire coepit.
-                    Fuimus ibi tribus fere hebdomadis. Et interea nihil mihi certo constare poterat
-                    de ipsorum amore, praeterquam quod unus et alter ex meis, nescio quid in aurem
-                    meam hac de re insusurraverat. Ego id silentio praeterii, existimans ea de re,
-                    si verus esset inter eos amor, ipsos mecum locuturos. Triduo antequam reverti
-                    hinc pararemus, <persName>Iacobum Danum</persName><note type="critic"
-                        xml:id="note.8">Jakob Jespersen.</note> τὸν <choice>
+                        <persName>Damianus Vissenacus</persName><note xml:id="note.7">Damiaan van
+                        Vissenaken.</note> medicus, vir in litteris versatus. Hanc virginem me
+                    inscio <persName>Levinus</persName> et illa hunc deperire coepit. Fuimus ibi
+                    tribus fere hebdomadis. Et interea nihil mihi certo constare poterat de ipsorum
+                    amore, praeterquam quod unus et alter ex meis, nescio quid in aurem meam hac de
+                    re insusurraverat. Ego id silentio praeterii, existimans ea de re, si verus
+                    esset inter eos amor, ipsos mecum locuturos. Triduo antequam reverti hinc
+                    pararemus, <persName>Iacobum Danum</persName><note xml:id="note.8">Jakob
+                        Jespersen.</note> τὸν <choice>
                         <orig>κήρυκα</orig>
                         <supplied>κήρυκά</supplied>
-                    </choice> τε καὶ περιφόρον<note type="critic" xml:id="note.9">‘messenger and
-                        disseminator [of your glory]’.</note><add corresp="Olahus" type="insert"
-                        >laudum tuarum</add>, qui et ipse apud me est, <persName>Levinus</persName>
-                    ad me misit rogatum, ut curarem apud <persName>Damianum</persName> medicum
-                    efficere, quo virginis matrimonio potiri posset. Ego multa prius
-                        <persName>Levino</persName> depraedicans, plurimaque matrimonii et commoda
-                    et incommoda, si aliter res caderet, enumerans, precibus tandem, ut saltem
-                    animum <persName>Damiani</persName> experirer eius, victus sum hac de re illum
+                    </choice> τε καὶ περιφόρον<note xml:id="note.9">‘messenger and disseminator [of
+                        your glory]’.</note><add corresp="Olahus" type="insert">laudum tuarum</add>,
+                    qui et ipse apud me est, <persName>Levinus</persName> ad me misit rogatum, ut
+                    curarem apud <persName>Damianum</persName> medicum efficere, quo virginis
+                    matrimonio potiri posset. Ego multa prius <persName>Levino</persName>
+                    depraedicans, plurimaque matrimonii et commoda et incommoda, si aliter res
+                    caderet, enumerans, precibus tandem, ut saltem animum
+                        <persName>Damiani</persName> experirer eius, victus sum hac de re illum
                     allocutus. Qui habito prius, ut iusseram cum uxore consilio respondit virginem
                     ipsam iam ab annis duobus aut tribus non ultimae sortis procos </p>
                 <pb facs="15320726_1_3.jpg"/>
@@ -384,15 +383,15 @@
                     longius, dum conditioni suae melius et certius providere possemus, et ad te ea
                     de re scriberemus. Dixit se ex <placeName>Gandavo</placeName> post sponsalia
                     contracta divertisse ad <persName>decanum Brugensem</persName>,<note
-                        type="critic" xml:id="note.10">Mark Lauwerijns or Marcus Laurinus of Bruges
-                        (1488–1540) was brother of Pieter Lauwerijns, and known as a Dean of St.
-                        Donatian’s in Bruges and a humanist, see <hi rend="smallcap">IJsewijn</hi>
-                        1986a.</note> qui nuper non vulgarem mecum contraxit amicitiam et eum
-                    aliosque suos iam invitasse ad nuptias ad sextum diem Augusti futuri. Ego
-                    audiens eum remque suam <del corresp="Olahus">hic</del><add corresp="Olahus"
-                        type="corr">hoc</add> modo praecipitasse, “Age”, inquio, “fac, ut vis perage
-                    tuas, ut coepisti nuptias. Vereor tamen, ne aliquando facti tui te poeniteat.”
-                    Habes <persName>Levini</persName> negotium, doleo eum tam subito incidisse in
+                        xml:id="note.10">Mark Lauwerijns or Marcus Laurinus of Bruges (1488–1540)
+                        was brother of Pieter Lauwerijns, and known as a Dean of St. Donatian’s in
+                        Bruges and a humanist, see <hi rend="smallcap">IJsewijn</hi> 1986a.</note>
+                    qui nuper non vulgarem mecum contraxit amicitiam et eum aliosque suos iam
+                    invitasse ad nuptias ad sextum diem Augusti futuri. Ego audiens eum remque suam
+                        <del corresp="Olahus">hic</del><add corresp="Olahus" type="corr">hoc</add>
+                    modo praecipitasse, “Age”, inquio, “fac, ut vis perage tuas, ut coepisti
+                    nuptias. Vereor tamen, ne aliquando facti tui te poeniteat.” Habes
+                        <persName>Levini</persName> negotium, doleo eum tam subito incidisse in
                     casses. Virgo honestis, ut audio, nata est parentibus, modestis et laudatis, ut
                     visa est, moribus, laboriosa et otio minime assueta, sed dos </p>
                 <pb facs="15320726_1_4.jpg"/>
@@ -412,22 +411,21 @@
                     nolle reverti. Inter alias causas te iam propter aetatem impatientem esse
                     laboris aulici. Putasne me omnem tuam conditionem ante non praecogitasse, quam
                     proximas ad te darem meas litteras? <persName>Sylvagii</persName><note
-                        type="critic" xml:id="note.11">Jean Le Sauvage.</note> exemplum te non
-                    moveat. Si redieris, a nemine cogeris, nisi tua sponte id facere velis, ad
-                    subeundam aulicam servitutem. Sive hic ubi <persName>regina</persName> est, sive
-                    alibi malis, licebit tibi deligere locum <add corresp="Olahus" type="insert"
-                        >ad</add> habitandum, meo tamen iudicio hic apud
-                        <persName>reginam</persName> locus est tibi futurus multas ob causas
-                    commodior, et dare operam, ut nunc istic facis, litteris remque Christianam tuis
-                    curare augereque vigiliis, interea tuam habiturus esses in patria pensionem, sub
-                    nomine reginali in quiete, in otio, dumque tibi placeret aut reginae esset
-                    voluntas, eam inviseres a nemine alio, quam ab ea penderes. Verum times,
-                    monachos ne tibi maledicant et obloquantur. Id nunquam ubicumque sis, dum
-                    spiritum trahes, vitare <del corresp="Olahus">non</del> potes maxime multis a te
-                    iure editis scriptis in falsos monachos. Quis enim aliorum maledicentiam
-                    mortalis effugere potest Christo etiam talia in carne ad mortem usque passo?
-                    Quare ut non ego solus te vocarem, <persName>dominus
-                        Panormitanus</persName><note type="critic" xml:id="note.12">Jean
+                        xml:id="note.11">Jean Le Sauvage.</note> exemplum te non moveat. Si
+                    redieris, a nemine cogeris, nisi tua sponte id facere velis, ad subeundam
+                    aulicam servitutem. Sive hic ubi <persName>regina</persName> est, sive alibi
+                    malis, licebit tibi deligere locum <add corresp="Olahus" type="insert">ad</add>
+                    habitandum, meo tamen iudicio hic apud <persName>reginam</persName> locus est
+                    tibi futurus multas ob causas commodior, et dare operam, ut nunc istic facis,
+                    litteris remque Christianam tuis curare augereque vigiliis, interea tuam
+                    habiturus esses in patria pensionem, sub nomine reginali in quiete, in otio,
+                    dumque tibi placeret aut reginae esset voluntas, eam inviseres a nemine alio,
+                    quam ab ea penderes. Verum times, monachos ne tibi maledicant et obloquantur. Id
+                    nunquam ubicumque sis, dum spiritum trahes, vitare <del corresp="Olahus"
+                        >non</del> potes maxime multis a te iure editis scriptis in falsos monachos.
+                    Quis enim aliorum maledicentiam mortalis effugere potest Christo etiam talia in
+                    carne ad mortem usque passo? Quare ut non ego solus te vocarem,
+                        <persName>dominus Panormitanus</persName><note xml:id="note.12">Jean
                         Carondelet.</note> etiam ad te scribit. Ei postquam nihil certi a te habere
                     potui responsi, litteras tuas ad me datas ostendi, fac igitur resolve tuum
                     animum et significa nobis, an reverti velis.</p>
@@ -435,7 +433,7 @@
                         >Hungaricum</del><add corresp="Olahus" type="corr">Burgundiacum</add>, cuius
                     te usus istic detinet, sed omnia alia vina, quibus antea es usus et tuam
                     nutrivisti olim aetatem. Habebis etiam aliquando Hungaricum, non peius neque
-                    insuavius Burgundiaco,<note type="critic" xml:id="note.13">See ep. 223. Cap.
+                    insuavius Burgundiaco,<note xml:id="note.13">See ep. 223. Cap.
                             1.<ref>olahus.tei.15320503_1</ref></note> quod ex
                         <placeName>Hungaria</placeName><persName>reginae</persName> huc navi allatum
                     est, et si pax in mea <placeName>Hungaria</placeName> secuta fuerit, afferetur
@@ -452,20 +450,20 @@
                 <p xml:id="p.12">et reginae suam messem reliquerit. Ex qua bonis viris subvenire
                     posset.</p>
                 <p xml:id="p.13">Non episcopus solum <persName>Culmensis</persName>,<note
-                        type="critic" xml:id="note.14">Jan Dantyszek, see <hi rend="smallcap">De
-                            Vocht</hi> 1961, 111.</note> sed ego quoque <del corresp="Olahus">non
-                        parum</del><add corresp="Olahus" type="corr">plurimum</add> succensueram
-                    Dano meo propter epistolam tuam circumlatam; sed id fecit suo more, veniam
-                    itaque meretur. Ego utor eo in rudimentis solis Graecae grammatices, ad cetera
-                    parcius. Est enim a puero in illis versatus in ludis litterariis. Tu si vis ad
-                    te ornandum et nomen tuum efferendum eius uti opera, scribe ad eum, et utere eo
-                    τῷ ἐγκωμιάστῃ<note type="critic" xml:id="note.15">‘[use his] laudatory
-                        [services]’.</note> laudatissimo viro. <persName>Gerardum</persName><note
-                        type="critic" xml:id="note.16">Gerardus Henricus Amsterdamensis, see 223.
-                        Note 8.<ref>olahus.tei.15320503_1</ref></note> medicum libenter vidi,
-                    curavi, ut haberet responsum a <persName>regina</persName> non omnino <add
-                        corresp="Olahus" type="insert">ei</add> ingratum.
-                        <persName>Reginae</persName> in te favorem, ut petis, pergam alere.</p>
+                        xml:id="note.14">Jan Dantyszek, see <hi rend="smallcap">De Vocht</hi> 1961,
+                        111.</note> sed ego quoque <del corresp="Olahus">non parum</del><add
+                        corresp="Olahus" type="corr">plurimum</add> succensueram Dano meo propter
+                    epistolam tuam circumlatam; sed id fecit suo more, veniam itaque meretur. Ego
+                    utor eo in rudimentis solis Graecae grammatices, ad cetera parcius. Est enim a
+                    puero in illis versatus in ludis litterariis. Tu si vis ad te ornandum et nomen
+                    tuum efferendum eius uti opera, scribe ad eum, et utere eo τῷ ἐγκωμιάστῃ<note
+                        xml:id="note.15">‘[use his] laudatory [services]’.</note> laudatissimo viro.
+                        <persName>Gerardum</persName><note xml:id="note.16">Gerardus Henricus
+                        Amsterdamensis, see 223. Note 8.<ref>olahus.tei.15320503_1</ref></note>
+                    medicum libenter vidi, curavi, ut haberet responsum a
+                        <persName>regina</persName> non omnino <add corresp="Olahus" type="insert"
+                        >ei</add> ingratum. <persName>Reginae</persName> in te favorem, ut petis,
+                    pergam alere.</p>
                 <p xml:id="p.14">Hanc verbosiorem inconditamque historiam potius quam epistolam,
                     libertatemque scribendi ex pectore sincero apertoque profectam boni consule,
                     quam nisi viceris tuis prolixioribus, scribam deinceps longiores, ut taedium

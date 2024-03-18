@@ -248,20 +248,20 @@
                 <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
                 <p xml:id="p.2">[1.] Reverende Domine, Amice nobis Honorande, salutem et
                     commendationem. Nudiustertius redditae nobis sunt litterae Dominationis Vestrae
-                    Reverendae de XXIIII. Octobris datae,<note type="critic" xml:id="note.1">We do
-                        not know the letter referred to by Oláh.</note> in quibus inter cetera
-                    scribit nos ad priores litteras suas nihil respondisse. Profecto quantum nobis
-                    occurrit, nullas litteras Dominationis Vestrae Reverendae adeo negleximus, ut
-                    non aliquid rescripsissemus. Nolumus enim eo adduci, ut litteras Dominationis
-                    Vestrae quisquam nobis minus gratas fuisse dicat, fuerunt enim pergratissimae,
-                    tum eo nomine, quod velut e peregrino orbe ad nos allatae sunt, tum maxime quod
-                    a tali loco profectae nihil contemnendae rei continebant. Est enim Dominatio
-                    Vestra apud reginalem maiestatem paene ad latus, continua autem est
-                        <persName>maiestas reginalis</persName> cum sacra <persName>caesarea
-                        maiestate</persName>, fratre suo, unde nostra et omnium Hungarorum spes
-                    hactenus pependit, ut nisi illius ope ab his malis, quae iam pridem nos premunt,
-                    vel potius iam attriverunt, liberari posse credamus, hinc Dominatio Vestra
-                    aestimet, an litterae suae apud nos viles esse potuerunt.</p>
+                    Reverendae de XXIIII. Octobris datae,<note xml:id="note.1">We do not know the
+                        letter referred to by Oláh.</note> in quibus inter cetera scribit nos ad
+                    priores litteras suas nihil respondisse. Profecto quantum nobis occurrit, nullas
+                    litteras Dominationis Vestrae Reverendae adeo negleximus, ut non aliquid
+                    rescripsissemus. Nolumus enim eo adduci, ut litteras Dominationis Vestrae
+                    quisquam nobis minus gratas fuisse dicat, fuerunt enim pergratissimae, tum eo
+                    nomine, quod velut e peregrino orbe ad nos allatae sunt, tum maxime quod a tali
+                    loco profectae nihil contemnendae rei continebant. Est enim Dominatio Vestra
+                    apud reginalem maiestatem paene ad latus, continua autem est <persName>maiestas
+                        reginalis</persName> cum sacra <persName>caesarea maiestate</persName>,
+                    fratre suo, unde nostra et omnium Hungarorum spes hactenus pependit, ut nisi
+                    illius ope ab his malis, quae iam pridem nos premunt, vel potius iam
+                    attriverunt, liberari posse credamus, hinc Dominatio Vestra aestimet, an
+                    litterae suae apud nos viles esse potuerunt.</p>
                 <p xml:id="p.3">Sed ut nostra iam attingamus, communis omnium lamentatio est spe </p>
                 <pb facs="15311206_1_2.jpg"/>
                 <p xml:id="p.4">externi auxilii in hanc miseriam regnum hoc pervenisse, cum verbo
@@ -276,41 +276,39 @@
                     non audent, cum toties sub magna spe, quae verbis offerebatur, in maxima
                     pericula incidissent. Negant amplius verbis ac pollicitacionibus se commissuros,
                     ob id conventum indixerunt ad Kalendas Ianuarias in villam quandam
-                        <placeName>Kenese</placeName><note type="critic" xml:id="note.2"
-                        >Balatonkenese.</note> prope lacum <placeName>Balatini</placeName>:<note
-                        type="critic" xml:id="note.3">Lake Balaton.</note> huc dominos ac militares
-                    et nobiles quosque convocant, quo communibus consiliis de salute (amissis enim
-                    rebus et fortunis, vita tantum restat) et incolumitate tractent statuantque,
-                    quid potissimum in hoc rerum aestu sequantur. Et quantum nobis intelligi datur,
-                    hoc agitur, ut quando destitutos omnium auxilio ac protectione se vident, sique
-                    salutem nulla ratione sperare possint, vel saltem id agant, ut vita quamdiu
-                    possit, protrahatur, ne ipsi primi intereant aliis otiose spectantibus.</p>
+                        <placeName>Kenese</placeName><note xml:id="note.2">Balatonkenese.</note>
+                    prope lacum <placeName>Balatini</placeName>:<note xml:id="note.3">Lake
+                        Balaton.</note> huc dominos ac militares et nobiles quosque convocant, quo
+                    communibus consiliis de salute (amissis enim rebus et fortunis, vita tantum
+                    restat) et incolumitate tractent statuantque, quid potissimum in hoc rerum aestu
+                    sequantur. Et quantum nobis intelligi datur, hoc agitur, ut quando destitutos
+                    omnium auxilio ac protectione se vident, sique salutem nulla ratione sperare
+                    possint, vel saltem id agant, ut vita quamdiu possit, protrahatur, ne ipsi primi
+                    intereant aliis otiose spectantibus.</p>
                 <p xml:id="p.5">[2.] Nec desunt tamen, qui non modo salutem et incolumitatem, verum
                     etiam castrorum finitimorum omnium praeter
-                        <placeName>Nandoralbam</placeName><note type="critic" xml:id="note.4"
-                        >Belgrade.</note> restitutionem polliceantur, modo Hungari in concordiam
-                    redeant et <persName>Ioannem</persName> principem recognoscant, hoc et
-                    imperatoris Turcarum et <persName>Ioannis</persName> nomine ubique spargitur,
-                    putant autem <persName>Ioannem</persName> medio <persName>Gritti</persName><note
-                        type="critic" xml:id="note.5">Ludovico Gritti.</note> posse efficere, ut
-                    arces illae Hungaris restituantur. Haec in quantum ab aliis didicimus,
-                    Dominationi Vestrae scribimus. Convocat et princeps noster praecipuos quosque
-                    subditos ad se <placeName>Lyncium</placeName><note type="critic" xml:id="note.6"
-                        >Linz.</note> ad festum Circumcisionis Domini,<note type="critic"
-                        xml:id="note.7">1 January. Thurzó wrote almost the same sentences to King
-                        Ferdinand I on 24 November, see <hi rend="smallcap">Erdélyi</hi> 2005,
-                        300.</note> ut de rebus Hungaricis tractet, sed praeter dominum
-                        <persName>cancellarium</persName>,<note type="critic" xml:id="note.8">Tamás
+                        <placeName>Nandoralbam</placeName><note xml:id="note.4">Belgrade.</note>
+                    restitutionem polliceantur, modo Hungari in concordiam redeant et
+                        <persName>Ioannem</persName> principem recognoscant, hoc et imperatoris
+                    Turcarum et <persName>Ioannis</persName> nomine ubique spargitur, putant autem
+                        <persName>Ioannem</persName> medio <persName>Gritti</persName><note
+                        xml:id="note.5">Ludovico Gritti.</note> posse efficere, ut arces illae
+                    Hungaris restituantur. Haec in quantum ab aliis didicimus, Dominationi Vestrae
+                    scribimus. Convocat et princeps noster praecipuos quosque subditos ad se
+                        <placeName>Lyncium</placeName><note xml:id="note.6">Linz.</note> ad festum
+                    Circumcisionis Domini,<note xml:id="note.7">1 January. Thurzó wrote almost the
+                        same sentences to King Ferdinand I on 24 November, see <hi rend="smallcap"
+                            >Erdélyi</hi> 2005, 300.</note> ut de rebus Hungaricis tractet, sed
+                    praeter dominum <persName>cancellarium</persName>,<note xml:id="note.8">Tamás
                         Szalaházy.</note> qui venturi sint, ignoramus, forte vix quisquam alius
                     aderit. Nos certe nescimus, an cesarea maiestas ad imperialem dietam
-                        <placeName>Ratisbonam</placeName><note type="critic" xml:id="note.9"
-                        >Imperial Diet in Regensburg.</note> se conferat, vel <persName>regem
-                        Franciae</persName><note type="critic" xml:id="note.10">King Frances
-                        I.</note> conveniat, sed nisi maiestas regia aliter rebus suis provideat,
-                    brevi de rebus nostris actum erit. Veremur autem, ne et hi Hungari, quos habet,
-                    deficiant. Nec alia causa arbitramur paucissimos ex his, quos vocavit, ad
-                    maiestatem suam venturos, quam quod imminet illis et existimationis et rerum
-                    omnium iactura.</p>
+                        <placeName>Ratisbonam</placeName><note xml:id="note.9">Imperial Diet in
+                        Regensburg.</note> se conferat, vel <persName>regem Franciae</persName><note
+                        xml:id="note.10">King Frances I.</note> conveniat, sed nisi maiestas regia
+                    aliter rebus suis provideat, brevi de rebus nostris actum erit. Veremur autem,
+                    ne et hi Hungari, quos habet, deficiant. Nec alia causa arbitramur paucissimos
+                    ex his, quos vocavit, ad maiestatem suam venturos, quam quod imminet illis et
+                    existimationis et rerum omnium iactura.</p>
                 <p xml:id="p.6">[3.] Praeterea quod </p>
                 <pb facs="15311206_1_3.jpg"/>
                 <p xml:id="p.7">Dominatio Vestra ostendit in litteris suis placere sibi reditum in
@@ -332,13 +330,12 @@
                     defuturam materiam arbitramur, inter tot principum negotia hoc ea ratione
                     petimus, quod speramus forte nonnihil Dominationis Vestrae de his scripturam,
                     quae ad salutem huius afflicti regni pertinerent, poterit Dominatio Vestra
-                    quotiescumque voluerit litteras dare per futaros<note type="critic"
-                        xml:id="note.11">Hungarian <hi rend="italic">futár</hi> in plural accusativ,
-                        meaning ‘messengers’.</note> commodissime, qui istic quoque non longe a
-                    Dominatione Vestra homines suos habent. Inde ex
-                        <placeName>Augusta</placeName><note type="critic" xml:id="note.12"
-                        >Augsburg.</note> litterae ad nos dirigentur. Dominationem Vestram bene
-                    valere cupimus.</p>
+                    quotiescumque voluerit litteras dare per futaros<note xml:id="note.11">Hungarian
+                            <hi rend="italic">futár</hi> in plural accusativ, meaning
+                        ‘messengers’.</note> commodissime, qui istic quoque non longe a Dominatione
+                    Vestra homines suos habent. Inde ex <placeName>Augusta</placeName><note
+                        xml:id="note.12">Augsburg.</note> litterae ad nos dirigentur. Dominationem
+                    Vestram bene valere cupimus.</p>
                 <p xml:id="p.9">Ex arce nostra <placeName>Sempthe</placeName> sexto die Decembris
                     1531.</p>
             </div>

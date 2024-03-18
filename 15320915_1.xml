@@ -232,13 +232,12 @@
                 </floatingText>
                 <pb facs="15320915_1_1.jpg"/>
                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Idem</add> ad Paulum
-                        Rovenum.<note type="critic" xml:id="note.1">We do not know him more
-                        closely.</note></p>
+                        Rovenum.<note xml:id="note.1">We do not know him more closely.</note></p>
                 <p xml:id="p.2">Non possum satis mirari, quid causae sit tui tam diuturni silentii,
                     dum hinc a me fueras profectus ad <persName>cardinalem
-                        Tridentinum</persName>,<note type="critic" xml:id="note.2">Bernhard von
-                        Cles.</note> pollicitus eras mihi te brevi rediturum, etiamsi cum tua aliqua
-                    id futurum esset incommoditate. Nunc tamen menses duos integros <choice>
+                        Tridentinum</persName>,<note xml:id="note.2">Bernhard von Cles.</note>
+                    pollicitus eras mihi te brevi rediturum, etiamsi cum tua aliqua id futurum esset
+                    incommoditate. Nunc tamen menses duos integros <choice>
                         <orig>ales</orig>
                         <supplied>abes</supplied>
                     </choice>, neque certi aliquid a te intelligo, <choice>

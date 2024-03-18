@@ -241,14 +241,13 @@
                     in me esse benevolum et res meas omni, quo possis, libenter prosequi patrocinio,
                     sicuti aliquoties id mihi verbis declarasti. Hac fiducia scribo ad te
                     confidenter rogoque, tua authoritate efficias, ut villae meae
-                        <placeName>Dobzae</placeName>,<note type="critic" xml:id="note.1"
-                        >Nagydobsza, see Ep. 366. Note 6.<ref>olahus.tei.15330518_1</ref></note>
-                    quae sunt prope oppidium <placeName>Kalmancheth</placeName>,<note type="critic"
-                        xml:id="note.2">Kálmáncsa.</note> quod nunc tu possides, iuxta regis
-                    mandatum ad manus hominis mei remittantur, et pro servitiis meis velis hominem
-                    meum in illis usque ad meum reditum defendere, ac per servitores tuos, qui sunt
-                    in <placeName>Kalmanchet</placeName> defendi facere. <persName>Ioanni
-                        Bodo</persName><note type="critic" xml:id="note.3">János Bodó.</note>
+                        <placeName>Dobzae</placeName>,<note xml:id="note.1">Nagydobsza, see Ep. 366.
+                        Note 6.<ref>olahus.tei.15330518_1</ref></note> quae sunt prope oppidium
+                        <placeName>Kalmancheth</placeName>,<note xml:id="note.2">Kálmáncsa.</note>
+                    quod nunc tu possides, iuxta regis mandatum ad manus hominis mei remittantur, et
+                    pro servitiis meis velis hominem meum in illis usque ad meum reditum defendere,
+                    ac per servitores tuos, qui sunt in <placeName>Kalmanchet</placeName> defendi
+                    facere. <persName>Ioanni Bodo</persName><note xml:id="note.3">János Bodó.</note>
                     consanguineo tuo alia ordinare poterimus. Nam ista bona sunt mea, nonque
                     convenit me illis privari. Affini tuo alia apud <persName>regem</persName>
                     curabimus suo tempore. Patrocinium tuum, quod in me absentem nunc ostenderis

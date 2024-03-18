@@ -236,11 +236,11 @@
                     </body>
                 </floatingText>
                 <pb facs="15320705_1_1.jpg"/>
-                <p xml:id="p.1">Damianus Vissenacus<note type="critic" xml:id="note.1">Damiaan van
-                        Vissenaken of Tienen († after 1541) was a physician, who resided in Ghent.
-                        He married the widow of Antonius Clava and wed his stepdaughter to Lieven
-                        Algoet, see <hi rend="smallcap">Nauwelaerts</hi> 1987.</note> domino Nicolao
-                    Olao thesaurario Albensi secretario reginae Mariae.</p>
+                <p xml:id="p.1">Damianus Vissenacus<note xml:id="note.1">Damiaan van Vissenaken of
+                        Tienen († after 1541) was a physician, who resided in Ghent. He married the
+                        widow of Antonius Clava and wed his stepdaughter to Lieven Algoet, see <hi
+                            rend="smallcap">Nauwelaerts</hi> 1987.</note> domino Nicolao Olao
+                    thesaurario Albensi secretario reginae Mariae.</p>
                 <p xml:id="p.2">Ne me hominem malae fidei existimares, Vir Eximie atque Amicorum
                     Optime, tibi exploratum volui filiae meae patruos ceterosque amicos totum
                     matrimonii eius negotium retorsisse in dorsum meum. Itaque hanc provinciam
@@ -248,10 +248,10 @@
                     commiserunt, eam tamen profecto non lubens suscipio, si quidem quemadmodum
                     nosti, si non ex sententia res cesserit, nihil esse mali, quod non eius auctori
                     imprecentur ii, qui inter sese contraxere, tam periculosa res est conflare
-                    matrimonium utrique, et tuo <persName>Levino</persName>,<note type="critic"
-                        xml:id="note.2">Lieven Algoet. About the case of Algoet and Vissenaken’s
-                        step-daughter, see 15320726_1.</note> cuius et mores et virtutes apud me tam
-                    sincere praedicasti, et filiae meae utilitati atque commodo fore, sentias, tibi
+                    matrimonium utrique, et tuo <persName>Levino</persName>,<note xml:id="note.2"
+                        >Lieven Algoet. About the case of Algoet and Vissenaken’s step-daughter, see
+                        15320726_1.</note> cuius et mores et virtutes apud me tam sincere
+                    praedicasti, et filiae meae utilitati atque commodo fore, sentias, tibi
                     obsequetur, tui Damiani animum vicisti. Geratur itaque mos Olao tum ob sui
                     ipsius prudentiam, tum etiam ob eum animum, quem erga omnes doctos nostrum
                     praecipue <persName>Erasmum</persName>, atque adeo Erasmicos gerit.

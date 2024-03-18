@@ -254,41 +254,41 @@
                     nescio. Itaque satius esse duxi paulo serius redire, quo maxime cupio, quam
                     corpusculum hoc sit quassum et attenuatum in manifestum vitae discrimen
                     praecipitare.</p>
-                <p xml:id="p.3">Praemisi <persName>Levinum</persName>,<note type="critic"
-                        xml:id="note.1">Lieven Algoet, about his return from Erasmus, see Ep.
+                <p xml:id="p.3">Praemisi <persName>Levinum</persName>,<note xml:id="note.1">Lieven
+                        Algoet, about his return from Erasmus, see Ep.
                             397.<ref>olahus.tei.15330821_1</ref></note> ut per amicos certos istic
                     mihi paret nidum, quo me statim recipiam. Miror, quis hoc suaserit, ut
                         <persName>Levinus</persName> pecuniam acciperet
-                        <placeName>Dolae</placeName>.<note type="critic" xml:id="note.2"
-                        >Dol-de-Bretagne.</note> Poterat numerari <persName>Fuggeris</persName></p>
+                        <placeName>Dolae</placeName>.<note xml:id="note.2">Dol-de-Bretagne.</note>
+                    Poterat numerari <persName>Fuggeris</persName></p>
                 <pb facs="15330823_1_2.jpg"/>
-                <p xml:id="p.4">aut <persName>Scheto</persName>,<note type="critic" xml:id="note.3"
-                        >Erasmus Schets.</note> et hic accepissem per syngrapham. Nunc in trecentis
-                    florenis perdo supra sexaginta. Coronatus enim istic aestimatur 37,
+                <p xml:id="p.4">aut <persName>Scheto</persName>,<note xml:id="note.3">Erasmus
+                        Schets.</note> et hic accepissem per syngrapham. Nunc in trecentis florenis
+                    perdo supra sexaginta. Coronatus enim istic aestimatur 37,
                         <placeName>Dolae</placeName> 47. Quod si timebatur periculum itineris,
                         <persName>Levinus</persName> a <placeName>Dola</placeName> sex dierum
                     itinere venit, via minime tuta. Domina <persName>Margareta</persName><note
-                        type="critic" xml:id="note.4">Margaret of Austria, Duchess of Savoy.</note>
-                    liberalioribus conditionibus me vocarat, quam nunc vocor, sed si me nihil aliud
-                    invitaret istuc, quam aulae liberalitas, pedem non moverem, patriae caritas me
-                    trahit. Quod si quid inciderit, ut hic sit hiemandum, cum Zephyris et prima
-                    hirundine me exspectabis aliquanto, ut spero, vegetiorem, potissima languoris
-                    causa fuit vinum Burgundiacum, quod missum est, nauseabundum et stomacho meo
-                    inimicum. Nunc curabitur mitius, porro si necessitas erit,<note type="critic"
-                        xml:id="note.5">In Allen edition, instead of <hi rend="italic">erit</hi> we
-                        find other word, see <hi rend="smallcap">Allen</hi> 1941, 292:
-                        ᾗπερ.</note><quote xml:id="quote.1">οὐδὲ θεοὶ μάχονται κατὰ τὴν
-                        παροιμίαν</quote><note type="quote" xml:id="note.quote.1">Cf. Simonides
-                        8,20, and Erasm. Ep. 2810, see <hi rend="smallcap">Allen</hi> (1941),
-                        224.</note><note type="critic" xml:id="note.6">‘according to the proverb,
-                        the gods do not fight, either’.</note> non patiatur hinc movere castra,
-                    reddam viaticum, ne quis suspicetur me captasse tantillum pecuniae. Quamquam ex
-                    caesaris pensione iam debentur tria millia librarum Francicarum ac trecenta, et
-                    eo amplius. Multis de causis non expedit hinc solvere, nisi condito testamento,
-                    quod exteris in hoc oppido difficillimum est. Cuius negotii iamdiu satago, nec
-                    perago. Obsecro, mi Olae, ut <persName>Levinum</persName> nostrum quemadmodum
-                    coepisti, pergas evehere, donec habeat aliquid solidae fortunae. Multum ille iam
-                    debet tibi et ego illius causa. Absolve benignitatis tuae munus. Serenissimae
+                        xml:id="note.4">Margaret of Austria, Duchess of Savoy.</note> liberalioribus
+                    conditionibus me vocarat, quam nunc vocor, sed si me nihil aliud invitaret
+                    istuc, quam aulae liberalitas, pedem non moverem, patriae caritas me trahit.
+                    Quod si quid inciderit, ut hic sit hiemandum, cum Zephyris et prima hirundine me
+                    exspectabis aliquanto, ut spero, vegetiorem, potissima languoris causa fuit
+                    vinum Burgundiacum, quod missum est, nauseabundum et stomacho meo inimicum. Nunc
+                    curabitur mitius, porro si necessitas erit,<note xml:id="note.5">In Allen
+                        edition, instead of <hi rend="italic">erit</hi> we find other word, see <hi
+                            rend="smallcap">Allen</hi> 1941, 292: ᾗπερ.</note><quote
+                        xml:id="quote.1">οὐδὲ θεοὶ μάχονται κατὰ τὴν παροιμίαν</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Simonides 8,20, and Erasm. Ep. 2810,
+                        see <hi rend="smallcap">Allen</hi> (1941), 224.</note><note xml:id="note.6"
+                        >‘according to the proverb, the gods do not fight, either’.</note> non
+                    patiatur hinc movere castra, reddam viaticum, ne quis suspicetur me captasse
+                    tantillum pecuniae. Quamquam ex caesaris pensione iam debentur tria millia
+                    librarum Francicarum ac trecenta, et eo amplius. Multis de causis non expedit
+                    hinc solvere, nisi condito testamento, quod exteris in hoc oppido difficillimum
+                    est. Cuius negotii iamdiu satago, nec perago. Obsecro, mi Olae, ut
+                        <persName>Levinum</persName> nostrum quemadmodum coepisti, pergas evehere,
+                    donec habeat aliquid solidae fortunae. Multum ille iam debet tibi et ego illius
+                    causa. Absolve benignitatis tuae munus. Serenissimae
                         <persName>reginae</persName> nunc non scribo, quamquam id flagitabat
                         <persName>Levinus</persName>. Distrahor aliis. Bene vale, Patrone Unice!</p>
                 <p xml:id="p.5"><placeName>Friburgi</placeName> 23. die mensis Augusti 1533.</p>

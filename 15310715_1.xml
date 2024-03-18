@@ -235,7 +235,7 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1"> Ad eundem.<note type="critic" xml:id="note.1">See Ep. 159. Note
+                <p xml:id="p.1"> Ad eundem.<note xml:id="note.1">See Ep. 159. Note
                             1.<ref>olahus.tei.15310711_1</ref></note></p>
                 <p xml:id="p.2">Si quid velis me facere, Amicorum Optime, fac ut quamprimum
                     significes. Nihil est tam grave, nihilque tam asperum, quod non tua causa mihi

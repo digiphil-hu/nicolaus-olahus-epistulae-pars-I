@@ -235,17 +235,17 @@
                     </body>
                 </floatingText>
                 <pb facs="15320917_2_1.jpg"/>
-                <p xml:id="p.1">Ad episcopum Tornacensem<note type="critic" xml:id="note.1">Charles
-                        de Croÿ (1506–1564) Prince of Chimay, matriculated at the University of
-                        Leuven in 1523, his teachers included Adriaan van Baerland. From 1525, he
-                        was Bishop of the See of Tournai, see <hi rend="smallcap">Moreau</hi>
-                        1985a.</note><add corresp="Olahus" type="insert">Nicolaus Olahus</add>. </p>
+                <p xml:id="p.1">Ad episcopum Tornacensem<note xml:id="note.1">Charles de Croÿ
+                        (1506–1564) Prince of Chimay, matriculated at the University of Leuven in
+                        1523, his teachers included Adriaan van Baerland. From 1525, he was Bishop
+                        of the See of Tournai, see <hi rend="smallcap">Moreau</hi> 1985a.</note><add
+                        corresp="Olahus" type="insert">Nicolaus Olahus</add>. </p>
                 <p xml:id="p.2">Cum anxio sollicitoque essemus animo, ac inter spem metumque, ut
                     dicunt, versaremur, quid futurum esset de <placeName>Ginsii</placeName><note
-                        type="critic" xml:id="note.2">Kőszeg, see 15320829_2. Note 3.</note> oppidi
-                    oppugnatione, ecce nuntius nobis affuit, significans Turcam tentatis prius
-                    omnibus viis, quas potuit oppugnationes et aliquot in locis cuniculis aggeribus
-                    illius oppidi frustra admotis, ab obsidione discessisse, castraque sua versus
+                        xml:id="note.2">Kőszeg, see 15320829_2. Note 3.</note> oppidi oppugnatione,
+                    ecce nuntius nobis affuit, significans Turcam tentatis prius omnibus viis, quas
+                    potuit oppugnationes et aliquot in locis cuniculis aggeribus illius oppidi
+                    frustra admotis, ab obsidione discessisse, castraque sua versus
                         <placeName>Wiennam</placeName> ad duo milliaria posuisse. Quo nuntio accepto
                     mirifice laetati <choice>
                         <orig>summus</orig>
@@ -263,10 +263,9 @@
                     fecisse arbitramur, ut cum a suis exploratoribus, quos <choice>
                         <orig>proculdio</orig>
                         <supplied>proculdubio</supplied>
-                    </choice> multos inter malos Christianos habet<note type="critic"
-                        xml:id="note.3">For more on these Christians, see <hi rend="smallcap"
-                            >Lachmann–Haase</hi> 2010, 142.</note>, de caesaris nostri apparatibus
-                    ac adventu certior factus sit, </p>
+                    </choice> multos inter malos Christianos habet<note xml:id="note.3">For more on
+                        these Christians, see <hi rend="smallcap">Lachmann–Haase</hi> 2010,
+                        142.</note>, de caesaris nostri apparatibus ac adventu certior factus sit, </p>
                 <pb facs="15320917_2_2.jpg"/>
                 <p xml:id="p.3">voluerit prior locum occupare ad congressum aptiorem. Qui tamen
                     ipsius adventus non parum animi nostris dedit, nam quemadmodum in hunc diem

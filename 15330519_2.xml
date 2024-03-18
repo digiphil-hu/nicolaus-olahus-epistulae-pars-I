@@ -233,10 +233,10 @@
                 <p xml:id="p.2">Nunc nihil aliud ad te scribere possum, quam quod meam omnem operam
                     tibi commendem, quae ad tuam omnem voluntatem parata sunt omni tempore. Restat
                     modo, ut in iis, quibus aliquid gratificari possim, iubeas, quid velis.
-                        <persName>Coniux</persName><note type="critic" xml:id="note.1">Anna Isabella
-                        (Elizabeth) Donche.</note><persName>Cornelii</persName><note type="critic"
-                        xml:id="note.2">Cornelis de Schepper.</note> nostri misit mihi ad eum
-                    litteras, quas cum praesentibus ad te misi. Rogo, velis eas, si tutum erit, vel
+                        <persName>Coniux</persName><note xml:id="note.1">Anna Isabella (Elizabeth)
+                        Donche.</note><persName>Cornelii</persName><note xml:id="note.2">Cornelis de
+                        Schepper.</note> nostri misit mihi ad eum litteras, quas cum praesentibus ad
+                    te misi. Rogo, velis eas, si tutum erit, vel
                         <placeName>Constantinopolim</placeName> per regios tabellarios mittere, vel
                     si ita videbitur, istic retinere usque ad ipsius reditum. Ego, ut mihi iussisti,
                     quotiescumque datur occasio, non praetermisi neque praetermittam apud
@@ -245,12 +245,11 @@
                 <pb facs="15330519_2_2.jpg"/>
                 <p xml:id="p.3">declarare. Meas res, si quae erit particularis aut generalis
                     congregatio Hungarica, velis apud <persName>maiestatem regiam</persName> et
-                    reverendissimum <persName>dominum Tridentinum</persName><note type="critic"
-                        xml:id="note.3">Bernhard von Cles.</note> aliosque, apud quos opus erit,
-                    habere commendatas, simul etiam <persName>sacellanum</persName><note
-                        type="critic" xml:id="note.4">János Czeglédi.</note> meum et patrocinio et
-                    favore in rebus meis iuvare, quod omni opera a te promerebor. Vale
-                    feliciter.</p>
+                    reverendissimum <persName>dominum Tridentinum</persName><note xml:id="note.3"
+                        >Bernhard von Cles.</note> aliosque, apud quos opus erit, habere
+                    commendatas, simul etiam <persName>sacellanum</persName><note xml:id="note.4"
+                        >János Czeglédi.</note> meum et patrocinio et favore in rebus meis iuvare,
+                    quod omni opera a te promerebor. Vale feliciter.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 19. Maii 1533.</p>
             </div>
         </body>

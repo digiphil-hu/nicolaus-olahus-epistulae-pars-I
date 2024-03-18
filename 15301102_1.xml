@@ -237,7 +237,7 @@
                 <pb facs="15301102_1_1.jpg"/>
                 <p xml:id="p.1">Ad eundem.</p>
                 <p xml:id="p.2">[1.] Nondum mecum constituere potui, plusne gloriae adferat nobis
-                    amicus ille noster, de quo proxime<note type="critic" xml:id="note.1">Ep.
+                    amicus ille noster, de quo proxime<note xml:id="note.1">Ep.
                             108.<ref>olahus.tei.15301101_1</ref></note> ad te scripseram, an
                     turpitudinis. Non possum ipsius facta ignominiosa enumerare, ne tibi plus quam
                     tempus patitur occupato multis molestus esse videar, hoc tamen unum praeterire
@@ -271,9 +271,9 @@
                     meae sint nunc in acie novaculae, et tuae humanitatis, officii et laboris non
                     minimum indigeam, fac reperiam te talem, quem semper reperturum sum confisus.
                     Quale sit meum, de quo admoniturus sim, negotium, intelliges nunc aliqua ex
-                    parte, ex meo <persName>Ioanne</persName>.<note type="critic" xml:id="note.2"
-                        >Probably János Czeglédi.</note>. Apertius tamen postea ex meis litteris,
-                    quas ad te daturus sum, si Ioannem bonis avibus remiseris. Vale.</p>
+                    parte, ex meo <persName>Ioanne</persName>.<note xml:id="note.2">Probably János
+                        Czeglédi.</note>. Apertius tamen postea ex meis litteris, quas ad te daturus
+                    sum, si Ioannem bonis avibus remiseris. Vale.</p>
                 <p xml:id="p.5">Ex <placeName>Augusta</placeName> II. Novembris MDXXX.</p>
             </div>
         </body>

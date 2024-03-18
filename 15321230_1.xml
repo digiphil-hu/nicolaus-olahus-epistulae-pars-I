@@ -253,8 +253,8 @@
                     </choice> te post Turcae reditum et nostrorum principum mutationem ad
                         <placeName>Transsylvaniam</placeName> fuisse reversum cum exercitu regio,
                     quem putabam, eo fuisse missum, hanc ob rem nullas meas ad te dedi litteras. Si
-                    enim scivissem te vel <placeName>Posonii</placeName><note type="critic"
-                        xml:id="note.1">Bratislava.</note> agere, vel in curia regis, non <choice>
+                    enim scivissem te vel <placeName>Posonii</placeName><note xml:id="note.1"
+                        >Bratislava.</note> agere, vel in curia regis, non <choice>
                         <orig>commissem</orig>
                         <supplied>commisissem</supplied>
                     </choice>, ut nullas meas haberes. Nunc primum ex litteris </p>
@@ -273,24 +273,23 @@
                     melius, quam ego, novisti. Tua ab ineunte aetate mea singularis in me
                     benevolentia et meus item in te amor me movet, ut de tuis et meis privatis ad te
                     scribam. Si concordiam aliquam rex faciet, non parvum tibi prodesse potes, cum
-                    praesens sis in curia; arces <placeName>Chycho</placeName><note type="critic"
-                        xml:id="note.2">Cetatea Ciceu.</note> et
-                        <placeName>Kykellew</placeName><note type="critic" xml:id="note.3">Cetatea
-                        de Baltă.</note> permanere apud te et fratres tuos<note type="critic"
-                        xml:id="note.4">Sebestyén, Kristóf, and István Pemfflinger were János
-                        Pemfflinger’s sons, and probably the cousins of Márk Pemfflinger. István
-                        (†1537) was Castellan of Diósgyőr between 1528 and 1537, and Second Chair of
-                        the Hungarian Chamber. Kristóf was <hi rend="italic">aulicus</hi> in the
-                        Court of King Louis II and traded with the Fuggers. On the Pemfflingers see
-                            <hi rend="smallcap">Kubinyi</hi> 1978, and <hi rend="smallcap"
-                            >Kubinyi</hi> 2009, 502, 516, 536–537.</note> poterit, si rem tuam apud
-                    regem sollicitaveris. Ego hinc modo sciam, tuque mihi significes, quid facere
-                    debeam. Curabo, ut <persName>regina</persName> in rebus tuis commendandis ad
-                    regem scribat, cuius litteras aliquid apud illum ponderis facturas existimo. Si
-                    quid igitur velis, fac me certiorem, de me autem et si sciam te propter
-                    benevolentiam, qua in me semper usus est, curam habere etiam in hac mea
-                    absentia. Nam ego quoque in absentia tua, si ubi opus esset, libenter in omnibus
-                    rebus tibi <choice>
+                    praesens sis in curia; arces <placeName>Chycho</placeName><note xml:id="note.2"
+                        >Cetatea Ciceu.</note> et <placeName>Kykellew</placeName><note
+                        xml:id="note.3">Cetatea de Baltă.</note> permanere apud te et fratres
+                        tuos<note xml:id="note.4">Sebestyén, Kristóf, and István Pemfflinger were
+                        János Pemfflinger’s sons, and probably the cousins of Márk Pemfflinger.
+                        István (†1537) was Castellan of Diósgyőr between 1528 and 1537, and Second
+                        Chair of the Hungarian Chamber. Kristóf was <hi rend="italic">aulicus</hi>
+                        in the Court of King Louis II and traded with the Fuggers. On the
+                        Pemfflingers see <hi rend="smallcap">Kubinyi</hi> 1978, and <hi
+                            rend="smallcap">Kubinyi</hi> 2009, 502, 516, 536–537.</note> poterit, si
+                    rem tuam apud regem sollicitaveris. Ego hinc modo sciam, tuque mihi significes,
+                    quid facere debeam. Curabo, ut <persName>regina</persName> in rebus tuis
+                    commendandis ad regem scribat, cuius litteras aliquid apud illum ponderis
+                    facturas existimo. Si quid igitur velis, fac me certiorem, de me autem et si
+                    sciam te propter benevolentiam, qua in me semper usus est, curam habere etiam in
+                    hac mea absentia. Nam ego quoque in absentia tua, si ubi opus esset, libenter in
+                    omnibus rebus tibi <choice>
                         <orig>gratificer</orig>
                         <supplied>gratificor</supplied>
                     </choice>. Tamen rogo te, ut si quae concordia tractabitur apud regem, mei

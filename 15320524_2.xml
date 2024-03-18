@@ -250,9 +250,8 @@
                                         </body>
                                 </floatingText>
                                 <pb facs="15320524_2_1.jog"/>
-                                <p xml:id="p.1">Ad Paulum comitem.<note type="critic"
-                                                xml:id="note.1">We do not know him more
-                                                closely.</note></p>
+                                <p xml:id="p.1">Ad Paulum comitem.<note xml:id="note.1">We do not
+                                                know him more closely.</note></p>
                                 <p xml:id="p.2">Cogitanti mihi in horas, quid mihi in rebus meis
                                         esset faciendum, non modo nihil est, quod facere possim, sed
                                         nec quicquam venit mihi in mentem, adeo rem meam omnem

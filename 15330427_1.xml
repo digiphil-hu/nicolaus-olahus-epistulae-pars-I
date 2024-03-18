@@ -238,11 +238,10 @@
                 <pb facs="15330427_1_1.jpg"/>
                 <p xml:id="p.1">Nicolaus Grudius caesareae maiestatis secretarius Nicolao Olao
                     salutem.</p>
-                <p xml:id="p.2">Litteras tuas<note type="critic" xml:id="note.1">This letter is not
-                        extant.</note> de <persName>Erasmi</persName> negotio<note type="critic"
-                        xml:id="note.2">Oláh probably wrote on Erasmus’ plan to return home.</note>
-                    28. Martii ad me datas heri primum accepi una cum
-                        <persName>Langii</persName><note type="critic" xml:id="note.3">John de
+                <p xml:id="p.2">Litteras tuas<note xml:id="note.1">This letter is not extant.</note>
+                    de <persName>Erasmi</persName> negotio<note xml:id="note.2">Oláh probably wrote
+                        on Erasmus’ plan to return home.</note> 28. Martii ad me datas heri primum
+                    accepi una cum <persName>Langii</persName><note xml:id="note.3">John de
                         Lange.</note> nostri de eadem re litteris, quibus nihil contingere potuit
                     gratius, neque optatius, quam videlicet occasionem mihi viderem dari, hactenus
                     mihi saepe frustra desideratam gratificandi aliquando tanto viro et cui olim cum

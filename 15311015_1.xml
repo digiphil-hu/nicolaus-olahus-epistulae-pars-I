@@ -239,8 +239,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15311015_1_1.jpg"/>
-                <p xml:id="p.1">Ad L.<note type="critic" xml:id="note.1">We do not know him more
-                        closely.</note></p>
+                <p xml:id="p.1">Ad L.<note xml:id="note.1">We do not know him more
+                    closely.</note></p>
                 <p xml:id="p.2">[1.] Quibus rationibus inductus fuerim, ut meam a te voluntatem
                     alienaverim, multis verbis tibi declaraveram nuper. Non mea id revera factum est
                     levitate, sed tua culpa, qui neglectis rebus omnibus, quas tuae demandarem
@@ -257,15 +257,15 @@
                     contingeret mihi, quod dicitur <choice>
                         <orig>ὀψε</orig>
                         <supplied>ὀψὲ</supplied>
-                    </choice> αἰσθάνονται οἱ κυμαῖοι<note type="critic" xml:id="note.2">‘the
-                        Cumaeans catch up too late’. Oláh translated the phrase by Erasmus: “Cumani
-                        sero sapiunt”, which is a contamination of two different proverbs. See “The
-                        Phrygi sero sapiunt” by Erasmus and Strabon 13,3,6.</note> hoc est, <quote
-                        xml:id="quote.1">Cumaei sero sapiunt.</quote><note type="quote"
-                        xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi> I,V,61:
-                        “Cumani sero sapiunt”, see <hi rend="smallcap">Mynors</hi> 1982, 439, and
-                        see Ep. 148.<ref>olahus.tei.15310512_1</ref></note> Tarde persentiscerem,
-                    quod ad tuos hortatus fecissem. Quare si vis praeteritum tuum errorem futuris
+                    </choice> αἰσθάνονται οἱ κυμαῖοι<note xml:id="note.2">‘the Cumaeans catch up too
+                        late’. Oláh translated the phrase by Erasmus: “Cumani sero sapiunt”, which
+                        is a contamination of two different proverbs. See “The Phrygi sero sapiunt”
+                        by Erasmus and Strabon 13,3,6.</note> hoc est, <quote xml:id="quote.1"
+                        >Cumaei sero sapiunt.</quote><note type="quote" xml:id="note.quote.1">Cf.
+                        Erasm. <hi rend="italic">Adag.</hi> I,V,61: “Cumani sero sapiunt”, see <hi
+                            rend="smallcap">Mynors</hi> 1982, 439, and see Ep.
+                            148.<ref>olahus.tei.15310512_1</ref></note> Tarde persentiscerem, quod
+                    ad tuos hortatus fecissem. Quare si vis praeteritum tuum errorem futuris
                     benefactis emendare, cura, ut si non omnia mea negotia aut pars saltem eorum
                     aliqua tua rursus diligentia reformetur, et quod negligentia praetermisisti,
                     sollicitudine nova rectifica, id et mihi et tibi non parum erit utile.</p>
@@ -277,12 +277,12 @@
                         <placeName>Hungaria</placeName> declarantes mearum rerum statum aut
                     conditionem. Quae me mirum in modum conturbarunt et priorem meam tristitiam
                     anxietatemque auxerunt. Nam summam rerum mearum omnium ex amicorum meorum
-                        litteris<note type="critic" xml:id="note.3"> For example, see Ep.
+                        litteris<note xml:id="note.3"> For example, see Ep.
                             174.<ref>olahus.tei.15310926_1</ref></note> intellexi, quod
-                        <persName>sacellanus meus</persName><note type="critic" xml:id="note.4"
-                        >János Czeglédi.</note> omnia mea, quae possidebat, amisisset, et ne unicum
-                    quidem colonum meum gubernaret. Quae res in quam conturbationem me coniecerit,
-                    vix explicare possum. Nam quid iam facturus sim, nescio, nisi spes, quam in Deo
+                        <persName>sacellanus meus</persName><note xml:id="note.4">János
+                        Czeglédi.</note> omnia mea, quae possidebat, amisisset, et ne unicum quidem
+                    colonum meum gubernaret. Quae res in quam conturbationem me coniecerit, vix
+                    explicare possum. Nam quid iam facturus sim, nescio, nisi spes, quam in Deo
                     optimo maximo et eius genetrice Virgine Maria habeo amplissimam, et verba
                     serenissimae reginae meae, quae semper propitia sunt, sed nunquam in effectum
                     datur, me hic hactenus retinuissent, iamdudum non exivissem modo ad vos, sed

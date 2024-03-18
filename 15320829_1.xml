@@ -250,13 +250,12 @@
                 <p xml:id="p.1">Erasmus Roterodamus Nicolao Olao thesaurario Albensi secretario et
                     consiliario serenissimae reginae.</p>
                 <p xml:id="p.2">Ornatissime Vir, scripsi pridem ad te et ad
-                        <persName>Livinum</persName><note type="critic" xml:id="note.1">Lieven
-                        Algoet.</note> nostrum, quem tibi carum et curae esse gaudeo. Audio maritum
-                    esse factum, </p>
+                        <persName>Livinum</persName><note xml:id="note.1">Lieven Algoet.</note>
+                    nostrum, quem tibi carum et curae esse gaudeo. Audio maritum esse factum, </p>
                 <pb facs="15320829_1_2.jpg"/>
                 <p xml:id="p.3">utinam feliciter. Rogo, ut et illi tuis auxiliis pariter et
-                    consiliis adesse pergas. Nunc <persName>Quirinum</persName><note type="critic"
-                        xml:id="note.2">Quirinus Hagius of the Hague.</note> meum mitto in
+                    consiliis adesse pergas. Nunc <persName>Quirinum</persName><note xml:id="note.2"
+                        >Quirinus Hagius of the Hague.</note> meum mitto in
                         <placeName>Angliam</placeName>, per eum reversum poteris tuto scribere, si
                     quid me scire voles. Significabis, si qua in re queam vel serenissimae
                         <persName>reginae</persName> vel tibi gratum facere.
@@ -265,12 +264,12 @@
                 <p xml:id="p.5"><hi rend="italic">Tragoediam Basilensem</hi> misi bona fide
                     descriptam, si voles cognoscere, facinus est horrendum et immane, sed
                     memorabile.</p>
-                <p xml:id="p.6">[Tragoedia Basilensis]<note type="critic" xml:id="note.3">The
-                        Tragoedia Basilensis was attached to the letter; therefore, it is not part
-                        of the missile. See its edition: <hi rend="smallcap">Ipolyi</hi> 1875,
-                        235–237, and its translations: <hi rend="smallcap">V. Kovács</hi> 1971,
-                        649–650; <hi rend="smallcap">Albu–Firu</hi> 1963, 171–173; <hi
-                            rend="smallcap">Albu–Capoianu</hi> 1974, 115–117; <hi rend="smallcap"
+                <p xml:id="p.6">[Tragoedia Basilensis]<note xml:id="note.3">The Tragoedia Basilensis
+                        was attached to the letter; therefore, it is not part of the missile. See
+                        its edition: <hi rend="smallcap">Ipolyi</hi> 1875, 235–237, and its
+                        translations: <hi rend="smallcap">V. Kovács</hi> 1971, 649–650; <hi
+                            rend="smallcap">Albu–Firu</hi> 1963, 171–173; <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974, 115–117; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022, 1324–1331.</note></p>
             </div>
         </body>

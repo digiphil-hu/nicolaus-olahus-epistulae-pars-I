@@ -270,14 +270,14 @@
                 <p xml:id="p.1"> Erasmus Roterodamus Nicolao Olaho secretario serenissimae
                     Reginae.</p>
                 <p xml:id="p.2">[1.] In litteris tuis, mi Olahe, exosculatus sum istud pectus tuum
-                    longe candidissimum. Quod <persName>Levino</persName><note type="critic"
-                        xml:id="note.1">Lieven Algoet.</note> adfueris, mihi magnopere gratum est
-                    spero fore, ut tuis monitis adiutus dignum se praestet cum aula tam celebri, tum
-                    cordatissimae reginae famulitio.</p>
+                    longe candidissimum. Quod <persName>Levino</persName><note xml:id="note.1"
+                        >Lieven Algoet.</note> adfueris, mihi magnopere gratum est spero fore, ut
+                    tuis monitis adiutus dignum se praestet cum aula tam celebri, tum cordatissimae
+                    reginae famulitio.</p>
                 <p xml:id="p.3">Patria de me queri non potest, cui an ornamento sim, nescio, certe
                     illa mihi non multum attulit nec ornamenti nec emolumenti. A
-                        <persName>Sylvagio</persName><note type="critic" xml:id="note.2">Jean Le
-                        Sauvage (1455–1518) was a henchman, and a patron of Erasmus in England, and
+                        <persName>Sylvagio</persName><note xml:id="note.2">Jean Le Sauvage
+                        (1455–1518) was a henchman, and a patron of Erasmus in England, and
                         Chancellor of King Henry VIII, see <hi rend="smallcap">V. Kovács</hi> 1971,
                         642.</note> pertractus comtempsi fortunam Anglicam, ei cum praefatus essem,
                     ne quid a me exspectaret obsequiorum, atque ille vocem meam approbasset, post
@@ -285,58 +285,57 @@
                     caenaturus cum eo, immo saepe illo ad duodecimam usque horam exspectato
                     famelicus aut asperrima hieme noctu domum rediturus, quod id temporis nec tutum
                     erat per Hispanos. Ex <persName>caesaris</persName> pensione non recepi, nisi
-                    pro sesqui anno absenti. Teruntius<note type="critic" xml:id="note.3"><hi
-                            rend="italic">Triuncius</hi> or <hi rend="italic">terunciolus</hi> means
+                    pro sesqui anno absenti. Teruntius<note xml:id="note.3"><hi rend="italic"
+                            >Triuncius</hi> or <hi rend="italic">terunciolus</hi> means
                         ‘penny’.</note> numeratus non est, licet <persName>caesar</persName> ex
                     Hispaniis bis scripserit dominae <persName>Margaretae</persName> amitae, ut mihi
-                    extra ordinem satisfieret. Pensionem e praebenda Curtracensi<note type="critic"
+                    extra ordinem satisfieret. Pensionem e praebenda Curtracensi<note
                         xml:id="note.4">“Erasmus’ imperial pension and the Coutrai prebend both date
                         form 1516”, see <hi rend="smallcap">Allen</hi> 1938, 441. </note> mira
-                    impudentia intercipit <persName>Petrus Barbirius</persName>,<note type="critic"
+                    impudentia intercipit <persName>Petrus Barbirius</persName>,<note
                         xml:id="note.5">Pierre Barbier (†1551 or 1552) was Chaplain and Secretary to
                         Chancellor Jean Le Sauvage, see <hi rend="smallcap">Bietenholz</hi>
-                        1985d.</note> decanus Tornacensis<note type="critic" xml:id="note.6"
-                        >Tournai.</note> theologus et talis amicus, ut non dubitaturus fuerim illi
-                    decem vitas credere, si decem habuissem. <placeName>Lovanii</placeName> quomodo
-                    tractatus sim a quibusdam, nunc non referam. Aut abeundum erat, aut exercenda
-                    carnificina, quam moliebantur in humeros meos detrudere.<note type="critic"
-                        xml:id="note.7">Schleicher considers this sentence the proof of Erasmus’
-                        confidence in Oláh, see <hi rend="smallcap">Schleicher</hi> 1941,
-                    41.</note></p>
+                        1985d.</note> decanus Tornacensis<note xml:id="note.6">Tournai.</note>
+                    theologus et talis amicus, ut non dubitaturus fuerim illi decem vitas credere,
+                    si decem habuissem. <placeName>Lovanii</placeName> quomodo tractatus sim a
+                    quibusdam, nunc non referam. Aut abeundum erat, aut exercenda carnificina, quam
+                    moliebantur in humeros meos detrudere.<note xml:id="note.7">Schleicher considers
+                        this sentence the proof of Erasmus’ confidence in Oláh, see <hi
+                            rend="smallcap">Schleicher</hi> 1941, 41.</note></p>
                 <p xml:id="p.4">[2.] De aula tamen non queror, cuius favori hoc debeo, quod libri
                     mei istic exusti non sunt. Nec istic ullum habeo vere sincerum amicum praeter
-                    unum <persName>Conradum Goclenium</persName>,<note type="critic" xml:id="note.8"
-                        >Conrad Wackers.</note> cum in <placeName>Anglia</placeName> repererim
-                    amicos et prudenter et constanter benevolos. Regnant istic monachi, praesertim
-                    in <placeName>Brabantia</placeName>, quo genere hominum nihil stolidius, nihil
+                    unum <persName>Conradum Goclenium</persName>,<note xml:id="note.8">Conrad
+                        Wackers.</note> cum in <placeName>Anglia</placeName> repererim amicos et
+                    prudenter et constanter benevolos. Regnant istic monachi, praesertim in
+                        <placeName>Brabantia</placeName>, quo genere hominum nihil stolidius, nihil
                     immitius. Hi me fingunt hostem, quod admonuerim, quibus in rebus sit vera
                     pietas. At illi mallent populum nihil omnino sapere, sed illis mea praesentia
                     imponet silentium, immo potius excitabit clamorem, armati sunt horribilibus
                     edictis. </p>
                 <pb facs="15320227_1_2.jpg"/>
                 <p xml:id="p.5">Vidi edictum <placeName>Antverpiae</placeName> excussum.
-                        <persName>Aleander archiepiscopus Brundusinus</persName><note type="critic"
+                        <persName>Aleander archiepiscopus Brundusinus</persName><note
                         xml:id="note.9">Girolamo Aleandro (1480–1542) was an Italian Cardinal and
                         Archbishop of Brindisi between 1524–1541.</note> olim nihil non molitus est,
                     ut me perderet, nec dubito, quin hoc idem nunc agat, utcunque dissimulat.</p>
                 <p xml:id="p.6">Straverunt pulchre viam, ad id quod moliuntur. Exiit volumen
-                        <persName>Alberti Pii</persName><note type="critic" xml:id="note.10"
-                        >Albertus Pius, the Prince of Carpi published his <hi rend="italic"
-                            >Responsio paraenetica</hi> in Paris in 1529, see Erasmus’ letters: Ep.
-                        2328 in <hi rend="smallcap">Allen</hi> 1934, 447–451, and Ep. 2329 in <hi
-                            rend="smallcap">Allen</hi> 1934, 451–455.</note> egregie stolidum, sed
-                    tamen claritudo nominis me gravat. Successerunt censurae Sorbonicae magno
-                    theologorum dedecore, sed tamen apud plerosque facultatis titulus onerat me
-                    invidia, cum res non agatur per facultatem, sed per delirum decanum ac
-                        <persName>Beddam</persName><note type="critic" xml:id="note.11">Noël Béda
-                        (c.1470–1537), an inveterate critic of Erasmus, see <hi rend="smallcap"
-                            >Farge</hi> 1985.</note> hominem simpliciter furiosum. Pio et facultati
-                    respondi, secutus est <placeName>Parisiis</placeName> alius libellus conficto
-                    titulo <persName>Iulii Caesaris Scaligeri</persName>,<note type="critic"
-                        xml:id="note.12">Giulio Cesare della Scala or Julius Caesar Scaliger
-                        (1485–1558) was an Italian scholar and physician.</note> totus scatens tot
-                    mendaciis insignibus, tot furiosis conviciis, ut nec ipsa vanitas possit mentiri
-                    impudentius, nec ulla furiarum stomachari furiosius. Stilus totus tam arguit
+                        <persName>Alberti Pii</persName><note xml:id="note.10">Albertus Pius, the
+                        Prince of Carpi published his <hi rend="italic">Responsio paraenetica</hi>
+                        in Paris in 1529, see Erasmus’ letters: Ep. 2328 in <hi rend="smallcap"
+                            >Allen</hi> 1934, 447–451, and Ep. 2329 in <hi rend="smallcap"
+                            >Allen</hi> 1934, 451–455.</note> egregie stolidum, sed tamen claritudo
+                    nominis me gravat. Successerunt censurae Sorbonicae magno theologorum dedecore,
+                    sed tamen apud plerosque facultatis titulus onerat me invidia, cum res non
+                    agatur per facultatem, sed per delirum decanum ac
+                        <persName>Beddam</persName><note xml:id="note.11">Noël Béda (c.1470–1537),
+                        an inveterate critic of Erasmus, see <hi rend="smallcap">Farge</hi>
+                        1985.</note> hominem simpliciter furiosum. Pio et facultati respondi,
+                    secutus est <placeName>Parisiis</placeName> alius libellus conficto titulo
+                        <persName>Iulii Caesaris Scaligeri</persName>,<note xml:id="note.12">Giulio
+                        Cesare della Scala or Julius Caesar Scaliger (1485–1558) was an Italian
+                        scholar and physician.</note> totus scatens tot mendaciis insignibus, tot
+                    furiosis conviciis, ut nec ipsa vanitas possit mentiri impudentius, nec ulla
+                    furiarum stomachari furiosius. Stilus totus tam arguit
                         <persName>Aleandrum</persName> autorem, quam ipsa hominis facies; utrumque
                     mihi notissimum est.</p>
                 <p xml:id="p.7">[3.] Reginae <persName>Mariae</persName> tum singularis prudentia,
@@ -347,43 +346,41 @@
                     ne ad coniunctum quidem sit accomoda. Aegre vitam tueor <choice>
                         <orig>Dominianus</orig>
                         <supplied>domi manens</supplied>
-                    </choice><note type="critic" xml:id="note.13">Corrected by Allen 1938, 442, and
-                        see Ep. 223. Cap. 1.<ref>olahus.tei.15320503_1</ref></note> Ipse
+                    </choice><note xml:id="note.13">Corrected by Allen 1938, 442, and see Ep. 223.
+                        Cap. 1.<ref>olahus.tei.15320503_1</ref></note> Ipse
                         <persName>caesar</persName> in Hispaniis non potuit monachis furentibus
                     silentium imponere, itaque vereor, ut istic possit id regina verum, ut haec sint
                     ex animi sententia, metuo ne corpusculum hoc attenuatissimum caelum istius
                     regionis ferre non possit et frigidum et ventosum.</p>
                 <p xml:id="p.8">Aedes non revendam sine damno centum et quinque florenorum. Tamen
                     hoc facile negligam. Exspectabo reditum typographorum e
-                        <placeName>Franckfordia</placeName>. A Paschate<note type="critic"
-                        xml:id="note.14">31 March.</note> fortasse mittam alterum e famulis, qui
-                    mihi certa renuntiet, quique nidum apparet adventuro, si statuero repetere
-                    patriam. Interim obsecro, ut illustrissimae reginae favorem ita, ut soles,
-                    pergas alere. Zvinglianos<note type="critic" xml:id="note.15">The adherents of
-                        Ulrich Zwingli, for Zwingli and Oecolampadius see Ep. 190. Note
-                            5.<ref>olahus.tei.15311211_1</ref></note> habemus paulo mitiores, sed
-                    vereor, ne recrudescat malum. <persName>Oecolampadius</persName> iam habet sui
-                        <persName>cessorem</persName>,<note type="critic" xml:id="note.16">Oswald
-                        Myconius (1488–1552) was a Helvetic Protestant theologian, see <hi
-                            rend="smallcap">Allen</hi> 1938, 442.</note> vidua illius maritum. Quid
-                    agant Tigurini,<note type="critic" xml:id="note.17">One of the four divisions of
-                        the Helvetii in Caesar’s <hi rend="italic">De bello Gallico</hi>.</note>
-                    nescio.</p>
+                        <placeName>Franckfordia</placeName>. A Paschate<note xml:id="note.14">31
+                        March.</note> fortasse mittam alterum e famulis, qui mihi certa renuntiet,
+                    quique nidum apparet adventuro, si statuero repetere patriam. Interim obsecro,
+                    ut illustrissimae reginae favorem ita, ut soles, pergas alere. Zvinglianos<note
+                        xml:id="note.15">The adherents of Ulrich Zwingli, for Zwingli and
+                        Oecolampadius see Ep. 190. Note 5.<ref>olahus.tei.15311211_1</ref></note>
+                    habemus paulo mitiores, sed vereor, ne recrudescat malum.
+                        <persName>Oecolampadius</persName> iam habet sui
+                        <persName>cessorem</persName>,<note xml:id="note.16">Oswald Myconius
+                        (1488–1552) was a Helvetic Protestant theologian, see <hi rend="smallcap"
+                            >Allen</hi> 1938, 442.</note> vidua illius maritum. Quid agant
+                        Tigurini,<note xml:id="note.17">One of the four divisions of the Helvetii in
+                        Caesar’s <hi rend="italic">De bello Gallico</hi>.</note> nescio.</p>
                 <p xml:id="p.9">Non est, mi Olahe, quod depreceris audaciae veniam, tua candidissima </p>
                 <pb facs="15320227_1_3.jpg"/>
                 <p xml:id="p.10">libertas mihi gratissima est, ut quae declaret animum absque fuco
                     benevolum. Respondi censuris Sorbonicis, sed moderatissime. Exitum exspecto.
-                    Litteras tuas ac <persName>Levini</persName><note type="critic" xml:id="note.18"
-                        >Lieven Algoet’s letter is not extant.</note> accepi quarto Kalendas<note
-                        type="critic" xml:id="note.19">26 February.</note> Martias per quendam, quem
-                    huc ob eam solam causam magnus veredariorum magister iuxta
-                        <placeName>Spiram</placeName><note type="critic" xml:id="note.20"
-                        >Speyer.</note> emandarat.</p>
+                    Litteras tuas ac <persName>Levini</persName><note xml:id="note.18">Lieven
+                        Algoet’s letter is not extant.</note> accepi quarto Kalendas<note
+                        xml:id="note.19">26 February.</note> Martias per quendam, quem huc ob eam
+                    solam causam magnus veredariorum magister iuxta
+                        <placeName>Spiram</placeName><note xml:id="note.20">Speyer.</note>
+                    emandarat.</p>
                 <p xml:id="p.11">Haec scripsi postridie, hoc est III. Kalendas Martii<note
-                        type="critic" xml:id="note.21">Based on the context, the letter must have
-                        been written in 1532. Allen also published it among the letters of
-                        1532.</note>. Bene vale. <add corresp="Olahus" type="insert">Friburgi
-                        Bisgoae.</add></p>
+                        xml:id="note.21">Based on the context, the letter must have been written in
+                        1532. Allen also published it among the letters of 1532.</note>. Bene vale.
+                        <add corresp="Olahus" type="insert">Friburgi Bisgoae.</add></p>
             </div>
         </body>
     </text>

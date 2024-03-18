@@ -204,12 +204,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Lieven van den Zande<idno type="ITIdata"
                                                   >Q470351</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
@@ -235,16 +233,15 @@
                                 </floatingText>
                                 <pb facs="15330821_1sz_1.jpg"/>
                                 <p xml:id="p.1">Levinus Ammonius Carthusianus monachus Nicolao Olao
-                                                salutem-<note type="critic" xml:id="note.1">Ipolyi
-                                                did not know the Besançon ms., his edition and
-                                                Albu–Capoianu’s translation based on Ipolyi’s
-                                                edition could therefore not include it. For more on
-                                                the Besançon ms. see <hi rend="smallcap"
-                                                  >Roersch</hi> 1901.</note></p>
+                                                salutem-<note xml:id="note.1">Ipolyi did not know
+                                                the Besançon ms., his edition and Albu–Capoianu’s
+                                                translation based on Ipolyi’s edition could
+                                                therefore not include it. For more on the Besançon
+                                                ms. see <hi rend="smallcap">Roersch</hi>
+                                                1901.</note></p>
                                 <p xml:id="p.2">Cum ad aspectum tuarum litterarum, Clarissime Heros,
-                                        tum ad exoptatissimum Panagathi<note type="critic"
-                                                xml:id="note.2">Lieven Algoet.</note> nostri nuntium
-                                                <app xml:id="app.1">
+                                        tum ad exoptatissimum Panagathi<note xml:id="note.2">Lieven
+                                                Algoet.</note> nostri nuntium <app xml:id="app.1">
                                                 <lem wit="#CE #I" xml:id="lem.1">subsultat</lem>
                                                 <rdg wit="#II" xml:id="rdg.1">subsultavit</rdg>
                                         </app> gaudio cor meum. Facit enim spem plane luculentam
@@ -259,13 +256,13 @@
                                         profanis, atque utinam prius illum advenisse resciscat
                                         populus, quam sciat adventurum, ut famam celeritate
                                         praevertat, plane <persName>Harpocratem</persName><note
-                                                type="critic" xml:id="note.3">Harpocrates was the
-                                                god of silence, secrets and confidentiality in
-                                                Ancient Greece.</note> praestabo. Quod autem meo
-                                        erga istam dignationem studio tam accurate gratias agis, et
-                                        officio tam pusillo, quo magis meo ipsius pudori consuluisse
-                                        videri poteram, quam tibi commodare, tam benigne respondes,
-                                        facis tu quidem amice et perhumaniter. <app xml:id="app.2">
+                                                xml:id="note.3">Harpocrates was the god of silence,
+                                                secrets and confidentiality in Ancient
+                                                Greece.</note> praestabo. Quod autem meo erga istam
+                                        dignationem studio tam accurate gratias agis, et officio tam
+                                        pusillo, quo magis meo ipsius pudori consuluisse videri
+                                        poteram, quam tibi commodare, tam benigne respondes, facis
+                                        tu quidem amice et perhumaniter. <app xml:id="app.2">
                                                 <lem wit="#CE #I" xml:id="lem.2">Equidem velim</lem>
                                                 <rdg wit="#II" xml:id="rdg.2">Pervelim equidem</rdg>
                                         </app> velim mihi eam adesse eruditionem, ut studia
@@ -284,10 +281,10 @@
                                         fuit, paulatim e rebus humanis mentibusque profligari. Et
                                         plane cernimus, quantum paucis retro annis profectum sit,
                                         sed quorsum me mens rapit περὶ τῶν λόγων ἐν ἐπιστολῆς
-                                        βραχύτητι φιλοσοφεῖν,<note type="critic" xml:id="note.4">‘to
-                                                contemplate literature in a brief letter’.</note>
-                                        non pergam tibi molestus esse. Epistolam tuam certissimum
-                                                <app xml:id="app.4">
+                                        βραχύτητι φιλοσοφεῖν,<note xml:id="note.4">‘to contemplate
+                                                literature in a brief letter’.</note> non pergam
+                                        tibi molestus esse. Epistolam tuam certissimum <app
+                                                xml:id="app.4">
                                                 <lem wit="#CE #I" xml:id="lem.4">pignus istius
                                                   animi</lem>
                                                 <rdg wit="#II" xml:id="rdg.4">istius animi

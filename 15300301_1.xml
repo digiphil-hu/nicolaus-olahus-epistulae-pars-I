@@ -228,8 +228,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15300301_1_1.jpg"/>
-                <p xml:id="p.1">Ad <persName>Georgium Swlyok</persName><note type="critic"
-                        xml:id="note.1">György II Sulyok.</note> episcopum Quinqueeclesiensem.</p>
+                <p xml:id="p.1">Ad <persName>Georgium Swlyok</persName><note xml:id="note.1">György
+                        II Sulyok.</note> episcopum Quinqueeclesiensem.</p>
                 <p xml:id="p.2">Nemini mirum esse debere iudico, si te tuasque omnes actiones
                     fortunae committendas esse putaveris: fuisti satis longo tempore patiens
                     calamitatum <del corresp="Olahus">adversarionum</del><add corresp="Olahus"

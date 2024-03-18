@@ -267,21 +267,20 @@
                 <pb facs="15330501_1_2.jpg"/>
                 <p xml:id="p.3">Hungariae quietem ac firmam pacem.</p>
                 <p xml:id="p.4">De litteris <persName>Hieronimi a Zara</persName>,<note
-                        type="critic" xml:id="note.1">Hieronymus of Zara.</note> de conventu
-                    Posoniensi dissoluto, de nuntii Turcarum adventu iam antea eramus certiores
-                    facti. Quae tibi <persName>Brodericus</persName> et alii
-                        <persName>Ioannis</persName> commissarii de mente domini sui explicuerint,
-                    videntur esse verisimilia. Nam credo illum per eos, quos scribis omnes, si eos
-                    bene noverim amantes pacis salutisque <placeName>Hungariae</placeName> inductum
-                    fuisse, ut publici potius boni, quam privati sui habeat rationem. Quare etiam
-                    nunc videretur esse non inconsultum, si cum eo aliquid tractari et finiri
-                    posset, ut habita aliqua honoris sui ratione <placeName>Hungariam</placeName>
-                    regi relinqueret. Et cum Turca per occasionem restituendae
-                        <placeName>Coronis</placeName>,<note type="critic" xml:id="note.2"
-                        >Koroni.</note> de remissione <placeName>Nandor Albae</placeName>,
-                        <placeName>Sabacz</placeName>, <placeName>Titulii</placeName>,
-                        <placeName>Varadini Petri</placeName><note type="critic" xml:id="note.3"
-                        >Belgrade, Šabac, Titel, and Petrovaradin, see Ep.
+                        xml:id="note.1">Hieronymus of Zara.</note> de conventu Posoniensi dissoluto,
+                    de nuntii Turcarum adventu iam antea eramus certiores facti. Quae tibi
+                        <persName>Brodericus</persName> et alii <persName>Ioannis</persName>
+                    commissarii de mente domini sui explicuerint, videntur esse verisimilia. Nam
+                    credo illum per eos, quos scribis omnes, si eos bene noverim amantes pacis
+                    salutisque <placeName>Hungariae</placeName> inductum fuisse, ut publici potius
+                    boni, quam privati sui habeat rationem. Quare etiam nunc videretur esse non
+                    inconsultum, si cum eo aliquid tractari et finiri posset, ut habita aliqua
+                    honoris sui ratione <placeName>Hungariam</placeName> regi relinqueret. Et cum
+                    Turca per occasionem restituendae <placeName>Coronis</placeName>,<note
+                        xml:id="note.2">Koroni.</note> de remissione <placeName>Nandor
+                        Albae</placeName>, <placeName>Sabacz</placeName>,
+                        <placeName>Titulii</placeName>, <placeName>Varadini Petri</placeName><note
+                        xml:id="note.3">Belgrade, Šabac, Titel, and Petrovaradin, see Ep.
                             343.<ref>olahus.tei.15330327_1</ref></note> ac aliarum arcium a nobis
                     occupatarum ageretur, inireturque his recuperatis foedus inter
                         <persName>caesarem</persName> et <persName>pontificem</persName> et
@@ -296,28 +295,28 @@
                     concordasse cum <persName>Ioanne</persName>, et se non habere occasionem, qua
                     repetere posset <placeName>Coronem</placeName>, fortasse leniorem se praebiturus
                     esset ad <placeName>Albae</placeName> remissionem. <persName>Comitem de
-                        Salm</persName><note type="critic" xml:id="note.4">Niklas II, Count of
-                        Salm.</note> et a <persName>pontifice</persName> et
-                        <persName>caesare</persName><del corresp="Olahus">ad vos rediisse
-                        optata</del><add corresp="Olahus" type="corr">optata</add> relatione <del
-                        corresp="Olahus">ad vos rediisse</del> audivimus; utinam res cito
-                    transigatur, et ex animi nostri sententia.</p>
-                <p xml:id="p.5">[2.] Litteras<note type="critic" xml:id="note.5">Ep.
+                        Salm</persName><note xml:id="note.4">Niklas II, Count of Salm.</note> et a
+                        <persName>pontifice</persName> et <persName>caesare</persName><del
+                        corresp="Olahus">ad vos rediisse optata</del><add corresp="Olahus"
+                        type="corr">optata</add> relatione <del corresp="Olahus">ad vos
+                        rediisse</del> audivimus; utinam res cito transigatur, et ex animi nostri
+                    sententia.</p>
+                <p xml:id="p.5">[2.] Litteras<note xml:id="note.5">Ep.
                             334.<ref>olahus.tei.15330308_1</ref></note><persName>Broderici</persName>
                     accepi inter alias litteras mei <persName>sacellani</persName>,<note
-                        type="critic" xml:id="note.6">János Czeglédi.</note> ad quas tam subito
-                    rescribere non potui, cum nuntius repentinam abitionem pararet. Meas res tuae
-                    iamdudum commendavi, mi Frater, fidei et patrocinio et nunc quoque singulariter
-                    commendo, quas scio tua sollicitatio bonum finem habituras, si rex uti imperio
-                    voluerit, praedonesque <note type="critic" xml:id="note.7">Namely, Bálint Török
-                        and János Bodó.</note> illos, qui sub nomine suae maiestatis aliorum bona
-                    detinent, et tam divina, quam humana vexant, facile a maleficiis prohibere
-                    poterit, ego quoque mea rehabebo. Nam maior meorum bonorum pars, ut credo te iam
-                    intellexisse, est in manibus eorum, qui sub umbra et nomine regis sunt hactenus
-                    latrocinati, et <del corresp="Olahus">dotari</del><add corresp="Olahus"
-                        type="corr">ditari</add> per omne scelus quaesiverunt. Agendum igitur erit,
-                    ut e faucibus eorum illa extrahantur. Quod fiet, si rex litteras suas, quibus me
-                        <del corresp="Olahus">consecravit huc</del></p>
+                        xml:id="note.6">János Czeglédi.</note> ad quas tam subito rescribere non
+                    potui, cum nuntius repentinam abitionem pararet. Meas res tuae iamdudum
+                    commendavi, mi Frater, fidei et patrocinio et nunc quoque singulariter commendo,
+                    quas scio tua sollicitatio bonum finem habituras, si rex uti imperio voluerit,
+                    praedonesque <note xml:id="note.7">Namely, Bálint Török and János Bodó.</note>
+                    illos, qui sub nomine suae maiestatis aliorum bona detinent, et tam divina, quam
+                    humana vexant, facile a maleficiis prohibere poterit, ego quoque mea rehabebo.
+                    Nam maior meorum bonorum pars, ut credo te iam intellexisse, est in manibus
+                    eorum, qui sub umbra et nomine regis sunt hactenus latrocinati, et <del
+                        corresp="Olahus">dotari</del><add corresp="Olahus" type="corr">ditari</add>
+                    per omne scelus quaesiverunt. Agendum igitur erit, ut e faucibus eorum illa
+                    extrahantur. Quod fiet, si rex litteras suas, quibus me <del corresp="Olahus"
+                        >consecravit huc</del></p>
                 <pb facs="15330501_1_3.jpg"/>
                 <p xml:id="p.6"><add corresp="Olahus" type="insert">assecuravit huc</add> huc
                     venientem, uti in hoc non dubito, observaverit, quarum exemplum te habere puto.
@@ -350,23 +349,22 @@
                         corresp="Olahus" type="corr">coniugis tuae amantissimae</add>; eas ad te cum
                     praesentibus mitto. Scripsi ad eam secundo statim die, cum tuas accepissem te
                     sanum esse et felicem. Quaesivi etiam <persName>Iohannem
-                        Langhium</persName>,<note type="critic" xml:id="note.8">John de
-                        Lange.</note> an litteras tuas ad eam misisset, dixit se illas misisse. Nunc
-                    rursus Flandrenses tui huc venerunt, curant negotia illa Danica, Australia,
-                    nonnullaque eorum gravamina.</p>
-                <p xml:id="p.7">[3.] <persName>Regem Angliae</persName><note type="critic"
-                        xml:id="note.9">King Henry VIII (1491–1547) was King of England from 1509
-                        until his death.</note> repudiata <persName>Catharina</persName><note
-                        type="critic" xml:id="note.10">Catherine of Aragon (1485–1536).</note>
-                    regina nuptias iam suas solemniter peregisse cum matrona
-                        <persName>Anna</persName>,<note type="critic" xml:id="note.11">Anne Boleyn
+                        Langhium</persName>,<note xml:id="note.8">John de Lange.</note> an litteras
+                    tuas ad eam misisset, dixit se illas misisse. Nunc rursus Flandrenses tui huc
+                    venerunt, curant negotia illa Danica, Australia, nonnullaque eorum
+                    gravamina.</p>
+                <p xml:id="p.7">[3.] <persName>Regem Angliae</persName><note xml:id="note.9">King
+                        Henry VIII (1491–1547) was King of England from 1509 until his death.</note>
+                    repudiata <persName>Catharina</persName><note xml:id="note.10">Catherine of
+                        Aragon (1485–1536).</note> regina nuptias iam suas solemniter peregisse cum
+                    matrona <persName>Anna</persName>,<note xml:id="note.11">Anne Boleyn
                         (1501–1536).</note> quam tenerrime multos annos deperibat scio te audivisse,
-                    quae, ut dicitur, ad festum Georgii<note type="critic" xml:id="note.12">In
-                        Hungary, we celebrate this feast on 24 instead of 23 April.</note> coronari
-                    debuit. Titulus reginae <persName>Catharinae</persName><del corresp="Olahus"
-                        >abolitus est</del><add corresp="Olahus" type="corr">verus mutatus
-                    est</add>, nominatur per totam <placeName>Angliam</placeName> vidua principis
-                    illius, cui prius erat, ut scis, despondata. Vale et scribe frequenter.</p>
+                    quae, ut dicitur, ad festum Georgii<note xml:id="note.12">In Hungary, we
+                        celebrate this feast on 24 instead of 23 April.</note> coronari debuit.
+                    Titulus reginae <persName>Catharinae</persName><del corresp="Olahus">abolitus
+                        est</del><add corresp="Olahus" type="corr">verus mutatus est</add>,
+                    nominatur per totam <placeName>Angliam</placeName> vidua principis illius, cui
+                    prius erat, ut scis, despondata. Vale et scribe frequenter.</p>
                 <p xml:id="p.8"><placeName>Bruxellis</placeName> prima Maii 1533.</p>
             </div>
         </body>

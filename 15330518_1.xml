@@ -245,29 +245,29 @@
                 <pb facs="15330518_1_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem Cegledinum provisorem.</p>
                 <p xml:id="p.2">[1.] Ad litteras tuas priores <del corresp="Olahus">non</del>
-                        respondi<note type="critic" xml:id="note.1">Ep. 359. is dated 1
+                        respondi<note xml:id="note.1">Ep. 359. is dated 1
                             May.<ref>olahus.tei.15330501_2</ref></note> ante octavum et decimum, ni
                     fallor, diem satis copiose. Respondere antea non potui, quia eo momento erant
                     mihi redditae. Hodie ad noctem allatae fuerunt mihi ternae rursus litterae
-                        tuae<note type="critic" xml:id="note.2">These letters are not extant.</note>
-                    sub diversis datis, ex quibus, quid actum sit in meis rebus, cognovi. Tua in his
-                    sollicitudo, cura et diligentia, quam <add corresp="Olahus" type="insert"
-                        >te</add> praestitisse scribis, sunt mihi gratissimae, quarum si vixero et
-                    si res meae secundiores erunt, non ero immemor. Posteaquam
-                        <persName>Valentinus</persName><note type="critic" xml:id="note.3">Bálint
-                        Török.</note> et ad commissionem regiam et amicorum preces tuamque
-                    instantiam pollicitus est bonorum meorum remissionem, cura tu, ut exsecutionem
-                    non negligas et te tam diligentem praestes, quam te esse semper existimavi. Si
-                    obligaris te <persName>domino Agriensi</persName><note type="critic"
-                        xml:id="note.4">Tamás Szalaházy.</note>, nescio, quam utiliter rebus meis
-                    satisfacere possis. Nam scis illud Evangelicum <del corresp="Olahus"
-                        >verbum</del><add corresp="Olahus" type="corr">verum</add> esse <quote
-                        xml:id="quote.1">de duobus dominis serviendis</quote><note type="quote"
-                        xml:id="note.quote.1">Mt6, 24: “Nemo potest duobus dominis servire.” Lc16,
-                        13: “Nemo servus potest duobus dominis servire.”</note>. Cura igitur, ut
-                    haec res te ne remoretur aut abstrahat a rebus meis et curandis et
-                    administrandis. Qui, <del corresp="Olahus">quam</del><add corresp="Olahus"
-                        type="corr">qua</add> mihi obstrictus fueris et sis fide ac obligatione, </p>
+                        tuae<note xml:id="note.2">These letters are not extant.</note> sub diversis
+                    datis, ex quibus, quid actum sit in meis rebus, cognovi. Tua in his sollicitudo,
+                    cura et diligentia, quam <add corresp="Olahus" type="insert">te</add>
+                    praestitisse scribis, sunt mihi gratissimae, quarum si vixero et si res meae
+                    secundiores erunt, non ero immemor. Posteaquam
+                        <persName>Valentinus</persName><note xml:id="note.3">Bálint Török.</note> et
+                    ad commissionem regiam et amicorum preces tuamque instantiam pollicitus est
+                    bonorum meorum remissionem, cura tu, ut exsecutionem non negligas et te tam
+                    diligentem praestes, quam te esse semper existimavi. Si obligaris te
+                        <persName>domino Agriensi</persName><note xml:id="note.4">Tamás
+                        Szalaházy.</note>, nescio, quam utiliter rebus meis satisfacere possis. Nam
+                    scis illud Evangelicum <del corresp="Olahus">verbum</del><add corresp="Olahus"
+                        type="corr">verum</add> esse <quote xml:id="quote.1">de duobus dominis
+                        serviendis</quote><note type="quote" xml:id="note.quote.1">Mt6, 24: “Nemo
+                        potest duobus dominis servire.” Lc16, 13: “Nemo servus potest duobus dominis
+                        servire.”</note>. Cura igitur, ut haec res te ne remoretur aut abstrahat a
+                    rebus meis et curandis et administrandis. Qui, <del corresp="Olahus"
+                        >quam</del><add corresp="Olahus" type="corr">qua</add> mihi obstrictus
+                    fueris et sis fide ac obligatione, </p>
                 <pb facs="15330518_1_2.jpg"/>
                 <p xml:id="p.3">tute scis, si hinc exire Deo volente potero, voluerisque esse a
                     rebus mundanis quietus, reperiemus modum et viam, ut opinor, honestam, quibus
@@ -301,17 +301,17 @@
                     habebis ab aliis molestiam. Si videris instare necessitatem, adscribe tibi
                     servitores, deliones <del corresp="Olahus">et</del> tales, quorum viribus et
                     opera, non dico <persName>Valentino Theurek</persName> aut
-                        <persName>Pekry</persName>,<note type="critic" xml:id="note.5">Lajos
-                        Pekry.</note> sed aliis minoribus <del corresp="Olahus">volentes</del><add
-                        corresp="Olahus" type="corr">volentibus</add> te impedire, resistere possis.
-                    Si in initio rebus et necessitate ita ferente coloni <del corresp="Olahus"
-                        >talium</del> nutritione tuorum gravantur, opus est <add corresp="Olahus"
-                        type="insert">eos</add> id ferre ad tempus propter pacem futuram et quietem.
-                    Alii quoque ex bonis tales alunt, si tu hoc non facies, facient alii alieni.
-                    Melius est nos nostra ex nostris defendere, quam in ignominiam et contumeliam
-                    nostram. Latrunculus quispiam ex pharetra nostra nos persequatur, sed opus est
-                    animo. Scis <quote xml:id="quote.4">exercitum leonum non tantum valere duce
-                        cervo, quam cervorum duce <choice>
+                        <persName>Pekry</persName>,<note xml:id="note.5">Lajos Pekry.</note> sed
+                    aliis minoribus <del corresp="Olahus">volentes</del><add corresp="Olahus"
+                        type="corr">volentibus</add> te impedire, resistere possis. Si in initio
+                    rebus et necessitate ita ferente coloni <del corresp="Olahus">talium</del>
+                    nutritione tuorum gravantur, opus est <add corresp="Olahus" type="insert"
+                        >eos</add> id ferre ad tempus propter pacem futuram et quietem. Alii quoque
+                    ex bonis tales alunt, si tu hoc non facies, facient alii alieni. Melius est nos
+                    nostra ex nostris defendere, quam in ignominiam et contumeliam nostram.
+                    Latrunculus quispiam ex pharetra nostra nos persequatur, sed opus est animo.
+                    Scis <quote xml:id="quote.4">exercitum leonum non tantum valere duce cervo, quam
+                        cervorum duce <choice>
                             <orig>leonum</orig>
                             <supplied>leone</supplied>
                         </choice></quote>.<note type="quote" xml:id="note.quote.4">Cf. Latin
@@ -329,22 +329,21 @@
                     dummodo possideamus bona, quam aliis ea et possidentibus et cruciantibus nihil
                     habeamus et praeterea etiam magna contumelia afficiamur. Haec ideo scripsi, ut
                     inter duo mala maius est vitandum. <persName>Ludovicus Pekry</persName> in
-                        <placeName>Dobza</placeName><note type="critic" xml:id="note.6">Nagydobsza
-                        in Somogy county.</note> te turbare posset propter affinitatem
-                        <persName>Ioannis Bodo</persName>.<note type="critic" xml:id="note.7">János
-                        Bodó.</note> Tamen <del corresp="Olahus">ei indicere</del><add
-                        corresp="Olahus" type="corr">eum inducere</add>, ut nobis bene velit,
-                    poteris; ad quem ego quoque scripsi.<note type="critic" xml:id="note.8">Ep.
-                            367.<ref>olahus.tei.15330518_2</ref></note> Scio nondum esse pacem
-                    firmam. Tota res pendet pacis consummandae et firmandae in legatione
+                        <placeName>Dobza</placeName><note xml:id="note.6">Nagydobsza in Somogy
+                        county.</note> te turbare posset propter affinitatem <persName>Ioannis
+                        Bodo</persName>.<note xml:id="note.7">János Bodó.</note> Tamen <del
+                        corresp="Olahus">ei indicere</del><add corresp="Olahus" type="corr">eum
+                        inducere</add>, ut nobis bene velit, poteris; ad quem ego quoque
+                        scripsi.<note xml:id="note.8">Ep.
+                        367.<ref>olahus.tei.15330518_2</ref></note> Scio nondum esse pacem firmam.
+                    Tota res pendet pacis consummandae et firmandae in legatione
                         <persName>Cornelii</persName>. Ille revertetur rebus omnibus perfectis,
                     postea unusquisque sciet rebus suis providere, verum interea quoque dum
                     revertetur, tu nihil, ut praemisi, praetermittas.</p>
-                <p xml:id="p.7">[3.] De episcopatu Iauriensi et Nittriensi<note type="critic"
-                        xml:id="note.9">Bishoprics of Győr and Nitra.</note> intellexi, quid
-                    scribas, si rex promissa servare voluerit, et si ea erit voluntas Dei, velim,
-                    nolim, non negligar. Interea in custodia quoque, si eam recuperabimus, non
-                    moriemur <choice>
+                <p xml:id="p.7">[3.] De episcopatu Iauriensi et Nittriensi<note xml:id="note.9"
+                        >Bishoprics of Győr and Nitra.</note> intellexi, quid scribas, si rex
+                    promissa servare voluerit, et si ea erit voluntas Dei, velim, nolim, non
+                    negligar. Interea in custodia quoque, si eam recuperabimus, non moriemur <choice>
                         <orig>famae</orig>
                         <supplied>fame</supplied>
                     </choice>. Scis, quale sit beneficium. An putas episcopos plus habere quietis et
@@ -356,20 +355,19 @@
                     observare nos necesse est. Quare Deus scit, qua vocatione nos vocet. Consiliarii
                     reginae facient etiam sine litteris meis et commendatione, quod facere poterunt.
                     Sunt enim omnes mei amici et rebus meis faventes. <persName>Dominus
-                        Lundensis</persName><note type="critic" xml:id="note.10">Johan Weze.</note>
-                    scripsit ad me, et obtulit operam suam, cui ego et rescripsi et gratias egi et
-                    te commendam diebus superioribus, faciet, quod facere debebit, modo intima illi,
-                    quid sit facturus. <persName>Praeposito Albensi</persName><note type="critic"
-                        xml:id="note.11">Lőrinc Kretschmer.</note> maximas age gratias de rebus
-                    oblatis. Ego quoque vicissim ei in omnibus rebus inservire volo.
-                        <persName>Praeposito Alberto</persName><note type="critic" xml:id="note.12"
-                        >Albert Peregi.</note> dic me accepisse hac hora litteras<note type="critic"
-                        xml:id="note.13">This letter is not extant.</note> ipsius et aliorum
-                    amicorum meorum. Ad eorum voluntatem et perita rescribere hoc momento non potui.
-                    Rem habebo curae et primo quoque tempore rescribam. De
-                        <persName>Ieronimo</persName><note type="critic" xml:id="note.14">Jeromos
-                        Horváth of Vásonkő.</note> non tanta mihi cura est, videbo suo tempore, qua
-                    vi mea retineat. Cura modo, ut alia rehabeamus. Quomodo beneficia Strigoniensia
+                        Lundensis</persName><note xml:id="note.10">Johan Weze.</note> scripsit ad
+                    me, et obtulit operam suam, cui ego et rescripsi et gratias egi et te commendam
+                    diebus superioribus, faciet, quod facere debebit, modo intima illi, quid sit
+                    facturus. <persName>Praeposito Albensi</persName><note xml:id="note.11">Lőrinc
+                        Kretschmer.</note> maximas age gratias de rebus oblatis. Ego quoque vicissim
+                    ei in omnibus rebus inservire volo. <persName>Praeposito Alberto</persName><note
+                        xml:id="note.12">Albert Peregi.</note> dic me accepisse hac hora
+                        litteras<note xml:id="note.13">This letter is not extant.</note> ipsius et
+                    aliorum amicorum meorum. Ad eorum voluntatem et perita rescribere hoc momento
+                    non potui. Rem habebo curae et primo quoque tempore rescribam. De
+                        <persName>Ieronimo</persName><note xml:id="note.14">Jeromos Horváth of
+                        Vásonkő.</note> non tanta mihi cura est, videbo suo tempore, qua vi mea
+                    retineat. Cura modo, ut alia rehabeamus. Quomodo beneficia Strigoniensia
                     ordinaris, nihil scribis, fac, ut sciam quamprimum et vide, ne damnum in eis
                     patiar. Missa non negligatur, ut proxime ad te scripsi. Ad unum mensem quattuor
                     ducati erunt solvendi. Ego meum reditum, ut tempus feret, moderabor. Vale et sis

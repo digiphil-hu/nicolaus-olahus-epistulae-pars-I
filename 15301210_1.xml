@@ -234,8 +234,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15301210_1_1.jpg"/>
-                <p xml:id="p.1"> Ad Michaelem comitem.<note type="critic" xml:id="note.1">We do not
-                        know him more closely.</note></p>
+                <p xml:id="p.1"> Ad Michaelem comitem.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">[1.] Quid tibi de rebus nostris scribam, nescio. Tam varia atque
                     dubia ad nos quotidie afferuntur nova, ut nemo sit, qui certi aliquid scribere
                     possit. Nunc concepimus spem ex nuntiis, qui Vienna veniunt, certam fore
@@ -243,12 +243,12 @@
                     nostram propter inediam, quam pati dicuntur, redactis pacem diu summis omnium
                     votis expetitam simus consecuturi. Nunc Turcarum adventu adeo terremur, ut prope
                     res nostras desperemus. Venit hic triduo ad reginam ex Vienna nuntius cum
-                    litteris locumtenentis,<note type="critic" xml:id="note.2">Georg, Baron of
-                        Puchheim at Raabs and Krumbach was Governor of the Archduchy of Austria
-                        under the Enns between 1528–1531.</note> qui certo attulit <persName>Mechmet
-                        becum</persName><note type="critic" xml:id="note.3">Yahya-Pasha-zade Mehmed
-                        Bey.</note> Turcam praefectum arcis Nandor Albae<note type="critic"
-                        xml:id="note.4">Belgrade.</note> cum quinque millibus equitum et centum <choice>
+                    litteris locumtenentis,<note xml:id="note.2">Georg, Baron of Puchheim at Raabs
+                        and Krumbach was Governor of the Archduchy of Austria under the Enns between
+                        1528–1531.</note> qui certo attulit <persName>Mechmet becum</persName><note
+                        xml:id="note.3">Yahya-Pasha-zade Mehmed Bey.</note> Turcam praefectum arcis
+                    Nandor Albae<note xml:id="note.4">Belgrade.</note> cum quinque millibus equitum
+                    et centum <choice>
                         <orig>nadastis</orig>
                         <supplied>nasadis</supplied>
                     </choice> (qua navicula sunt non longe a Buda) consedisse, velleque Ioanni et
@@ -272,28 +272,28 @@
                 <p xml:id="p.4">[2.] Ad haec non deerit prudentia Rogendorffii, insignis certe et
                     praestantissimi in re militari viri, qui multa iam a pueritia et vidit et
                     expertus est, cogitabit mihi crede omnibus modis, ut hostibus nostri superiores
-                    sint evasuri. <persName>Valentinus Theurek</persName>,<note type="critic"
-                        xml:id="note.5">Bálint Török of Enying (1502–1550) was a Hungarian
-                        aristocrat, Ban of Belgrade, and Lord of Csesznek (1527–1542). After Mohács,
-                        we find him on the Habsburgs side. King Ferdinand I promised to donate
-                        possessions to him, but Török could not wait to receive them and began to
-                        plunder these estates with his hussars. Because he took one of Oláh’s
-                        possessions, Oláh always berated him in his letters. In 1530, Török was
-                        still loyal to King Ferdinand I, but in 1532 he seems to have changed sides,
-                        see <hi rend="smallcap">Bessenyei</hi> 1994, 64, and <hi rend="smallcap"
-                            >Kasza</hi> 2012, 300.</note><persName>Bakhyth</persName>,<note
-                        type="critic" xml:id="note.6">Pál Bakics or Pavle Bakić (†1537) was the last
-                        Despot of Serbia. Bakics participated in the battle of Mohács with his
-                        forces. After Mohács, he was with King John I, but later he changed sides at
-                        the latest after the battle of Tokaj (1527) and remained faithful to King
-                        Ferdinand I until his death. He was one of the most important defenders of
-                        the Habsburgs in Transdanubia. For more see <hi rend="smallcap">Kasza</hi>
-                        2012, 340.</note><persName>Ludovicus Pekry</persName><note type="critic"
-                        xml:id="note.7">Lajos Pekry of Petrovina (†1550, according to Oláh’s letters
-                        Ferenc Révay on 1 July 1551, and to the Hungarian Chamber on 27 October
-                        1551, see Ep. 771, and Ep. 787.) was servitor of Ferenc Batthány de Güssing,
-                        then hussar captain of King Ferdinand I, and later Ban of Croatia, Dalmatia
-                        and Slavonia (1532–1537), see <hi rend="smallcap">Varga</hi> 2003,
+                    sint evasuri. <persName>Valentinus Theurek</persName>,<note xml:id="note.5"
+                        >Bálint Török of Enying (1502–1550) was a Hungarian aristocrat, Ban of
+                        Belgrade, and Lord of Csesznek (1527–1542). After Mohács, we find him on the
+                        Habsburgs side. King Ferdinand I promised to donate possessions to him, but
+                        Török could not wait to receive them and began to plunder these estates with
+                        his hussars. Because he took one of Oláh’s possessions, Oláh always berated
+                        him in his letters. In 1530, Török was still loyal to King Ferdinand I, but
+                        in 1532 he seems to have changed sides, see <hi rend="smallcap"
+                            >Bessenyei</hi> 1994, 64, and <hi rend="smallcap">Kasza</hi> 2012,
+                        300.</note><persName>Bakhyth</persName>,<note xml:id="note.6">Pál Bakics or
+                        Pavle Bakić (†1537) was the last Despot of Serbia. Bakics participated in
+                        the battle of Mohács with his forces. After Mohács, he was with King John I,
+                        but later he changed sides at the latest after the battle of Tokaj (1527)
+                        and remained faithful to King Ferdinand I until his death. He was one of the
+                        most important defenders of the Habsburgs in Transdanubia. For more see <hi
+                            rend="smallcap">Kasza</hi> 2012, 340.</note><persName>Ludovicus
+                        Pekry</persName><note xml:id="note.7">Lajos Pekry of Petrovina (†1550,
+                        according to Oláh’s letters Ferenc Révay on 1 July 1551, and to the
+                        Hungarian Chamber on 27 October 1551, see Ep. 771, and Ep. 787.) was
+                        servitor of Ferenc Batthány de Güssing, then hussar captain of King
+                        Ferdinand I, and later Ban of Croatia, Dalmatia and Slavonia (1532–1537),
+                        see <hi rend="smallcap">Varga</hi> 2003,
                             164.<ref>olahus.tei.15510701_1</ref></note><ref>/o:olahus.tei.15511027_1</ref>
                     et alii, qui artes et mores in bello gerendo Turcicos optime a teneris annis
                     noverunt, quod in <persName>Rogendorfio</persName> in re cum Turcis gerenda

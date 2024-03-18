@@ -236,16 +236,16 @@
                 </floatingText>
                 <pb facs="15331119_2_1.jpg"/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Scepperum.</p>
-                <p xml:id="p.2">Heri allatae sunt litterae<note type="critic" xml:id="note.1">See
-                        15331119_2. Note 1.</note><persName>domini Lundensis</persName>,<note
-                        type="critic" xml:id="note.2">Johan Weze.</note> quas ad te mitto. Accepi
-                    Hungaros meos, qui sunt in parte <persName>regis</persName>, meditari clam ea,
-                    de quibus fueramus hic locuti. Id tamen non certo adhuc significatur, verum
-                    brevi certius audiemus. Scribitur etiam nunc <persName>vaivodam</persName>
-                    misisse commissarios suos <placeName>Posonium</placeName>, regemque pariter.
-                    Nescio, quid finiet, Deus fortunet eorum tractatus. <persName>Rex</persName>
-                    itidem profecturus est <placeName>Pragam</placeName>, Bohemi namque in quattuor
-                    temporibus Nativitatis Domini habituri sunt istic iudicia, in quibus forte
+                <p xml:id="p.2">Heri allatae sunt litterae<note xml:id="note.1">See 15331119_2. Note
+                        1.</note><persName>domini Lundensis</persName>,<note xml:id="note.2">Johan
+                        Weze.</note> quas ad te mitto. Accepi Hungaros meos, qui sunt in parte
+                        <persName>regis</persName>, meditari clam ea, de quibus fueramus hic locuti.
+                    Id tamen non certo adhuc significatur, verum brevi certius audiemus. Scribitur
+                    etiam nunc <persName>vaivodam</persName> misisse commissarios suos
+                        <placeName>Posonium</placeName>, regemque pariter. Nescio, quid finiet, Deus
+                    fortunet eorum tractatus. <persName>Rex</persName> itidem profecturus est
+                        <placeName>Pragam</placeName>, Bohemi namque in quattuor temporibus
+                    Nativitatis Domini habituri sunt istic iudicia, in quibus forte
                         <persName>rex</persName> aliquid corradere poterit.
                         <persName>Regina</persName> aegrotat. Nos bene valemus, sed vellem, ut et
                     ipsa bene valeret. Tu, mi Sceppere, cura, ut valeas, et rebus ex sententia istic

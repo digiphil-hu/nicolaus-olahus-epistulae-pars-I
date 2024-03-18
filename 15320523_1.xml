@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">229</title>
-                                                  <title key="body" n="229" type="main">Miklós Oláh
-                                                  to Joannes Brecius (Bruges, 23 May 1532)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">229</title>
+                                        <title key="body" n="229" type="main">Miklós Oláh to Joannes
+                                                  Brecius (Bruges, 23 May 1532)</title>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -19,8 +19,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -28,8 +28,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -38,8 +38,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -47,40 +47,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15320523_1</idno>
-                                                  <idno type="ITIdata">Q472801</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15320523_1</idno>
+                                        <idno type="ITIdata">Q472801</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-I/blob/main/15320523_1.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -92,26 +91,26 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/I.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/I.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Copy with Oláh’s
                                                   emendations.</p>
-                                                  </note>
-                                                  <note type="publication"><hi rend="smallcap"
-                                                  >Ipolyi</hi> 1875, 214–215.</note>
-                                                  <note type="translation">
+                                        </note>
+                                        <note type="publication"><hi rend="smallcap">Ipolyi</hi>
+                                                  1875, 214–215.</note>
+                                        <note type="translation">
                                                   <p><hi rend="italic">In Romanian:</hi><hi
                                                   rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
                                                   1170–1171.</p>
-                                                  </note>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </note>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Hungary</country>
                                                   <settlement>Budapest</settlement>
@@ -140,8 +139,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   I. 1523–1533</title>
                                                   <idno type="ISBN">978-615-5478-62-8</idno>
@@ -208,41 +207,41 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.10817873</idno><idno
                                                   type="ITIdata">Q469927</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <placeName>Bruges<idno type="ITIdata"
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <placeName>Bruges<idno type="ITIdata"
                                                   >Q470203</idno></placeName>
-                                                  <date when="1532-05-23">23 May 1532</date>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
+                                        <date when="1532-05-23">23 May 1532</date>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <persName>Joannes Brecius</persName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div xml:id="d.1">
-                                                  <head type="title">Miklós Oláh to Joannes Brecius
-                                                  (Bruges, 23 May 1532)</head>
-                                                  <floatingText type="regesta">
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div xml:id="d.1">
+                                        <head type="title">Miklós Oláh to Joannes Brecius (Bruges,
+                                                  23 May 1532)</head>
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1">Brecius has such overwhelming
                                                   love for him that he is endowing him with things
@@ -253,34 +252,33 @@
                                                   should make it clear to everyone that nothing has
                                                   ever been stronger than their friendship.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb/>
-                                                  <p xml:id="p.1">Ad Ioannem Brecium.<note
-                                                  type="critic" xml:id="note.1">We do not know him
-                                                  more closely.</note></p>
-                                                  <p xml:id="p.2">Facis tu quidem, mi Ioannes, ex
-                                                  abundatia quadam amoris erga me tui, ut etiam ea,
-                                                  quae in me minima sunt, minimeque digna
-                                                  admiratione suspiceris et omnibus extollas
-                                                  laudibus. Nisi tuam in me humanitatem iamdiu
-                                                  multis in rebus cognovissem, nescio, an tuam hanc
-                                                  praedicationem meae laudis et virtutis aequo ferre
-                                                  possem animo, sed cum tu ita mihi notus sis iam
-                                                  primum ab ineunte adolescentia, ut nihil sinistri
-                                                  de te possim suspicari, quicquid de me aut laudis
-                                                  aut vituperii a te proficiscetur, grato sum
-                                                  laturus animo. Hoc unum tamen te, mi Ioannes,
-                                                  precor, fac in omnibus tuis actionibus, ut non
-                                                  modo nostri communes amici, sed etiam qui a nobis
-                                                  propter temporis molestiam sunt alieniores, semper
+                                        </floatingText>
+                                        <pb/>
+                                        <p xml:id="p.1">Ad Ioannem Brecium.<note xml:id="note.1">We
+                                                  do not know him more closely.</note></p>
+                                        <p xml:id="p.2">Facis tu quidem, mi Ioannes, ex abundatia
+                                                  quadam amoris erga me tui, ut etiam ea, quae in me
+                                                  minima sunt, minimeque digna admiratione
+                                                  suspiceris et omnibus extollas laudibus. Nisi tuam
+                                                  in me humanitatem iamdiu multis in rebus
+                                                  cognovissem, nescio, an tuam hanc praedicationem
+                                                  meae laudis et virtutis aequo ferre possem animo,
+                                                  sed cum tu ita mihi notus sis iam primum ab
+                                                  ineunte adolescentia, ut nihil sinistri de te
+                                                  possim suspicari, quicquid de me aut laudis aut
+                                                  vituperii a te proficiscetur, grato sum laturus
+                                                  animo. Hoc unum tamen te, mi Ioannes, precor, fac
+                                                  in omnibus tuis actionibus, ut non modo nostri
+                                                  communes amici, sed etiam qui a nobis propter
+                                                  temporis molestiam sunt alieniores, semper
                                                   cognoscant, nihil amicitia nostra mutua <del
                                                   corresp="Olahus">fore</del><add corresp="Olahus"
                                                   type="corr">fuisse</add> coniunctius. Quod ego
                                                   quoque omni conatu praestare curabo, vale et me,
                                                   ut soles, ama.</p>
-                                                  <p xml:id="p.3"><placeName>Brugis</placeName> 23.
-                                                  Maii anno Domini 1532.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                        <p xml:id="p.3"><placeName>Brugis</placeName> 23. Maii anno
+                                                  Domini 1532.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

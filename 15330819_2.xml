@@ -240,17 +240,16 @@
                 <p xml:id="p.3">gratiorem praestitisse, quam nunc praestabis, si meae voluntati ex
                     animi mei sententia satisfeceris. Iam ne videor tibi omnino impudens, qui tam
                     fidenter a te hoc efflagitem? Nimirum desines mirari meam αἰσχύνην,<note
-                        type="critic" xml:id="note.1">‘my impudence’.</note> si cogitaris meum in te
-                    amorem, qui usque adeo magnus est, ut impune me faciat inverecundum. Quare, mi
-                    Frater, <add corresp="Olahus" type="insert">si</add> una hac <add
-                        corresp="Olahus" type="insert">in</add> re, quam nunc peto, quamquam tibi
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.2">Probably
-                        János Czeglédi.</note> referet, mihi morem gesseris, nihil te unquam mei
-                    causa negasse existimabo. Vale, τῶν φίλων ἀγαθώτατε καὶ <choice>
+                        xml:id="note.1">‘my impudence’.</note> si cogitaris meum in te amorem, qui
+                    usque adeo magnus est, ut impune me faciat inverecundum. Quare, mi Frater, <add
+                        corresp="Olahus" type="insert">si</add> una hac <add corresp="Olahus"
+                        type="insert">in</add> re, quam nunc peto, quamquam tibi
+                        <persName>Ioannes</persName><note xml:id="note.2">Probably János
+                        Czeglédi.</note> referet, mihi morem gesseris, nihil te unquam mei causa
+                    negasse existimabo. Vale, τῶν φίλων ἀγαθώτατε καὶ <choice>
                         <orig>ἐμου</orig>
                         <supplied>ἐμοῦ</supplied>
-                    </choice> φίλε.<note type="critic" xml:id="note.3">‘my dear brilliant
-                        friend’.</note></p>
+                    </choice> φίλε.<note xml:id="note.3">‘my dear brilliant friend’.</note></p>
                 <p xml:id="p.4"><placeName>Gandavi</placeName> 19. Augusti 1533.</p>
             </div>
         </body>

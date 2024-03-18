@@ -235,15 +235,15 @@
                     opus, ac mea commendatione rebus tuis apud <persName>maiestatem
                         regiam</persName> prodesse potero. Commenda servitutem meam serenissimae
                         <persName>reginae</persName> dominae et patronae nostrae. </p>
-                <p xml:id="p.3"><persName>Ioannes</persName><note type="critic" xml:id="note.1">King
-                        John I.</note> iampridem fugisset in maximam malam crucem, si nostri aut
-                    vellent, aut auderent descendere, post recuperatam
-                        <placeName>Owar</placeName><note type="critic" xml:id="note.2"
-                        >Magyaróvár.</note> nihil prorsus agunt, feriantur, terunt tempus, absumunt
-                    regis stipendium. Mirari satis non potero, quaenam haec sit infelicitas. Nostri
-                    iam pridem Turcas usque adeo abominantur, ut nihil non aggrederentur in gratiam
-                    regis. Serenissima <persName>regina</persName> nihil rescribit ad meas litteras,
-                    quibus illi declaro, qua laborem penuria. Bene vale et me diligas. </p>
+                <p xml:id="p.3"><persName>Ioannes</persName><note xml:id="note.1">King John
+                        I.</note> iampridem fugisset in maximam malam crucem, si nostri aut vellent,
+                    aut auderent descendere, post recuperatam <placeName>Owar</placeName><note
+                        xml:id="note.2">Magyaróvár.</note> nihil prorsus agunt, feriantur, terunt
+                    tempus, absumunt regis stipendium. Mirari satis non potero, quaenam haec sit
+                    infelicitas. Nostri iam pridem Turcas usque adeo abominantur, ut nihil non
+                    aggrederentur in gratiam regis. Serenissima <persName>regina</persName> nihil
+                    rescribit ad meas litteras, quibus illi declaro, qua laborem penuria. Bene vale
+                    et me diligas. </p>
                 <p xml:id="p.4">1529. </p>
             </div>
         </body>

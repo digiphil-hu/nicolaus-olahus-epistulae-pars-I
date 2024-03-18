@@ -235,8 +235,8 @@
                     </body>
                 </floatingText>
                 <pb facs="15330327_1_1.jpg"/>
-                <p xml:id="p.1">Ad Paulum comitem amicum.<note type="critic" xml:id="note.1">We do
-                        not know him more closely.</note></p>
+                <p xml:id="p.1">Ad Paulum comitem amicum.<note xml:id="note.1">We do not know him
+                        more closely.</note></p>
                 <p xml:id="p.2">Cum essemus omnes, qui amantes sumus quietis et tranquillitatis
                         <placeName>Hungariae</placeName>, in maxima animi conservatione, et non modo
                     vaticinari, sed ne cogitare quidem sciremus, quorsum haec tanta
@@ -248,7 +248,7 @@
                         <persName>regem</persName>, qui pacem domini sui nomine a
                         <persName>rege</persName> peteret, pollicerique omnia, quae ad
                         <placeName>Hungariam</placeName> spectarent illum regi redditurum, si caesar
-                    noster remitteret, quae <persName>Andreas a Dorea</persName><note type="critic"
+                    noster remitteret, quae <persName>Andreas a Dorea</persName><note
                         xml:id="note.2">Andrea Doria.</note> in <placeName>Peloponesso</placeName>
                     illi hoc anno ademisset. <persName>Regem</persName> autem non omnino ab hac
                     pacis conditione abhorrere misisseque celeri cursu unum ex suis ad
@@ -263,13 +263,12 @@
                         <supplied>haec</supplied>
                     </choice> facta fuerint, nihil arbitror residuum, quin ad multos annos pacem
                     quietam simus habituri. Dubium tamen in hoc est nobis non minimum, an Turca
-                    velit nobis etiam <placeName>Taurium</placeName>,<note type="critic"
-                        xml:id="note.3">Belgrade fell in
-                        1521.</note><placeName>Sabacz</placeName>,<note type="critic"
-                        xml:id="note.4">Šabac fell in 1521.</note><placeName>Wylak</placeName>,<note
-                        type="critic" xml:id="note.5">Ilok fell in 1526.</note>,
-                        <placeName>Thythel</placeName><note type="critic" xml:id="note.6">Titel fell
-                        in 1526.</note> et alia, quae ante annos hinc decem amisimus
+                    velit nobis etiam <placeName>Taurium</placeName>,<note xml:id="note.3">Belgrade
+                        fell in 1521.</note><placeName>Sabacz</placeName>,<note xml:id="note.4"
+                        >Šabac fell in 1521.</note><placeName>Wylak</placeName>,<note
+                        xml:id="note.5">Ilok fell in 1526.</note>,
+                        <placeName>Thythel</placeName><note xml:id="note.6">Titel fell in
+                        1526.</note> et alia, quae ante annos hinc decem amisimus
                         <persName>regi</persName> resignare. Quod si futurum esset, nihil imposterum
                     multas ob res vereri </p>
                 <pb facs="15330327_1_2.jpg"/>

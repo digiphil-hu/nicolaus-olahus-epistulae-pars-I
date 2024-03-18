@@ -241,16 +241,15 @@
                 <p xml:id="p.2">Tanta est famae et nuntiorum varietas, ut iam non modo certo scire,
                     sed ne cogitare quidem, quod verum sit, possimus. Nuntiabatur Carolum caesarem
                     nunc iter coepisse, et venire <placeName>Oenipontem</placeName><note
-                        type="critic" xml:id="note.1">Innsbruck.</note> versus. At nondum ex
-                        <placeName>Bononia</placeName><note type="critic" xml:id="note.2"
-                        >Bologna.</note> movit, nec ante festum Paschae<note type="critic"
-                        xml:id="note.3">In this year, Easter was on 17 April.</note> eum venturum
-                        <del corresp="Olahus">ad Ispruck</del><add corresp="Olahus" type="corr"
-                        >Oenipontem</add> arbitror. Quid igitur credere oporteat, ignoro. Iam enim
-                        <del corresp="Olahus">eum</del><add corresp="Olahus" type="corr"
-                        >tantum</add> mihi taedii hi perfidi nuntii incusserunt, ut nihil audeam vel
-                    tibi vel aliis meis dominis et amicis his de rebus scribere, ne mendacii argui
-                    possim. Vale.</p>
+                        xml:id="note.1">Innsbruck.</note> versus. At nondum ex
+                        <placeName>Bononia</placeName><note xml:id="note.2">Bologna.</note> movit,
+                    nec ante festum Paschae<note xml:id="note.3">In this year, Easter was on 17
+                        April.</note> eum venturum <del corresp="Olahus">ad Ispruck</del><add
+                        corresp="Olahus" type="corr">Oenipontem</add> arbitror. Quid igitur credere
+                    oporteat, ignoro. Iam enim <del corresp="Olahus">eum</del><add corresp="Olahus"
+                        type="corr">tantum</add> mihi taedii hi perfidi nuntii incusserunt, ut nihil
+                    audeam vel tibi vel aliis meis dominis et amicis his de rebus scribere, ne
+                    mendacii argui possim. Vale.</p>
                 <p xml:id="p.3">Ex <placeName>Lincio</placeName> ultima Martii anno Domini
                     MDXXX.</p>
             </div>
